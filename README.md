@@ -10,7 +10,7 @@ If you have a GitHub account (or do not mind creating one), you can easily submi
 ![Fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 
-1- Please download the repository you have forked and use language files in it instead of language files inside Enfold/lang folder. This way, we are going to minimize the risk of overwriting files. 
+2- Please download the repository you have forked and use language files in it instead of language files inside Enfold/lang folder. This way, we are going to minimize the risk of overwriting files. 
 
 
 3- After uploading your language files inside "lang" folder, click "New Pull Request" button
