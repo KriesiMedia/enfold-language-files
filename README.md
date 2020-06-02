@@ -4,11 +4,13 @@ Translation files for Enfold
 # Submitting Translations
 If you have a GitHub account (or do not mind creating one), you can easily submit your translations to us. 
 
-1- Please download the [repository](https://github.com/KriesiMedia/enfold-language-files) and use them instead of language files inside Enfold/lang folder. This way, we are going to minimize the risk of overwriting files. 
 
-2- Go to https://github.com/KriesiMedia/enfold-language-files and click "Fork" button 
+1- Go to https://github.com/KriesiMedia/enfold-language-files and click "Fork" button 
 
 ![Fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+
+
+1- Please download the repository you have forked and use language files in it instead of language files inside Enfold/lang folder. This way, we are going to minimize the risk of overwriting files. 
 
 
 3- After uploading your language files inside "lang" folder, click "New Pull Request" button
