@@ -27,8 +27,10 @@ If you have a GitHub account (or do not mind creating one), you can easily submi
 
 ![Pull Request](https://user-images.githubusercontent.com/66268415/83462226-560b5900-a473-11ea-870f-48fd9c8d6a4f.png)
 
-We will review your pull request and merge them. 
+6- Add the "Ready for merge" label (or as as a comment) when you are finished
 
-6- Delete your fork after we merged your pull request - do not continue to work with that fork.
+7- We will review your pull request and merge them
+
+8- Delete your fork after we merged your pull request - do not continue to work with that fork.
 
 If you would not like to use GitHub, you can still submit your language files to [our forum](https://kriesi.at/support/topic/please-contribute-and-translate-enfold/)
