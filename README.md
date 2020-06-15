@@ -13,7 +13,7 @@ If you have a GitHub account (or do not mind creating one), you can easily submi
 2- Please download the repository you have forked and use language files in it instead of language files inside Enfold/lang folder. This way, we are going to minimize the risk of overwriting files. 
 
 
-3- After uploading your language files inside "lang" folder, click "New Pull Request" button
+3- Add your language files inside "lang" folder (please both .po and .mo files), upload fork and click "New Pull Request" button
 
 ![New Pull Request](https://user-images.githubusercontent.com/66268415/83462044-dd0c0180-a472-11ea-9062-fddfb06b5830.png)
 
