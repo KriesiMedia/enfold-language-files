@@ -33,4 +33,4 @@ If you have a GitHub account (or do not mind creating one), you can easily submi
 
 8- Delete your fork after we merged your pull request - do not continue to work with that fork.
 
-If you would not like to use GitHub, you can still submit your language files to [our forum](https://kriesi.at/support/topic/please-contribute-and-translate-enfold/)
+If you would not like to use GitHub, you can still submit your language files to [our forum](https://kriesi.at/support/topic/please-contribute-and-translate-enfold/). But always use the latest files from this repository and not theme files !!
