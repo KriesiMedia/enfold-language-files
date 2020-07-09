@@ -1,3 +1,8 @@
+2020-07-09
+- Fixed typo errors in string
+- All languge files have been synchronised (version 4.7.5.1-beta-xxx).
+- Maybe translations are missing because strings changes correcting the typo errors
+
 2020-07-08
 - German Formal
 
