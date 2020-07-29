@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Enfold v4.7.6.1\n"
+"Project-Id-Version: Enfold v4.7.6.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-28 22:24+0300\n"
-"PO-Revision-Date: 2020-07-28 22:24+0300\n"
+"PO-Revision-Date: 2020-07-29 15:19+0300\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -67,7 +67,7 @@ msgstr "Trackbacks &amp; Pingbacks"
 # @ avia_framework
 #: enfold/comments.php:179
 msgid "Leave a Reply"
-msgstr "Hinterlasse ein Kommentar"
+msgstr "Hinterlasse einen Kommentar"
 
 # @ avia_framework
 #: enfold/comments.php:180
