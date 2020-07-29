@@ -1,3 +1,8 @@
+2020_07_29
+- Italien 4.6.1
+- German
+- Italien 4.6 reverted as merge conflict with 4.6.1
+
 2020-07-09
 - Fixed typo errors in strings: translations will be missing because strings changes correcting the typo errors
 - All languge files have been synchronised with theme (version 4.7.5.1-beta-xxx, 4,335 strings).
