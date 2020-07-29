@@ -1,7 +1,7 @@
 2020_07_29
-- Italien 4.6.1
+- Italien 4.7.6.1
 - German
-- Italien 4.6 reverted as merge conflict with 4.6.1
+- Italien 4.7.6 reverted as merge conflict with 4.7.6.1
 
 2020-07-09
 - Fixed typo errors in strings: translations will be missing because strings changes correcting the typo errors
