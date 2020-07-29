@@ -1,6 +1,6 @@
 2020_07_29
 - Italien 4.7.6.1
-- German
+- German de_DE
 - Italien 4.7.6 reverted as merge conflict with 4.7.6.1
 
 2020-07-09
