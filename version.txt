@@ -1,4 +1,5 @@
 2020_07_29
+- Dutch (wrong translation for ALB special heading alignment)
 - Italien 4.7.6.1
 - German de_DE
 - Italien 4.7.6 reverted as merge conflict with 4.7.6.1
