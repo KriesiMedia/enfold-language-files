@@ -1,5 +1,7 @@
-2020_07_29
+2020_08_03
 - Dutch 4.7.6.1
+
+2020_07_29
 - Dutch (wrong translation for ALB special heading alignment)
 - Italien 4.7.6.1
 - German de_DE
