@@ -1,3 +1,7 @@
+2020_08_17
+- Sync all language files with 4.7.6.3
+- Dutch nl_NL (only 2 untranslated strings after sync)
+
 2020_08_03
 - Dutch 4.7.6.1
 
