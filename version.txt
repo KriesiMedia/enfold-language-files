@@ -1,5 +1,5 @@
 2020_09_16
-- Italien 4.7.6.4-beta-2
+- Italien it_IT 4.7.6.4-beta-2
 
 2020_08_17
 - Sync all language files with 4.7.6.3
