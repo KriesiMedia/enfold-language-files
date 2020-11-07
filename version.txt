@@ -1,3 +1,7 @@
+2020_11_07
+- French fr_FR
+- Dutch nl_NL (4.7.6.4)
+
 2020_09_16
 - Italien it_IT 4.7.6.4-beta-2
 
