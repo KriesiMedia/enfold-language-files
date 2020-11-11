@@ -1147,7 +1147,7 @@ msgstr ""
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:212
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:317
 msgid "Newest to Oldest"
-msgstr ""
+msgstr "Neueste zuerst"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:213
 #: config-woocommerce/config.php:1463
@@ -15524,7 +15524,7 @@ msgstr "Animation aktiviert"
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:419
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:519
 msgid "Animation deactivated"
-msgstr "Animation deatkiviert"
+msgstr "Animation deaktiviert"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:22
 msgid "Icon Box"
@@ -17604,7 +17604,7 @@ msgstr "Leichter Einblenden-Effekt"
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:508
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:403
 msgid "Fade out effect"
-msgstr "Ausbleden-Effekt"
+msgstr "Ausblenden-Effekt"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:509
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:404
@@ -17641,7 +17641,7 @@ msgstr "Erzeugt eine Masonry Galerie über die volle Bildschirmbreite"
 
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:209
 msgid "Select Images"
-msgstr ""
+msgstr "Bilder auswählen"
 
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:243
 msgid "Here you can select how the masonry should behave and handle the images"
@@ -19661,7 +19661,7 @@ msgstr "Bestimme den Übergang für deinen Slider."
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:838
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:876
 msgid "Overlay"
-msgstr ""
+msgstr "Überlagerung"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:28
 msgid "Fullscreen Slider"
