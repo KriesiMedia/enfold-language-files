@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.6.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 15:12+0200\n"
-"PO-Revision-Date: 2020-10-12 15:14+0200\n"
+"PO-Revision-Date: 2021-01-20 17:30+0200\n"
 "Last-Translator: \n"
 "Language-Team: French (France)\n"
 "Language: fr_FR\n"
@@ -26025,9 +26025,8 @@ msgstr "Afficher tous les produits"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2469
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2579
-#, fuzzy
 msgid "Hide hidden products"
-msgstr "Masquer les contrôles vidéo"
+msgstr "Cacher les produits cachés"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2470
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2580
