@@ -1,5 +1,4 @@
 2021_01_21
-
 - Norwegian nb_NO
 - German de_DE
 - Turkish tr_TR
