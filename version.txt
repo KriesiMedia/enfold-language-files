@@ -1,3 +1,9 @@
+2021_01_21
+
+- Norwegian nb_NO
+- German de_DE
+- Turkish tr_TR
+
 2020_11_07
 - French fr_FR
 - Dutch nl_NL (4.7.6.4)
