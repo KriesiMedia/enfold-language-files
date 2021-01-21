@@ -5150,7 +5150,7 @@ msgstr "Ny melding"
 #: framework/php/class-form-generator.php:1046
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:367
 msgid "sent by contact form at"
-msgstr "Sent av kontaktskjema klokken"
+msgstr "Sent av kontaktskjema på"
 
 #: framework/php/class-form-generator.php:1247
 #: framework/php/class-form-generator.php:1248
