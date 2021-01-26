@@ -2,6 +2,7 @@
 - Norwegian nb_NO
 - German de_DE
 - Turkish tr_TR
+- French fr_FR
 
 2020_11_07
 - French fr_FR
