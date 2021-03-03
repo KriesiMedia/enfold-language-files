@@ -1,3 +1,6 @@
+2021-03-03
+- all language files synchronised (Enfold 4.8 final release)
+
 2021_02_26
 - all language files synchronised (Enfold 4.8.0-dev-14)
 
