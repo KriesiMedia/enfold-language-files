@@ -1,4 +1,7 @@
 2021-03-03
+- italien it_IT (version 4.8, provided by BigBatT - info@luigicircello.it)
+
+2021-03-03
 - all language files synchronised (Enfold 4.8 final release)
 
 2021_02_26
