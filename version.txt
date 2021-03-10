@@ -1,5 +1,5 @@
 2021-03-10
-- Dutch nl_NL (4.8, provided by EZWebdesign - rogerhoen )
+- Dutch nl_NL (4.8, provided by EZWebdesign - Roger Hoen )
 
 2021-03-03
 - italien it_IT (version 4.8, provided by BigBatT - info@luigicircello.it)
