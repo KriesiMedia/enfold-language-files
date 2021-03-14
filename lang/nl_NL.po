@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-02 13:22+0000\n"
-"PO-Revision-Date: 2021-03-06 08:15+0000\n"
+"PO-Revision-Date: 2021-03-14 09:42+0000\n"
 "Last-Translator: Roger Hoen\n"
 "Language-Team: Nederlands\n"
 "Language: nl_NL\n"
@@ -1369,7 +1369,7 @@ msgstr ""
 "Aan winkelwagen toevoegen (indien productvariaties: productpagina wordt "
 "geopend)"
 
-#: includes/admin/options_files/avia_custom_elements.php:222
+#: includes/admin/options_files/avia_custom_elements.php:226
 msgid "Add links to open the CPT screens"
 msgstr "Links toevoegen om de CPT-schermen te openen"
 
@@ -1755,7 +1755,7 @@ msgstr "Geavanceerde stijl"
 msgid "Advertise here"
 msgstr "Adverteer hier"
 
-#: includes/admin/options_files/avia_custom_elements.php:207
+#: includes/admin/options_files/avia_custom_elements.php:210
 msgid ""
 "After activating this feature you must reload backend to load the necssary "
 "menus to work with the CPT screens."
@@ -1907,7 +1907,7 @@ msgstr "Alle ALB elementen"
 msgid "All Borders"
 msgstr "Alle randen"
 
-#: includes/admin/options_files/avia_custom_elements.php:165
+#: includes/admin/options_files/avia_custom_elements.php:166
 msgid "All buttons in a single tab"
 msgstr "Alle knoppen in een enkele tab"
 
@@ -1935,7 +1935,7 @@ msgstr "Alle titels"
 msgid "All right!"
 msgstr "Lekker bezig!"
 
-#: includes/admin/options_files/avia_custom_elements.php:195
+#: includes/admin/options_files/avia_custom_elements.php:198
 msgid "All subitems use the same custom element template"
 msgstr "Alle subitems gebruiken hetzelfde aangepaste elementsjabloon"
 
@@ -1990,7 +1990,7 @@ msgstr ""
 "Sta toe om cookies te gebruiken, u kunt gebruikte cookies wijzigen in "
 "instellingen"
 
-#: includes/admin/options_files/avia_custom_elements.php:181
+#: includes/admin/options_files/avia_custom_elements.php:183
 msgid "Allow use of hierarchical custom elements"
 msgstr "Gebruik van hiërarchische aangepaste elementen toestaan"
 
@@ -2518,6 +2518,15 @@ msgstr "Bijlage afbeelding voor:"
 #: includes/admin/register-admin-options.php:3484
 msgid "Attention"
 msgstr "Let op"
+
+#: includes/admin/options_files/avia_custom_elements.php:44
+msgid ""
+"Attention when using caching plugins: Whenever you make changes to a custom "
+"element template please clear your server cache to show the changes."
+msgstr ""
+"Let op bij gebruik van caching plugins: wanneer u wijzigingen aanbrengt in "
+"een aangepast element sjabloon, leeg dan uw server cache om de wijzigingen "
+"te tonen."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1048
 msgid "Attention when using self hosted HTML 5 Videos"
@@ -6621,7 +6630,7 @@ msgstr "Aangepaste elementen"
 msgid "Custom Elements (Custom Element Templates - CET)"
 msgstr "Aangepaste elementen (Aangepaste elementsjablonen)"
 
-#: includes/admin/options_files/avia_custom_elements.php:187
+#: includes/admin/options_files/avia_custom_elements.php:189
 msgid "Custom Elements For Subitems"
 msgstr "Aangepaste elementen voor subitems"
 
@@ -6774,7 +6783,7 @@ msgstr "Aangepast patroon"
 msgid "custom pixel value"
 msgstr "Aangepaste waarde in pixels"
 
-#: includes/admin/options_files/avia_custom_elements.php:212
+#: includes/admin/options_files/avia_custom_elements.php:215
 msgid "Custom Post Type Screen (Developers Only)"
 msgstr "Aangepast berichttype venster (alleen voor ontwikkelaars)"
 
@@ -8392,7 +8401,7 @@ msgstr "Toont uw laatste Instagram foto's"
 msgid "Do not accept and hide notification"
 msgstr "Niet accepteren en verberg de kennisgeving"
 
-#: includes/admin/options_files/avia_custom_elements.php:221
+#: includes/admin/options_files/avia_custom_elements.php:225
 msgid "Do not allow access to the screens"
 msgstr "Toegang tot de schermen niet toestaan"
 
@@ -8425,7 +8434,7 @@ msgstr "Sta niet toe dat Google reCAPTCHA wordt gebruikt"
 msgid "Do not allow Google Webfonts"
 msgstr "Sta niet toe dat Google Webfonts worden gebruikt"
 
-#: includes/admin/options_files/avia_custom_elements.php:180
+#: includes/admin/options_files/avia_custom_elements.php:182
 msgid "Do not allow hierarchical custom elements"
 msgstr "Hiërarchische aangepaste elementen niet toestaan"
 
@@ -8459,7 +8468,7 @@ msgstr ""
 "Sta niet toe dat cookies of diensten worden gebruikt - sommige "
 "functionaliteiten op onze site werken mogelijk niet zoals verwacht."
 
-#: includes/admin/options_files/avia_custom_elements.php:197
+#: includes/admin/options_files/avia_custom_elements.php:200
 msgid "Do not allow to use subitem custom element templates"
 msgstr "Sta niet toe om subitem aangepaste elementsjablonen te gebruiken"
 
@@ -11203,7 +11212,7 @@ msgstr "Raster Titel 2"
 msgid "Grid Title 3"
 msgstr "Raster Titel 3"
 
-#: includes/admin/options_files/avia_custom_elements.php:166
+#: includes/admin/options_files/avia_custom_elements.php:167
 msgid "Group buttons similar to ALB"
 msgstr "Groepeer knoppen vergelijkbaar met ALB"
 
@@ -11968,7 +11977,7 @@ msgstr "Verberg de Videobediening"
 msgid "Hide video on Mobile Devices?"
 msgstr "Op mobiele apparaten video verbergen?"
 
-#: includes/admin/options_files/avia_custom_elements.php:172
+#: includes/admin/options_files/avia_custom_elements.php:173
 msgid "Hierarchical Custom Elements"
 msgstr "Hiërarchie aangepaste elementen"
 
@@ -13312,7 +13321,7 @@ msgstr "Maak de kolom groter"
 msgid "Individual height"
 msgstr "Individuele hoogte"
 
-#: includes/admin/options_files/avia_custom_elements.php:196
+#: includes/admin/options_files/avia_custom_elements.php:199
 msgid "Individually select subitem custom element templates"
 msgstr "Subitems sjablonen voor aangepaste elementen individueel selecteren"
 
@@ -13634,7 +13643,7 @@ msgstr "Is niet leeg"
 msgid "is up to date"
 msgstr "is up-to-date"
 
-#: includes/admin/options_files/avia_custom_elements.php:205
+#: includes/admin/options_files/avia_custom_elements.php:208
 msgid ""
 "It is not recommended to create/edit a CET from the CPT screen because of "
 "limited support for some option settings, e.g. the option &quot;All subitems "
@@ -18863,7 +18872,7 @@ msgstr ""
 msgid "Select if the iconbox should receive a border around the content"
 msgstr "Bepaal of u de icoon-box wilt omkaderen, als een soort kaartje"
 
-#: includes/admin/options_files/avia_custom_elements.php:188
+#: includes/admin/options_files/avia_custom_elements.php:190
 msgid ""
 "Select if you want all subitems of an element to use the same subitem "
 "element template or allow to select it individually for each subitem. The "
@@ -18901,7 +18910,7 @@ msgstr ""
 "Selecteer of u het codeblok wilt uitvoeren of enkel wilt weergeven als "
 "codefragment."
 
-#: includes/admin/options_files/avia_custom_elements.php:203
+#: includes/admin/options_files/avia_custom_elements.php:206
 msgid ""
 "Select if you want to have access to the custom elements via the default WP "
 "CPT Screens. Links are added below theme options page link in dashboard and "
@@ -22449,7 +22458,7 @@ msgstr "Deze instellingen veranderen de permalinks van"
 msgid "thin"
 msgstr "dun"
 
-#: includes/admin/options_files/avia_custom_elements.php:173
+#: includes/admin/options_files/avia_custom_elements.php:174
 msgid ""
 "This allows you to use your custom elements as a base for another custom "
 "element."
@@ -24064,16 +24073,6 @@ msgid "Username could not be accessed (needed for your information only)"
 msgstr ""
 "Gebruikersnaam kan niet worden benaderd (alleen nodig voor uw informatie)"
 
-#: includes/admin/options_files/avia_custom_elements.php:44
-msgid ""
-"Using a cache plugin: Whenever you make changes to custom elements please "
-"clear server cache to allow a rebuild of the pages/posts/.. to show the "
-"changes."
-msgstr ""
-"Het gebruik van een cache plugin: Wanneer u wijzigingen aanbrengt in "
-"aangepaste elementen, gelieve dan de server cache te wissen om een heropbouw "
-"van de pagina's/berichten/... mogelijk te maken om de wijzigingen te tonen."
-
 #: includes/admin/register-admin-options.php:1781
 msgid ""
 "Using a caching plugin: Whenever you make changes here please clear server "
@@ -24302,12 +24301,17 @@ msgid "Warning (Red)"
 msgstr "Waarschuwing (rood)"
 
 #: config-templatebuilder/avia-template-builder/php/html-helper.class.php:1023
-#, php-format
+#, fuzzy, php-format
+#| msgid ""
+#| "Warning: Characters %s might break ALB backend or frontend. <a "
+#| "href=\"https://kriesi.at/documentation/enfold/intro-to-layout-"
+#| "builder/#using-special-characters\" target=\"_blank\" rel=\"noopener "
+#| "noreferrer\">Read more</a> if you want to use them."
 msgid ""
 "Warning: Characters %s might break ALB backend or frontend. <a href=\"https:"
 "//kriesi.at/documentation/enfold/intro-to-layout-builder/#using-special-"
 "characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> if "
-"you want to use them."
+"you want to use them. You can use valid HTML markup."
 msgstr ""
 "Waarschuwing: Tekens %s kunnen ALB backend of frontend breken. <a "
 "href=\"https://kriesi.at/documentation/enfold/intro-to-layout-builder/#using-"
