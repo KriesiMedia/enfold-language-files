@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.6.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-01 12:06+0200\n"
-"PO-Revision-Date: 2021-03-03 15:02+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2021-04-06 15:51+0000\n"
+"Last-Translator: First Admin_Last\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.4.2; wp-5.5\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/generic-helper.class.php:430
@@ -1155,8 +1155,8 @@ msgid ""
 msgstr ""
 "Füge hier eine benutzerdefinierte CSS-Klasse für das Element hinzu. Stelle "
 "sicher, dass du nur erlaubte Zeichen (Lateinische Zeichen, Unterstriche, "
-"Verbindungsstriche und Zahlen. Es können keine speziellen Zeichen benutzt "
-"werden) verwendest"
+"Verbindungsstriche und Zahlen verwendest, es können keine speziellen Zeichen "
+"benutzt werden)"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2573
 msgid ""
@@ -1273,17 +1273,17 @@ msgstr ""
 "Darüberfahren mit der Maus"
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:1621
-#, fuzzy
 msgid ""
 "Add additional custom css classes for the element here. This field can be "
 "locked in template elements. Make sure to only use allowed characters (latin "
 "characters, underscores, dashes and numbers, no special characters can be "
 "used)"
 msgstr ""
-"Füge hier eine benutzerdefinierte CSS-Klasse für das Element hinzu. Stelle "
-"sicher, dass du nur erlaubte Zeichen (Lateinische Zeichen, Unterstriche, "
-"Verbindungsstriche und Zahlen. Es können keine speziellen Zeichen benutzt "
-"werden) verwendest"
+"Füge hier eine benutzerdefinierte CSS-Klasse für das Element hinzu. Dieses "
+"Feld kann im benutzerdefinierten Element gesperrt werden. Stelle sicher, "
+"dass du nur erlaubte Zeichen verwendest (Lateinische Zeichen, Unterstriche, "
+"Verbindungsstriche und Zahlen, es können keine speziellen Zeichen benutzt "
+"werden)."
 
 #: config-templatebuilder/avia-shortcodes/columns.php:408
 msgid "Add an alt attribut for screen reader"
@@ -1382,15 +1382,13 @@ msgid "Add multiple Images"
 msgstr "Mehrere Bilder hinzufügen"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1713
-#, fuzzy
 msgid "Add New ALB Custom Element Template"
-msgstr "Element als Vorlage speichern"
+msgstr "Benutzerdefiniertes Element hinzufügen"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1712
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:2350
-#, fuzzy
 msgid "Add New Custom Element"
-msgstr "Benutzerdefinierte Elemente"
+msgstr "Neues benutzerdefiniertes Element anlegen"
 
 #: includes/admin/register-portfolio.php:15
 msgid "Add New Portfolio Entry"
@@ -6092,13 +6090,12 @@ msgid "Create a clone for the title menu item"
 msgstr "Dupliziere den Titelmenüeintrag"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:2412
-#, fuzzy
 msgid "Create A New Custom Element Template"
-msgstr "Element als Vorlage speichern"
+msgstr "Ein neues Element als Vorlage anlegen"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:3171
 msgid "Create a new element"
-msgstr ""
+msgstr "Element neu anlegen"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:194
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:186
@@ -6126,14 +6123,12 @@ msgid "Create and Edit Audio Playlist"
 msgstr "Erstelle und bearbeite eine Audiowiedergabeleiste"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:2413
-#, fuzzy
 msgid "Create Element"
-msgstr "Element löschen"
+msgstr "Element anlegen"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:4103
-#, fuzzy
 msgid "Create New Element Template"
-msgstr "Element als Vorlage speichern"
+msgstr "Element als Vorlage erzeugen"
 
 #: includes/admin/register-admin-options.php:4190
 msgid "Create new Sidebar Widget Areas"
@@ -6494,7 +6489,7 @@ msgstr "Benutzerdefinierte CSS-Klasse für Überschriften-Tag"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:303
 msgid "Custom CSS Class:"
-msgstr "Individuelle CSS-Klasse:"
+msgstr "Benutzerdefinierte CSS-Klasse:"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:445
 msgid "Custom Date Font Color"
@@ -14373,9 +14368,8 @@ msgid "Lock advanced layout builder for admins as well?"
 msgstr "Erweiterten Layout Builder auch Admins sperren?"
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:1620
-#, fuzzy
 msgid "Lockable Custom CSS Class"
-msgstr "Benutzerdefinierte CSS-Klasse"
+msgstr "Sperrbare benutzerdefinierte CSS-Klasse"
 
 #: config-woocommerce/config-356.php:492 config-woocommerce/config.php:605
 msgid "Log In"
