@@ -1,4 +1,7 @@
 
+2021-04-06
+- fixed wrong translations in german langouage files
+
 2021-04-02
 - French fr_FR (provided by comkapi
 
