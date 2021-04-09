@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-02 13:22+0000\n"
-"PO-Revision-Date: 2021-04-07 09:30+0000\n"
+"PO-Revision-Date: 2021-04-09 16:20+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+"X-Loco-Version: 2.5.2; wp-5.6.2\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/generic-helper.class.php:465
@@ -46,11 +46,11 @@ msgstr "- aanpassen: %s"
 
 #: framework/php/class-htmlhelper.php:2452
 msgid " - in use"
-msgstr ""
+msgstr "- in gebruik"
 
 #: framework/php/class-htmlhelper.php:2456
 msgid " - unused"
-msgstr ""
+msgstr "- ongebruikt"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:754
 msgid " ??? "
@@ -640,11 +640,13 @@ msgid "400"
 msgstr "400"
 
 #: framework/php/class-breadcrumb-legacy.php:136
+#: framework/php/class-breadcrumb.php:123
 msgid "404 - Page not Found"
 msgstr "404 - Pagina niet gevonden"
 
 #: framework/php/class-breadcrumb-legacy.php:539
 #: framework/php/class-breadcrumb-trail.php:415
+#: framework/php/class-breadcrumb.php:523
 msgid "404 Not Found"
 msgstr "404 Niet gevonden"
 
@@ -731,7 +733,7 @@ msgstr "900"
 
 #: framework/php/class-htmlhelper.php:1997
 msgid "<br/><br/>The script returned the following message: <br/>"
-msgstr ""
+msgstr "<br/><br/>Het script retourneerde de volgende melding: <br/>"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1046
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1105
@@ -829,8 +831,8 @@ msgstr ""
 msgid ""
 "A detailed description for generating this token can be found %s here %s"
 msgstr ""
-"Een gedetailleerde beschrijving voor het genereren van dit token kan %s hier "
-"%s worden gevonden"
+"Een gedetailleerde beschrijving voor het genereren van dit token kan "
+"%shier%s worden gevonden"
 
 #: includes/admin/register-demo-import.php:114
 msgid "A few"
@@ -850,7 +852,7 @@ msgstr "Een roulerende koptekst element"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:74
 msgid "A Leaflet Map Marker"
-msgstr ""
+msgstr "Een Leaflet kaartmarkering"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1063
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1083
@@ -1055,6 +1057,7 @@ msgstr "Accordeon diavoorstelling element"
 msgid "Action with codeblock"
 msgstr "Gedrag van codeblok"
 
+#: includes/admin/options_files/avia_custom_elements.php:68
 #: includes/admin/option_tabs/avia_element_templates.php:48
 msgid ""
 "Activate and select who is allowed to create and edit custom elements. See "
@@ -1084,7 +1087,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:34
 msgid "Activate if you want to use this feature."
-msgstr ""
+msgstr "Activeer als u deze functie wilt gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:258
 msgid "Activate Multiline?"
@@ -1391,6 +1394,7 @@ msgstr ""
 "Aan winkelwagen toevoegen (indien productvariaties: productpagina wordt "
 "geopend)"
 
+#: includes/admin/options_files/avia_custom_elements.php:226
 #: includes/admin/option_tabs/avia_element_templates.php:206
 msgid "Add links to open the CPT screens"
 msgstr "Links toevoegen om de CPT-schermen te openen"
@@ -1545,7 +1549,7 @@ msgstr "Locaties toevoegen/verwijderen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:220
 msgid "Add/Edit Marker Locations"
-msgstr ""
+msgstr "Markeringslocaties toevoegen/bewerken"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:261
 msgid "Add/Edit Metadata"
@@ -1609,7 +1613,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1015
 msgid "Additional Attributes"
-msgstr ""
+msgstr "Extra attributen"
 
 #: includes/admin/option_tabs/avia_cookie.php:878
 msgid "Additional Custom Cookies"
@@ -1633,11 +1637,11 @@ msgstr "Additionele informatie:"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:485
 msgid "Additional Map Attributes"
-msgstr ""
+msgstr "Extra kaartattributen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:790
 msgid "Additional Marker Attributes"
-msgstr ""
+msgstr "Extra markeringsattributen"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:30
 msgid "Additional Portfolio Settings"
@@ -1645,7 +1649,7 @@ msgstr "Extra portfolio-instellingen"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1037
 msgid "Additional Shortcode Attributes"
-msgstr ""
+msgstr "Extra snelkoppeling attributen"
 
 #: config-wpml/class-avia-wpml.php:444
 msgid "Additional Translate Icon"
@@ -1676,6 +1680,7 @@ msgstr "Aan breedte content-sectie of kolom aanpassen"
 msgid "Admin notice for:"
 msgstr "Admin bericht voor:"
 
+#: includes/admin/options_files/avia_custom_elements.php:77
 #: includes/admin/option_tabs/avia_element_templates.php:57
 msgid "Admins only"
 msgstr "Alleen beheerders"
@@ -1801,6 +1806,7 @@ msgstr "Geavanceerde stijl"
 msgid "Advertise here"
 msgstr "Adverteer hier"
 
+#: includes/admin/options_files/avia_custom_elements.php:210
 #: includes/admin/option_tabs/avia_element_templates.php:190
 msgid ""
 "After activating this feature you must reload backend to load the necssary "
@@ -1953,6 +1959,7 @@ msgstr "Alle ALB elementen"
 msgid "All Borders"
 msgstr "Alle randen"
 
+#: includes/admin/options_files/avia_custom_elements.php:166
 #: includes/admin/option_tabs/avia_element_templates.php:146
 msgid "All buttons in a single tab"
 msgstr "Alle knoppen in een enkele tab"
@@ -1981,6 +1988,7 @@ msgstr "Alle titels"
 msgid "All right!"
 msgstr "Lekker bezig!"
 
+#: includes/admin/options_files/avia_custom_elements.php:198
 #: includes/admin/option_tabs/avia_element_templates.php:178
 msgid "All subitems use the same custom element template"
 msgstr "Alle subitems gebruiken hetzelfde aangepaste elementsjabloon"
@@ -1999,7 +2007,7 @@ msgstr "Sta blok-editor toe voor alle mogelijke berichttypes (= standaard) ..."
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:267
 msgid "Allow dragging"
-msgstr ""
+msgstr "Slepen toestaan"
 
 #: includes/helper-privacy.php:607
 msgid ""
@@ -2040,6 +2048,7 @@ msgstr ""
 "Sta toe om cookies te gebruiken, u kunt gebruikte cookies wijzigen in "
 "instellingen"
 
+#: includes/admin/options_files/avia_custom_elements.php:183
 #: includes/admin/option_tabs/avia_element_templates.php:163
 msgid "Allow use of hierarchical custom elements"
 msgstr "Gebruik van hiërarchische aangepaste elementen toestaan"
@@ -2092,11 +2101,13 @@ msgid ""
 "Alright!<br/>Download worked for demo %s. <br/>You can import the demo "
 "content now."
 msgstr ""
+"Goed! <br/>Downloaden werkte voor demo %s. <br/>U kunt de demo inhoud nu "
+"importeren."
 
 #: framework/php/function-set-avia-ajax.php:721
 #, php-format
 msgid "Alright!<br/>Downloaded files for demo %s deleted"
-msgstr ""
+msgstr "Goed! <br/>Gedownloade bestanden voor demo %s verwijderd"
 
 #: framework/php/function-set-avia-ajax.php:676
 #, php-format
@@ -2104,10 +2115,12 @@ msgid ""
 "Alright!<br/>Import worked out for demo %s, no problems whatsoever. <br/>The "
 "page will now be reloaded to reflect the changes"
 msgstr ""
+"Goed! <br/>Het importeren is gelukt voor demo %s, tot dusver geen problemen. "
+"<br/>De pagina wordt nu opnieuw geladen om de veranderingen weer te geven"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:369
 msgid "Also close when user clicks outside icongrid"
-msgstr ""
+msgstr "Ook sluiten wanneer gebruiker buiten icoonraster klikt"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:407
 msgid "Alt Attribut"
@@ -2159,7 +2172,7 @@ msgstr "Toon altijd zwevend aan de zijkant"
 
 #: includes/admin/option_tabs/avia_shop.php:40
 msgid "Always display message box"
-msgstr ""
+msgstr "Altijd berichtvenster tonen"
 
 #: includes/admin/option_tabs/avia_menu.php:233
 msgid "Always display submenu items"
@@ -2535,6 +2548,11 @@ msgid ""
 "problems because plugin was updated and our theme contains an incompatible "
 "version of the library:"
 msgstr ""
+"Zoals hierboven reeds vermeld bundelen we de nodige Leaflet Javascript "
+"bibliotheek bestanden om toegang te krijgen tot OSM en deze te laden van je "
+"server. U kunt dit hier veranderen, als u de bestanden van een andere "
+"locatie wilt laden of problemen hebt omdat de plugin werd bijgewerkt en ons "
+"thema een niet-compatibele versie van de bibliotheek bevat:"
 
 #: includes/admin/option_tabs/avia_performance.php:104
 msgid ""
@@ -2605,6 +2623,7 @@ msgstr "Bijlage afbeelding voor:"
 msgid "Attention"
 msgstr "Let op"
 
+#: includes/admin/options_files/avia_custom_elements.php:44
 #: includes/admin/option_tabs/avia_element_templates.php:24
 msgid ""
 "Attention when using caching plugins: Whenever you make changes to a custom "
@@ -4089,7 +4108,7 @@ msgstr "Pas de lay-out aan"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:79
 msgid "Change Leaflet Library Files Location"
-msgstr ""
+msgstr "Wijzig locatie van de Leaflet bibliotheekbestanden"
 
 #: config-woocommerce/config-356.php:469 config-woocommerce/config.php:582
 msgid "Change Password"
@@ -4306,6 +4325,7 @@ msgstr ""
 msgid "Change WordPress defaults"
 msgstr "Wijzig WordPress standaarden"
 
+#: includes/admin/options_files/avia_custom_elements.php:42
 #: includes/admin/option_tabs/avia_element_templates.php:22
 msgid ""
 "Changes to these custom element templates will be used in the elements based "
@@ -4333,6 +4353,9 @@ msgid ""
 "rel=\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> for more "
 "information about this library."
 msgstr ""
+"Kijk op <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> voor "
+"meer informatie over deze bibliotheek."
 
 #: includes/admin/option_tabs/avia_google.php:102
 #: includes/admin/option_tabs/avia_newsletter.php:32
@@ -4410,8 +4433,8 @@ msgid ""
 "rel=\"noopener noreferrer\">documentation</a> for more information how to "
 "customize import."
 msgstr ""
-"Controleer of u niet alle instellingen uit een geëxporteerd bestand met "
-"thema-instellingen wilt importeren. Lees de <a href=\"https://kriesi."
+"Vink aan als u niet alle instellingen uit een geëxporteerd bestand met thema-"
+"instellingen wilt importeren. Lees de <a href=\"https://kriesi."
 "at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
 "rel=\"noopener noreferrer\">documentatie</a> voor meer informatie over hoe u "
 "de import kunt aanpassen."
@@ -4423,7 +4446,7 @@ msgid ""
 "target=\"_blank\" rel=\"noopener noreferrer\">documentation</a> for more "
 "information how to customize resetting theme options."
 msgstr ""
-"Controleer of u niet alle opties wilt resetten. Lees de <a href=\"https:"
+"Vink aan als u niet alle opties wilt resetten. Lees de <a href=\"https:"
 "//kriesi.at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
 "rel=\"noopener noreferrer\">documentatie</a> voor meer informatie over het "
 "aanpassen van het resetten van thema-opties."
@@ -4711,10 +4734,9 @@ msgstr ""
 
 #: framework/php/class-htmlhelper.php:2431
 msgid "Check to disable"
-msgstr ""
+msgstr "Aanvinken om uit te schakelen"
 
 #: includes/admin/option_tabs/avia_performance.php:336
-#, fuzzy
 #| msgid ""
 #| "Check to disable 'jQuery Migrate'. It is an old backward compatibility "
 #| "library for jQuery that is required by some plugins. Make sure that none "
@@ -4724,9 +4746,10 @@ msgid ""
 "compatibility library for jQuery that is required by some plugins. Make sure "
 "that none of your active plugins require it before disabling it!"
 msgstr ""
-"Vink aan om 'jQuery Migrate' uit te schakelen. Het is een verouderde "
-"bibliotheek voor jQuery die door sommige plug-ins vereist is. Zorg ervoor "
-"dat geen van uw actieve plug-ins deze nodig heeft voordat u deze uitschakelt!"
+"Vink aan om &quot;jQuery Migrate&quot; uit te schakelen. Het is een "
+"verouderde bibliotheek voor jQuery die door sommige plug-ins vereist is. "
+"Zorg ervoor dat geen van uw actieve plug-ins deze nodig heeft voordat u deze "
+"uitschakelt!"
 
 #: includes/admin/option_tabs/avia_performance.php:325
 msgid ""
@@ -4837,6 +4860,9 @@ msgid ""
 "feature starts with version 4.8.2 and not all elements support it from "
 "beginning."
 msgstr ""
+"Aanvinken om thema ondersteuning voor responsieve afbeeldingen te gebruiken "
+"voor de lightbox. Deze functie start met versie 4.8.2 en niet alle elementen "
+"ondersteunen dit vanaf het begin."
 
 #: includes/admin/option_tabs/avia_performance.php:405
 msgid ""
@@ -4860,10 +4886,12 @@ msgstr "Controleer uw spelling."
 msgid "Checkbox for Google reCAPTCHA"
 msgstr "Vinkvakje voor Google reCAPTCHA"
 
+#: includes/admin/options_files/avia_custom_elements.php:119
 #: includes/admin/option_tabs/avia_element_templates.php:99
 msgid "Checkbox To Show Locked Options"
 msgstr "Vinkvakje om vergrendelde opties te tonen"
 
+#: includes/admin/options_files/avia_custom_elements.php:131
 #: includes/admin/option_tabs/avia_element_templates.php:111
 msgid "Checked for all users"
 msgstr "Aangevinkt voor alle gebruikers"
@@ -4987,7 +5015,6 @@ msgstr ""
 "Selecteer hoe u de submenu-items van het 'hamburger'-menu wilt weergeven"
 
 #: includes/admin/option_tabs/avia_menu.php:135
-#, fuzzy
 #| msgid ""
 #| "Choose how you want to display the menu items on desktop computers. If "
 #| "you choose to display the 'burger' icon on desktop computers it will also "
@@ -5003,7 +5030,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:686
 msgid "Choose Icon Image"
-msgstr ""
+msgstr "Kies icoon afbeelding"
 
 #: includes/admin/option_tabs/avia_header.php:299
 msgid ""
@@ -5031,21 +5058,23 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:325
 msgid "Choose if the map can be zoomed by using the mouse wheel."
-msgstr ""
+msgstr "Kies of de kaart kan worden ingezoomd met behulp van het muiswiel."
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:337
 msgid "Choose if the map should support zoom by touch and drag"
-msgstr ""
+msgstr "Kies of de kaart zoom door aanraken en slepen moet ondersteunen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:615
 msgid "Choose if the marker is draggable or fixed"
-msgstr ""
+msgstr "Kies of de markering versleepbaar of vast is"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:635
 msgid ""
 "Choose if the marker popup is visible on pageload or marker needs to be "
 "clicked to open it"
 msgstr ""
+"Kies of de markering popup zichtbaar is op de pageload of dat er op de "
+"markering geklikt moet worden om hem te openen"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:279
 msgid "Choose if the player starts on pageload or has to be started manually"
@@ -5064,12 +5093,14 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:286
 msgid "Choose if you want keyboard support for interacting with the map"
-msgstr ""
+msgstr "Kies of u toetsenbordondersteuning wilt voor interactie met de kaart"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:274
 msgid ""
 "Choose if you want popups of the markers to close when user clicks the map"
 msgstr ""
+"Kies of u popups van de markeringen wilt laten sluiten wanneer de gebruiker "
+"op de kaart klikt"
 
 #: includes/admin/option_tabs/avia_menu.php:180
 msgid "Choose if you want to display a border between menu items"
@@ -5297,7 +5328,7 @@ msgstr "Kies de initiële kaartweergave na het laden van de kaart"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:367
 msgid "Choose the largest possible zoom level."
-msgstr ""
+msgstr "Kies het grootst mogelijke zoomniveau."
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:215
 msgid "Choose the layout of your Gallery"
@@ -5345,7 +5376,7 @@ msgstr "Kies hier de grootte van uw knop"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:358
 msgid "Choose the smallest possible zoom level"
-msgstr ""
+msgstr "Kies het kleinst mogelijke zoomniveau"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:485
 msgid "Choose the style of your tooltip"
@@ -5401,17 +5432,20 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:313
 msgid "Choose to add a zoom control to the map"
-msgstr ""
+msgstr "Kies om een zoomknop aan de kaart toe te voegen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:418
 msgid "Choose to autodetect a retina screen"
-msgstr ""
+msgstr "Kies voor automatische detectie van een retina scherm"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:349
 msgid ""
 "Choose to display all markers on pageload or set the zoom level when map is "
 "loaded on a scale from 0 (very far away) to 20 (very close)"
 msgstr ""
+"Kies om alle markeringen weer te geven bij het laden van de pagina of stel "
+"het zoomniveau in bij het laden van de kaart op een schaal van 0 (heel ver "
+"weg) tot 20 (heel dichtbij)"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:235
 msgid ""
@@ -5422,12 +5456,14 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:376
 msgid "Choose to show scale information on the map"
-msgstr ""
+msgstr "Kies om schaalinformatie op de kaart te tonen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:674
 msgid ""
 "Choose to use default plugin marker icon or upload a custom icon (png or jpg)"
 msgstr ""
+"Kies om het standaard plugin markeringsicoon te gebruiken of upload een "
+"aangepast icoon (png of jpg)"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1098
 msgid "Choose Video"
@@ -5435,7 +5471,7 @@ msgstr "Kies video"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:262
 msgid "Choose whether the map can be draggable with mouse/touch or not"
-msgstr ""
+msgstr "Kies of de kaart versleept kan worden met muis/aanraking of niet"
 
 #: includes/admin/option_tabs/avia_header.php:283
 msgid "Choose which header style you want to use"
@@ -5510,6 +5546,8 @@ msgid ""
 "Click button to fetch the coordinates for the address above to speed up "
 "loading of map in frontend."
 msgstr ""
+"Klik op de knop om de coördinaten van het bovenstaande adres op te halen om "
+"het laden van de kaart in de frontend te versnellen."
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:2355
 msgid ""
@@ -5573,7 +5611,7 @@ msgstr "Klik om hier uw eigen tekst toe te voegen"
 
 #: framework/php/class-htmlhelper.php:1942
 msgid "Click to download"
-msgstr ""
+msgstr "Klik om te downloaden"
 
 #: includes/helper-privacy.php:941
 #, php-format
@@ -5619,7 +5657,7 @@ msgstr "Klik om Google Maps te laden"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:641
 msgid "Click to open popup"
-msgstr ""
+msgstr "Klik om popup te openen"
 
 #: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:1490
 msgid "Click to order products ascending"
@@ -5688,11 +5726,11 @@ msgstr "Sluiten knop"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:368
 msgid "Close only when visitor clicks in icongrid"
-msgstr ""
+msgstr "Alleen sluiten als bezoeker in icoonraster klikt"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:280
 msgid "Close with click on map"
-msgstr ""
+msgstr "Sluiten met klik op kaart"
 
 #: config-templatebuilder/avia-shortcodes/codeblock.php:41
 msgid "Code Block"
@@ -5726,7 +5764,7 @@ msgstr "Kleur"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:433
 msgid "Color and Display"
-msgstr ""
+msgstr "Kleur en Weergave"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:752
 msgid "Color of the Likes & Comments"
@@ -5951,6 +5989,7 @@ msgid ""
 msgstr ""
 "Bevat opties voor speciale gebruikssituaties bij problemen met compressie"
 
+#: includes/admin/options_files/avia_custom_elements.php:138
 #: includes/admin/option_tabs/avia_element_templates.php:118
 msgid ""
 "Contains options to extend the functionality - recommended for advanced "
@@ -6400,6 +6439,7 @@ msgstr "Creëer nieuwe zijbalk widget-gebieden"
 msgid "Create some progress bars"
 msgstr "Creëert een aantal voortgangsbalken"
 
+#: includes/admin/options_files/avia_custom_elements.php:41
 #: includes/admin/option_tabs/avia_element_templates.php:21
 msgid ""
 "Create your custom ALB elements from existing ALB elements with fixed "
@@ -6807,6 +6847,7 @@ msgstr ""
 "Aangepast element shortcode (alleen gebruikt bij het bewerken van een "
 "aangepast elementsjabloon in modaal popup venster):"
 
+#: includes/admin/options_files/avia_custom_elements.php:157
 #: includes/admin/option_tabs/avia_element_templates.php:137
 msgid "Custom Element Shortcode Buttons"
 msgstr "Aangepast element shortcode knoppen"
@@ -6836,18 +6877,22 @@ msgstr "Aangepast element werd niet verwijderd."
 msgid "Custom Elements"
 msgstr "Aangepaste elementen"
 
+#: includes/admin/options_files/avia_custom_elements.php:58
 #: includes/admin/option_tabs/avia_element_templates.php:38
 msgid "Custom Elements (Custom Element Templates - CET)"
 msgstr "Aangepaste elementen (Aangepaste elementsjablonen)"
 
+#: includes/admin/options_files/avia_custom_elements.php:189
 #: includes/admin/option_tabs/avia_element_templates.php:169
 msgid "Custom Elements For Subitems"
 msgstr "Aangepaste elementen voor subitems"
 
+#: includes/admin/options_files/avia_custom_elements.php:107
 #: includes/admin/option_tabs/avia_element_templates.php:87
 msgid "Custom Elements Locked Options"
 msgstr "Aangepaste elementen vergrendelde opties"
 
+#: includes/admin/options_files/avia_custom_elements.php:67
 #: includes/admin/option_tabs/avia_element_templates.php:47
 msgid "Custom Elements Management"
 msgstr "Gebruik van aangepaste elementen"
@@ -6993,6 +7038,7 @@ msgstr "Aangepast patroon"
 msgid "custom pixel value"
 msgstr "Aangepaste waarde in pixels"
 
+#: includes/admin/options_files/avia_custom_elements.php:215
 #: includes/admin/option_tabs/avia_element_templates.php:195
 msgid "Custom Post Type Screen (Developers Only)"
 msgstr "Aangepast berichttype venster (alleen voor ontwikkelaars)"
@@ -7055,7 +7101,7 @@ msgstr "Aangepaste boven- en ondermarge"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:697
 msgid "Custom URL To Marker Icon"
-msgstr ""
+msgstr "Aangepaste URL naar markeringsicoon"
 
 #: framework/php/class-sidebar-generator.php:34
 msgid "Custom Widget Area"
@@ -7279,7 +7325,7 @@ msgstr "Standaardhoogte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:679
 msgid "Default icon"
-msgstr ""
+msgstr "Standaard icoon"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:222
 msgid "Default inline style"
@@ -7566,7 +7612,7 @@ msgstr "Verwijder aangepast element"
 
 #: framework/php/class-htmlhelper.php:2048
 msgid "Delete downloaded files"
-msgstr ""
+msgstr "Verwijder gedownloade bestanden"
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:1843
 msgid "Delete Element"
@@ -7594,7 +7640,7 @@ msgstr "Verwijder tabkaarten"
 
 #: framework/php/class-htmlhelper.php:2033
 msgid "Deleting started."
-msgstr ""
+msgstr "Het verwijderen is gestart."
 
 #: framework/php/class-htmlhelper.php:2044
 #, php-format
@@ -7602,6 +7648,8 @@ msgid ""
 "Deleting the downloaded demo files %s didn't work! <br/> You might want to "
 "try reloading the page and then try again"
 msgstr ""
+"Het verwijderen van de gedownloade demo bestanden %s werkte niet! <br/> U "
+"zou kunnen proberen de pagina opnieuw te laden en het dan opnieuw te proberen"
 
 #: framework/php/class-htmlhelper.php:2045
 #, php-format
@@ -7610,11 +7658,14 @@ msgid ""
 "try reloading the page and then try again.<br/> The script returned the "
 "following message: <br/>"
 msgstr ""
+"Het verwijderen van de gedownloade demo bestanden %s werkte niet! <br/> U "
+"kunt proberen de pagina opnieuw te laden en het dan nog eens proberen.<br/> "
+"Het script gaf de volgende boodschap: <br/>"
 
 #: framework/php/inc-avia-download-demo.php:13
 #, php-format
 msgid "Demo File Download (%s):"
-msgstr ""
+msgstr "Demo bestand downloaden (%s):"
 
 #: includes/admin/register-demo-import.php:113
 #: includes/admin/register-demo-import.php:133
@@ -7664,7 +7715,7 @@ msgstr "Demo importeren"
 #: framework/php/inc-avia-importer.php:33
 #, php-format
 msgid "Demo Importer (%s):"
-msgstr ""
+msgstr "Demo Importeur (%s):"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:240
 msgid ""
@@ -7739,7 +7790,7 @@ msgstr "Gedetailleerd shortcode gebruik"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:417
 msgid "Detect Retina Display"
-msgstr ""
+msgstr "Detecteer Retina Scherm"
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:1679
 msgid "Developer"
@@ -7942,6 +7993,7 @@ msgstr "Schakelaars niet gebruiken en alle opties laten zien"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:296
 #: config-templatebuilder/avia-template-builder/config/meta.php:153
+#: includes/admin/options_files/avia_custom_elements.php:75
 #: includes/admin/option_tabs/avia_avia.php:213
 #: includes/admin/option_tabs/avia_element_templates.php:55
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:41
@@ -8329,7 +8381,7 @@ msgstr "Toon de berichtenbalk en gebruik de logica van de cookies"
 
 #: includes/admin/option_tabs/avia_shop.php:39
 msgid "Display message box only on errors"
-msgstr ""
+msgstr "Alleen berichtvenster tonen bij fouten"
 
 #: includes/admin/option_tabs/avia_cookie.php:531
 msgid "Display Modal Popup Actions"
@@ -8637,7 +8689,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:319
 msgid "Display Zoom Control"
-msgstr ""
+msgstr "Zoomregeling tonen"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:226
 msgid "Display Zoom Control?"
@@ -8645,7 +8697,7 @@ msgstr "Zoombediening weergeven?"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:62
 msgid "Displays a map based on OpenStreetMaps"
-msgstr ""
+msgstr "Toont een kaart gebaseerd op OpenStreetMaps"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:36
 msgid "Displays a search form"
@@ -8672,13 +8724,14 @@ msgstr "Toont uw laatste Instagram foto's"
 msgid "Do not accept and hide notification"
 msgstr "Niet accepteren en verberg de kennisgeving"
 
+#: includes/admin/options_files/avia_custom_elements.php:225
 #: includes/admin/option_tabs/avia_element_templates.php:205
 msgid "Do not allow access to the screens"
 msgstr "Toegang tot de schermen niet toestaan"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:268
 msgid "Do not allow dragging"
-msgstr ""
+msgstr "Slepen niet toestaan"
 
 #: config-templatebuilder/avia-shortcodes/product_grid.php:208
 #: config-templatebuilder/avia-shortcodes/product_list.php:226
@@ -8709,6 +8762,7 @@ msgstr "Sta niet toe dat Google reCAPTCHA wordt gebruikt"
 msgid "Do not allow Google Webfonts"
 msgstr "Sta niet toe dat Google Webfonts worden gebruikt"
 
+#: includes/admin/options_files/avia_custom_elements.php:182
 #: includes/admin/option_tabs/avia_element_templates.php:162
 msgid "Do not allow hierarchical custom elements"
 msgstr "Hiërarchische aangepaste elementen niet toestaan"
@@ -8743,6 +8797,7 @@ msgstr ""
 "Sta niet toe dat cookies of diensten worden gebruikt - sommige "
 "functionaliteiten op onze site werken mogelijk niet zoals verwacht."
 
+#: includes/admin/options_files/avia_custom_elements.php:200
 #: includes/admin/option_tabs/avia_element_templates.php:180
 msgid "Do not allow to use subitem custom element templates"
 msgstr "Sta niet toe om subitem aangepaste elementsjablonen te gebruiken"
@@ -8753,7 +8808,7 @@ msgstr "Sta niet toe dat video's ingesloten kunnen worden"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:279
 msgid "Do not close with click on map"
-msgstr ""
+msgstr "Niet sluiten met klik op kaart"
 
 #: includes/admin/option_tabs/avia_menu.php:250
 msgid "Do not create a clone"
@@ -8769,7 +8824,7 @@ msgstr "Toon geen schaduw"
 
 #: includes/admin/option_tabs/avia_shop.php:38
 msgid "Do not display the message box"
-msgstr ""
+msgstr "Het berichtvenster niet weergeven"
 
 #: includes/admin/option_tabs/avia_performance.php:228
 msgid "Do not scan widgets"
@@ -8989,11 +9044,11 @@ msgstr "Dubbele opt-in?"
 
 #: includes/admin/option_tabs/avia_demo.php:17
 msgid "Download And Import Demo Files"
-msgstr ""
+msgstr "Demobestanden downloaden en importeren"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:74
 msgid "Download latest library files here"
-msgstr ""
+msgstr "Download de nieuwste bibliotheekbestanden hier"
 
 #: framework/php/class-htmlhelper.php:1996
 #, php-format
@@ -9001,6 +9056,8 @@ msgid ""
 "Download of files for demo %s didn't work! <br/> You might want to try "
 "reloading the page and then try again."
 msgstr ""
+"Downloaden van bestanden voor demo %s lukte niet! <br/> U zou kunnen "
+"proberen de pagina opnieuw te laden en het dan opnieuw te proberen."
 
 #: framework/php/auto-updates/class-avia-envato-base-api.php:484
 msgid "Download Package URL:"
@@ -9024,11 +9081,11 @@ msgstr ""
 
 #: framework/php/inc-avia-download-demo.php:16
 msgid "Download started"
-msgstr ""
+msgstr "Download gestart"
 
 #: framework/php/class-htmlhelper.php:2028
 msgid "Download started."
-msgstr ""
+msgstr "Download gestart."
 
 #: framework/php/class-update-notifier.php:164
 msgid "Download Update From Themeforest.net"
@@ -9037,7 +9094,7 @@ msgstr "Download de update van Themeforest.net"
 #: framework/php/function-set-avia-ajax.php:717
 #, php-format
 msgid "Downloaded files for demo %s could not be deleted."
-msgstr ""
+msgstr "Gedownloade bestanden voor demo %s konden niet worden verwijderd."
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:3391
 msgid "draft"
@@ -9045,15 +9102,15 @@ msgstr "concept"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:621
 msgid "Draggable"
-msgstr ""
+msgstr "Versleepbaar"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:614
 msgid "Draggable Marker"
-msgstr ""
+msgstr "Versleepbaar markering"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:261
 msgid "Dragging Of Map"
-msgstr ""
+msgstr "Slepen van kaart"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:166
 msgid "Dropcap Styling"
@@ -9348,6 +9405,7 @@ msgstr ""
 msgid "Editing:"
 msgstr "Wijzigen:"
 
+#: includes/admin/options_files/avia_custom_elements.php:76
 #: includes/admin/option_tabs/avia_element_templates.php:56
 msgid "Editors and Admins"
 msgstr "Redacteuren en beheerders"
@@ -9582,7 +9640,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:42
 msgid "Enable"
-msgstr ""
+msgstr "Activeer"
 
 #. __( 'Compress advanced template builder CSS files (level 1)', 'avia_framework' ) => 'avia-module',
 #: includes/admin/option_tabs/avia_performance.php:59
@@ -9793,7 +9851,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:698
 msgid "Enter a custom URL to the marker icon"
-msgstr ""
+msgstr "Voer een aangepaste URL naar het markeringsicoon in"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:245
 msgid ""
@@ -9907,6 +9965,8 @@ msgid ""
 "Enter additional shortcode attributes here that are not available with "
 "predefined options."
 msgstr ""
+"Voer hier extra snelkoppelingattributen in die niet beschikbaar zijn met "
+"voorgedefinieerde opties."
 
 #: config-templatebuilder/avia-template-builder/php/html-helper.class.php:2773
 msgid "Enter Address, then fetch coordinates"
@@ -9930,6 +9990,8 @@ msgid ""
 "Enter an optional tooltip that is displayed when you hover over the marker "
 "(different from Marker Popup)"
 msgstr ""
+"Voer een optionele tooltip in die wordt getoond wanneer u met de muis over "
+"de markering beweegt (verschillend van Markering Popup)"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:667
 msgid ""
@@ -10024,6 +10086,8 @@ msgid ""
 "Enter some text here that will be displayed above the marker. You may also "
 "include a link."
 msgstr ""
+"Voer hier een tekst in die boven de markering zal worden weergegeven. U kunt "
+"ook een link toevoegen."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:505
 msgid ""
@@ -10071,11 +10135,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2662
 msgid "Enter the city name, e.g. Denver"
-msgstr ""
+msgstr "Voer de plaatsnaam in, bijv. Denver"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2670
 msgid "Enter the Country, e.g. Canada"
-msgstr ""
+msgstr "Voer het land in, bijv. Canada"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1049
 msgid ""
@@ -10129,6 +10193,8 @@ msgstr ""
 msgid ""
 "Enter the latitude of your adress, use \".\" for comma, e.g. 16.37366388888"
 msgstr ""
+"Voer de breedtegraad van uw adres in, gebruik \".\" voor de komma, bijv. 16."
+"37366388888"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:293
 msgid "Enter the link to Yelp for this button."
@@ -10146,6 +10212,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2704
 msgid "Enter the longitude of your adress, use \".\" for comma, e.g. 48.21475"
 msgstr ""
+"Voer de lengtegraad van uw adres in, gebruik \".\" voor de komma, bijv. 48."
+"21475"
 
 #: includes/admin/option_tabs/avia_layout.php:291
 msgid ""
@@ -10205,7 +10273,7 @@ msgstr "Vul het nummer in van de tabkaart die initieel geopend moet zijn."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2654
 msgid "Enter the postalcode (Zip code) for the city, e.g. 12454"
-msgstr ""
+msgstr "Voer de postcode van de plaats in, bijv. 6436 EV"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:321
 msgid "Enter the price for the item here. Eg: 34$, 55.5€, £12"
@@ -10243,6 +10311,8 @@ msgstr "Vul hier de slide titel in (hou het kort)"
 msgid ""
 "Enter the street and streetnumber seperated by space, e.g. Teststreet 15."
 msgstr ""
+"Voer de straat en het straatnummer in, gescheiden door een spatie, bijv. "
+"Teststraat 15."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:238
 msgid "Enter the submit buttons label text here"
@@ -10381,7 +10451,7 @@ msgstr "Error 404 - Pagina niet gevonden"
 
 #: framework/php/inc-avia-download-demo.php:33
 msgid "Error accessing file for download:<br /><br />"
-msgstr ""
+msgstr "Fout bij toegang tot bestand om te downloaden:<br /><br />"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:11
 msgid "Error fetching content - please reload the page and try again"
@@ -10403,7 +10473,7 @@ msgstr "Fout bij verbinding maken met Google reCAPTCHA - probeer het opnieuw."
 
 #: framework/php/inc-avia-importer.php:224
 msgid "Error(s) returned:"
-msgstr ""
+msgstr "Fout(en) geretourneerd:"
 
 #: config-templatebuilder/avia-template-builder/php/generic-helper.class.php:393
 #, php-format
@@ -10448,6 +10518,9 @@ msgid ""
 "plugins or you have existing content that is in conflict with the demo "
 "content."
 msgstr ""
+"Er zijn fouten opgetreden bij het importeren van de demo. Misschien heeft u "
+"niet alle benodigde plugins geactiveerd of heeft u bestaande inhoud die in "
+"conflict is met de demo inhoud."
 
 #: framework/php/auto-updates/auto-updates.php:557
 #, php-format
@@ -10551,6 +10624,9 @@ msgstr "Extra Groot"
 #: framework/php/class-breadcrumb-trail.php:386
 #: framework/php/class-breadcrumb-trail.php:386
 #: framework/php/class-breadcrumb-trail.php:397
+#: framework/php/class-breadcrumb.php:491
+#: framework/php/class-breadcrumb.php:491
+#: framework/php/class-breadcrumb.php:504
 msgid "F"
 msgstr "F"
 
@@ -10659,11 +10735,11 @@ msgstr "Draag gerust bij!"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2693
 msgid "Fetch coordinates"
-msgstr ""
+msgstr "Coördinaten ophalen"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2695
 msgid "Fetch coordinates for address above"
-msgstr ""
+msgstr "Coördinaten ophalen voor bovenstaand adres"
 
 #: framework/php/class-framework-widgets.php:2296
 msgid "Fetch coordinates!"
@@ -10671,7 +10747,7 @@ msgstr "Coördinaten ophalen!"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2696
 msgid "Fetching address ......."
-msgstr ""
+msgstr "Ophalen adres ......."
 
 #: framework/php/class-framework-widgets.php:2297
 msgid "Fetching the coordinates. Please wait..."
@@ -11296,11 +11372,13 @@ msgstr "Submenu volledige breedte"
 
 #: framework/php/class-breadcrumb-legacy.php:490
 #: framework/php/class-breadcrumb-trail.php:370
+#: framework/php/class-breadcrumb.php:474
 msgid "g a"
 msgstr "g a"
 
 #: framework/php/class-breadcrumb-legacy.php:482
 #: framework/php/class-breadcrumb-trail.php:362
+#: framework/php/class-breadcrumb.php:466
 msgid "g:i a"
 msgstr "g:i a"
 
@@ -11526,7 +11604,7 @@ msgstr "Google Webfont Instellingen:"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:408
 msgid "Grayscale"
-msgstr ""
+msgstr "Grijswaarden"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:240
 msgid "great"
@@ -11626,6 +11704,7 @@ msgstr "Raster Titel 2"
 msgid "Grid Title 3"
 msgstr "Raster Titel 3"
 
+#: includes/admin/options_files/avia_custom_elements.php:167
 #: includes/admin/option_tabs/avia_element_templates.php:147
 msgid "Group buttons similar to ALB"
 msgstr "Groepeer knoppen vergelijkbaar met ALB"
@@ -11658,7 +11737,6 @@ msgid "Header"
 msgstr "Header"
 
 #: includes/admin/option_tabs/avia_header.php:327
-#, fuzzy
 #| msgid "Header behavior"
 msgid "Header Behavior"
 msgstr "Header gedrag"
@@ -11931,6 +12009,8 @@ msgstr "Hier kunt u de Google Map locaties toevoegen, verwijderen en wijzigen."
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:221
 msgid "Here you can add, remove and edit the marker locations for your map."
 msgstr ""
+"Hier kunt u de markeringslocaties voor uw kaart toevoegen, verwijderen en "
+"bewerken."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:262
 msgid "Here you can add, remove and edit the metadata you want to display."
@@ -12156,6 +12236,9 @@ msgid ""
 "org/wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">"
 "OpenStreetMap Privacy Policy</a>."
 msgstr ""
+"Hier vindt u informatie over het <a href=\"https://wiki.osmfoundation."
+"org/wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"OpenStreetMap privacybeleid</a>."
 
 #: config-templatebuilder/avia-shortcodes/textblock.php:165
 #: config-templatebuilder/avia-shortcodes/textblock.php:166
@@ -12307,14 +12390,17 @@ msgstr "Header verbergen op deze pagina"
 msgid "Hide hidden products"
 msgstr "Verberg verborgen producten"
 
+#: includes/admin/options_files/avia_custom_elements.php:100
 #: includes/admin/option_tabs/avia_element_templates.php:80
 msgid "Hide locked options"
 msgstr "Verberg vergrendelde opties"
 
+#: includes/admin/options_files/avia_custom_elements.php:92
 #: includes/admin/option_tabs/avia_element_templates.php:72
 msgid "Hide locked options for all users"
 msgstr "Verberg vergrendelde opties voor alle gebruikers"
 
+#: includes/admin/options_files/avia_custom_elements.php:93
 #: includes/admin/option_tabs/avia_element_templates.php:73
 msgid "Hide locked options for non admins"
 msgstr "Verberg vergrendelde opties voor niet-beheerders"
@@ -12407,6 +12493,7 @@ msgstr "Verberg de Videobediening"
 msgid "Hide video on Mobile Devices?"
 msgstr "Op mobiele apparaten video verbergen?"
 
+#: includes/admin/options_files/avia_custom_elements.php:173
 #: includes/admin/option_tabs/avia_element_templates.php:153
 msgid "Hierarchical Custom Elements"
 msgstr "Hiërarchie aangepaste elementen"
@@ -12490,7 +12577,7 @@ msgstr "Markeer titelbalk van geopende toggles"
 
 #: framework/php/class-breadcrumb-legacy.php:221
 #: framework/php/class-breadcrumb-trail.php:90
-#: framework/php/class-megamenu.php:661
+#: framework/php/class-breadcrumb.php:205 framework/php/class-megamenu.php:661
 msgid "Home"
 msgstr "Home"
 
@@ -12723,6 +12810,7 @@ msgstr "Hybride"
 
 #: framework/php/class-breadcrumb-legacy.php:486
 #: framework/php/class-breadcrumb-trail.php:366
+#: framework/php/class-breadcrumb.php:470
 msgid "i"
 msgstr "i"
 
@@ -12747,11 +12835,11 @@ msgstr "Icoon"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:726
 msgid "Icon Anchor Left"
-msgstr ""
+msgstr "Icoon anker links"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:736
 msgid "Icon Anchor Top"
-msgstr ""
+msgstr "Icoon anker bovenkant"
 
 #: includes/admin/register-backend-advanced-styles.php:524
 msgid "Icon background"
@@ -12849,7 +12937,7 @@ msgstr "Zichtbaarheid icoon"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:706
 msgid "Icon Width"
-msgstr ""
+msgstr "Icoonbreedte"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:173
 msgid "IconBox Icon"
@@ -12942,7 +13030,7 @@ msgid ""
 "If checked the elements in your header will always be placed at the browser "
 "window edge, instead of matching the content width"
 msgstr ""
-"Indien geselecteerd worden de elementen in uw header altijd aan de rand van "
+"Indien ingeschakeld worden de elementen in uw header altijd aan de rand van "
 "de browser geplaatst en dus niet uitgelijnd met de inhoud"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:367
@@ -12954,7 +13042,7 @@ msgid ""
 "If checked the header will stick to the top of your site if user scrolls "
 "down (ignored on smartphones)"
 msgstr ""
-"Indien geselecteerd blijft de header vastgeplakt aan de bovenkant van uw "
+"Indien ingeschakeld blijft de header vastgeplakt aan de bovenkant van uw "
 "website zodra de gebruiker naar beneden scrollt (wordt genegeerd op mobiele "
 "apparaten)"
 
@@ -12972,7 +13060,7 @@ msgid ""
 "If checked the small top bar above the header with social icons, secondary "
 "menu and extra information will no longer stick to the top"
 msgstr ""
-"Indien aangevinkt zal de bovenste balk met sociale media-iconen, secundair "
+"Indien ingeschakeld zal de bovenste balk met sociale media-iconen, secundair "
 "menu en extra informatie niet meer boven de header vastgeplakt blijven"
 
 #: includes/admin/option_tabs/avia_header.php:346
@@ -12980,7 +13068,7 @@ msgid ""
 "If checked the sticky header will shrink once the user scrolls down (ignored "
 "on smartphones + tablets)"
 msgstr ""
-"Indien geselecteerd zal de vastgeplakte header kleiner worden zodra de "
+"Indien ingeschakeld zal de vastgeplakte header kleiner worden zodra de "
 "gebruiker naar beneden scrollt (wordt genegeerd op mobiele apparaten en "
 "tablets)"
 
@@ -12989,7 +13077,6 @@ msgid "If checked you can enter a title with link for this element"
 msgstr "Vink aan om een titel met link in te voeren voor dit element"
 
 #: includes/admin/option_tabs/avia_menu.php:197
-#, fuzzy
 #| msgid ""
 #| "If enabled a search Icon will be appended to the main menu that allows "
 #| "the users to perform an 'AJAX' Search"
@@ -13077,6 +13164,10 @@ msgid ""
 "and import dummy posts and pages that will definitely help to understand how "
 "those tasks are done."
 msgstr ""
+"Als u nieuw bent met WordPress of problemen heeft met het maken van "
+"berichten of pagina's die lijken op de Thema Demo dan kunt u de gewenste "
+"demo's van onze server downloaden en dummy berichten en pagina's importeren "
+"die zeker zullen helpen om te begrijpen hoe deze taken worden gedaan."
 
 #: search.php:32
 msgid "If you are not happy with the results below please do another search"
@@ -13479,7 +13570,7 @@ msgstr "Afbeeldingen worden voor het geselecteerde aantal seconden getoond"
 
 #: framework/php/class-htmlhelper.php:2008
 msgid "Import dummy data"
-msgstr ""
+msgstr "Importeren dummy gegevens"
 
 #: framework/php/class-htmlhelper.php:1995
 #, php-format
@@ -13487,6 +13578,8 @@ msgid ""
 "Import for demo %s didn't work! <br/> You might want to try reloading the "
 "page and then try again."
 msgstr ""
+"Importeren voor demo %s werkte niet! <br/> U zou kunnen proberen de pagina "
+"opnieuw te laden en het dan opnieuw te proberen."
 
 #: includes/admin/option_tabs/avia_upload.php:172
 msgid "Import Layout Builder Templates File"
@@ -13498,11 +13591,11 @@ msgstr "Importeer instellingen van het hoofdthema"
 
 #: framework/php/inc-avia-importer.php:37
 msgid "Import started"
-msgstr ""
+msgstr "Import gestart"
 
 #: framework/php/class-htmlhelper.php:2023
 msgid "Import started."
-msgstr ""
+msgstr "Import gestart."
 
 #: includes/admin/option_tabs/avia_upload.php:75
 msgid "Import Theme Settings File"
@@ -13618,7 +13711,7 @@ msgstr "Importeren: Eén-pagina portfolio demo"
 
 #: includes/admin/register-demo-import.php:354
 msgid "Import: One Page Restaurant Demo"
-msgstr ""
+msgstr "Importeren: Eén-pagina restaurant demo"
 
 #: includes/admin/register-demo-import.php:370
 msgid "Import: One Page Wedding Demo"
@@ -13670,7 +13763,7 @@ msgstr "Belangrijke informatie voor WPML:"
 
 #: framework/php/class-htmlhelper.php:2496
 msgid "Important: "
-msgstr ""
+msgstr "Belangrijk:"
 
 #: framework/php/class-htmlhelper.php:1994
 #, php-format
@@ -13679,6 +13772,10 @@ msgid ""
 "It is highly recommended to use a clean install to import a demo to avoid "
 "conflict with existing content and break import. Proceed anyways?"
 msgstr ""
+"Het importeren van demo-inhoud %s zal uw huidige Thema Optie Instellingen "
+"overschrijven. Het wordt sterk aangeraden om een schone installatie te "
+"gebruiken om een demo te importeren om conflicten met bestaande inhoud te "
+"voorkomen en het importeren te onderbreken. Wilt u toch doorgaan?"
 
 #: includes/loop-author.php:139 includes/loop-index.php:397
 #: includes/loop-search.php:94
@@ -13794,6 +13891,7 @@ msgstr "Maak de kolom groter"
 msgid "Individual height"
 msgstr "Individuele hoogte"
 
+#: includes/admin/options_files/avia_custom_elements.php:199
 #: includes/admin/option_tabs/avia_element_templates.php:179
 msgid "Individually select subitem custom element templates"
 msgstr "Subitems sjablonen voor aangepaste elementen individueel selecteren"
@@ -13849,7 +13947,7 @@ msgstr "Initiële actieve afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:252
 msgid "Initial Map Position"
-msgstr ""
+msgstr "Oorspronkelijke kaartpositie"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:242
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:202
@@ -13865,7 +13963,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:348
 msgid "Initial Zoom Level"
-msgstr ""
+msgstr "Initieel zoomniveau"
 
 #: includes/admin/register-backend-advanced-styles.php:22
 msgid "Inline"
@@ -13934,7 +14032,7 @@ msgstr "Reserve afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:690
 msgid "Insert Icon Image"
-msgstr ""
+msgstr "Icoon afbeelding invoegen"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:701
 #: config-templatebuilder/avia-shortcodes/section.php:392
@@ -14135,7 +14233,11 @@ msgid ""
 "target=\"_blank\" rel=\"noopener noreferrer\">host your own OpenStreetMap "
 "Tiles</a>."
 msgstr ""
+"Het is zelfs mogelijk om <a href=\"https://openmaptiles.org/\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">eigen OpenStreetMap Tiles</a> "
+"te hosten."
 
+#: includes/admin/options_files/avia_custom_elements.php:208
 #: includes/admin/option_tabs/avia_element_templates.php:188
 msgid ""
 "It is not recommended to create/edit a CET from the CPT screen because of "
@@ -14237,6 +14339,7 @@ msgstr "Items padding"
 
 #: framework/php/class-breadcrumb-legacy.php:508
 #: framework/php/class-breadcrumb-trail.php:387
+#: framework/php/class-breadcrumb.php:492
 msgid "j"
 msgstr "j"
 
@@ -14269,7 +14372,7 @@ msgstr "Behoud snelle CSS inhoud"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:285
 msgid "Keyboard Support"
-msgstr ""
+msgstr "Toetsenbord ondersteuning"
 
 #. Author of the theme
 msgid "Kriesi"
@@ -14285,7 +14388,7 @@ msgstr "Uitlijning van Label/Verzenden Knop"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2711
 msgid "Laitude"
-msgstr ""
+msgstr "Breedtegraad"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:393
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:282
@@ -14511,26 +14614,28 @@ msgid ""
 "Leaflet is not active at the moment. We cannot find the coordinates for your "
 "address."
 msgstr ""
+"Leaflet is op dit moment niet actief. We kunnen de coördinaten voor uw adres "
+"niet vinden."
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:104
 msgid "Leaflet Javascript Library css File"
-msgstr ""
+msgstr "Leaflet Javascript Bibliotheek css bestand"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:88
 msgid "Leaflet Javascript Library js File"
-msgstr ""
+msgstr "Leaflet Javascript Bibliotheek js bestand"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:55
 msgid "Leaflet Map"
-msgstr ""
+msgstr "Leaflet kaart"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:57
 msgid "Leaflet Map Plugin"
-msgstr ""
+msgstr "Leaflet kaart plugin"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:73
 msgid "Leaflet Marker Item"
-msgstr ""
+msgstr "Leaflet markeringsitem"
 
 #: config-woocommerce/config.php:2104
 msgid "Learn more"
@@ -15204,7 +15309,7 @@ msgstr "Hoogte landkaart"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:302
 msgid "Map Interaction"
-msgstr ""
+msgstr "Kaart interactie"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:300
 msgid "Map Settings"
@@ -15212,7 +15317,7 @@ msgstr "Kaart instellingen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:467
 msgid "Map Size"
-msgstr ""
+msgstr "Kaart omvang"
 
 #: framework/php/class-framework-widgets.php:2322
 msgid "Map Type:"
@@ -15270,7 +15375,7 @@ msgstr "Marges"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:659
 msgid "Marker"
-msgstr ""
+msgstr "Markering"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:555
 msgid "Marker And Tooltip"
@@ -15279,23 +15384,23 @@ msgstr "Markering en tooltip"
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:605
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2641
 msgid "Marker Location"
-msgstr ""
+msgstr "Markeringslocatie"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:626
 msgid "Marker Popup"
-msgstr ""
+msgstr "Markeringspopup"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:273
 msgid "Marker Popup Handling"
-msgstr ""
+msgstr "Markeringspopup behandeling"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:634
 msgid "Marker Popup Visibility"
-msgstr ""
+msgstr "Markeringspopup zichtbaarheid"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:751
 msgid "Marker Style"
-msgstr ""
+msgstr "Markeringstijl"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:504
 msgid "Marker Tooltip"
@@ -15303,7 +15408,7 @@ msgstr "Tekstkader bij markering"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:241
 msgid "Markers"
-msgstr ""
+msgstr "Markeringen"
 
 #: functions.php:229
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:36
@@ -15330,7 +15435,7 @@ msgstr "Maximale inhoudsbreedte website"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:366
 msgid "Maximum Zoom Level"
-msgstr ""
+msgstr "Maximaal zoomniveau"
 
 #: includes/admin/option_tabs/avia_performance.php:148
 msgid "MDN font-display"
@@ -15651,7 +15756,7 @@ msgstr "minimale versie %s"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:357
 msgid "Minimum Zoom Level"
-msgstr ""
+msgstr "Minimaal zoomniveau"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:51
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:69
@@ -15662,6 +15767,7 @@ msgstr "Minuten"
 
 #: framework/php/class-breadcrumb-legacy.php:486
 #: framework/php/class-breadcrumb-trail.php:366
+#: framework/php/class-breadcrumb.php:470
 #, php-format
 msgid "Minute %1$s"
 msgstr "Minuut %1$s"
@@ -15740,7 +15846,7 @@ msgstr "Mobiel reserve afbeelding link"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:361
 msgid "Mobile Flip Box Close Behaviour"
-msgstr ""
+msgstr "Flip Box sluitgedrag op mobiel"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:273
 msgid "Mobile Menu Display"
@@ -16281,6 +16387,8 @@ msgid ""
 "No results found. Please check your input, e.g. spelling of street, city, ..."
 "."
 msgstr ""
+"Geen resultaten gevonden. Gelieve uw invoer te controleren, bv. spelling van "
+"straat, stad, ...."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1095
 msgid "No revisions"
@@ -16392,7 +16500,7 @@ msgstr "Geen validatie"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:318
 msgid "No Zoom Control"
-msgstr ""
+msgstr "Geen zoom besturing"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:459
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:656
@@ -16502,7 +16610,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:620
 msgid "Not draggable"
-msgstr ""
+msgstr "Niet versleepbaar"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1097
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1424
@@ -16768,6 +16876,8 @@ msgstr "Open enkel de Facebook pagina - er worden geen gegevens verstuurd"
 msgid ""
 "Only requests to the OpenStreetMaps databases are passed to external servers."
 msgstr ""
+"Alleen verzoeken aan de OpenStreetMaps databases worden doorgegeven aan "
+"externe servers."
 
 #: includes/admin/option_tabs/avia_avia.php:277
 #| msgid ""
@@ -16916,21 +17026,24 @@ msgstr "Enkel met een knop openen"
 
 #: includes/admin/register-admin-options.php:237
 msgid "OpenStreetMaps"
-msgstr ""
+msgstr "OpenStreetMaps"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:24
 msgid "OpenStreetMaps (OSM) And Leaflet"
-msgstr ""
+msgstr "OpenStreetMaps (OSM) en Leaflet"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:33
 msgid "OpenStreetMaps and Leaflet"
-msgstr ""
+msgstr "OpenStreetMaps en Leaflet"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:13
 msgid ""
 "OpenStreetMaps and Leaflet are open source projects that allow to display "
 "mobile friendly maps without using a key or account."
 msgstr ""
+"OpenStreetMaps en Leaflet zijn open source projecten die het mogelijk maken "
+"mobielvriendelijke kaarten weer te geven zonder gebruik te maken van een "
+"sleutel of account."
 
 #: includes/helper-privacy.php:616 includes/helper-privacy.php:617
 msgid "Operating site internal cookie"
@@ -16968,11 +17081,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1020
 msgid "option1=\"value1\""
-msgstr ""
+msgstr "optie1=\"waarde1\""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1021
 msgid "option2=\"value2\""
-msgstr ""
+msgstr "optie2=\"waarde2\""
 
 #: includes/admin/option_tabs/avia_performance.php:164
 msgid "optional"
@@ -16980,11 +17093,11 @@ msgstr "optioneel"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2685
 msgid "Optional County"
-msgstr ""
+msgstr "Optionele provincie"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2677
 msgid "Optional State"
-msgstr ""
+msgstr "Optionele staat"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:193
 msgid "Optional Tooltip"
@@ -16992,11 +17105,11 @@ msgstr "Eventueel tekstkader"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2686
 msgid "Optionally enter County identify the location"
-msgstr ""
+msgstr "Optioneel kunt u de provincie invoeren om de locatie te identificeren"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2678
 msgid "Optionally enter State to identify the location"
-msgstr ""
+msgstr "Optioneel kunt u de staat invoeren om de locatie te identificeren"
 
 #: includes/admin/option_tabs/avia_builder.php:139
 msgid "Options Toggles In Modal Popup"
@@ -17420,6 +17533,8 @@ msgid ""
 "Please check the changelog to see which ALB elements are supporting this "
 "feature."
 msgstr ""
+"Kijk in de changelog om te zien welke ALB elementen deze functie "
+"ondersteunen."
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
 msgid "Please check your API key"
@@ -17430,18 +17545,24 @@ msgid ""
 "Please don't reload the page. You will be notified as soon as deleting the "
 "downloaded file has finished! (Usually within a few minutes) :)"
 msgstr ""
+"Herlaad de pagina alstublieft niet. U krijgt bericht zodra het verwijderen "
+"van het gedownloade bestand is voltooid! (Meestal binnen een paar minuten) :)"
 
 #: framework/php/class-htmlhelper.php:2029
 msgid ""
 "Please don't reload the page. You will be notified as soon as the download "
 "has finished! (Usually within a few minutes) :)"
 msgstr ""
+"Gelieve de pagina niet te herladen. U krijgt bericht zodra de download "
+"voltooid is! (Meestal binnen een paar minuten) :)"
 
 #: framework/php/class-htmlhelper.php:2024
 msgid ""
 "Please don't reload the page. You will be notified as soon as the import has "
 "finished! (Usually within a few minutes) :)"
 msgstr ""
+"Gelieve de pagina niet te herladen. U krijgt bericht zodra de import is "
+"voltooid! (Meestal binnen een paar minuten) :)"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:430
 msgid ""
@@ -17487,6 +17608,8 @@ msgid ""
 "Please install and activate the plugin %1$sLeaflet Map%2$s to display your "
 "maps."
 msgstr ""
+"Installeer en activeer de plugin %1$sLeaflet Map%2$s om uw kaarten weer te "
+"geven."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:31
 #, php-format
@@ -17767,7 +17890,7 @@ msgstr "Bericht gebruik - welke elementen worden gebruikt in dit bericht"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2653
 msgid "Postalcode (Zip Code)"
-msgstr ""
+msgstr "Postcode"
 
 #: config-templatebuilder/avia-template-builder/php/html-helper.class.php:2766
 msgid "Postcode"
@@ -17828,7 +17951,7 @@ msgstr "Voorbeeld afbeelding"
 #: framework/php/class-htmlhelper.php:2016
 #, php-format
 msgid "Preview image for: %s"
-msgstr ""
+msgstr "Voorbeeldafbeelding voor: %s"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:385
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:335
@@ -18409,7 +18532,7 @@ msgstr "Responsieve afbeeldingen en lazy loading"
 
 #: includes/admin/option_tabs/avia_performance.php:417
 msgid "Responsive Images For Lightbox (currently in beta only)"
-msgstr ""
+msgstr "Responsieve afbeeldingen voor Lightbox (momenteel alleen in beta)"
 
 #: includes/admin/option_tabs/avia_performance.php:451
 msgid "Responsive Images Thumbnails Overview:"
@@ -18627,7 +18750,7 @@ msgstr "zegt:"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:375
 msgid "Scale Information"
-msgstr ""
+msgstr "Informatie over de schaal"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1896
 msgid "Scale to fit (scales image so the whole image is always visible)"
@@ -18676,10 +18799,11 @@ msgstr "Scroll naar bovenzijde"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:324
 msgid "Scroll Wheel Zoom"
-msgstr ""
+msgstr "Muiswiel zoomen"
 
 #: functions-enfold.php:155 functions-enfold.php:160 searchform.php:10
 #: framework/php/class-breadcrumb-legacy.php:138
+#: framework/php/class-breadcrumb.php:125
 #: config-templatebuilder/avia-shortcodes/search/search.php:31
 msgid "Search"
 msgstr "Zoek"
@@ -18730,13 +18854,14 @@ msgstr "Zoekresultaten tekstkleur"
 
 #: framework/php/class-breadcrumb-legacy.php:533
 #: framework/php/class-breadcrumb-trail.php:409
+#: framework/php/class-breadcrumb.php:517
 #, php-format
 msgid "Search results for &quot;%1$s&quot;"
 msgstr "Zoekresultaten voor &quot;%1$s&quot;"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:55
 msgid "Search Results for address:"
-msgstr ""
+msgstr "Zoekresultaten voor adres:"
 
 #: config-woocommerce/config-356.php:613 config-woocommerce/config.php:726
 #: framework/php/function-set-avia-frontend.php:1547
@@ -19576,6 +19701,7 @@ msgstr ""
 msgid "Select if the iconbox should receive a border around the content"
 msgstr "Bepaal of u de icoon-box wilt omkaderen, als een soort kaartje"
 
+#: includes/admin/options_files/avia_custom_elements.php:190
 #: includes/admin/option_tabs/avia_element_templates.php:170
 msgid ""
 "Select if you want all subitems of an element to use the same subitem "
@@ -19619,7 +19745,11 @@ msgid ""
 "Select if you want to grayscale the map. 0% is unchanged, 100% complete gray."
 " This feature is not supported by older browsers."
 msgstr ""
+"Selecteer of u de kaart in grijstinten wilt weergeven. 0% is onveranderd, "
+"100% volledig grijs. Deze functie wordt niet ondersteund door oudere "
+"browsers."
 
+#: includes/admin/options_files/avia_custom_elements.php:206
 #: includes/admin/option_tabs/avia_element_templates.php:186
 msgid ""
 "Select if you want to have access to the custom elements via the default WP "
@@ -19641,6 +19771,7 @@ msgstr ""
 "Selecteer of u aangepaste thema-stijlen wilt zien wanneer u een pagina / "
 "bericht bewerkt met de blok-editor."
 
+#: includes/admin/options_files/avia_custom_elements.php:158
 #: includes/admin/option_tabs/avia_element_templates.php:138
 msgid ""
 "Select if you want to show all your custom element shortcode buttons in a "
@@ -19659,6 +19790,7 @@ msgstr ""
 "Selecteer of u de standaard Google-badge wilt tonen of alleen een bericht "
 "onder de verzendknop. Dit is verplicht als je V3 wilt gebruiken."
 
+#: includes/admin/options_files/avia_custom_elements.php:120
 #: includes/admin/option_tabs/avia_element_templates.php:100
 msgid ""
 "Select if you want to show the locked options by default when opening the "
@@ -19794,6 +19926,8 @@ msgstr "Selecteer het basiselement voor uw nieuwe aangepaste element."
 msgid ""
 "Select the behaviour of an open flipbox on mobile devices and touch screens"
 msgstr ""
+"Kies het gedrag van een geopende flipbox op mobiele toestellen en "
+"aanraakschermen"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:804
 msgid "Select the Carousel Loop Type"
@@ -19833,11 +19967,11 @@ msgstr "Selecteer de opening tussen de afbeeldingen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:717
 msgid "Select the height of the icon in pixel"
-msgstr ""
+msgstr "Selecteer de hoogte van het icoon in pixels"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:454
 msgid "Select the height of the map in pixel."
-msgstr ""
+msgstr "Selecteer de hoogte van de kaart in pixels."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:225
 msgid "Select the hotspot styling"
@@ -19845,7 +19979,7 @@ msgstr "Selecteer de stijl van de hotspot"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:727
 msgid "Select the left position of the icon anchor in pixel"
-msgstr ""
+msgstr "Selecteer de linker positie van het icoon anker in pixels"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:355
 msgid ""
@@ -19858,11 +19992,11 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:105
 msgid "Select the location for the loaded css file"
-msgstr ""
+msgstr "Selecteer de locatie voor het geladen css-bestand"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:89
 msgid "Select the location for the loaded javascript file"
-msgstr ""
+msgstr "Selecteer de locatie voor het geladen javascript bestand"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:286
 msgid ""
@@ -19896,6 +20030,7 @@ msgstr "Selecteer de doorzichtigheid van uw gekleurde banner overlay"
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:761
 msgid "Select the opacity the marker (0 = no opacity)"
 msgstr ""
+"Selecteer de ondoorzichtigheid van de marker (0 = geen ondoorzichtigheid)"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:248
 msgid "Select the post to show metadata."
@@ -19950,7 +20085,7 @@ msgstr "Selecteer de tijdzone van uw datum."
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:737
 msgid "Select the top position of the icon anchor in pixel"
-msgstr ""
+msgstr "Selecteer de bovenste positie van het icoon anker in pixels"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:632
 #: config-templatebuilder/avia-shortcodes/section.php:309
@@ -20028,12 +20163,13 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:707
 msgid "Select the width of the icon in pixel"
-msgstr ""
+msgstr "Selecteer de breedte van het icoon in pixels"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:445
 #, php-format
 msgid "Select the width of the map in % of the container containing the map."
 msgstr ""
+"Selecteer de breedte van de kaart in % van de container die de kaart bevat."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:471
 msgid "Select the width of the tooltip. Height is based on the content"
@@ -20441,7 +20577,6 @@ msgstr ""
 "Stel een aangepaste achtergrondkleur in. Een willekeurige hex-kleurcode."
 
 #: includes/admin/option_tabs/avia_menu.php:312
-#, fuzzy
 #| msgid ""
 #| "Set a custom color of the 'Burger' Icon. Leave empty to use the default "
 #| "menu color"
@@ -20449,8 +20584,8 @@ msgid ""
 "Set a custom color of the &quot;Burger&quot; Icon. Leave empty to use the "
 "default menu color"
 msgstr ""
-"Stel een aangepaste kleur in voor het 'hamburger-icoon'. Laat leeg om de "
-"standaard menu-kleur te gebruiken"
+"Stel een aangepaste kleur in voor het &quot;hamburger-icoon&quot;. Laat leeg "
+"om de standaard menu-kleur te gebruiken"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:416
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:456
@@ -20721,7 +20856,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_menu.php:259
 msgid "Set the style of the &quot;Burger&quot; Icon"
-msgstr ""
+msgstr "Stel de stijl van het &quot;hamburger&quot; icoon in"
 
 #: includes/admin/option_tabs/avia_menu.php:275
 msgid ""
@@ -20857,6 +20992,8 @@ msgid ""
 "Shortcodes that are added with filter or used e.g. in plugins are NOT "
 "recognised as &quot;in use&quot;."
 msgstr ""
+"Snelkoppelingen die zijn toegevoegd met een filter of gebruikt worden in "
+"bijv. plugins worden NIET herkend als &quot;in gebruik&quot;."
 
 #: includes/admin/option_tabs/avia_cookie.php:223
 msgid "Shortcodes you can use in your Privacy Policy"
@@ -20989,6 +21126,7 @@ msgstr "Toon in plaats daarvan een mededeling op het contactformulier"
 msgid "Show a preloader when opening a page on your site."
 msgstr "Toon een preloader als een pagina wordt geopend op uw site."
 
+#: includes/admin/options_files/avia_custom_elements.php:137
 #: includes/admin/option_tabs/avia_cookie.php:751
 #: includes/admin/option_tabs/avia_element_templates.php:117
 #: includes/admin/option_tabs/avia_performance.php:82
@@ -21108,10 +21246,12 @@ msgstr ""
 msgid "Show Locked Options"
 msgstr "Toon vergrendelde opties"
 
+#: includes/admin/options_files/avia_custom_elements.php:101
 #: includes/admin/option_tabs/avia_element_templates.php:81
 msgid "Show locked options"
 msgstr "Toon vergrendelde opties"
 
+#: includes/admin/options_files/avia_custom_elements.php:94
 #: includes/admin/option_tabs/avia_element_templates.php:74
 msgid "Show locked options to all users"
 msgstr "Toon vergrendelde opties aan alle gebruikers"
@@ -21141,7 +21281,7 @@ msgstr "Toon info van ontleder"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:642
 msgid "Show popup on pageload"
-msgstr ""
+msgstr "Toon popup bij het laden van de pagina"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2915
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:3031
@@ -21412,6 +21552,7 @@ msgstr "Enkel-bericht met kleine voorbeeldafbeelding (uitgelichte afbeelding)"
 #: includes/admin/option_tabs/avia_shop.php:31
 msgid "Single Product Added To Cart Message Box For ALB Products"
 msgstr ""
+"Berichtvenster bij toevoegen één product aan winkelwagen voor ALB-producten"
 
 #: includes/admin/option_tabs/avia_google.php:177
 msgid "Site Key Version 2"
@@ -22082,7 +22223,7 @@ msgstr "Straat adres:"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2645
 msgid "Street and Number"
-msgstr ""
+msgstr "Straat en huisnummer"
 
 #: includes/admin/option_tabs/avia_styling.php:484
 msgid "Stretch Fullscreen"
@@ -22204,7 +22345,7 @@ msgstr "Stijl"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:673
 msgid "Styling of Marker"
-msgstr ""
+msgstr "Stijl van markering"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:445
 msgid "Sub-Title Font Sizes"
@@ -22677,6 +22818,9 @@ msgid ""
 "The Auto importing script could not be loaded. Please use the wordpress "
 "importer and import the XML file <pre>%s</pre> manually."
 msgstr ""
+"Het automatisch importeer script kon niet geladen worden. Gelieve de "
+"WordPress importeerfunctie te gebruiken en het XML bestand <pre>%s</pre> "
+"manueel te importeren."
 
 #: config-templatebuilder/avia-template-builder/config/pointers.php:14
 msgid ""
@@ -22699,6 +22843,8 @@ msgid ""
 "The bbPress Plugin is currently not active. Please install and activate it, "
 "then reload this page in order to be able to import this demo"
 msgstr ""
+"De bbPress Plugin is momenteel niet actief. Installeer en activeer het, "
+"herlaad dan deze pagina om deze demo te kunnen importeren"
 
 #: config-templatebuilder/avia-template-builder/config/pointers.php:14
 msgid "The Builder is available on Pages and Single Portfolio Entries"
@@ -22952,6 +23098,7 @@ msgstr ""
 "Met de opties hier kunt u uw thema afstemmen en versnellen, afhankelijk van "
 "uw behoeften."
 
+#: includes/admin/options_files/avia_ext_tabs.php:20
 #: includes/admin/option_tabs/avia_ext_avia_ext.php:20
 msgid ""
 "The options on this page allow you to activate and use extended features of "
@@ -23119,6 +23266,11 @@ msgid ""
 "import the XML file (should be located in your themes folder: dummy.xml) "
 "manually <a href=\"/wp-admin/import.php\">here.</a>"
 msgstr ""
+"Het XML-bestand <pre>%s</pre> met de demo-inhoud is niet beschikbaar of kon "
+"niet worden gelezen.<br/> U kunt proberen de bestandstoegang in te stellen "
+"op chmod 777.<br/>Als dit niet werkt gebruik dan de WordPress "
+"importeerfunctie en importeer het XML-bestand (moet in uw themes map staan: "
+"dummy.xml) handmatig <a href=\"/wp-admin/import.php\">hier.</a>"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1728
 msgid "Theme Color"
@@ -23150,11 +23302,15 @@ msgid ""
 "Theme default location is:  .../themes/enfold/config-leaflet-"
 "maps/assets/leafletjs"
 msgstr ""
+"De standaardlocatie van het thema is: .../themes/enfold/config-leaflet-"
+"maps/assets/leafletjs"
 
 #: includes/admin/register-admin-options.php:227
+#: includes/admin/options_files/avia_ext_page.php:16
 msgid "Theme Extensions"
 msgstr "Thema uitbreidingen"
 
+#: includes/admin/options_files/avia_ext_tabs.php:19
 #: includes/admin/option_tabs/avia_ext_avia_ext.php:19
 msgid "Theme Extensions Options"
 msgstr "Thema uitbreidingen opties"
@@ -23170,7 +23326,7 @@ msgstr "Thema opties"
 
 #: includes/admin/option_tabs/avia_upload.php:92
 msgid "Theme Reset All Options Button"
-msgstr "Theme Alle opties terugzetten knop"
+msgstr "Alle thema-opties terugzetten knop"
 
 #: framework/php/auto-updates/auto-updates.php:212
 msgid "Theme Update"
@@ -23268,6 +23424,7 @@ msgstr "Deze instellingen veranderen de permalinks van"
 msgid "thin"
 msgstr "dun"
 
+#: includes/admin/options_files/avia_custom_elements.php:174
 #: includes/admin/option_tabs/avia_element_templates.php:154
 msgid ""
 "This allows you to use your custom elements as a base for another custom "
@@ -23323,6 +23480,8 @@ msgid ""
 "This element has been disabled in your theme options. You can enable it in "
 "Enfold -&raquo; Theme Extensions -&raquo; Leaflet Maps."
 msgstr ""
+"Dit element is uitgeschakeld in uw thema-opties. U kunt het inschakelen in "
+"Enfold -&raquo; Thema Extensies -&raquo; Leaflet kaarten."
 
 #: framework/php/class-framework-widgets.php:2377
 msgid "This element is disabled in frontend with theme option"
@@ -23388,6 +23547,9 @@ msgid ""
 "Leaflet javascript library and OSM. You can download and activate the plugin "
 "here."
 msgstr ""
+"Deze gratis plugin biedt de noodzakelijke interface voor interactie met de "
+"Leaflet javascript bibliotheek en OSM. U kunt de plugin hier downloaden en "
+"activeren."
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:334
 msgid "This installation is connected to the Mailchimp account: "
@@ -23725,10 +23887,12 @@ msgid ""
 "To be independent from any external hoster we bundle the necessary basic "
 "Leaflet js library with the theme and store it on your server."
 msgstr ""
+"Om onafhankelijk te zijn van een externe hoster bundelen we de nodige basis "
+"Leaflet js bibliotheek met het thema en slaan het op uw server op."
 
 #: framework/php/inc-avia-download-demo.php:21
 msgid "To few parameters provided - a download is not possible."
-msgstr ""
+msgstr "Te weinig parameters verstrekt - een download is niet mogelijk."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:59
 msgid ""
@@ -23738,6 +23902,7 @@ msgstr ""
 "Om een element toe te voegen kunt op de knop drukken voor het gewenste "
 "element of u kunt de knop in het canvas slepen."
 
+#: includes/admin/options_files/avia_custom_elements.php:108
 #: includes/admin/option_tabs/avia_element_templates.php:88
 msgid ""
 "To reduce size of modal popup window locked options and their values are "
@@ -23984,7 +24149,7 @@ msgstr "Boven-Rechts-Radiaal"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:336
 msgid "Touch Zoom"
-msgstr ""
+msgstr "Zoom via aanraken"
 
 #: comments.php:114
 msgid "Trackbacks &amp; Pingbacks"
@@ -24163,7 +24328,7 @@ msgstr "Kon de map %s niet aanmaken."
 #: framework/php/inc-avia-download-demo.php:45
 #, php-format
 msgid "Unable to create the download folder <pre>%s</pre> for demo files."
-msgstr ""
+msgstr "Kan de download map <pre>%s</pre> voor demo bestanden niet aanmaken."
 
 #: framework/php/font-management/class-avia-font-management-base.php:642
 msgid "Unable to create the file."
@@ -24183,10 +24348,12 @@ msgstr "Kon het bestand niet uitpakken."
 msgid "Unable to rename/move file %s to %s"
 msgstr "Kon bestand %s niet hernoemen/verplaatsen naar %s"
 
+#: includes/admin/options_files/avia_custom_elements.php:129
 #: includes/admin/option_tabs/avia_element_templates.php:109
 msgid "Unchecked for all users"
 msgstr "Niet aangevinkt voor alle gebruikers"
 
+#: includes/admin/options_files/avia_custom_elements.php:130
 #: includes/admin/option_tabs/avia_element_templates.php:110
 msgid "Unchecked for non admins only"
 msgstr "Enkel niet aangevinkt voor niet-beheerders"
@@ -24232,13 +24399,11 @@ msgid "unknown"
 msgstr "onbekend"
 
 #: config-wpml/class-avia-wpml.php:576
-#, fuzzy
 #| msgid "Unknown Custom Element Typw"
 msgid "Unknown Custom Element Type"
 msgstr "Onbekend aangepast element Type"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1633
-#, fuzzy
 #| msgid "Unkonwn element name"
 msgid "Unknown element name"
 msgstr "Onbekende element naam"
@@ -24255,7 +24420,7 @@ msgstr "Ontgrendel %s"
 
 #: includes/admin/option_tabs/avia_header.php:355
 msgid "Unstick topbar"
-msgstr "Bovenste balk loslaten"
+msgstr "Bovenste balk niet vastplakken"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:460
 msgid "Upcoming"
@@ -24365,7 +24530,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:680
 msgid "Upload custom icon"
-msgstr ""
+msgstr "Upload aangepast icoon"
 
 #: config-templatebuilder/avia-shortcodes/section.php:537
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1292
@@ -24425,7 +24590,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:681
 msgid "Use a custom link"
-msgstr ""
+msgstr "Gebruik een aangepaste link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:178
 msgid "Use a custom set"
@@ -24766,7 +24931,7 @@ msgstr "Gebruik afbeelding als logo"
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:98
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:114
 msgid "Use manual added URL in settings page"
-msgstr ""
+msgstr "Gebruik handmatig toegevoegde URL in instellingen pagina"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:311
 msgid "Use order of playlist as selected"
@@ -24779,7 +24944,7 @@ msgstr "Gebruik origineel formaat (of pas in container indien te groot)"
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:97
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:113
 msgid "Use plugin default library"
-msgstr ""
+msgstr "Gebruik de standaardbibliotheek van de plugin"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:788
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:989
@@ -24842,7 +25007,7 @@ msgstr "Gebruik de tabel om gegevens in tabelvorm weer te geven"
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:96
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:112
 msgid "Use theme bundled library"
-msgstr ""
+msgstr "Gebruik de gebundelde bibliotheek van het thema"
 
 #: includes/admin/option_tabs/avia_builder.php:123
 msgid "Use Toggle Feature"
@@ -25134,7 +25299,7 @@ msgstr "Vimeo en Youtube video's insluiten:"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:773
 msgid "Visibility"
-msgstr ""
+msgstr "Zichtbaarheid"
 
 #: includes/helper-social-media.php:409
 msgid "Visit us on Yelp"
@@ -25151,6 +25316,7 @@ msgstr "VK link"
 
 #: framework/php/class-breadcrumb-legacy.php:514
 #: framework/php/class-breadcrumb-trail.php:392
+#: framework/php/class-breadcrumb.php:498
 msgid "W"
 msgstr "W"
 
@@ -25177,7 +25343,7 @@ msgid "Warning (Red)"
 msgstr "Waarschuwing (rood)"
 
 #: config-templatebuilder/avia-template-builder/php/html-helper.class.php:1032
-#, fuzzy, php-format
+#, php-format
 #| msgid ""
 #| "Warning: Characters %s might break ALB backend or frontend. <a "
 #| "href=\"https://kriesi.at/documentation/enfold/intro-to-layout-"
@@ -25206,6 +25372,7 @@ msgstr "Kan tijdelijke map niet maken"
 #: framework/php/inc-avia-download-demo.php:120
 msgid "Wasn't able to read demo files from downloaded zip file."
 msgstr ""
+"Demobestanden konden niet gelezen worden uit het gedownloade zip bestand."
 
 #: framework/php/inc-avia-download-demo.php:57
 #: framework/php/font-management/class-avia-font-management-base.php:417
@@ -25258,6 +25425,8 @@ msgid ""
 "We do not recommend to change any plugin settings unless you know what you "
 "are doing. All supported settings can be changed per map."
 msgstr ""
+"We raden niet aan om plugin instellingen te veranderen tenzij je weet wat je "
+"doet. Alle ondersteunde instellingen kunnen per kaart worden gewijzigd."
 
 #: includes/helper-privacy.php:2079
 msgid ""
@@ -25329,13 +25498,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1019
 msgid "We recommend to enter each option in a new line like:"
-msgstr ""
+msgstr "Wij raden aan om elke optie op een nieuwe regel in te voeren, zoals:"
 
 #: includes/admin/option_tabs/avia_demo.php:19
 msgid ""
 "We recommend to use a clean WP installation for importing a demo to avoid "
 "conflicts with existing content."
 msgstr ""
+"Wij raden aan om een schone WP installatie te gebruiken voor het importeren "
+"van een demo om conflicten met bestaande inhoud te voorkomen."
 
 #: includes/admin/option_tabs/avia_upload.php:16
 msgid ""
@@ -25386,6 +25557,9 @@ msgid ""
 "rel=\"noopener noreferrer\">Plugin Settings</a>. Please keep your plugin up "
 "to date."
 msgstr ""
+"We hebben deze plugin kunnen detecteren. Niets meer te doen hier. <a "
+"href=\"%s\" rel=\"noopener noreferrer\">Plugin Instellingen</a>. Houdt u "
+"alstublieft uw plugin up to date."
 
 #: framework/php/class-grecaptcha.php:896
 msgid ""
@@ -25420,7 +25594,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:62
 msgid "We were not able to detect this plugin."
-msgstr ""
+msgstr "We hebben deze plugin niet kunnen detecteren."
 
 #: config-templatebuilder/avia-shortcodes/av-helper-mailchimp.php:477
 msgid ""
@@ -25456,6 +25630,7 @@ msgstr "Weken"
 
 #: framework/php/class-breadcrumb-legacy.php:514
 #: framework/php/class-breadcrumb-trail.php:392
+#: framework/php/class-breadcrumb.php:498
 #, php-format
 msgid "Week %1$s"
 msgstr "Week %1$s"
@@ -25522,7 +25697,6 @@ msgstr ""
 "afbeelding in een lightbox"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:3197
-#, fuzzy
 #| msgid ""
 #| "When creating a new custom element you can set deault values for each "
 #| "option. You can also lock an option so it will no longer be possible to "
@@ -25552,7 +25726,6 @@ msgstr ""
 "ander logo en hoofdmenu-kleur nodig en die kunt u hier instellen."
 
 #: includes/admin/option_tabs/avia_cookie.php:854
-#, fuzzy
 #| msgid ""
 #| "When refusing all cookies this site might not be able to work as expected."
 #| " Please check our settings page and opt out for cookies or functions you "
@@ -25839,6 +26012,9 @@ msgid ""
 "WooCommerce displays a message box after a product had been added to cart on "
 "single product pages. Select the behaviour on single ALB product pages."
 msgstr ""
+"WooCommerce geeft een bericht weer nadat een product is toegevoegd aan de "
+"winkelwagen op enkele product pagina's. Selecteer het gedrag op enkelvoudige "
+"ALB product pagina's."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2935
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:3051
@@ -25958,6 +26134,13 @@ msgstr "Zeer groot"
 #: framework/php/class-breadcrumb-trail.php:396
 #: framework/php/class-breadcrumb-trail.php:396
 #: framework/php/class-breadcrumb-trail.php:401
+#: framework/php/class-breadcrumb.php:490
+#: framework/php/class-breadcrumb.php:490
+#: framework/php/class-breadcrumb.php:497
+#: framework/php/class-breadcrumb.php:497
+#: framework/php/class-breadcrumb.php:503
+#: framework/php/class-breadcrumb.php:503
+#: framework/php/class-breadcrumb.php:509
 #: framework/php/function-set-avia-frontend.php:1527
 msgid "Y"
 msgstr "Y"
@@ -26165,6 +26348,7 @@ msgstr ""
 #: framework/php/class-breadcrumb-legacy.php:41
 #: framework/php/class-breadcrumb-legacy.php:218
 #: framework/php/class-breadcrumb-trail.php:87
+#: framework/php/class-breadcrumb.php:28 framework/php/class-breadcrumb.php:202
 msgid "You are here:"
 msgstr "U bevindt zich hier:"
 
@@ -26442,6 +26626,8 @@ msgid ""
 "You did not enter an address. Please enter at least a City to fetch the "
 "coordinates."
 msgstr ""
+"U heeft geen adres ingevoerd. Voer ten minste een stad in om de coördinaten "
+"te verkrijgen."
 
 #: config-gutenberg/class-avia-gutenberg.php:284
 msgid ""
@@ -26599,11 +26785,11 @@ msgstr "Uw gebruikersnaam:&nbsp;"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:392
 msgid "Zoom"
-msgstr ""
+msgstr "Zoomen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:312
 msgid "Zoom Control"
-msgstr ""
+msgstr "Zoom besturing"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:271
 msgid "Zoom Level"
