@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.6.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-01 12:06+0200\n"
-"PO-Revision-Date: 2021-04-07 09:22+0000\n"
+"PO-Revision-Date: 2021-04-30 15:58+0000\n"
 "Last-Translator: First Admin_Last\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/generic-helper.class.php:465
@@ -22998,14 +22998,12 @@ msgid ""
 msgstr ""
 
 #: includes/admin/register-admin-options.php:227
-#, fuzzy
 msgid "Theme Extensions"
-msgstr "Theme Optionen"
+msgstr "Theme Erweiterungen"
 
 #: includes/admin/option_tabs/avia_ext_avia_ext.php:19
-#, fuzzy
 msgid "Theme Extensions Options"
-msgstr "Theme Optionen"
+msgstr "Optionen für Theme Erweiterungen "
 
 #: config-layerslider/config.php:615
 msgid "Theme layerslider plugin files could not be deleted."
