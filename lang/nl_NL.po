@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-02 13:22+0000\n"
-"PO-Revision-Date: 2021-05-25 11:26+0000\n"
-"Last-Translator: Roger Hoen\n"
+"PO-Revision-Date: 2021-05-26 09:03+0000\n"
+"Last-Translator: \n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.5.2; wp-5.6.2\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/generic-helper.class.php:486
@@ -684,11 +684,11 @@ msgstr "500"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:355
 msgid "500px Link"
-msgstr ""
+msgstr "500px link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:597
 msgid "500px Profile Link"
-msgstr ""
+msgstr "500px profiellink"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:542
 msgid "50px * 50px"
@@ -900,7 +900,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:74
 msgid "A OSM Map Marker"
-msgstr ""
+msgstr "Een OSM kaart markering"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:36
 msgid "A Partner/Logo Element Item"
@@ -2783,7 +2783,7 @@ msgstr "Tekst automatisch antwoord "
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:433
 msgid "Autorespond Text After Form Labels"
-msgstr ""
+msgstr "Automatisch-antwoordtekst na formulier labels"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:395
 msgid "Autoresponder from email address"
@@ -3097,11 +3097,11 @@ msgstr "Voor verzending controleren we eerst of u een mens bent."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:366
 msgid "Behance Link"
-msgstr ""
+msgstr "Behance Link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:607
 msgid "Behance Profile Link"
-msgstr ""
+msgstr "Behance profiellink"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:297
 msgid "Behavior"
@@ -3174,7 +3174,7 @@ msgstr "Blok-editor"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:717
 #: includes/admin/option_tabs/avia_blog.php:325
 msgid "Block square"
-msgstr ""
+msgstr "Blok vierkant"
 
 #: index.php:12 single.php:11
 msgid "Blog - Latest News"
@@ -3539,7 +3539,7 @@ msgstr "Stijl van mobiel (hamburger-) menu"
 #: includes/loop-about-author.php:57
 #, php-format
 msgid "But we are proud to say that %s contributed %s entries already."
-msgstr ""
+msgstr "Maar we zijn trots te kunnen melden dat %s al %s heeft bijgedragen."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:430
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:598
@@ -3609,11 +3609,11 @@ msgstr "Knop achtergrondkleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:728
 msgid "Button Bar Alignment"
-msgstr ""
+msgstr "Knoppenbalk uitlijning"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:708
 msgid "Button Bar Style"
-msgstr ""
+msgstr "Knoppenbalk stijl"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:271
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1706
@@ -4512,6 +4512,8 @@ msgid ""
 "Check if you want to define your custom color palette for the color "
 "selection popup in modal popup window options"
 msgstr ""
+"Vink aan als u uw eigen kleurenpalet wilt definiëren voor de kleurselectie "
+"popup in modale popup venster opties"
 
 #: includes/admin/option_tabs/avia_performance.php:737
 msgid ""
@@ -4977,6 +4979,9 @@ msgid ""
 "(faster rendering, but not mandatory installed on all devices) or %s (more "
 "unique)."
 msgstr ""
+"Kies een lettertype voor je bodytekst. Upload uw eigen lettertypen, gebruik "
+"web safe fonts (snellere rendering, maar niet verplicht geïnstalleerd op "
+"alle toestellen) of %s (unieker)."
 
 #: includes/admin/option_tabs/avia_styling.php:17
 msgid ""
@@ -5178,6 +5183,8 @@ msgid ""
 "Choose if you want to hide the language flags that are added by default to "
 "the header menus."
 msgstr ""
+"Kies of u de taalvlaggen wilt verbergen die standaard aan de headermenu's "
+"zijn toegevoegd."
 
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:210
 msgid ""
@@ -5648,7 +5655,7 @@ msgstr "Klik om te downloaden"
 
 #: framework/php/class-htmlhelper.php:1965
 msgid "Click to download and import"
-msgstr ""
+msgstr "Klik om te downloaden en te importeren"
 
 #: includes/helper-privacy.php:941
 #, php-format
@@ -6476,6 +6483,8 @@ msgid ""
 "Create one or more social buttons to share a post or to link to your social "
 "profile"
 msgstr ""
+"Maak een of meer sociale mediaknoppen om een bericht te delen of om te "
+"linken naar uw sociale profiel"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:30
 msgid "Create some progress bars"
@@ -6771,7 +6780,7 @@ msgstr "Aangepaste knop Achtergrondkleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:204
 msgid "Custom Button Behaviour"
-msgstr ""
+msgstr "Gedrag van aangepaste knop"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1543
 msgid "Custom Button Font Color"
@@ -6807,7 +6816,7 @@ msgstr "Aangepaste kleur"
 
 #: includes/admin/option_tabs/avia_builder.php:122
 msgid "Custom Color Palette"
-msgstr ""
+msgstr "Aangepast kleurenpalet"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:490
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:379
@@ -7328,7 +7337,7 @@ msgstr "Standaardkleur"
 
 #: includes/admin/option_tabs/avia_builder.php:130
 msgid "Default color palette is:"
-msgstr ""
+msgstr "Standaard kleurenpalet is:"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:223
 msgid "Default Column"
@@ -8239,7 +8248,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:241
 msgid "Display arrows"
-msgstr ""
+msgstr "Toon pijlen"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1831
 msgid "Display as centered overlay (overlays the image)"
@@ -8739,7 +8748,7 @@ msgstr "Zoombediening weergeven?"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:62
 msgid "Displays a map based on OpenStreetMaps and Leaflet Map plugin"
-msgstr ""
+msgstr "Toont een kaart gebaseerd op OpenStreetMaps en de Leaflet Map plugin"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:36
 msgid "Displays a search form"
@@ -8855,7 +8864,7 @@ msgstr "Creëer geen kloon"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:242
 msgid "Do not display arrows"
-msgstr ""
+msgstr "Toon geen pijlen"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:311
 msgid "Do not display border"
@@ -9157,11 +9166,11 @@ msgstr "Slepen van kaart"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:377
 msgid "Dribbble Link"
-msgstr ""
+msgstr "Dribble link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:617
 msgid "Dribbble Profile Link"
-msgstr ""
+msgstr "Dribbble profiellink"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:166
 msgid "Dropcap Styling"
@@ -9678,7 +9687,7 @@ msgstr "E-mail link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:577
 msgid "Email Profile Link"
-msgstr ""
+msgstr "E-mail profiellink"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:265
 msgid "Empty Cells"
@@ -9861,7 +9870,7 @@ msgstr "De Enfold update is gelukt!"
 
 #: config-wpml/class-avia-wpml.php:524
 msgid "Enfold WPML Language Flags"
-msgstr ""
+msgstr "Enfold WPML taalvlaggen"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:278
 msgid ""
@@ -10037,6 +10046,8 @@ msgstr "Voeg aanvullende omschrijving toe"
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:434
 msgid "Enter an additional message that will be added after the form labels."
 msgstr ""
+"Voer een extra bericht in dat wordt toegevoegd na de labels van het "
+"formulier."
 
 #: includes/admin/option_tabs/avia_cookie.php:481
 #: includes/admin/option_tabs/avia_cookie.php:616
@@ -10088,6 +10099,8 @@ msgstr "Vul hier de inhoud in"
 msgid ""
 "Enter links to your social profiles which will be used in this element only."
 msgstr ""
+"Voer links in naar uw sociale media-profielen die alleen in dit element "
+"zullen worden gebruikt."
 
 #: config-templatebuilder/avia-shortcodes/codeblock.php:168
 msgid ""
@@ -10268,6 +10281,8 @@ msgid ""
 "Enter the link to your profile for this button. Leave empty to use link "
 "defined in "
 msgstr ""
+"Voer de link naar uw profiel in voor deze knop. Leeg laten om link te "
+"gebruiken zoals gedefinieerd in "
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:301
 msgid "Enter the list item title here"
@@ -10373,10 +10388,9 @@ msgid "Enter the rotating text here (Better keep it short)"
 msgstr "Vul hier de roulatietekst in (het beste is korte teksten)"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:338
-#, fuzzy
 #| msgid "Enter the link to Yelp for this button."
 msgid "Enter the share link to Yelp for this button."
-msgstr "Voer de link naar Yelp voor deze knop in."
+msgstr "Voer de delen-link naar Yelp voor deze knop in."
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:438
 msgid "Enter the slide title here (Better keep it short)"
@@ -10443,7 +10457,7 @@ msgstr "Geef Video URL op"
 
 #: includes/admin/option_tabs/avia_builder.php:134
 msgid "Enter Your Custom Color Palette"
-msgstr ""
+msgstr "Voer uw aangepaste kleurenpalet in"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:314
 msgid "Enter your description here"
@@ -10725,7 +10739,7 @@ msgstr "Facebook paginatitel:"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:497
 msgid "Facebook Profile Link"
-msgstr ""
+msgstr "Facebook profiellink"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:306
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:410
@@ -10950,10 +10964,12 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:388
 msgid "Flickr Link"
 msgstr ""
+"Flickr link\n"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:627
 msgid "Flickr Profile Link"
 msgstr ""
+"Flickr profiellink\n"
 
 #: includes/admin/option_tabs/avia_menu.php:321
 msgid "Flyout width"
@@ -11195,7 +11211,7 @@ msgstr "Lettertype:"
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:425
 #: includes/admin/option_tabs/avia_styling.php:518
 msgid "Fonts"
-msgstr "Lettergroottes"
+msgstr "Lettertypen"
 
 #: functions-enfold.php:2543 functions-enfold.php:2553
 #: includes/admin/register-admin-options.php:108
@@ -11690,7 +11706,7 @@ msgstr "Google Webfont Instellingen:"
 
 #: includes/admin/option_tabs/avia_styling.php:528
 msgid "Google Webkit Fonts"
-msgstr ""
+msgstr "Google Webkit lettertypen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:408
 msgid "Grayscale"
@@ -12468,7 +12484,7 @@ msgstr "Verberg uitgelichte producten"
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:461
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:442
 msgid "Hide Form Labels"
-msgstr "Verberg Form labels"
+msgstr "Verberg formulierlabels"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:321
 msgid "Hide Header on this page "
@@ -12564,7 +12580,7 @@ msgstr "Verberg ontwikkelaar-opties van de geavanceerde lay-out bewerker "
 
 #: config-wpml/class-avia-wpml.php:533
 msgid "Hide the default language flags"
-msgstr ""
+msgstr "Verberg de standaard taalvlaggen"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:400
 msgid "Hide tracklist"
@@ -13010,7 +13026,7 @@ msgstr "Icoon positie"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:722
 #: includes/admin/option_tabs/avia_blog.php:330
 msgid "Icon simple"
-msgstr ""
+msgstr "Icoon eenvoudig"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:238
 msgid "Icon Size"
@@ -14222,11 +14238,11 @@ msgstr "Instagram afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:399
 msgid "Instagram Link"
-msgstr ""
+msgstr "Instagram link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:637
 msgid "Instagram Profile Link"
-msgstr ""
+msgstr "Instagram profiellink"
 
 #: framework/php/class-framework-widgets.php:3243
 #, php-format
@@ -14480,7 +14496,7 @@ msgstr "Knoptekst"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:470
 msgid "Label/Send Button alignment"
-msgstr "Uitlijning van Label/Verzenden Knop"
+msgstr "Uitlijning van labels/verzendknop"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:393
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:282
@@ -14612,6 +14628,10 @@ msgid ""
 "unavailable or your web hosting provider has to allow external connections "
 "to our domain."
 msgstr ""
+"LayerSlider kon uw geselecteerde slider niet downloaden. Controleer "
+"LayerSlider -> Systeemstatus voor mogelijke problemen. Het kan zijn dat de "
+"WP Remote functies niet beschikbaar zijn of dat uw webhosting provider geen "
+"externe verbindingen met ons domein toestaat."
 
 #: framework/php/wordpress-importer/avia-import-class.php:206
 msgid ""
@@ -14620,6 +14640,10 @@ msgid ""
 "for this issue is the lack of write permission on the /wp-content/uploads/ "
 "directory."
 msgstr ""
+"LayerSlider kon de gedownloade slider niet op uw server opslaan. Controleer "
+"LayerSlider -> Systeemstatus voor mogelijke problemen. De meest voorkomende "
+"reden voor dit probleem is het ontbreken van schrijfrechten op de /wp-"
+"content/uploads/ directory."
 
 #: config-layerslider/config.php:242
 msgid "Layerslider Options"
@@ -14996,7 +15020,7 @@ msgstr "Link titel"
 
 #: includes/helper-social-media.php:716
 msgid "Link to"
-msgstr ""
+msgstr "Link naar"
 
 #: includes/helper-social-media.php:173
 #, php-format
@@ -15010,7 +15034,7 @@ msgstr "Link naar %s in %s"
 
 #: includes/helper-social-media.php:398
 msgid "Link to 500px"
-msgstr ""
+msgstr "Link naar 500px"
 
 #: includes/admin/option_tabs/avia_cookie.php:464
 #: includes/admin/option_tabs/avia_cookie.php:598
@@ -15032,11 +15056,11 @@ msgstr "Link naar de website van de persoon"
 
 #: includes/helper-social-media.php:359
 msgid "Link to WhatsApp"
-msgstr ""
+msgstr "Link naar WhatsApp"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:213
 msgid "Link to your profile"
-msgstr ""
+msgstr "Link naar je profiel"
 
 #: includes/helper-post-format.php:294 framework/php/class-queryfilter.php:111
 #: framework/php/class-queryfilter.php:223
@@ -15062,7 +15086,7 @@ msgstr "LinkedIn link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:547
 msgid "LinkedIn Profile Link"
-msgstr ""
+msgstr "LinkedIn profiellink"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:563
 msgid "Linktext for the above Link"
@@ -15400,6 +15424,8 @@ msgstr "Maak gehele tabel scrollbaar"
 msgid ""
 "Make sure to add the profile link here in &quot;Profile Tab&quot; or in "
 msgstr ""
+"Zorg ervoor dat u de profiellink hier toevoegt in &quot;Profiel Tab&quot; of "
+"in "
 
 #: includes/admin/option_tabs/avia_upload.php:192
 #: includes/admin/option_tabs/avia_upload.php:209
@@ -17214,7 +17240,6 @@ msgid "Optional Tooltip"
 msgstr "Eventueel tekstkader"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2686
-#, fuzzy
 #| msgid "Optionally enter County identify the location"
 msgid "Optionally enter County to identify the location"
 msgstr "Optioneel kunt u de provincie invoeren om de locatie te identificeren"
@@ -17273,11 +17298,11 @@ msgstr "Originele breedte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:55
 msgid "OSM - Leaflet Map"
-msgstr ""
+msgstr "OSM - Leaflet kaart"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:73
 msgid "OSM Marker Item"
-msgstr ""
+msgstr "OSM markering item"
 
 #: includes/helper-privacy.php:2162
 msgid "Other cookies"
@@ -17616,7 +17641,7 @@ msgstr "Pinterest link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:527
 msgid "Pinterest Profile Link"
-msgstr ""
+msgstr "Pinterest profiellink"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:209
 msgid "Placeholder"
@@ -18205,7 +18230,7 @@ msgstr "Profiel van gebruiker:"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:80
 msgid "Profiles"
-msgstr ""
+msgstr "Profielen"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:287
 msgid "Progress Bar Animation enabled?"
@@ -18413,12 +18438,12 @@ msgstr "Aanbevolen plugins:"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:715
 #: includes/admin/option_tabs/avia_blog.php:323
 msgid "Rectangular"
-msgstr ""
+msgstr "Rechthoekig"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:716
 #: includes/admin/option_tabs/avia_blog.php:324
 msgid "Rectangular minimal"
-msgstr ""
+msgstr "Rechthoekig minimaal"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1732
 msgid "Red"
@@ -18431,7 +18456,7 @@ msgstr "Reddit link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:537
 msgid "Reddit Profile Link"
-msgstr ""
+msgstr "Reddit profiellink"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:269
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:405
@@ -18806,7 +18831,7 @@ msgstr "Afgeronde hoeken"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:718
 #: includes/admin/option_tabs/avia_blog.php:326
 msgid "Rounded rectangular"
-msgstr ""
+msgstr "Afgerond rechthoekig"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:325
 msgid "Row Box-Shadow"
@@ -19618,11 +19643,11 @@ msgstr "Selecteer een thema kleur voor dit contactformulier widget"
 
 #: includes/admin/option_tabs/avia_blog.php:337
 msgid "Select alignment of the share buttons bar"
-msgstr ""
+msgstr "Selecteer uitlijning van de knoppenbalk voor delen"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:729
 msgid "Select alignment of the social buttons bar"
-msgstr ""
+msgstr "Selecteer uitlijning van de sociale media knoppenbalk"
 
 #: framework/php/class-htmlhelper.php:1370
 msgid "Select all ......"
@@ -19753,7 +19778,7 @@ msgid ""
 "use filter avf_font_display."
 msgstr ""
 "Selecteer het weergavegedrag van het lettertype voor uw geüploade aangepaste "
-"lettertypes en pictogramlettertypes. Lees de backend documentatie zorgvuldig "
+"lettertypen en pictogramlettertypen. Lees de backend documentatie zorgvuldig "
 "door voordat u wijzigingen aanbrengt. U kunt ook de filter avf_font_display "
 "gebruiken."
 
@@ -19818,11 +19843,11 @@ msgstr "Selecteer hoe de tekst weergegeven moet worden"
 
 #: includes/admin/option_tabs/avia_blog.php:317
 msgid "Select how to display the share buttons bar"
-msgstr ""
+msgstr "Selecteer hoe de knoppenbalk voor delen moet worden weergegeven"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:709
 msgid "Select how to display the social buttons bar"
-msgstr ""
+msgstr "Selecteer hoe de balk met sociale mediaknoppen moet worden weergegeven"
 
 #: includes/admin/option_tabs/avia_cookie.php:532
 msgid ""
@@ -20176,7 +20201,6 @@ msgid "Select the number of rows of photos/videos in the carousel"
 msgstr "Selecteer het aantal rijen voor foto's/video's in de carrousel"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:761
-#, fuzzy
 #| msgid "Select the opacity the marker (0 = no opacity)"
 msgid "Select the opacity of the marker (0 = no opacity)"
 msgstr ""
@@ -20373,6 +20397,9 @@ msgid ""
 "screens viewport to draw visitors attention that there are more buttons "
 "available."
 msgstr ""
+"Selecteer om pijlen weer te geven in het tabblad-knoppen gebied als tabblad-"
+"knoppen buiten het scherm-viewport zijn om bezoekers erop te wijzen dat er "
+"meer knoppen beschikbaar zijn."
 
 #: functions-enfold.php:1882
 msgid "Select to display featured image for a single entry."
@@ -20510,6 +20537,9 @@ msgid ""
 "Make sure to set the links to your social profiles. Share links are created "
 "by theme."
 msgstr ""
+"Selecteer wat u wilt doen. Het sociale media platform wordt geopend in een "
+"nieuw venster. Zorg ervoor dat u de links naar uw sociale profielen instelt. "
+"De links worden door het thema aangemaakt."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:265
 msgid "Select when to display the tooltips"
@@ -20790,6 +20820,12 @@ msgid ""
 "columms. This will need additional custom CSS rules specific for your site "
 "to avoid breaking of layout."
 msgstr ""
+"Stel een aangepaste boven- of ondermarge in. Zowel pixel- als &percnt;-"
+"gebaseerde waarden worden geaccepteerd. bijv.: 30px, 5&percnt;. <br /><br />"
+"<strong>Beperking:</strong> Negatieve waarden kunnen niet zonder meer worden "
+"gebruikt bij het gebruik van individuele hoogtekolommen. Hiervoor zijn extra "
+"aangepaste CSS-regels nodig, specifiek voor uw site, om te voorkomen dat de "
+"opmaak kapot gaat."
 
 #: includes/admin/option_tabs/avia_menu.php:322
 msgid ""
@@ -21091,11 +21127,11 @@ msgstr "Schaduw"
 
 #: includes/admin/option_tabs/avia_blog.php:336
 msgid "Share Button Bar Alignment"
-msgstr ""
+msgstr "Uitlijning van de delen knoppenbalk"
 
 #: includes/admin/option_tabs/avia_blog.php:316
 msgid "Share Button Bar Style"
-msgstr ""
+msgstr "Stijl van de delen knoppenbalk"
 
 #: includes/helper-social-media.php:390
 msgid "Share by Mail"
@@ -21103,7 +21139,7 @@ msgstr "Delen via e-mail"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:212
 msgid "Share Entry"
-msgstr ""
+msgstr "Delen toegang"
 
 #: includes/admin/option_tabs/avia_blog.php:203
 msgid "Share links at the bottom of your blog post"
@@ -21111,11 +21147,11 @@ msgstr "'Delen-links' onderaan uw blogbericht"
 
 #: includes/helper-social-media.php:720
 msgid "Share on"
-msgstr "Deel via"
+msgstr "Delen op"
 
 #: includes/helper-social-media.php:358
 msgid "Share on WhatsApp"
-msgstr "Delen via WhatsApp"
+msgstr "Delen op WhatsApp"
 
 #: includes/helper-social-media.php:450
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:186
@@ -21531,7 +21567,7 @@ msgstr "Toon de bio in de header:"
 
 #: config-wpml/class-avia-wpml.php:532
 msgid "Show the default language flags"
-msgstr ""
+msgstr "Toon de standaard taalvlaggen"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:366
 msgid "Show the feed Header:"
@@ -21658,6 +21694,9 @@ msgid ""
 "sure to upload an image dimension from which WP can create the necessary "
 "scrset and sizes attributes."
 msgstr ""
+"Sinds 4.8.2 worden responsieve afbeeldingen (bijv. voor retina schermen) "
+"ondersteund. Zorg ervoor dat u een afbeeldingsafmeting uploadt, waarvan WP "
+"de benodigde scrset- en formaatattributen kan maken."
 
 #: includes/helper-privacy.php:2121
 msgid ""
@@ -21801,11 +21840,11 @@ msgstr "SKU:"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:410
 msgid "Skype Link"
-msgstr ""
+msgstr "Skype link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:647
 msgid "Skype Profile Link"
-msgstr ""
+msgstr "Skype profiellink"
 
 #: config-templatebuilder/avia-shortcodes/section.php:618
 msgid "Slanting from left to right"
@@ -22070,16 +22109,16 @@ msgstr "Sociale media-iconen"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:219
 msgid "Social Profile And Share Buttons"
-msgstr ""
+msgstr "Sociaal media profiel en deel knoppen"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:347
 msgid "Social Profile Buttons"
-msgstr ""
+msgstr "Sociale media profielknoppen"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:481
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:489
 msgid "Social Profile Links"
-msgstr ""
+msgstr "Sociale media profiellinks"
 
 #: includes/admin/register-admin-options.php:140
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:178
@@ -22296,11 +22335,11 @@ msgstr "Sorteren actief"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:421
 msgid "Soundcloud Link"
-msgstr ""
+msgstr "Soundcloud link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:657
 msgid "Soundcloud Profile Link"
-msgstr ""
+msgstr "Soundcloud profiellink"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:259
 msgid "Space between buttons"
@@ -22671,7 +22710,7 @@ msgstr "Tab 2"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:235
 msgid "Tab Buttons Out Of Screen Behaviour"
-msgstr ""
+msgstr "Gedrag van tabblad knoppen buiten het scherm"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:421
 #: includes/admin/option_tabs/avia_cookie.php:703
@@ -23121,12 +23160,15 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:348
 msgid "The following buttons currently only support links to a profile."
 msgstr ""
+"De volgende knoppen ondersteunen momenteel alleen links naar een profiel."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:220
 msgid ""
 "The following buttons support share links (generated by theme) and links to "
 "a profile."
 msgstr ""
+"De volgende knoppen ondersteunen deellinks (gegenereerd door het thema) en "
+"links naar een profiel."
 
 #: includes/helper-privacy.php:2150
 msgid ""
@@ -23150,7 +23192,6 @@ msgstr ""
 "De volgende standaardtekst wordt toegepast als u de tekstvelden leeglaat:"
 
 #: includes/admin/option_tabs/avia_styling.php:530
-#, fuzzy
 #| msgid ""
 #| "The Font heading allows you to use a wide range of fonts for your "
 #| "headings. Upload your own fonts, use websave fonts (faster rendering, but "
@@ -23161,10 +23202,10 @@ msgid ""
 "Upload your own fonts, use websave fonts (faster rendering, but not "
 "mandatory installed on all devices) or %s (more unique)."
 msgstr ""
-"Met de lettertype-rubriek kunt u een breed scala aan lettertypes voor uw "
-"koppen gebruiken. Upload uw eigen fonts, gebruik websave fonts (snellere "
-"rendering, maar niet verplicht geïnstalleerd op alle apparaten) of Google "
-"webkit fonts (unieker)."
+"Met lettertype voor koppen kunt u een breed scala aan lettertypen voor uw "
+"koppen gebruiken. Upload uw eigen lettertypen, gebruik websave lettertypen "
+"(snellere rendering, maar niet verplicht geïnstalleerd op alle apparaten) of "
+"%s (unieker)."
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:254
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:353
@@ -23674,7 +23715,7 @@ msgstr ""
 
 #: includes/loop-about-author.php:53
 msgid "This author has not written his bio yet."
-msgstr ""
+msgstr "Deze auteur heeft zijn bio nog niet geschreven."
 
 #: framework/php/class-form-generator.php:399
 msgid ""
@@ -24517,7 +24558,7 @@ msgstr "Tumblr link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:557
 msgid "Tumblr Profile Link"
-msgstr ""
+msgstr "Tumblr profiellink"
 
 #: includes/admin/option_tabs/avia_google.php:69
 msgid "Tutorial: How to create an API key"
@@ -24530,7 +24571,7 @@ msgstr "Twitter link "
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:507
 msgid "Twitter Profile Link"
-msgstr ""
+msgstr "Twitter profiellink"
 
 #: framework/php/class-framework-widgets.php:1238
 msgid "Twitter Username:"
@@ -25094,6 +25135,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:198
 msgid "Use defaults that are also used for your blog (share entry)"
 msgstr ""
+"Gebruik standaardwaarden die ook voor uw blog worden gebruikt (deel "
+"inzending)"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:254
 msgid "Use either the default or minimal design"
@@ -25543,11 +25586,11 @@ msgstr "Vimeo en Youtube video's insluiten:"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:432
 msgid "Vimeo Link"
-msgstr ""
+msgstr "Vimeo link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:667
 msgid "Vimeo Profile Link"
-msgstr ""
+msgstr "Vimeo profiellink"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:773
 msgid "Visibility"
@@ -25568,7 +25611,7 @@ msgstr "VK link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:567
 msgid "VK Profile Link"
-msgstr ""
+msgstr "VK profiellink"
 
 #: framework/php/class-breadcrumb-legacy.php:514
 #: framework/php/class-breadcrumb-trail.php:392
@@ -25621,7 +25664,7 @@ msgstr "is toegevoegd aan de winkelwagen"
 
 #: framework/php/wordpress-importer/avia-import-class.php:274
 msgid "Wasn't able to create sub-folder for font files"
-msgstr ""
+msgstr "Submap voor lettertypebestanden kon niet worden aangemaakt"
 
 #: framework/php/font-management/class-avia-font-management-base.php:409
 #: framework/php/font-management/class-avia-font-management-base.php:502
@@ -25630,7 +25673,7 @@ msgstr "Kan tijdelijke map niet maken"
 
 #: framework/php/wordpress-importer/avia-import-class.php:253
 msgid "Wasn't able to create the folder for font files"
-msgstr ""
+msgstr "Map voor de lettertypen kon niet worden aangemaakt"
 
 #: framework/php/inc-avia-download-demo.php:120
 msgid "Wasn't able to read demo files from downloaded zip file."
@@ -25950,7 +25993,7 @@ msgstr "WhatsApp link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:517
 msgid "WhatsApp Profile Link"
-msgstr ""
+msgstr "WhatsApp profiellink"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:523
 msgid ""
@@ -26389,11 +26432,11 @@ msgstr "Zeer groot"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:443
 msgid "Xing Link"
-msgstr ""
+msgstr "Xing link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:677
 msgid "Xing Profile Link"
-msgstr ""
+msgstr "Xing profiellink"
 
 #: framework/php/class-breadcrumb-legacy.php:506
 #: framework/php/class-breadcrumb-legacy.php:513
@@ -26432,11 +26475,11 @@ msgstr "Yelp link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:587
 msgid "Yelp Profile Link"
-msgstr ""
+msgstr "Yelp profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:337
 msgid "Yelp Share Link"
-msgstr ""
+msgstr "Yelp delen link"
 
 #: functions-enfold.php:2322
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:376
@@ -26803,6 +26846,9 @@ msgid ""
 "You can enter up to 22 colors, enter each color in a new line in the order "
 "you like, either &quot;#efefef&quot; or &quot;rgba(0,0,0,0.3)&quot;."
 msgstr ""
+"U kunt tot 22 kleuren invoeren, voer elke kleur in een nieuwe regel in de "
+"volgorde die u wilt, ofwel &quot;#efefef&quot; of &quot;rgba(0,0,0,0.3)&quot;"
+"."
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:149
 msgid "You can enter your API key here"
@@ -26972,6 +27018,9 @@ msgid ""
 "You selected to use the social share buttons used for your blog selected on "
 "theme options page . No options available here at the moment."
 msgstr ""
+"U hebt gekozen om de sociale media deelknoppen te gebruiken voor uw blog "
+"geselecteerd op thema-opties pagina . Geen opties beschikbaar hier op dit "
+"moment."
 
 #: framework/php/class-update-notifier.php:160
 msgid "You're using version"
@@ -27067,11 +27116,11 @@ msgstr "Uw gebruikersnaam:&nbsp;"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:454
 msgid "YouTube Link"
-msgstr ""
+msgstr "YouTube link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:687
 msgid "YouTube Profile Link"
-msgstr ""
+msgstr "YouTube profiellink"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:392
 msgid "Zoom"
