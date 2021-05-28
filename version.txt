@@ -1,3 +1,7 @@
+
+2021-05-28
+- Italian it_IT (version 4.8.2.1-dev-4, provided by BigBatT - info@luigicircello.it)
+
 2021-05-25
 - Dutch nl_NL (4.8.2.1-dev-4, provided by EZWebdesign - Roger Hoen )
 
