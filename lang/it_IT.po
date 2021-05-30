@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Enfold v4.8.2.1-dev-4\n"
+"Project-Id-Version: Enfold v4.8.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-27 16:35+0200\n"
-"PO-Revision-Date: 2021-05-27 19:18+0200\n"
+"POT-Creation-Date: 2021-05-28 09:34+0200\n"
+"PO-Revision-Date: 2021-05-28 09:36+0200\n"
 "Last-Translator: Luigi Circello <luigi.circello@hotmail.it>\n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -2077,33 +2077,33 @@ msgstr ""
 "vostra chiave API per aggiornare i dati della lista qui presentata."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:614
+#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:636
 msgid "Load more"
 msgstr "Carica di più"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:717
+#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:739
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1161
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1163
 #: framework/php/class-framework-widgets.php:1814 includes/loop-author.php:144
-#: includes/loop-index.php:403
+#: includes/loop-index.php:440
 msgid "by"
 msgstr "da"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:843
+#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:865
 msgid "image with no title"
 msgstr "immagine senza titolo"
 
 # @ LayerSlider
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:846
+#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:868
 #, php-format
 msgid "image %s"
 msgstr "immagine %s"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:939
+#: config-templatebuilder/avia-shortcodes/av-helper-masonry.php:961
 msgid "Sale!"
 msgstr "Offerta!"
 
@@ -4383,8 +4383,8 @@ msgstr "Crea una singola colonna con l'80&percnt; di larghezza"
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:26
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:911
 #: framework/php/class-framework-widgets.php:1536 includes/loop-author.php:128
-#: includes/loop-author.php:130 includes/loop-index.php:384
-#: includes/loop-index.php:386 includes/loop-search.php:66
+#: includes/loop-author.php:130 includes/loop-index.php:421
+#: includes/loop-index.php:423 includes/loop-search.php:66
 #: includes/loop-search.php:68
 msgid "Comments"
 msgstr "Commenti"
@@ -10746,7 +10746,7 @@ msgstr "Link a:"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1222
-#: includes/loop-index.php:453 includes/loop-portfolio-single.php:54
+#: includes/loop-index.php:490 includes/loop-portfolio-single.php:54
 msgid "Tags:"
 msgstr "Tags:"
 
@@ -12388,14 +12388,14 @@ msgstr "Slideshow ruoterà ogni X secondi"
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:947
 #: framework/php/function-set-avia-frontend.php:1616
 #: includes/loop-index.php:122 includes/loop-index.php:123
-#: includes/loop-index.php:413 includes/loop-index.php:427
+#: includes/loop-index.php:450 includes/loop-index.php:464
 #: includes/loop-page.php:34 includes/loop-portfolio-single.php:37
 msgid "Read more"
 msgstr "Continua a leggere"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:911
-#: includes/loop-author.php:129 includes/loop-index.php:385
+#: includes/loop-author.php:129 includes/loop-index.php:422
 #: includes/loop-search.php:67
 msgid "Comment"
 msgstr "Commento"
@@ -24131,7 +24131,7 @@ msgstr "Caricamento"
 
 # @ avia_framework
 #: functions-enfold.php:325 includes/loop-author.php:197
-#: includes/loop-index.php:497
+#: includes/loop-index.php:534
 msgid "Sorry, no posts matched your criteria"
 msgstr "Spiacente, nessun articolo corrisponde  ai tuoi criteri"
 
@@ -28108,20 +28108,19 @@ msgstr ""
 #: includes/admin/option_tabs/avia_performance.php:412
 msgid ""
 "Check to enable theme support for responsive images for theme lightbox. This "
-"feature starts with version 4.8.2 and not all elements support it from "
-"beginning."
+"feature starts with version 4.8.2."
 msgstr ""
 "Controlla di abilitare il supporto del tema per le immagini responsive per "
-"la lightbox del tema. Questa caratteristica inizia con la versione 4.8.2 e "
-"non tutti gli elementi la supportano dall'inizio."
+"la lightbox del tema. Questa caratteristica inizia con la versione 4.8.2."
 
 #: includes/admin/option_tabs/avia_performance.php:413
 msgid ""
-"Please check the changelog to see which ALB elements are supporting this "
-"feature."
+"Most of the ALB elements and posts should be supporting this feature since "
+"4.8.3. Please report in our support forum if you encounter problems."
 msgstr ""
-"Si prega di consultare il changelog per vedere quali elementi ALB supportano "
-"questa caratteristica."
+"La maggior parte degli elementi e dei post ALB dovrebbe supportare questa "
+"funzione dal 4.8.3. Si prega di segnalare nel nostro forum di supporto in "
+"caso di problemi."
 
 #: includes/admin/option_tabs/avia_performance.php:417
 msgid "Responsive Images For Lightbox (currently in beta only)"
@@ -30509,7 +30508,7 @@ msgstr "Piè di pagina personalizzata inattiva"
 
 # @ avia_framework
 #: includes/error404.php:5 includes/loop-author.php:194
-#: includes/loop-index.php:494 includes/loop-page.php:90
+#: includes/loop-index.php:531 includes/loop-page.php:90
 #: includes/loop-portfolio-single.php:90 includes/loop-search.php:141
 msgid "Nothing Found"
 msgstr "Nessun risultato"
@@ -31111,13 +31110,13 @@ msgid "Edit the profile description here."
 msgstr "Modificare la descrizione del profilo."
 
 # @ avia_framework
-#: includes/loop-author.php:131 includes/loop-index.php:388
+#: includes/loop-author.php:131 includes/loop-index.php:425
 #: includes/loop-search.php:69
 msgid "Comments Disabled"
 msgstr "Commenti disabilitati"
 
 # @ avia_framework
-#: includes/loop-author.php:139 includes/loop-index.php:397
+#: includes/loop-author.php:139 includes/loop-index.php:434
 #: includes/loop-search.php:94
 msgid "in"
 msgstr "in"
@@ -31143,7 +31142,7 @@ msgid "Your comment is awaiting moderation."
 msgstr "Il tuo commento è in attesa di moderazione."
 
 # @ avia_framework
-#: includes/loop-index.php:439 includes/loop-portfolio-single.php:43
+#: includes/loop-index.php:476 includes/loop-portfolio-single.php:43
 #: template-builder.php:108
 msgid "Pages:"
 msgstr "Pagine:"
@@ -31229,3 +31228,10 @@ msgstr "Mensile"
 #: template-archives.php:206
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
+
+#~ msgid ""
+#~ "Please check the changelog to see which ALB elements are supporting this "
+#~ "feature."
+#~ msgstr ""
+#~ "Si prega di consultare il changelog per vedere quali elementi ALB "
+#~ "supportano questa caratteristica."
