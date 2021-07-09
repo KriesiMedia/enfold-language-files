@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.8.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 15:12+0200\n"
-"PO-Revision-Date: 2021-05-25 11:22+0000\n"
+"PO-Revision-Date: 2021-07-08 11:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: French (France)\n"
 "Language: fr_FR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Loco https://localise.biz/\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -46,11 +46,11 @@ msgstr " - Personnaliser : %s"
 
 #: framework/php/class-htmlhelper.php:2485
 msgid " - in use"
-msgstr ""
+msgstr " - utilisé"
 
 #: framework/php/class-htmlhelper.php:2489
 msgid " - unused"
-msgstr ""
+msgstr " - non utilisé"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:754
 msgid " ??? "
@@ -280,12 +280,12 @@ msgstr ""
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:488
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:617
 msgid "&quot;Follow on Instagram&quot; Button"
-msgstr "Bouton &quot;Suivre sur Instagram&quot;"
+msgstr "Bouton Suivre sur Instagram"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:429
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:565
 msgid "&quot;Load More&quot; Button"
-msgstr "Bouton &quot;Charger Plus&quot;"
+msgstr "Bouton Charger Plus"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_tabs.php:57
 msgid ""
@@ -684,11 +684,11 @@ msgstr "500"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:355
 msgid "500px Link"
-msgstr ""
+msgstr "500px Lien"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:597
 msgid "500px Profile Link"
-msgstr ""
+msgstr "500px Lien du Profil"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:542
 msgid "50px * 50px"
@@ -739,7 +739,7 @@ msgstr "900"
 
 #: framework/php/class-htmlhelper.php:2030
 msgid "<br/><br/>The script returned the following message: <br/>"
-msgstr ""
+msgstr "<br/><br/>Le script a renvoyé le message suivant : <br/>"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1046
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1105
@@ -749,24 +749,24 @@ msgstr "<span class=\"av-screen-reader-only\"> sur %s</span>"
 
 #: includes/class-avia-custom-pages.php:426
 msgid ""
-"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode "
-"Enabled</span>"
+"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode Enabled</"
+"span>"
 msgstr ""
-"<span style=\"color: #ff33ff; font-weight: bold;\">Mode Maintenance "
-"Activé</span>"
+"<span style=\"color: #ff33ff; font-weight: bold;\">Mode Maintenance Activé</"
+"span>"
 
 #. Description of the theme
 msgid ""
 "<strong>A superflexible and responsive Business Theme by Kriesi</strong> -  "
 "Update notifications available on twitter, facebook and via newsletter: <a "
-"href='http://twitter.com/kriesi'>Follow me on twitter</a> - <a href='http:"
-"//www.facebook.com/pages/Kriesi/333648177216'>Join the Facebook Group</a> - "
-"<a href='http://www.kriesi.at/newsletter'>Subscribe to our Newsletter</a>"
+"href='http://twitter.com/kriesi'>Follow me on twitter</a> - <a href='http://"
+"www.facebook.com/pages/Kriesi/333648177216'>Join the Facebook Group</a> - <a "
+"href='http://www.kriesi.at/newsletter'>Subscribe to our Newsletter</a>"
 msgstr ""
 "<strong>Un super thème flexible et responsive par Kriesi</strong> -  "
 "Notifications de mise à jour possibles via twitter, facebook et la "
-"newsletter: <a href='http://twitter.com/kriesi'>Nous suivre sur twitter</a> -"
-" <a href='http://www.facebook.com/pages/Kriesi/333648177216'>Rejoindre le "
+"newsletter: <a href='http://twitter.com/kriesi'>Nous suivre sur twitter</a> "
+"- <a href='http://www.facebook.com/pages/Kriesi/333648177216'>Rejoindre le "
 "groupe Facebook</a> - <a href='http://www.kriesi.at/newsletter'>Recevoir "
 "notre Newsletter</a>"
 
@@ -776,11 +776,11 @@ msgstr "[av_privacy_custom_cookie cookie_name=\"\"]"
 
 #: includes/admin/option_tabs/avia_cookie.php:874
 msgid ""
-"[av_privacy_custom_cookie cookie_name=\"\"]Your text "
-"here[/av_privacy_custom_cookie] "
+"[av_privacy_custom_cookie cookie_name=\"\"]Your text here[/"
+"av_privacy_custom_cookie] "
 msgstr ""
-"[av_privacy_custom_cookie cookie_name=\"\"]Votre texte "
-"ici[/av_privacy_custom_cookie] "
+"[av_privacy_custom_cookie cookie_name=\"\"]Votre texte ici[/"
+"av_privacy_custom_cookie] "
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:94
 msgid "A Button Row Button Element"
@@ -860,8 +860,8 @@ msgstr "Une liste de tous les services vidéo supportés se trouve sur"
 
 #: framework/php/class-grecaptcha.php:290
 msgid ""
-"A network timeout problem occurred. Could be caused by an invalid V3 sitekey."
-" Please recheck the key and try again."
+"A network timeout problem occurred. Could be caused by an invalid V3 "
+"sitekey. Please recheck the key and try again."
 msgstr ""
 "Un problème de timeout réseau s'est produit. Peut être dû à une clé V3 "
 "invalide. Merci de vérifier votre clé à nouveau."
@@ -878,14 +878,14 @@ msgstr "une nouvelle version %s est disponible."
 #: framework/php/auto-updates/auto-updates.php:458
 #, php-format
 msgid ""
-"A new Version (%s) of your %s is available! You are using Version %s. <br/>"
-"See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
+"A new Version (%s) of your %s is available! You are using Version %s. <br/"
+">See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
 "changelog/' target='_blank' rel='noopener noreferrer'>change log</a>. Do you "
 "want to update?<br/><br/>"
 msgstr ""
 "Une nouvelle version (%s) de votre %s est disponible ! Vous utilisez la "
-"version %s. <br/>Voir les nouveautés sur <a href='https://kriesi."
-"at/documentation/enfold/enfold-changelog/' target='_blank' rel='noopener "
+"version %s. <br/>Voir les nouveautés sur <a href='https://kriesi.at/"
+"documentation/enfold/enfold-changelog/' target='_blank' rel='noopener "
 "noreferrer'>notre change log</a>. Souhaitez-vous mettre à jour ?<br/><br/>"
 
 #: framework/php/class-form-generator.php:928
@@ -896,7 +896,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:74
 msgid "A OSM Map Marker"
-msgstr ""
+msgstr "Un marqueur de point OSM"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:36
 msgid "A Partner/Logo Element Item"
@@ -1090,7 +1090,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:34
 msgid "Activate if you want to use this feature."
-msgstr ""
+msgstr "Activer si vous voulez utiliser cette fonctionnalité."
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:258
 msgid "Activate Multiline?"
@@ -1561,7 +1561,7 @@ msgstr "Ajouter/Modifier des points de la carte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:220
 msgid "Add/Edit Marker Locations"
-msgstr ""
+msgstr "Ajouter/Modifier un marqueur de lieux"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:261
 msgid "Add/Edit Metadata"
@@ -1625,7 +1625,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1015
 msgid "Additional Attributes"
-msgstr ""
+msgstr "Attributs additionnels"
 
 #: includes/admin/option_tabs/avia_cookie.php:878
 msgid "Additional Custom Cookies"
@@ -1649,11 +1649,11 @@ msgstr "Informations supplémentaires :"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:485
 msgid "Additional Map Attributes"
-msgstr ""
+msgstr "Attributs additionnels de carte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:790
 msgid "Additional Marker Attributes"
-msgstr ""
+msgstr "Attributs additionnels de marqueur"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:30
 msgid "Additional Portfolio Settings"
@@ -1661,7 +1661,7 @@ msgstr "Options supplémentaires de portfolio"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1037
 msgid "Additional Shortcode Attributes"
-msgstr ""
+msgstr "Attributs additionnels de shortcode"
 
 #: config-wpml/class-avia-wpml.php:501
 msgid "Additional Translate Icon"
@@ -2021,7 +2021,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:267
 msgid "Allow dragging"
-msgstr ""
+msgstr "Autoriser le glisement"
 
 #: includes/helper-privacy.php:607
 msgid ""
@@ -2035,9 +2035,9 @@ msgstr ""
 msgid ""
 "Allow to filter products for this element using the 3 WooCommerce sidebar "
 "filters: Filter Products by Price, Rating, Attribute. These filters are only "
-"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -&gt;"
-" Products -&gt; General -&gt; Shop Page) or on product category pages. You "
-"may also use a custom widget area for the sidebar."
+"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -"
+"&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
+"You may also use a custom widget area for the sidebar."
 msgstr ""
 "Permet de filtrer les produits pour cet élément utilisant les 3 filtres "
 "WooCommerce de sidebar : Filtre par prix, note, attributs. Ces filtres "
@@ -2113,11 +2113,13 @@ msgid ""
 "Alright!<br/>Download worked for demo %s. <br/>You can import the demo "
 "content now."
 msgstr ""
+"Ok !<br/>Le téléchargement a marché pour la démo %s. <br/>Vous pouvez "
+"maintenant importer cette démo."
 
 #: framework/php/function-set-avia-ajax.php:721
 #, php-format
 msgid "Alright!<br/>Downloaded files for demo %s deleted"
-msgstr ""
+msgstr "Ok !<br/>Fichiers de téléchargement de la démo %s supprimés"
 
 #: framework/php/function-set-avia-ajax.php:676
 #, php-format
@@ -2125,10 +2127,13 @@ msgid ""
 "Alright!<br/>Import worked out for demo %s, no problems whatsoever. <br/>The "
 "page will now be reloaded to reflect the changes"
 msgstr ""
+"Ok !<br/>L'import de la démo %s a marché, aucun problème.<br />La page va "
+"maintenant être rechargée pour en tenir compte"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:369
 msgid "Also close when user clicks outside icongrid"
 msgstr ""
+"Fermer également quand l'utilisateur clique en dehors de la grille d'icône"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:407
 msgid "Alt Attribut"
@@ -2180,7 +2185,7 @@ msgstr "Toujours afficher en mode flottant sur le côté"
 
 #: includes/admin/option_tabs/avia_shop.php:40
 msgid "Always display message box"
-msgstr ""
+msgstr "Toujours afficher la boite de message"
 
 #: includes/admin/option_tabs/avia_menu.php:233
 msgid "Always display submenu items"
@@ -2563,6 +2568,11 @@ msgid ""
 "problems because plugin was updated and our theme contains an incompatible "
 "version of the library:"
 msgstr ""
+"Comme précédemment mentionné ci-dessus nous packageons la librairie "
+"javascript nécessaire à OSM et la chargeons depuis votre serveur. Vous "
+"pouvez modifier ceci ici, si vous souhaitez un chargement depuis une autre "
+"ressource ou en cas de problème suite à une mise à jour du plugin et une "
+"incompatibilité avec notre librairie incluse :"
 
 #: includes/admin/option_tabs/avia_performance.php:104
 msgid ""
@@ -2575,8 +2585,8 @@ msgstr ""
 "changements de contenu des fichiers js et css resteront compilés dans le "
 "même fichier commun - ce qui implique que les navigateurs ne verront pas ces "
 "changements tant que leur cache n'est pas expiré ou purgé. Pour remédier à "
-"cela Enfold ajoute à l'extension du fichier compilé un timestamp (depuis V 4."
-"7)."
+"cela Enfold ajoute à l'extension du fichier compilé un timestamp (depuis V "
+"4.7)."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2970
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:3096
@@ -2639,6 +2649,9 @@ msgid ""
 "Attention when using caching plugins: Whenever you make changes to a custom "
 "element template please clear your server cache to show the changes."
 msgstr ""
+"Attention en cas d'utilisation de plugin de cache : En cas de changements "
+"sur un élément personnalisé pensez à purger votre cache pour afficher les "
+"modifications."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1088
 msgid "Attention when using self hosted HTML 5 Videos"
@@ -2790,7 +2803,7 @@ msgstr "Message de réponse automatique"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:433
 msgid "Autorespond Text After Form Labels"
-msgstr ""
+msgstr "Message de réponse automatique après le label"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:395
 msgid "Autoresponder from email address"
@@ -3106,11 +3119,11 @@ msgstr "Avant soumission nous vérifions que vous êtes bien un humain."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:366
 msgid "Behance Link"
-msgstr ""
+msgstr "Lien Behance"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:607
 msgid "Behance Profile Link"
-msgstr ""
+msgstr "Lien de profil Behance"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:297
 msgid "Behavior"
@@ -3163,11 +3176,11 @@ msgstr "Hotspot blanc"
 
 #: includes/admin/register-backend-advanced-styles.php:22
 msgid "Block"
-msgstr ""
+msgstr "Bloc"
 
 #: includes/admin/option_tabs/avia_performance.php:161
 msgid "block"
-msgstr ""
+msgstr "bloc"
 
 #: includes/admin/option_tabs/avia_upload.php:100
 msgid "Block and hide reset all options button"
@@ -3182,7 +3195,7 @@ msgstr "Editeur de bloc"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:717
 #: includes/admin/option_tabs/avia_blog.php:325
 msgid "Block square"
-msgstr ""
+msgstr "Carré bloc"
 
 #: index.php:12 single.php:11
 msgid "Blog - Latest News"
@@ -3547,7 +3560,7 @@ msgstr "Style de Menu Mobile dépliant"
 #: includes/loop-about-author.php:57
 #, php-format
 msgid "But we are proud to say that %s contributed %s entries already."
-msgstr ""
+msgstr "Mais nous sommes fiers de dire que %s a déjà contribué aux entrées %s."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:430
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:598
@@ -3617,11 +3630,11 @@ msgstr "Couleur d'arrière-plan du Bouton au survol"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:728
 msgid "Button Bar Alignment"
-msgstr ""
+msgstr "Alignement de la barre de boutons"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:708
 msgid "Button Bar Style"
-msgstr ""
+msgstr "Style de la barre de boutons"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:271
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1706
@@ -3876,8 +3889,8 @@ msgstr ""
 "Par défaut WPML permet la traduction des élément personnalisés depuis le "
 "tableau de bord via &quot;WPML-&gt; Translation Management&quot;. Activer "
 "pour ajouter une icône traduite dans les boutons du shortcode, ce qui permet "
-"de se passer du tableau de bord. Visible en utilisant le bouton &quot;Editer "
-"Eléments Personnalisés&quot;"
+"de se passer du tableau de bord. Visible en utilisant le bouton : Editer "
+"Eléments Personnalisés"
 
 #: config-templatebuilder/avia-template-builder/php/template-builder.class.php:2479
 #: config-templatebuilder/avia-template-builder/php/template-builder.class.php:2496
@@ -4151,7 +4164,7 @@ msgstr "Changer la mise en page"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:79
 msgid "Change Leaflet Library Files Location"
-msgstr ""
+msgstr "Modifier l'emplacement du fichier librairie de leaflet"
 
 #: config-woocommerce/config-356.php:469 config-woocommerce/config.php:582
 msgid "Change Password"
@@ -4369,9 +4382,9 @@ msgstr "Changer les réglages WordPress par défaut"
 #: includes/admin/option_tabs/avia_element_templates.php:22
 msgid ""
 "Changes to these custom element templates will be used in the elements based "
-"on these templates. Please check our <a href=\"https://kriesi."
-"at/documentation/enfold/custom-element-templates/\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">documentation</a> for more details."
+"on these templates. Please check our <a href=\"https://kriesi.at/"
+"documentation/enfold/custom-element-templates/\" target=\"_blank\" rel="
+"\"noopener noreferrer\">documentation</a> for more details."
 msgstr ""
 "Les changements appliqués aux templates d'élément personnalisé seront "
 "appliqués aux modèles basés sur ces derniers. merci de consulter notre <a "
@@ -4389,10 +4402,13 @@ msgstr "Code Char :"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:15
 msgid ""
-"Check <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> for more "
+"Check <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> for more "
 "information about this library."
 msgstr ""
+"Consulter <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" rel="
+"\"noopener noreferrer\">la librairie Javascript de Leaflets</a> pour plus "
+"d'infos sur cette librairie."
 
 #: includes/admin/option_tabs/avia_google.php:102
 #: includes/admin/option_tabs/avia_newsletter.php:32
@@ -4466,28 +4482,27 @@ msgstr "Cocher si vous n'utilisez pas les réglages YouTube ou Vimeo."
 #: includes/admin/option_tabs/avia_upload.php:44
 msgid ""
 "Check if you do not want to import all settings from an exported theme "
-"settings file. Please read the <a href=\"https://kriesi."
-"at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">documentation</a> for more information how to "
-"customize import."
+"settings file. Please read the <a href=\"https://kriesi.at/documentation/"
+"enfold/backup-theme-settings\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">documentation</a> for more information how to customize import."
 msgstr ""
 "Cochez si vous ne voulez pas importer tous les réglages depuis un fichier "
-"d'export de réglages de thème. Merci de consulter notre <a href=\"https:"
-"//kriesi.at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">documentation</a> pour + d'infos au sujet des "
+"d'export de réglages de thème. Merci de consulter notre <a href=\"https://"
+"kriesi.at/documentation/enfold/backup-theme-settings\" target=\"_blank\" rel="
+"\"noopener noreferrer\">documentation</a> pour + d'infos au sujet des "
 "imports personnalisés."
 
 #: includes/admin/option_tabs/avia_upload.php:115
 msgid ""
-"Check if you do not want to reset all options. Please read the <a "
-"href=\"https://kriesi.at/documentation/enfold/backup-theme-settings\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">documentation</a> for more "
+"Check if you do not want to reset all options. Please read the <a href="
+"\"https://kriesi.at/documentation/enfold/backup-theme-settings\" target="
+"\"_blank\" rel=\"noopener noreferrer\">documentation</a> for more "
 "information how to customize resetting theme options."
 msgstr ""
 "Cocher si vous ne voulez pas réinitialiser toutes les options. Merci de "
 "consulter notre <a href=\"https://kriesi.at/documentation/enfold/backup-"
-"theme-settings\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"documentation</a> pour + d'infos sur comment personnaliser les options de "
+"theme-settings\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">documentation</a> pour + d'infos sur comment personnaliser les options de "
 "réinitialisation des options du thème."
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-parser.class.php:2284
@@ -4520,6 +4535,8 @@ msgid ""
 "Check if you want to define your custom color palette for the color "
 "selection popup in modal popup window options"
 msgstr ""
+"Cocher si vous souhaitez pouvoir définir votre propre palette de couleurs "
+"dans les popups d'option de choix des couleurs"
 
 #: includes/admin/option_tabs/avia_performance.php:737
 msgid ""
@@ -4627,8 +4644,8 @@ msgstr "Cochez si vous voulez cacher cet élément de formulaire"
 
 #: includes/admin/option_tabs/avia_upload.php:53
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
-" Quick CSS&quot;. In case you select single tabs to import below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to import below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -4637,8 +4654,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:124
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
-" Quick CSS&quot;. In case you select single tabs to reset below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -4780,23 +4797,18 @@ msgstr ""
 
 #: framework/php/class-htmlhelper.php:2464
 msgid "Check to disable"
-msgstr ""
+msgstr "Cocher pour désactiver"
 
 #: includes/admin/option_tabs/avia_performance.php:336
-#, fuzzy
-#| msgid ""
-#| "Check to disable 'jQuery Migrate'. It is an old backward compatibility "
-#| "library for jQuery that is required by some plugins. Make sure that none "
-#| "of your active plugins require it before disabling it!"
 msgid ""
 "Check to disable &quot;jQuery Migrate&quot;. It is an old backward "
 "compatibility library for jQuery that is required by some plugins. Make sure "
 "that none of your active plugins require it before disabling it!"
 msgstr ""
-"Cochez pour désactiver 'jQuery Migrate'. Il s'agit d'une ancienne "
-"bibliothèque de compatibilité descendante pour jQuery qui est requise par "
-"certains plugins. Assurez-vous qu'aucun de vos plugins actifs n'en a besoin "
-"avant de le désactiver !"
+"Cochez pour désactiver &quot;jjQuery Migrate&quot;j. Il s'agit d'une "
+"ancienne bibliothèque de compatibilité descendante pour jQuery qui est "
+"requise par certains plugins. Assurez-vous qu'aucun de vos plugins actifs "
+"n'en a besoin avant de le désactiver !"
 
 #: includes/admin/option_tabs/avia_performance.php:325
 msgid ""
@@ -4898,6 +4910,9 @@ msgid ""
 "feature starts with version 4.8.2 and not all elements support it from "
 "beginning."
 msgstr ""
+"Cocher poue activer le support par la lightbox du thème des images "
+"responsives. Fonctionnalité depuis version 4.8.2, tous les éléments ne "
+"supportent pas cela depuis le début."
 
 #: includes/admin/option_tabs/avia_performance.php:405
 msgid ""
@@ -4983,6 +4998,9 @@ msgid ""
 "(faster rendering, but not mandatory installed on all devices) or %s (more "
 "unique)."
 msgstr ""
+"Choisir une police pour le corps de vos pages. Uploadez vos propres polices, "
+"utilisez des polices web safe (rendu + rapide mais pas obligatoirement "
+"présentent sur tous les appareils) ou %s (plus unique)."
 
 #: includes/admin/option_tabs/avia_styling.php:17
 msgid ""
@@ -5049,24 +5067,19 @@ msgstr ""
 "en icônes"
 
 #: includes/admin/option_tabs/avia_menu.php:135
-#, fuzzy
-#| msgid ""
-#| "Choose how you want to display the menu items on desktop computers. If "
-#| "you choose to display the 'burger' icon on desktop computers it will also "
-#| "be used on tablets and mobile devices "
 msgid ""
 "Choose how you want to display the menu items on desktop computers. If you "
 "choose to display the &quot;burger&quot; icon on desktop computers it will "
 "also be used on tablets and mobile devices "
 msgstr ""
 "Choisir la façon dont vous souhaitez afficher les éléments de menu sur "
-"ordinateur de bureau. Si vous choisissez d'afficher l'icône «Burger» sur "
-"ordinateur de bureau, elle sera également utilisée sur tablettes et "
-"appareils mobiles "
+"ordinateur de bureau. Si vous choisissez d'afficher l'icône &quot;"
+"Burger&quot; sur ordinateur de bureau, elle sera également utilisée sur "
+"tablettes et appareils mobiles "
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:686
 msgid "Choose Icon Image"
-msgstr ""
+msgstr "Choisir une image d'icône"
 
 #: includes/admin/option_tabs/avia_header.php:299
 msgid ""
@@ -5096,21 +5109,23 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:325
 msgid "Choose if the map can be zoomed by using the mouse wheel."
-msgstr ""
+msgstr "Choisir si la carte peut être zoomée via le scroll de la souris."
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:337
 msgid "Choose if the map should support zoom by touch and drag"
-msgstr ""
+msgstr "Choisir si la carte doit supporter le zoom par toucher / déplacer"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:615
 msgid "Choose if the marker is draggable or fixed"
-msgstr ""
+msgstr "Choisir si le marqueur est déplaçable ou fixe"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:635
 msgid ""
 "Choose if the marker popup is visible on pageload or marker needs to be "
 "clicked to open it"
 msgstr ""
+"Choisir si le popup du marqueur est visible au chargement de la page ou s'il "
+"doit être cliqué pour s'ouvrir"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:279
 msgid "Choose if the player starts on pageload or has to be started manually"
@@ -5131,11 +5146,14 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:286
 msgid "Choose if you want keyboard support for interacting with the map"
 msgstr ""
+"Choisir si vous souhaitez le support clavier pour interagir avec la carte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:274
 msgid ""
 "Choose if you want popups of the markers to close when user clicks the map"
 msgstr ""
+"Choisir si vous souhaitez la clôture des popups des marqueurs au clic en "
+"dehors sur la carte"
 
 #: includes/admin/option_tabs/avia_menu.php:180
 msgid "Choose if you want to display a border between menu items"
@@ -5191,6 +5209,8 @@ msgid ""
 "Choose if you want to hide the language flags that are added by default to "
 "the header menus."
 msgstr ""
+"Choisir si vous souhaitez masquer les drapeaux ajoutés par défaut aux menus "
+"du header."
 
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:210
 msgid ""
@@ -5379,7 +5399,7 @@ msgstr "Choisissez la vue initiale de la carte après son chargement"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:367
 msgid "Choose the largest possible zoom level."
-msgstr ""
+msgstr "Choisir le niveau maxi possible du zoom."
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:215
 msgid "Choose the layout of your Gallery"
@@ -5430,7 +5450,7 @@ msgstr "Choisissez la taille de votre bouton ici."
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:358
 msgid "Choose the smallest possible zoom level"
-msgstr ""
+msgstr "Choisir le niveau mini possible du zoom"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:485
 msgid "Choose the style of your tooltip"
@@ -5484,17 +5504,19 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:313
 msgid "Choose to add a zoom control to the map"
-msgstr ""
+msgstr "Choisir d'ajouter un contrôle de zoom à la carte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:418
 msgid "Choose to autodetect a retina screen"
-msgstr ""
+msgstr "Choisir l'auto-détection d'écran rétina"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:349
 msgid ""
 "Choose to display all markers on pageload or set the zoom level when map is "
 "loaded on a scale from 0 (very far away) to 20 (very close)"
 msgstr ""
+"Choisir d'afficher tous les marqueurs au chargement de page ou spécifier le "
+"niveau de zoom de départ sur une échelle de 0 (loin) à 20 (proche)"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:235
 msgid ""
@@ -5505,12 +5527,14 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:376
 msgid "Choose to show scale information on the map"
-msgstr ""
+msgstr "Choisir de spécifier l'échelle sur la carte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:674
 msgid ""
 "Choose to use default plugin marker icon or upload a custom icon (png or jpg)"
 msgstr ""
+"Choisir l'icône de marqueur par défaut du plugin ou uploadez votre propre "
+"icône (png ou jpg)"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1098
 msgid "Choose Video"
@@ -5519,6 +5543,7 @@ msgstr "Choisissez une vidéo"
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:262
 msgid "Choose whether the map can be draggable with mouse/touch or not"
 msgstr ""
+"Choisir si la carte peut être déplacée avec la souris / le toucher ou pas"
 
 #: includes/admin/option_tabs/avia_header.php:283
 msgid "Choose which header style you want to use"
@@ -5597,6 +5622,8 @@ msgid ""
 "Click button to fetch the coordinates for the address above to speed up "
 "loading of map in frontend."
 msgstr ""
+"Bouton à cliquer pour renseigner les coordonnées pour l'adresse ci-dessus en "
+"vue d'accélérer le chargement de la carte sur le site."
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:2356
 msgid ""
@@ -5661,11 +5688,11 @@ msgstr "Cliquez pour ajouter votre propre texte ici"
 
 #: framework/php/class-htmlhelper.php:1954
 msgid "Click to download"
-msgstr ""
+msgstr "Cliquer pour télécharger"
 
 #: framework/php/class-htmlhelper.php:1965
 msgid "Click to download and import"
-msgstr ""
+msgstr "Cliquer pour télécharger et importer"
 
 #: includes/helper-privacy.php:941
 #, php-format
@@ -5702,16 +5729,16 @@ msgstr "Cliquer pour importer"
 
 #: framework/php/class-framework-widgets.php:240
 msgid "Click to load facebook widget"
-msgstr "Cliquez pour charger le widget Facebook"
+msgstr "Cliquer pour charger le widget Facebook"
 
 #: framework/php/class-framework-widgets.php:1940
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:374
 msgid "Click to load Google Maps"
-msgstr "Cliquez pour charger Google Maps"
+msgstr "Cliquer pour charger Google Maps"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:641
 msgid "Click to open popup"
-msgstr ""
+msgstr "Cliquer pour ouvrir le popup"
 
 #: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:1490
 msgid "Click to order products ascending"
@@ -5780,11 +5807,11 @@ msgstr "Bouton Fermer"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:368
 msgid "Close only when visitor clicks in icongrid"
-msgstr ""
+msgstr "Fermer uniquement au clic dans la grille d'icônes"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:280
 msgid "Close with click on map"
-msgstr ""
+msgstr "Fermer au clic sur la carte"
 
 #: config-templatebuilder/avia-shortcodes/codeblock.php:41
 msgid "Code Block"
@@ -5818,7 +5845,7 @@ msgstr "Couleur"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:433
 msgid "Color and Display"
-msgstr ""
+msgstr "Couleur et affichage"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:752
 msgid "Color of the Likes & Comments"
@@ -6350,15 +6377,15 @@ msgstr "Le cookie commence par le nom de cookie"
 msgid ""
 "Cookies must be in the same domain and you need to specify the name and the "
 "path (case sensitive) that is shown in the developer tools of your browser. "
-"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-"
-"cookies/#additional-custom-cookies\">Additional Custom Cookies</a> on our "
+"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-cookies/"
+"#additional-custom-cookies\">Additional Custom Cookies</a> on our "
 "documentation."
 msgstr ""
 "Les cookies doivent être issus du même domaine et vous devez spécifier le "
 "nom et le chemin (sensible à la casse) infos apparaissant dans la console de "
-"développement de votre navigateur. Merci de regarder <a href=\"https:"
-"//kriesi.at/documentation/enfold/privacy-cookies/#additional-custom-"
-"cookies\">Les Cookies additionnels</a> dans notre documentation."
+"développement de votre navigateur. Merci de regarder <a href=\"https://"
+"kriesi.at/documentation/enfold/privacy-cookies/#additional-custom-cookies"
+"\">Les Cookies additionnels</a> dans notre documentation."
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1158
 msgid "Copy"
@@ -6493,6 +6520,8 @@ msgid ""
 "Create one or more social buttons to share a post or to link to your social "
 "profile"
 msgstr ""
+"Créer un ou plusieurs boutons sociaux pour partager un article ou un lien "
+"vers votre profil social"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:30
 msgid "Create some progress bars"
@@ -6786,7 +6815,7 @@ msgstr "Couleur de fond personnalisée du Bouton au survol"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:204
 msgid "Custom Button Behaviour"
-msgstr ""
+msgstr "Comportement des boutons personnalisés"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1543
 msgid "Custom Button Font Color"
@@ -6822,7 +6851,7 @@ msgstr "Couleur personnalisée"
 
 #: includes/admin/option_tabs/avia_builder.php:122
 msgid "Custom Color Palette"
-msgstr ""
+msgstr "Palette de couleurs personnalisées"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:490
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:379
@@ -7157,7 +7186,7 @@ msgstr "Marges haute et basse personnalisées"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:697
 msgid "Custom URL To Marker Icon"
-msgstr ""
+msgstr "URL personnalisée sur l'icône du marqueur"
 
 #: framework/php/class-sidebar-generator.php:34
 msgid "Custom Widget Area"
@@ -7165,7 +7194,7 @@ msgstr "Zone de widget personnalisée"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2060
 msgid "Customize"
-msgstr "Personnalisez"
+msgstr "Personnaliser"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:323
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:415
@@ -7347,7 +7376,7 @@ msgstr "Couleur par défaut"
 
 #: includes/admin/option_tabs/avia_builder.php:130
 msgid "Default color palette is:"
-msgstr ""
+msgstr "La palette de couleurs par défaut est :"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:223
 msgid "Default Column"
@@ -7387,7 +7416,7 @@ msgstr "Hauteur par défaut"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:679
 msgid "Default icon"
-msgstr ""
+msgstr "Icône par défaut"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:222
 msgid "Default inline style"
@@ -7477,8 +7506,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/section.php:216
 msgid "Define a minimum height for the section. Use a pixel value. eg: 500px"
 msgstr ""
-"Définir une hauteur minimale de la section. Utilisez une valeur de pixel, ex."
-" : 500px"
+"Définir une hauteur minimale de la section. Utilisez une valeur de pixel, "
+"ex. : 500px"
 
 #: includes/admin/option_tabs/avia_cookie.php:515
 msgid ""
@@ -7641,7 +7670,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:339
 msgid "Define the transition between tab content"
-msgstr "Définissez la transition entre le contenu de l'onglet"
+msgstr "Définir la transition entre le contenu de l'onglet"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:361
 msgid "Define the width of the list"
@@ -7649,7 +7678,7 @@ msgstr "Définir la taille de la liste"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:323
 msgid "Define where the results are displayed when using AJAX"
-msgstr "Définissez où sont affichés les résultats lors de l'utilisation d'AJAX"
+msgstr "Définir où sont affichés les résultats lors de l'utilisation d'AJAX"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:211
 msgid "Defines the styling of the iconbox and the position of the icon"
@@ -7674,7 +7703,7 @@ msgstr "Supprimer l'élément personnalisé"
 
 #: framework/php/class-htmlhelper.php:2081
 msgid "Delete downloaded files"
-msgstr ""
+msgstr "Supprimer les fichiers téléchargés"
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:1843
 msgid "Delete Element"
@@ -7702,7 +7731,7 @@ msgstr "Supprimer la section d'onglet"
 
 #: framework/php/class-htmlhelper.php:2066
 msgid "Deleting started."
-msgstr ""
+msgstr "Suppression commencée."
 
 #: framework/php/class-htmlhelper.php:2077
 #, php-format
@@ -7710,6 +7739,8 @@ msgid ""
 "Deleting the downloaded demo files %s didn't work! <br/> You might want to "
 "try reloading the page and then try again"
 msgstr ""
+"La suppression des fichiers de la démo %s n'a pas fonctionné !<br />Vous "
+"devriez recharger la page et retenter"
 
 #: framework/php/class-htmlhelper.php:2078
 #, php-format
@@ -7718,11 +7749,14 @@ msgid ""
 "try reloading the page and then try again.<br/> The script returned the "
 "following message: <br/>"
 msgstr ""
+"La suppression des fichiers de la démo %s n'a pas fonctionné !<br />Vous "
+"devriez recharger la page et retenter.<br />Le script a renvoyé l'erreur "
+"suivante :<br />"
 
 #: framework/php/inc-avia-download-demo.php:13
 #, php-format
 msgid "Demo File Download (%s):"
-msgstr ""
+msgstr "Téléchargement du fichier de démo (%s) :"
 
 #: includes/admin/register-demo-import.php:112
 #: includes/admin/register-demo-import.php:132
@@ -7772,7 +7806,7 @@ msgstr "Importer démo"
 #: framework/php/inc-avia-importer.php:33
 #, php-format
 msgid "Demo Importer (%s):"
-msgstr ""
+msgstr "Importation de la démo (%s) :"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:240
 msgid ""
@@ -7848,7 +7882,7 @@ msgstr "Utilisation détaillée du Shortcode"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:417
 msgid "Detect Retina Display"
-msgstr ""
+msgstr "Détection d'écran rétina"
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:1679
 msgid "Developer"
@@ -8261,7 +8295,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:241
 msgid "Display arrows"
-msgstr ""
+msgstr "Afficher les flèches"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1831
 msgid "Display as centered overlay (overlays the image)"
@@ -8447,7 +8481,7 @@ msgstr "Afficher la barre de message et utiliser la gestion des cookies"
 
 #: includes/admin/option_tabs/avia_shop.php:39
 msgid "Display message box only on errors"
-msgstr ""
+msgstr "N'afficher la boite de message qu'en cas d'erreur"
 
 #: includes/admin/option_tabs/avia_cookie.php:531
 msgid "Display Modal Popup Actions"
@@ -8761,7 +8795,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:319
 msgid "Display Zoom Control"
-msgstr ""
+msgstr "Afficher la Commande du Zoom"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:226
 msgid "Display Zoom Control?"
@@ -8769,7 +8803,7 @@ msgstr "Afficher la Commande du Zoom ?"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:62
 msgid "Displays a map based on OpenStreetMaps and Leaflet Map plugin"
-msgstr ""
+msgstr "Affiche une carte basée sur les plugins OpenStreetMaps et Leaflet Map"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:36
 msgid "Displays a search form"
@@ -8802,7 +8836,7 @@ msgstr "N'autorise pas l'accès aux écrans"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:268
 msgid "Do not allow dragging"
-msgstr ""
+msgstr "Bloquer le déplacement"
 
 #: config-templatebuilder/avia-shortcodes/product_grid.php:208
 #: config-templatebuilder/avia-shortcodes/product_list.php:226
@@ -8880,7 +8914,7 @@ msgstr "Ne pas autoriser l'intégration de vidéos"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:279
 msgid "Do not close with click on map"
-msgstr ""
+msgstr "Ne pas fermer au clic sur la carte"
 
 #: includes/admin/option_tabs/avia_menu.php:250
 msgid "Do not create a clone"
@@ -8888,7 +8922,7 @@ msgstr "Ne pas créer un clone"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:242
 msgid "Do not display arrows"
-msgstr ""
+msgstr "Ne pas afficher les flèches"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:311
 msgid "Do not display border"
@@ -8900,7 +8934,7 @@ msgstr "Ne pas afficher d'ombre"
 
 #: includes/admin/option_tabs/avia_shop.php:38
 msgid "Do not display the message box"
-msgstr ""
+msgstr "Ne pas afficher la boite de message"
 
 #: includes/admin/option_tabs/avia_performance.php:228
 msgid "Do not scan widgets"
@@ -9126,11 +9160,11 @@ msgstr "Double opt-in ?"
 
 #: includes/admin/option_tabs/avia_demo.php:17
 msgid "Download And Import Demo Files"
-msgstr ""
+msgstr "Télécharger et importer des fichiers de démo"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:74
 msgid "Download latest library files here"
-msgstr ""
+msgstr "Télécharger les fichiers de la librairie la plus récente ici"
 
 #: framework/php/class-htmlhelper.php:2029
 #, php-format
@@ -9138,6 +9172,8 @@ msgid ""
 "Download of files for demo %s didn't work! <br/> You might want to try "
 "reloading the page and then try again."
 msgstr ""
+"Le téléchargement ou les fichiers de démo %s n'ont pas marché !<br />Vous "
+"devriez essayer de recharger la page puis de recommencer."
 
 #: framework/php/auto-updates/class-avia-envato-base-api.php:484
 msgid "Download Package URL:"
@@ -9161,11 +9197,11 @@ msgstr ""
 
 #: framework/php/inc-avia-download-demo.php:16
 msgid "Download started"
-msgstr ""
+msgstr "Téléchargement commencé"
 
 #: framework/php/class-htmlhelper.php:2061
 msgid "Download started."
-msgstr ""
+msgstr "Téléchargement commencé."
 
 #: framework/php/class-update-notifier.php:164
 msgid "Download Update From Themeforest.net"
@@ -9174,7 +9210,7 @@ msgstr "Télécharger la mise à jour à partir de Themeforest.net"
 #: framework/php/function-set-avia-ajax.php:717
 #, php-format
 msgid "Downloaded files for demo %s could not be deleted."
-msgstr ""
+msgstr "Les fichiers téléchargés pour la démo %s n'ont pu être effacés."
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:3392
 msgid "draft"
@@ -9182,23 +9218,23 @@ msgstr "brouillon"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:621
 msgid "Draggable"
-msgstr ""
+msgstr "Draggable"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:614
 msgid "Draggable Marker"
-msgstr ""
+msgstr "Marqueur draggable"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:261
 msgid "Dragging Of Map"
-msgstr ""
+msgstr "Déplacement de la carte"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:377
 msgid "Dribbble Link"
-msgstr ""
+msgstr "Lien Dribble"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:617
 msgid "Dribbble Profile Link"
-msgstr ""
+msgstr "Lien de profil Dribble"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:166
 msgid "Dropcap Styling"
@@ -9722,7 +9758,7 @@ msgstr "Lien Email"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:577
 msgid "Email Profile Link"
-msgstr ""
+msgstr "Lien de profil email"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:265
 msgid "Empty Cells"
@@ -9738,7 +9774,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:42
 msgid "Enable"
-msgstr ""
+msgstr "Activer"
 
 #. __( 'Compress advanced template builder CSS files (level 1)', 'avia_framework' ) => 'avia-module',
 #: includes/admin/option_tabs/avia_performance.php:59
@@ -9906,7 +9942,7 @@ msgstr "Mise à jour d'Enfold réussie ! "
 
 #: config-wpml/class-avia-wpml.php:524
 msgid "Enfold WPML Language Flags"
-msgstr ""
+msgstr "Drapeaux de langues WPML d'Enfold"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:278
 msgid ""
@@ -9954,7 +9990,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:698
 msgid "Enter a custom URL to the marker icon"
-msgstr ""
+msgstr "Editer une URL personnalisée sur icône de marqueur"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:245
 msgid ""
@@ -10065,6 +10101,8 @@ msgid ""
 "Enter additional shortcode attributes here that are not available with "
 "predefined options."
 msgstr ""
+"Entrez ici les attributs de shortcode non disponibles avec les options "
+"prédéfinies."
 
 #: config-templatebuilder/avia-template-builder/php/html-helper.class.php:2804
 msgid "Enter Address, then fetch coordinates"
@@ -10077,6 +10115,7 @@ msgstr "Entrez une description supplémentaire"
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:434
 msgid "Enter an additional message that will be added after the form labels."
 msgstr ""
+"Entrez un message additionnel qui sera ajouté aux labels du formulaire."
 
 #: includes/admin/option_tabs/avia_cookie.php:481
 #: includes/admin/option_tabs/avia_cookie.php:616
@@ -10092,6 +10131,8 @@ msgid ""
 "Enter an optional tooltip that is displayed when you hover over the marker "
 "(different from Marker Popup)"
 msgstr ""
+"Entrez une info bulle qui sera affichée au survol du marqueur (différente "
+"pour chaque marqueur)"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:667
 msgid ""
@@ -10106,8 +10147,8 @@ msgid ""
 "Enter any number of options that the visitor can choose from. Separate these "
 "Options with a comma."
 msgstr ""
-"Saisissez des options à partir desquelles le visiteur pourra faire des choix."
-" Les séparer par une virgule."
+"Saisissez des options à partir desquelles le visiteur pourra faire des "
+"choix. Les séparer par une virgule."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:331
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:336
@@ -10125,6 +10166,7 @@ msgstr "Entrer le contenu ici"
 msgid ""
 "Enter links to your social profiles which will be used in this element only."
 msgstr ""
+"Entrez vos profils sociaux qui seront utilisés uniquement dans cet élément."
 
 #: config-templatebuilder/avia-shortcodes/codeblock.php:168
 msgid ""
@@ -10148,8 +10190,9 @@ msgid ""
 "Enter one or more reply to Email addresses (separated by comma) for the "
 "autoresponder mail. Leave blank if not needed."
 msgstr ""
-"Entrez une ou plusieurs adresses email de réponse (séparées par des virgules)"
-" pour le mail de réponse automatique. Laisser vide si non nécessaire."
+"Entrez une ou plusieurs adresses email de réponse (séparées par des "
+"virgules) pour le mail de réponse automatique. Laisser vide si non "
+"nécessaire."
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:551
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:682
@@ -10190,6 +10233,8 @@ msgid ""
 "Enter some text here that will be displayed above the marker. You may also "
 "include a link."
 msgstr ""
+"Entrez ici du texte qui sera affiché au dessus du marqueur. Un lien est "
+"aussi possible."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:505
 msgid ""
@@ -10235,11 +10280,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2662
 msgid "Enter the city name, e.g. Denver"
-msgstr ""
+msgstr "Entrez le nom de la ville, ex. Paris"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2670
 msgid "Enter the Country, e.g. Canada"
-msgstr ""
+msgstr "Entrez le pays, ex. France"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1049
 msgid ""
@@ -10293,12 +10338,16 @@ msgstr ""
 msgid ""
 "Enter the latitude of your adress, use \".\" for comma, e.g. 16.37366388888"
 msgstr ""
+"Entrez la latitude de votre adresse, avec le \".\" en tant que virgule, ex. "
+"16.37366388888"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:474
 msgid ""
 "Enter the link to your profile for this button. Leave empty to use link "
 "defined in "
 msgstr ""
+"Entrez le lien de votre profil pour ce bouton. Laisser vide pour utiliser "
+"celui par défaut "
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:301
 msgid "Enter the list item title here"
@@ -10311,6 +10360,8 @@ msgstr "Entrez le titre de l'élément de liste ici (court si possible)"
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2704
 msgid "Enter the longitude of your adress, use \".\" for comma, e.g. 48.21475"
 msgstr ""
+"Entrez la longitude de votre adresse, avec le \".\" en tant que virgule, ex. "
+"48.21475"
 
 #: includes/admin/option_tabs/avia_layout.php:291
 msgid ""
@@ -10370,7 +10421,7 @@ msgstr "Saisissez le numéro de l'onglet qui doit être ouvert au départ."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2654
 msgid "Enter the postalcode (Zip code) for the city, e.g. 12454"
-msgstr ""
+msgstr "Entrez le code postal de cette ville, ex. 42380"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:321
 msgid "Enter the price for the item here. Eg: 34$, 55.5€, £12"
@@ -10382,29 +10433,27 @@ msgstr "Saisissez le titre de la barre de progression ici"
 
 #: includes/admin/option_tabs/avia_google.php:188
 msgid "Enter the reCAPTCHA v2 API secret key here."
-msgstr ""
+msgstr "Entrez ici la clé secrète d'API reCAPTCHA v2."
 
 #: includes/admin/option_tabs/avia_google.php:178
 msgid "Enter the reCAPTCHA v2 API site key here."
-msgstr ""
+msgstr "Entrez ici la clé d'API reCAPTCHA v2 du site."
 
 #: includes/admin/option_tabs/avia_google.php:225
 msgid "Enter the reCAPTCHA v3 API secret key here."
-msgstr ""
+msgstr "Entrez ici la clé secrète d'API reCAPTCHA v3."
 
 #: includes/admin/option_tabs/avia_google.php:215
 msgid "Enter the reCAPTCHA v3 API site key here."
-msgstr ""
+msgstr "Entrez ici la clé d'API reCAPTCHA v3 du site."
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:568
 msgid "Enter the rotating text here (Better keep it short)"
 msgstr "Saisir le slogan rotatif ici (plus c'est court mieux c'est)"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:338
-#, fuzzy
-#| msgid "Enter the link to Yelp for this button."
 msgid "Enter the share link to Yelp for this button."
-msgstr "Entrer le lien vers Yelp pour ce bouton."
+msgstr "Entrer le lien de partage vers Yelp pour ce bouton."
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:438
 msgid "Enter the slide title here (Better keep it short)"
@@ -10414,6 +10463,7 @@ msgstr "Saisir le titre de la diapositive ici (court si possible)"
 msgid ""
 "Enter the street and streetnumber seperated by space, e.g. Teststreet 15."
 msgstr ""
+"Entrez la rue et le numéro de rue séparés par un espace, ex. 5 rue du repos."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:238
 msgid "Enter the submit buttons label text here"
@@ -10469,7 +10519,7 @@ msgstr "Saisir l'URL de la vidéo"
 
 #: includes/admin/option_tabs/avia_builder.php:134
 msgid "Enter Your Custom Color Palette"
-msgstr ""
+msgstr "Editer votre palette de couleurs personnalisées"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:314
 msgid "Enter your description here"
@@ -10556,7 +10606,7 @@ msgstr "Erreur 404 - page introuvable"
 
 #: framework/php/inc-avia-download-demo.php:33
 msgid "Error accessing file for download:<br /><br />"
-msgstr ""
+msgstr "Erreur lors de l'accès au fichier pour téléchargement : <br /><br />"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:11
 msgid "Error fetching content - please reload the page and try again"
@@ -10582,7 +10632,7 @@ msgstr ""
 
 #: framework/php/inc-avia-importer.php:240
 msgid "Error(s) returned:"
-msgstr ""
+msgstr "Erreur(s) retournée(s) :"
 
 #: config-templatebuilder/avia-template-builder/php/generic-helper.class.php:414
 #, php-format
@@ -10627,6 +10677,9 @@ msgid ""
 "plugins or you have existing content that is in conflict with the demo "
 "content."
 msgstr ""
+"Une erreur s'est produite lors de l'importation de la démo. Certains plugins "
+"requis sont peut-être manquants ou vous avez un contenu en conflit avec "
+"celui de la démo."
 
 #: framework/php/auto-updates/auto-updates.php:557
 #, php-format
@@ -10728,7 +10781,6 @@ msgstr "Extra Large"
 #: framework/php/class-breadcrumb-legacy.php:507
 #: framework/php/class-breadcrumb-legacy.php:520
 #: framework/php/class-breadcrumb-trail.php:386
-#: framework/php/class-breadcrumb-trail.php:386
 #: framework/php/class-breadcrumb-trail.php:397
 msgid "F"
 msgstr "F"
@@ -10752,7 +10804,7 @@ msgstr "Titre de page Facebook :"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:497
 msgid "Facebook Profile Link"
-msgstr ""
+msgstr "Lien de profil Facebook"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:306
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:410
@@ -10842,19 +10894,19 @@ msgstr "N'hésitez pas à contribuer !"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2693
 msgid "Fetch coordinates"
-msgstr ""
+msgstr "Fournir les coordonnées"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2695
 msgid "Fetch coordinates for address above"
-msgstr ""
+msgstr "Fournir les coordonnées pour l'adresse ci-dessus"
 
 #: framework/php/class-framework-widgets.php:2296
 msgid "Fetch coordinates!"
-msgstr "Vérifier les coordonnées !"
+msgstr "Fournir les coordonnées !"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2696
 msgid "Fetching address ......."
-msgstr ""
+msgstr "Vérification de l'adresse ......."
 
 #: framework/php/class-framework-widgets.php:2297
 msgid "Fetching the coordinates. Please wait..."
@@ -10942,7 +10994,7 @@ msgstr "Corrige un bug WP, désactive un timestamp unique"
 #: includes/admin/option_tabs/avia_styling.php:367
 #: includes/admin/option_tabs/avia_styling.php:501
 msgid "Fixed"
-msgstr "Corrigé"
+msgstr "Fixe"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:273
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:362
@@ -10977,11 +11029,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:388
 msgid "Flickr Link"
-msgstr ""
+msgstr "Lien Flickr"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:627
 msgid "Flickr Profile Link"
-msgstr ""
+msgstr "Lien de profil Flickr"
 
 #: includes/admin/option_tabs/avia_menu.php:321
 msgid "Flyout width"
@@ -11489,12 +11541,12 @@ msgstr "Sous-menu pleine largeur"
 #: framework/php/class-breadcrumb-legacy.php:490
 #: framework/php/class-breadcrumb-trail.php:370
 msgid "g a"
-msgstr ""
+msgstr "g a"
 
 #: framework/php/class-breadcrumb-legacy.php:482
 #: framework/php/class-breadcrumb-trail.php:362
 msgid "g:i a"
-msgstr ""
+msgstr "g:i a"
 
 #: functions.php:211
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:41
@@ -11614,7 +11666,7 @@ msgstr "Aller à Mailchimp"
 
 #: includes/admin/option_tabs/avia_google.php:23
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: includes/helper-privacy.php:539 includes/helper-privacy.php:548
 #: includes/helper-privacy.php:557
@@ -11712,11 +11764,11 @@ msgstr "Réglages des polices Google :"
 
 #: includes/admin/option_tabs/avia_styling.php:528
 msgid "Google Webkit Fonts"
-msgstr ""
+msgstr "Google Fonts"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:408
 msgid "Grayscale"
-msgstr ""
+msgstr "Echelle des gris"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:240
 msgid "great"
@@ -11829,15 +11881,15 @@ msgstr "Editeur Gutenberg"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:701
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:900
 msgid "Hashtag"
-msgstr ""
+msgstr "Hashtag"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:258
 msgid "Hashtag(s)"
-msgstr ""
+msgstr "Hashtag(s)"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:174
 msgid "Hashtag(s):"
-msgstr ""
+msgstr "Hashtag(s):"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:356
 #: includes/admin/register-admin-options.php:92
@@ -11845,58 +11897,56 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/config/meta.php:286
 #: includes/admin/option_tabs/avia_social.php:49
 msgid "Header"
-msgstr "Entête"
+msgstr "Header"
 
 #: includes/admin/option_tabs/avia_header.php:327
-#, fuzzy
-#| msgid "Header behavior"
 msgid "Header Behavior"
-msgstr "Comportement de l'entête"
+msgstr "Comportement du header"
 
 #: includes/admin/option_tabs/avia_header.php:269
 msgid "Header Custom Height"
-msgstr "Hauteur d'entête personnalisée"
+msgstr "Hauteur du Header personnalisée"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:320
 msgid "Header is invisible and appears once the users scrolls down "
 msgstr ""
-"L'entête est invisible et apparaît lorsque l'on fait défiler vers le bas "
+"Le Header est invisible et apparaît lorsque l'on fait défiler vers le bas "
 
 #: includes/admin/option_tabs/avia_header.php:216
 msgid "Header layout"
-msgstr "Mise en page de l'entête"
+msgstr "Mise en page du Header"
 
 #: includes/admin/option_tabs/avia_header.php:433
 msgid "Header Phone Number/Extra Info"
-msgstr "Numéro de téléphone/Extra Info dans l'entête"
+msgstr "Numéro de téléphone/Extra Info dans le Header"
 
 #: includes/admin/option_tabs/avia_header.php:416
 msgid "Header Secondary Menu"
-msgstr "Menu Secondaire d'entête"
+msgstr "Menu Secondaire de Header"
 
 #: includes/admin/option_tabs/avia_avia.php:45
 msgid "Header Settings"
-msgstr "Réglages de l'entête"
+msgstr "Réglages du Header"
 
 #: includes/admin/option_tabs/avia_shop.php:15
 msgid "Header Shopping Cart Icon"
-msgstr "Icône du panier pour l'entête"
+msgstr "Icône du panier du Header"
 
 #: includes/admin/option_tabs/avia_header.php:245
 msgid "Header Size"
-msgstr "Taille de l'entête"
+msgstr "Taille du Header"
 
 #: includes/admin/option_tabs/avia_header.php:395
 msgid "Header Social Icons"
-msgstr "Icône sociales dans l'entête"
+msgstr "Icônes sociales du Header"
 
 #: includes/admin/option_tabs/avia_header.php:282
 msgid "Header Style"
-msgstr "Style d'entête"
+msgstr "Style du Header"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:464
 msgid "Header Text Link?"
-msgstr "Lien sur le texte d'entête ?"
+msgstr "Lien sur le texte dans le Header ?"
 
 #: includes/admin/option_tabs/avia_header.php:298
 msgid "Header Title and Breadcrumbs"
@@ -11904,7 +11954,7 @@ msgstr "Titre d'entête et fil d’Ariane"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:310
 msgid "Header visibility and transparency"
-msgstr "Visibilité et transparence de l'entête"
+msgstr "Visibilité et transparence du Header"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:499
 msgid "Headercolor"
@@ -12127,6 +12177,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:221
 msgid "Here you can add, remove and edit the marker locations for your map."
 msgstr ""
+"Ici vous pouvez ajouter, supprimer et modifier les marqueurs pour votre "
+"carte Google Map."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:262
 msgid "Here you can add, remove and edit the metadata you want to display."
@@ -12204,9 +12256,9 @@ msgid ""
 "Here you can choose the width of your content and sidebar. First Number "
 "indicates the content width, second number indicates sidebar width."
 msgstr ""
-"Ici, vous pouvez choisir la largeur de votre contenu et de la barre latérale."
-" Le premier chiffre indique la largeur du contenu, le second indique la "
-"largeur de la barre latérale."
+"Ici, vous pouvez choisir la largeur de votre contenu et de la barre "
+"latérale. Le premier chiffre indique la largeur du contenu, le second "
+"indique la largeur de la barre latérale."
 
 #: includes/admin/option_tabs/avia_performance.php:252
 msgid "Here you can disable theme features that are not used by every website"
@@ -12355,10 +12407,13 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:17
 msgid ""
-"Here you find information about <a href=\"https://wiki.osmfoundation."
-"org/wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"OpenStreetMap Privacy Policy</a>."
+"Here you find information about <a href=\"https://wiki.osmfoundation.org/"
+"wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">OpenStreetMap Privacy Policy</a>."
 msgstr ""
+"Ici + d'infos à propos <a href=\"https://wiki.osmfoundation.org/wiki/"
+"Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">de la "
+"politique de confidentialité d'OpenStreetMap</a>."
 
 #: config-templatebuilder/avia-shortcodes/textblock.php:165
 #: config-templatebuilder/avia-shortcodes/textblock.php:166
@@ -12595,7 +12650,7 @@ msgstr "Masquer les options du constructeur de mise en page avancée"
 
 #: config-wpml/class-avia-wpml.php:533
 msgid "Hide the default language flags"
-msgstr ""
+msgstr "Masquer le drapeau de la langue par défaut"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:400
 msgid "Hide tracklist"
@@ -12910,11 +12965,11 @@ msgstr "Niveau de sécurité Http pour vérification des fichier compilés"
 
 #. URI of the theme
 msgid "http://www.kriesi.at/themes/enfold/"
-msgstr ""
+msgstr "https://www.kriesi.at/themes/enfold/"
 
 #. Author URI of the theme
 msgid "https://kriesi.at"
-msgstr ""
+msgstr "https://kriesi.at"
 
 #: config-templatebuilder/avia-shortcodes/section.php:249
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:281
@@ -12935,8 +12990,8 @@ msgid ""
 "I agree to the terms and conditions laid out in the [av_privacy_link]Privacy "
 "Policy[/av_privacy_link]"
 msgstr ""
-"J'accepte les conditions générales exposées dans les [av_privacy_link]"
-"mentions légales[/av_privacy_link]"
+"J'accepte les conditions générales exposées dans les "
+"[av_privacy_link]mentions légales[/av_privacy_link]"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:237
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:251
@@ -12953,11 +13008,11 @@ msgstr "Icône"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:726
 msgid "Icon Anchor Left"
-msgstr ""
+msgstr "Left icône d'ancre"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:736
 msgid "Icon Anchor Top"
-msgstr ""
+msgstr "Top icône d'ancre"
 
 #: includes/admin/register-backend-advanced-styles.php:524
 msgid "Icon background"
@@ -13042,7 +13097,7 @@ msgstr "Position de l'icône"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:722
 #: includes/admin/option_tabs/avia_blog.php:330
 msgid "Icon simple"
-msgstr ""
+msgstr "Simple icône"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:238
 msgid "Icon Size"
@@ -13060,7 +13115,7 @@ msgstr "Visibilité de l'icône"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:706
 msgid "Icon Width"
-msgstr ""
+msgstr "Largeur d'icône"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:173
 msgid "IconBox Icon"
@@ -13136,7 +13191,7 @@ msgstr "Si coché, les catégories de cette entrée seront affichées"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:242
 msgid "If checked tags of this entry will be shown"
-msgstr ""
+msgstr "Si coché les étiquettes de cette entrée seront affichées"
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:237
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:213
@@ -13199,16 +13254,12 @@ msgid "If checked you can enter a title with link for this element"
 msgstr "Si coché, vous pouvez entrer un titre avec lien pour cet élément"
 
 #: includes/admin/option_tabs/avia_menu.php:197
-#, fuzzy
-#| msgid ""
-#| "If enabled a search Icon will be appended to the main menu that allows "
-#| "the users to perform an 'AJAX' Search"
 msgid ""
 "If enabled a search Icon will be appended to the main menu that allows the "
 "users to perform an &quot;AJAX&quot; Search"
 msgstr ""
 "Si activé une icône de recherche sera ajoutée au menu principal qui permet "
-"aux utilisateurs d'effectuer une recherche en 'AJAX'"
+"aux utilisateurs d'effectuer une recherche en AJAX"
 
 #: includes/admin/option_tabs/avia_layout.php:282
 msgid ""
@@ -13287,6 +13338,9 @@ msgid ""
 "and import dummy posts and pages that will definitely help to understand how "
 "those tasks are done."
 msgstr ""
+"Si vous êtes nouveau avec Wordpress ou en cas de pb. vous pouvez créer des "
+"articles et des pages comme celles de nos démos en les téléchargeant et en "
+"important leurs contenus pour vous en inspirer."
 
 #: search.php:32
 msgid "If you are not happy with the results below please do another search"
@@ -13671,7 +13725,7 @@ msgstr "image sans titre"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:321
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 #: framework/php/class-responsive-images.php:1207
 #, php-format
@@ -13694,7 +13748,7 @@ msgstr "Les images seront affichées après ce nombre de secondes."
 
 #: framework/php/class-htmlhelper.php:2041
 msgid "Import dummy data"
-msgstr ""
+msgstr "Importer les données"
 
 #: framework/php/class-htmlhelper.php:2028
 #, php-format
@@ -13702,6 +13756,8 @@ msgid ""
 "Import for demo %s didn't work! <br/> You might want to try reloading the "
 "page and then try again."
 msgstr ""
+"L'import pour la demo %s ne marche pas ! Essayez à nouveau après avoir "
+"rechargé la page."
 
 #: includes/admin/option_tabs/avia_upload.php:172
 msgid "Import Layout Builder Templates File"
@@ -13713,11 +13769,11 @@ msgstr "Importer les réglages depuis votre thème parent"
 
 #: framework/php/inc-avia-importer.php:37
 msgid "Import started"
-msgstr ""
+msgstr "Import initié"
 
 #: framework/php/class-htmlhelper.php:2056
 msgid "Import started."
-msgstr ""
+msgstr "Import initié."
 
 #: includes/admin/option_tabs/avia_upload.php:75
 msgid "Import Theme Settings File"
@@ -13725,43 +13781,43 @@ msgstr "Importer le fichier de paramètres du thème"
 
 #: includes/admin/register-admin-options.php:212
 msgid "Import/Export/..."
-msgstr ""
+msgstr "Import/Export/..."
 
 #: includes/admin/register-demo-import.php:491
 msgid "Import: 'Coming Soon' Demo"
-msgstr "Importer : démo 'Coming Soon'"
+msgstr "Importer : démo Coming Soon"
 
 #: includes/admin/register-demo-import.php:509
 msgid "Import: 'Landing Page' Demo"
-msgstr "Importer : démo 'Landing Page'"
+msgstr "Importer : démo Landing Page"
 
 #: includes/admin/register-demo-import.php:680
 msgid "Import: App Demo"
-msgstr "Importer : démo 'App'"
+msgstr "Importer : démo App"
 
 #: includes/admin/register-demo-import.php:734
 msgid "Import: Band Demo"
-msgstr "Importer : démo 'Band'"
+msgstr "Importer : démo Band"
 
 #: includes/admin/register-demo-import.php:434
 msgid "Import: Church Demo"
-msgstr "Importer : démo 'Church'"
+msgstr "Importer : démo Church"
 
 #: includes/admin/register-demo-import.php:416
 msgid "Import: Construction Demo"
-msgstr "Importer : démo 'Construction'"
+msgstr "Importer : démo Construction"
 
 #: includes/admin/register-demo-import.php:608
 msgid "Import: Consulting Demo"
-msgstr "Importer : démo 'Consulting'"
+msgstr "Importer : démo Consulting"
 
 #: includes/admin/register-demo-import.php:289
 msgid "Import: Creative Studio Demo"
-msgstr "Importer : démo 'Creative Studio'"
+msgstr "Importer : démo Creative Studio"
 
 #: includes/admin/register-demo-import.php:271
 msgid "Import: Dark Photography Demo"
-msgstr "Importer : démo 'Dark Photography'"
+msgstr "Importer : démo Dark Photography"
 
 #: includes/admin/register-demo-import.php:106
 msgid "Import: Default Demo"
@@ -13769,31 +13825,31 @@ msgstr "Importer : démo par défaut"
 
 #: includes/admin/register-demo-import.php:716
 msgid "Import: DJ Demo"
-msgstr "Importer : démo 'DJ'"
+msgstr "Importer : démo DJ"
 
 #: includes/admin/register-demo-import.php:217
 msgid "Import: Elegant Portfolio Demo"
-msgstr "Importer : démo 'Elegant Portfolio'"
+msgstr "Importer : démo Elegant Portfolio"
 
 #: includes/admin/register-demo-import.php:126
 msgid "Import: Enfold 2017"
-msgstr "Importer : démo 'Enfold 2017'"
+msgstr "Importer : démo Enfold 2017"
 
 #: includes/admin/register-demo-import.php:753
 msgid "Import: Freelancer Demo"
-msgstr "Importer : démo 'Freelancer'"
+msgstr "Importer : démo Freelancer"
 
 #: includes/admin/register-demo-import.php:698
 msgid "Import: Gaming Demo"
-msgstr "Importer : démo 'Gaming'"
+msgstr "Importer : démo Gaming"
 
 #: includes/admin/register-demo-import.php:644
 msgid "Import: GYM Demo"
-msgstr "Importer : démo 'Gym'"
+msgstr "Importer : démo Gym"
 
 #: includes/admin/register-demo-import.php:662
 msgid "Import: Health Demo"
-msgstr "Importer : démo 'Health'"
+msgstr "Importer : démo Health"
 
 #: includes/admin/register-demo-import.php:549
 msgid "Import: Hotel Demo"
@@ -13801,91 +13857,91 @@ msgstr "Importer : démo Hôtel"
 
 #: includes/admin/register-demo-import.php:789
 msgid "Import: Knowledgebase Demo"
-msgstr "Importer : démo 'Knowledgebase'"
+msgstr "Importer : démo Knowledgebase"
 
 #: includes/admin/register-demo-import.php:590
 msgid "Import: Law Demo"
-msgstr "Importer : démo 'Law'"
+msgstr "Importer : démo Law"
 
 #: includes/admin/register-demo-import.php:473
 msgid "Import: Lifestyle Blog Demo"
-msgstr "Importer : démo 'Lifestyle Blog'"
+msgstr "Importer : démo Lifestyle Blog"
 
 #: includes/admin/register-demo-import.php:325
 msgid "Import: Medical Demo"
-msgstr "Importer : démo 'Medical'"
+msgstr "Importer : démo Medical"
 
 #: includes/admin/register-demo-import.php:253
 msgid "Import: Minimal Photography Demo"
-msgstr "Importer : démo 'Minimal Photography'"
+msgstr "Importer : démo Minimal Photography"
 
 #: includes/admin/register-demo-import.php:199
 msgid "Import: Minimal Portfolio Demo"
-msgstr "Importer : démo 'Minimal Portfolio'"
+msgstr "Importer : démo Minimal Portfolio"
 
 #: includes/admin/register-demo-import.php:307
 msgid "Import: One Page Agency Demo"
-msgstr "Importer : démo 'One Page Agency'"
+msgstr "Importer : démo One Page Agency"
 
 #: includes/admin/register-demo-import.php:181
 msgid "Import: One Page Portfolio Demo"
-msgstr "Importer : démo 'One Page Portfolio'"
+msgstr "Importer : démo One Page Portfolio"
 
 #: includes/admin/register-demo-import.php:380
 msgid "Import: One Page Restaurant Demo"
-msgstr ""
+msgstr "Import : démo One Page Restaurant"
 
 #: includes/admin/register-demo-import.php:398
 msgid "Import: One Page Wedding Demo"
-msgstr "Importer : démo 'One Page Wedding'"
+msgstr "Importer : démo One Page Wedding"
 
 #: includes/admin/register-demo-import.php:235
 msgid "Import: Photography Portfolio Demo"
-msgstr "Importer : démo 'Photography Portfolio'"
+msgstr "Importer : démo Photography Portfolio"
 
 #: includes/admin/register-demo-import.php:362
 msgid "Import: Restaurant Demo"
-msgstr "Importer : démo 'Restaurant'"
+msgstr "Importer : démo Restaurant"
 
 #: includes/admin/register-demo-import.php:626
 msgid "Import: Résumé Demo"
-msgstr "Importer : démo 'Résumé'"
+msgstr "Importer : démo Résumé"
 
 #: includes/admin/register-demo-import.php:343
 msgid "Import: Shop Demo"
-msgstr "Importer : démo 'Shop'"
+msgstr "Importer : démo Shop"
 
 #: includes/admin/register-demo-import.php:455
 msgid "Import: Simple Blog Demo"
-msgstr "Importer : démo 'Simple Blog'"
+msgstr "Importer : démo Simple Blog"
 
 #: includes/admin/register-demo-import.php:145
 msgid "Import: Small Business - Flat Demo"
-msgstr "Importer : démo 'Small Business - Flat'"
+msgstr "Importer : démo Small Business - Flat"
 
 #: includes/admin/register-demo-import.php:571
 msgid "Import: Spa Demo"
-msgstr "Importer : démo 'Spa'"
+msgstr "Importer : démo Spa"
 
 #: includes/admin/register-demo-import.php:163
 msgid "Import: Startup Business Demo"
-msgstr "Importer : démo 'Startup Business'"
+msgstr "Importer : démo Startup Business"
 
 #: includes/admin/register-demo-import.php:527
 msgid "Import: Travel Demo"
-msgstr "Importer : démo 'Travel'"
+msgstr "Importer : démo Travel"
 
 #: includes/admin/register-demo-import.php:771
 msgid "Import: Visual Artist Demo"
-msgstr "Importer : démo 'Visual Artist'"
+msgstr "Importer : démo Visual Artist"
 
 #: config-wpml/class-avia-wpml.php:439
 msgid "Important Info for WPML:"
-msgstr "Info important concernant WPML :"
+msgstr "Info importante concernant WPML :"
 
 #: framework/php/class-htmlhelper.php:2529
 msgid "Important: "
-msgstr ""
+msgstr "Important : "
 
 #: framework/php/class-htmlhelper.php:2027
 #, php-format
@@ -13894,6 +13950,9 @@ msgid ""
 "It is highly recommended to use a clean install to import a demo to avoid "
 "conflict with existing content and break import. Proceed anyways?"
 msgstr ""
+"Importer le contenu de la démo %s écrasera vos réglages actuels du thème. Il "
+"est recommandé de le faire sur une installation vierge pour éviter tout "
+"conflit de contenus. Procéder quand même ?"
 
 #: includes/loop-author.php:139 includes/loop-index.php:397
 #: includes/loop-search.php:94
@@ -14032,16 +14091,16 @@ msgstr "Boucle infinie"
 #: framework/php/auto-updates/auto-updates.php:569
 #, php-format
 msgid "Info - %s:"
-msgstr ""
+msgstr "Info - %s :"
 
 #: includes/admin/option_tabs/avia_google.php:146
 #, php-format
 msgid ""
-"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">API keys</a> for your site. Also check our <a "
-"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">documentation."
-"</a>"
+"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">API keys</a> for your site. Also check our <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">documentation.</"
+"a>"
 msgstr ""
 "Infos à propos du <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
 "noreferrer\">Google reCAPTCHA</a>. Vous devez créer une <a href=\"%2$s\" "
@@ -14071,7 +14130,7 @@ msgstr "Image Initiale Active"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:252
 msgid "Initial Map Position"
-msgstr ""
+msgstr "Position initiale de la carte"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:242
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:202
@@ -14086,7 +14145,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:348
 msgid "Initial Zoom Level"
-msgstr ""
+msgstr "Niveau de zoom initial"
 
 #: includes/admin/register-backend-advanced-styles.php:22
 msgid "Inline"
@@ -14155,7 +14214,7 @@ msgstr "Insérez l'image alternative"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:690
 msgid "Insert Icon Image"
-msgstr ""
+msgstr "Insérer une image icône"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:701
 #: config-templatebuilder/avia-shortcodes/section.php:392
@@ -14226,7 +14285,7 @@ msgstr "Instagram"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:37
 msgid "Instagram (Smash Balloon)"
-msgstr ""
+msgstr "Instagram (Smash Balloon)"
 
 #: framework/php/class-framework-widgets.php:3335
 msgid "Instagram did not return any images."
@@ -14256,11 +14315,11 @@ msgstr "Image Instagram"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:399
 msgid "Instagram Link"
-msgstr ""
+msgstr "Lien Instagram"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:637
 msgid "Instagram Profile Link"
-msgstr ""
+msgstr "Lien de profil  Instagram"
 
 #: framework/php/class-framework-widgets.php:3243
 #, php-format
@@ -14357,10 +14416,11 @@ msgstr "est à jour"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:18
 msgid ""
-"It is even possible to <a href=\"https://openmaptiles.org/\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">host your own OpenStreetMap "
-"Tiles</a>."
+"It is even possible to <a href=\"https://openmaptiles.org/\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">host your own OpenStreetMap Tiles</a>."
 msgstr ""
+"Il est même possible <a href=\"https://openmaptiles.org/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">d'héberger vos propres OpenStreetMap Tiles</a>."
 
 #: includes/admin/option_tabs/avia_element_templates.php:188
 msgid ""
@@ -14408,7 +14468,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:414
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:2989
 msgid "Item"
-msgstr ""
+msgstr "Elément"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:2836
 msgid "Item element template"
@@ -14463,7 +14523,7 @@ msgstr "Padding de l'item"
 #: framework/php/class-breadcrumb-legacy.php:508
 #: framework/php/class-breadcrumb-trail.php:387
 msgid "j"
-msgstr ""
+msgstr "j"
 
 #: includes/admin/option_tabs/avia_performance.php:66
 msgid "Javascript file merging and compression"
@@ -14494,11 +14554,11 @@ msgstr "Conservez le contenu du CSS rapide"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:285
 msgid "Keyboard Support"
-msgstr ""
+msgstr "Support clavier"
 
 #. Author of the theme
 msgid "Kriesi"
-msgstr ""
+msgstr "Kriesi"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:217
 msgid "Label Text"
@@ -14633,6 +14693,10 @@ msgid ""
 "unavailable or your web hosting provider has to allow external connections "
 "to our domain."
 msgstr ""
+"LayerSlider n'a pu télécharger le slider sélectionné. Merci de vérifier "
+"LayerSlider -> System Status pour d'éventuelles indications. Les fonctions "
+"WP distantes peuvent ne pas être disponibles ou votre hébergement ne tolère "
+"pas les connections externes à votre domaine."
 
 #: framework/php/wordpress-importer/avia-import-class.php:206
 msgid ""
@@ -14641,6 +14705,10 @@ msgid ""
 "for this issue is the lack of write permission on the /wp-content/uploads/ "
 "directory."
 msgstr ""
+"LayerSlider n'a pu sauvefarder le slider sur votre serveur. Merci de "
+"vérifier LayerSlider -> System Status pour d'éventuelles indications. La "
+"raison la plus courante à ce pb. est le manque de permissions suffisantes en "
+"écriture au niveau du répertoire /wp-content/uploads/."
 
 #: config-layerslider/config.php:242
 msgid "Layerslider Options"
@@ -14722,7 +14790,7 @@ msgstr "Vidéos en mode Lazy Load"
 
 #: includes/admin/option_tabs/avia_performance.php:390
 msgid "Lazy Loading"
-msgstr ""
+msgstr "Lazy Loading"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2767
 msgid "Lazy Loading Of Images"
@@ -14744,18 +14812,20 @@ msgid ""
 "Leaflet is not active at the moment. We cannot find the coordinates for your "
 "address."
 msgstr ""
+"Leaflet est inactif pour l'instant. Nous n'avons pu trouver les coordonnées "
+"de votre adresse."
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:104
 msgid "Leaflet Javascript Library css File"
-msgstr ""
+msgstr "Fichier css de la librairie javascript Leaflet"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:88
 msgid "Leaflet Javascript Library js File"
-msgstr ""
+msgstr "Fichier librairie javascript Leaflet"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:57
 msgid "Leaflet Map Plugin"
-msgstr ""
+msgstr "Plugin Leaflet Map"
 
 #: config-woocommerce/config.php:2104
 msgid "Learn more"
@@ -15015,7 +15085,7 @@ msgstr "Titre du lien"
 
 #: includes/helper-social-media.php:716
 msgid "Link to"
-msgstr ""
+msgstr "Lien vers"
 
 #: includes/helper-social-media.php:173
 #, php-format
@@ -15029,7 +15099,7 @@ msgstr "Lien vers %s dans %s"
 
 #: includes/helper-social-media.php:398
 msgid "Link to 500px"
-msgstr ""
+msgstr "Lien vers 500px"
 
 #: includes/admin/option_tabs/avia_cookie.php:464
 #: includes/admin/option_tabs/avia_cookie.php:598
@@ -15051,11 +15121,11 @@ msgstr "Lien vers les sites des personnes"
 
 #: includes/helper-social-media.php:359
 msgid "Link to WhatsApp"
-msgstr ""
+msgstr "Lien vers WhatsApp"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:213
 msgid "Link to your profile"
-msgstr ""
+msgstr "Lien vers votre profil"
 
 #: includes/helper-post-format.php:294 framework/php/class-queryfilter.php:111
 #: framework/php/class-queryfilter.php:223
@@ -15081,7 +15151,7 @@ msgstr "Lien LinkedIn "
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:547
 msgid "LinkedIn Profile Link"
-msgstr ""
+msgstr "Lien de profil Linkedin"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:563
 msgid "Linktext for the above Link"
@@ -15306,8 +15376,8 @@ msgid ""
 "Look up problems concerning the shortcode structure of this page/post that "
 "might break your frontend layout."
 msgstr ""
-"Rechercher des problèmes concernant la structure de Shortcode de cette "
-"page/article qui pourrait impacter votre mise en page."
+"Rechercher des problèmes concernant la structure de Shortcode de cette page/"
+"article qui pourrait impacter votre mise en page."
 
 #: config-events-calendar/config.php:226
 msgid ""
@@ -15423,6 +15493,8 @@ msgstr "Rendre le tableau scrollable"
 msgid ""
 "Make sure to add the profile link here in &quot;Profile Tab&quot; or in "
 msgstr ""
+"Assurez-vous d'ajouter le lien de profil ici dans l' &quot;Onglet "
+"Profil&quot; ou dans "
 
 #: includes/admin/option_tabs/avia_upload.php:192
 #: includes/admin/option_tabs/avia_upload.php:209
@@ -15435,15 +15507,15 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_cookie.php:275
 msgid ""
-"Make sure you comply with the <a target='_blank' href='http://ec.europa."
-"eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU "
-"cookie law</a> by informing users that your site uses cookies. This can be "
-"done with a small notification bar or modal popup window"
+"Make sure you comply with the <a target='_blank' href='http://ec.europa.eu/"
+"ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU cookie "
+"law</a> by informing users that your site uses cookies. This can be done "
+"with a small notification bar or modal popup window"
 msgstr ""
 "Assurez-vous de vous conformer avec la <a target='_blank' href='http://ec."
-"europa.eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>"
-"loi sur les cookies en UE</a> en informant vos visiteurs que vous en "
-"utilisez. Cela peut se faire avec une barre de message ou un pop-up"
+"europa.eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener "
+"noreferrer'>loi sur les cookies en UE</a> en informant vos visiteurs que "
+"vous en utilisez. Cela peut se faire avec une barre de message ou un pop-up"
 
 #: includes/admin/option_tabs/avia_performance.php:204
 msgid "Manually manage loaded elements"
@@ -15459,7 +15531,7 @@ msgstr "Hauteur de la carte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:302
 msgid "Map Interaction"
-msgstr ""
+msgstr "Interaction de carte"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:300
 msgid "Map Settings"
@@ -15467,7 +15539,7 @@ msgstr "Réglages de carte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:467
 msgid "Map Size"
-msgstr ""
+msgstr "Taille de carte"
 
 #: framework/php/class-framework-widgets.php:2322
 msgid "Map Type:"
@@ -15497,19 +15569,19 @@ msgstr "Marge et Padding"
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:288
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:333
 msgid "Margin-Bottom"
-msgstr ""
+msgstr "Margin-Bottom"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:417
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:289
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:334
 msgid "Margin-Left"
-msgstr ""
+msgstr "Margin-Left"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:415
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:287
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:332
 msgid "Margin-Right"
-msgstr ""
+msgstr "Margin-Right"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:568
 #: config-templatebuilder/avia-shortcodes/section.php:272
@@ -15517,15 +15589,15 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:286
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:331
 msgid "Margin-Top"
-msgstr ""
+msgstr "Margin-Top"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:578
 msgid "Margins"
-msgstr ""
+msgstr "Marges"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:659
 msgid "Marker"
-msgstr ""
+msgstr "Marqueur"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:555
 msgid "Marker And Tooltip"
@@ -15534,23 +15606,23 @@ msgstr "Marqueur et info-bulle"
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:605
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2641
 msgid "Marker Location"
-msgstr ""
+msgstr "Emplacement du marqueur"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:626
 msgid "Marker Popup"
-msgstr ""
+msgstr "Popup du marqueur"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:273
 msgid "Marker Popup Handling"
-msgstr ""
+msgstr "Gestion du Popup du marqueur"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:634
 msgid "Marker Popup Visibility"
-msgstr ""
+msgstr "Visibilité du Popup du marqueur"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:751
 msgid "Marker Style"
-msgstr ""
+msgstr "Style du marqueur"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:504
 msgid "Marker Tooltip"
@@ -15558,7 +15630,7 @@ msgstr "Marqueur Infobulle"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:241
 msgid "Markers"
-msgstr ""
+msgstr "Marqueurs"
 
 #: functions.php:231
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:36
@@ -15585,11 +15657,11 @@ msgstr "Largeur maximum du conteneur"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:366
 msgid "Maximum Zoom Level"
-msgstr ""
+msgstr "Niveau maxi de zoom"
 
 #: includes/admin/option_tabs/avia_performance.php:148
 msgid "MDN font-display"
-msgstr ""
+msgstr "MDN font-display"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:81
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:42
@@ -15898,7 +15970,7 @@ msgstr "version minimum %s"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:357
 msgid "Minimum Zoom Level"
-msgstr ""
+msgstr "Niveau minimum de zoom"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:51
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:69
@@ -15989,7 +16061,7 @@ msgstr "Lien d'Image alternative pour Mobile"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:361
 msgid "Mobile Flip Box Close Behaviour"
-msgstr ""
+msgstr "Comportement de fermeture de Flip Box sur mobile"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:273
 msgid "Mobile Menu Display"
@@ -16524,9 +16596,11 @@ msgstr "ne pas répéter"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:56
 msgid ""
-"No results found. Please check your input, e.g. spelling of street, city, ..."
-"."
+"No results found. Please check your input, e.g. spelling of street, "
+"city, ...."
 msgstr ""
+"Aucun résultat trouvé. Vérifier votre saisie, ex. épeler la rue, la "
+"ville, ...."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1095
 msgid "No revisions"
@@ -16636,7 +16710,7 @@ msgstr "Pas de contrôle de saisie"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:318
 msgid "No Zoom Control"
-msgstr ""
+msgstr "Sans contrôle de Zoom"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:459
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:656
@@ -16747,7 +16821,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:620
 msgid "Not draggable"
-msgstr ""
+msgstr "Non draggable"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1097
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1424
@@ -17014,6 +17088,8 @@ msgstr "Uniquement ouvre la page facebook - aucune donnée sera partagée"
 msgid ""
 "Only requests to the OpenStreetMaps databases are passed to external servers."
 msgstr ""
+"Seules les requêtes vers les bases de données OpenStreetMaps passent par des "
+"serveurs externes."
 
 #: includes/admin/option_tabs/avia_avia.php:279
 msgid ""
@@ -17159,21 +17235,23 @@ msgstr "N'ouvrir qu'avec un bouton"
 
 #: includes/admin/register-admin-options.php:237
 msgid "OpenStreetMaps"
-msgstr ""
+msgstr "OpenStreetMaps"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:24
 msgid "OpenStreetMaps (OSM) And Leaflet"
-msgstr ""
+msgstr "OpenStreetMaps (OSM) et Leaflet"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:33
 msgid "OpenStreetMaps and Leaflet"
-msgstr ""
+msgstr "OpenStreetMaps et Leaflet"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:13
 msgid ""
 "OpenStreetMaps and Leaflet are open source projects that allow to display "
 "mobile friendly maps without using a key or account."
 msgstr ""
+"OpenStreetMaps et Leaflet sont des projets open source permettant "
+"l'affichage de cartes mobile friendly sans clés ni compte personnel."
 
 #: includes/helper-privacy.php:616 includes/helper-privacy.php:617
 msgid "Operating site internal cookie"
@@ -17212,11 +17290,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1020
 msgid "option1=\"value1\""
-msgstr ""
+msgstr "option1=\"value1\""
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1021
 msgid "option2=\"value2\""
-msgstr ""
+msgstr "option2=\"value2\""
 
 #: includes/admin/option_tabs/avia_performance.php:164
 msgid "optional"
@@ -17224,11 +17302,11 @@ msgstr "optionnel"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2685
 msgid "Optional County"
-msgstr ""
+msgstr "Pays optionnel"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2677
 msgid "Optional State"
-msgstr ""
+msgstr "Etat optionnel"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:193
 msgid "Optional Tooltip"
@@ -17236,11 +17314,11 @@ msgstr "Info-bulle optionnelle"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2686
 msgid "Optionally enter County to identify the location"
-msgstr ""
+msgstr "Optionnellement saisir le pays pour identifier le lieu"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2678
 msgid "Optionally enter State to identify the location"
-msgstr ""
+msgstr "Optionnellement saisir l'état pour identifier le lieu"
 
 #: includes/admin/option_tabs/avia_builder.php:175
 msgid "Options Toggles In Modal Popup"
@@ -17290,11 +17368,11 @@ msgstr "Largeur originelle"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:55
 msgid "OSM - Leaflet Map"
-msgstr ""
+msgstr "OSM - Leaflet Map"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:73
 msgid "OSM Marker Item"
-msgstr ""
+msgstr "Elément de marqueur OSM"
 
 #: includes/helper-privacy.php:2162
 msgid "Other cookies"
@@ -17354,27 +17432,27 @@ msgstr "Padding"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:422
 msgid "Padding Bottom"
-msgstr "Padding du bas"
+msgstr "Padding Bottom"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:529
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:247
 msgid "Padding-Bottom"
-msgstr ""
+msgstr "Padding-Bottom"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:530
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:248
 msgid "Padding-Left"
-msgstr ""
+msgstr "Padding-Left"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:528
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:246
 msgid "Padding-Right"
-msgstr ""
+msgstr "Padding-Right"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:527
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:245
 msgid "Padding-Top"
-msgstr ""
+msgstr "Padding-Top"
 
 #: includes/admin/register-backend-advanced-styles.php:356
 #: includes/admin/register-backend-advanced-styles.php:381
@@ -17638,7 +17716,7 @@ msgstr "Lien Pinterest "
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:527
 msgid "Pinterest Profile Link"
-msgstr ""
+msgstr "Lien de profil Pinterest"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:209
 msgid "Placeholder"
@@ -17679,6 +17757,8 @@ msgid ""
 "Please check the changelog to see which ALB elements are supporting this "
 "feature."
 msgstr ""
+"Merci de consulter le changelog pour connaître quel élément de l'éditeur de "
+"mise en forme avancé supporte cette fonctionnalité."
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
 msgid "Please check your API key"
@@ -17689,18 +17769,25 @@ msgid ""
 "Please don't reload the page. You will be notified as soon as deleting the "
 "downloaded file has finished! (Usually within a few minutes) :)"
 msgstr ""
+"Merci de ne pas recharger la page. Vous serez informé(e) dès que la "
+"suppression des fichiers téléchargés sera finie. (Généralement quelques "
+"minutes) :)"
 
 #: framework/php/class-htmlhelper.php:2062
 msgid ""
 "Please don't reload the page. You will be notified as soon as the download "
 "has finished! (Usually within a few minutes) :)"
 msgstr ""
+"Merci de ne pas recharger la page. Vous serez informé(e) dès que le "
+"téléchargement sera fini. (Généralement quelques minutes) :)"
 
 #: framework/php/class-htmlhelper.php:2057
 msgid ""
 "Please don't reload the page. You will be notified as soon as the import has "
 "finished! (Usually within a few minutes) :)"
 msgstr ""
+"Merci de ne pas recharger la page. Vous serez informé(e) dès que l'import "
+"sera fini. (Généralement quelques minutes) :)"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:430
 msgid ""
@@ -17747,28 +17834,30 @@ msgid ""
 "Please install and activate the plugin %1$sLeaflet Map%2$s to display your "
 "maps."
 msgstr ""
+"Merci d'installer et d'activer le plugin %1$sLeaflet Map%2$s pour afficher "
+"vos cartes."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:31
 #, php-format
 msgid ""
-"Please install the plugin %1$sInstagram Feed%3$s or %2$sInstagram Feed "
-"Pro%3$s to display your Instagram feed."
+"Please install the plugin %1$sInstagram Feed%3$s or %2$sInstagram Feed Pro"
+"%3$s to display your Instagram feed."
 msgstr ""
-"Merci d'installer le Plugin %1$sInstagram Feed%3$s ou %2$sInstagram Feed "
-"Pro%3$s pour afficher votre flux Instagram."
+"Merci d'installer le Plugin %1$sInstagram Feed%3$s ou %2$sInstagram Feed Pro"
+"%3$s pour afficher votre flux Instagram."
 
 #: includes/admin/option_tabs/avia_google.php:147
 #, php-format
 msgid ""
-"Please keep in mind that Version 3 needs to <a href=\"%1$s\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">monitor user behaviour and "
-"collects user data</a>. In case the score does not recognize a human Version "
-"2 checkbox will be used additionally for verification. Therefore you must "
-"also register V2 keys."
+"Please keep in mind that Version 3 needs to <a href=\"%1$s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">monitor user behaviour and collects user "
+"data</a>. In case the score does not recognize a human Version 2 checkbox "
+"will be used additionally for verification. Therefore you must also register "
+"V2 keys."
 msgstr ""
-"Merci de garder à l'esprit que la V3 nécessite <a href=\"%1$s\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">de surveiller le comportement "
-"de l'utilisateur et de collecter certaines de ses données</a>. En cas où le "
+"Merci de garder à l'esprit que la V3 nécessite <a href=\"%1$s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">de surveiller le comportement de "
+"l'utilisateur et de collecter certaines de ses données</a>. En cas où le "
 "score ne reconnait pas un humain, une case à cocher Version 2 sera ajoutée "
 "pour vérifications. De fait vous devez également enregistrer des clés V2."
 
@@ -18030,7 +18119,7 @@ msgstr "Utilisation Article - quels éléments sont utilisés dans cet article"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2653
 msgid "Postalcode (Zip Code)"
-msgstr ""
+msgstr "Code postal"
 
 #: config-templatebuilder/avia-template-builder/php/html-helper.class.php:2797
 msgid "Postcode"
@@ -18093,7 +18182,7 @@ msgstr "Image de Prévisualisation"
 #: framework/php/class-htmlhelper.php:2049
 #, php-format
 msgid "Preview image for: %s"
-msgstr ""
+msgstr "Image de prévisualisation pour : %s"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:385
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:335
@@ -18171,7 +18260,7 @@ msgstr "Survol produit"
 
 #: config-woocommerce/config.php:1481
 msgid "Product ID"
-msgstr ""
+msgstr "Product ID"
 
 #: config-templatebuilder/avia-shortcodes/product_list.php:187
 msgid "Product Images"
@@ -18223,7 +18312,7 @@ msgstr "Profil pour l'utilisateur :"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:80
 msgid "Profiles"
-msgstr ""
+msgstr "Profils"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:287
 msgid "Progress Bar Animation enabled?"
@@ -18370,7 +18459,7 @@ msgstr "taille de thème reCAPTCHA V2"
 
 #: includes/admin/option_tabs/avia_google.php:170
 msgid "reCAPTCHA Version 2"
-msgstr ""
+msgstr "reCAPTCHA Version 2"
 
 #: includes/admin/option_tabs/avia_google.php:171
 msgid "reCAPTCHA Version 3 (needs V2 as fallback verification)"
@@ -18433,12 +18522,12 @@ msgstr "Extensions recommandées :"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:715
 #: includes/admin/option_tabs/avia_blog.php:323
 msgid "Rectangular"
-msgstr ""
+msgstr "Rectangulaire"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:716
 #: includes/admin/option_tabs/avia_blog.php:324
 msgid "Rectangular minimal"
-msgstr ""
+msgstr "Rectangulaire minimal"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1732
 msgid "Red"
@@ -18451,7 +18540,7 @@ msgstr "Lien Reddit"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:537
 msgid "Reddit Profile Link"
-msgstr ""
+msgstr "Lien de profil Reddit"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:269
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:405
@@ -18510,8 +18599,8 @@ msgid ""
 "Registered shortcode %s detected without closing ] at index %d. To fix add "
 "shortcode: %s"
 msgstr ""
-"Shortcode %s enregistré détecté sans fermeture ] à l'index% d. Pour corriger,"
-" ajoutez un Shortcode : %s"
+"Shortcode %s enregistré détecté sans fermeture ] à l'index% d. Pour "
+"corriger, ajoutez un Shortcode : %s"
 
 #: config-templatebuilder/avia-template-builder/php/shortcode-parser.class.php:800
 #, php-format
@@ -18686,7 +18775,7 @@ msgstr "Images Responsives et Lazy Loading"
 
 #: includes/admin/option_tabs/avia_performance.php:417
 msgid "Responsive Images For Lightbox (currently in beta only)"
-msgstr ""
+msgstr "Images responsives pour Lightbox (actuellement en Béta seulement)"
 
 #: includes/admin/option_tabs/avia_performance.php:451
 msgid "Responsive Images Thumbnails Overview:"
@@ -18825,7 +18914,7 @@ msgstr "Bordures arrondies"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:718
 #: includes/admin/option_tabs/avia_blog.php:326
 msgid "Rounded rectangular"
-msgstr ""
+msgstr "Rectangle arrondi"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:325
 msgid "Row Box-Shadow"
@@ -18841,11 +18930,11 @@ msgstr "Largeur d'ombre de ligne"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:362
 msgid "Row Layout"
-msgstr "Disposition en ligne"
+msgstr "Distribution sur la ligne"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:808
 msgid "Row Screen Options"
-msgstr "Options d'écran de ligne"
+msgstr "Comportement responsive"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:146
 #: config-templatebuilder/avia-shortcodes/columns.php:151
@@ -18911,7 +19000,7 @@ msgstr "dit :"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:375
 msgid "Scale Information"
-msgstr ""
+msgstr "Information d'échelle"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1896
 msgid "Scale to fit (scales image so the whole image is always visible)"
@@ -18960,7 +19049,7 @@ msgstr "Faire défiler vers le haut"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:324
 msgid "Scroll Wheel Zoom"
-msgstr ""
+msgstr "Zoom par scroll souris"
 
 #: functions-enfold.php:155 functions-enfold.php:160 searchform.php:10
 #: framework/php/class-breadcrumb-legacy.php:138
@@ -19022,7 +19111,7 @@ msgstr "Résultats de recherche pour &quot;%1$s&quot;"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:55
 msgid "Search Results for address:"
-msgstr ""
+msgstr "Résultats de recherche pour l'adresse :"
 
 #: config-woocommerce/config-356.php:613 config-woocommerce/config.php:726
 #: framework/php/function-set-avia-frontend.php:1559
@@ -19463,8 +19552,8 @@ msgstr "Choisir une taille de police personnalisée pour les icônes."
 #: config-templatebuilder/avia-shortcodes/search/search.php:380
 msgid "Select a custom font size for the input. Leave empty to use the default"
 msgstr ""
-"Sélectionner une taille de police personnalisée pour le champ de saisie. "
-"Laisser vide pour valeur par défaut"
+"Choisir une taille de police personnalisée pour le champ de saisie. Laisser "
+"vide pour valeur par défaut"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:403
 msgid "Select a custom font size for the metadata in pixel."
@@ -19661,11 +19750,11 @@ msgstr "Choisir une couleur du thème pour ce widget de formulaire de contact"
 
 #: includes/admin/option_tabs/avia_blog.php:337
 msgid "Select alignment of the share buttons bar"
-msgstr ""
+msgstr "Sélectionner l'alignement de la barre des boutons de partage"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:729
 msgid "Select alignment of the social buttons bar"
-msgstr ""
+msgstr "Sélectionner l'alignement de la barre des boutons sociaux"
 
 #: framework/php/class-htmlhelper.php:1370
 msgid "Select all ......"
@@ -19863,11 +19952,11 @@ msgstr "Sélectionner comment afficher le Label"
 
 #: includes/admin/option_tabs/avia_blog.php:317
 msgid "Select how to display the share buttons bar"
-msgstr ""
+msgstr "Sélectionner comment afficher la barre des boutons de partage"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:709
 msgid "Select how to display the social buttons bar"
-msgstr ""
+msgstr "Sélectionner comment afficher la barre des boutons sociaux"
 
 #: includes/admin/option_tabs/avia_cookie.php:532
 msgid ""
@@ -19919,8 +20008,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:93
 msgid ""
-"Select if you want to block reset of theme options and hide the reset button."
-" You must select activate button before you can reset theme options."
+"Select if you want to block reset of theme options and hide the reset "
+"button. You must select activate button before you can reset theme options."
 msgstr ""
 "Choisir si vous voulez bloquer le reset des paramètres du thème et masquer "
 "le bouton le permettant. Il faudra alors réactiver ce bouton en cas de "
@@ -19943,9 +20032,12 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:409
 msgid ""
-"Select if you want to grayscale the map. 0% is unchanged, 100% complete gray."
-" This feature is not supported by older browsers."
+"Select if you want to grayscale the map. 0% is unchanged, 100% complete "
+"gray. This feature is not supported by older browsers."
 msgstr ""
+"Sélectionner si vous souhaitez appliquer une échelle des gris à la carte. 0% "
+"elle est inchangée, 100% complètement en nuances de gris. Non supporté par "
+"les anciens navigateurs."
 
 #: includes/admin/option_tabs/avia_element_templates.php:186
 msgid ""
@@ -20121,6 +20213,8 @@ msgstr "Choisir l'élément de base pour votre nouvel élément personnalisé."
 msgid ""
 "Select the behaviour of an open flipbox on mobile devices and touch screens"
 msgstr ""
+"Sélectionner le comportement d'un flipbox ouvert sur mobile et écrans "
+"tactiles"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:804
 msgid "Select the Carousel Loop Type"
@@ -20160,11 +20254,11 @@ msgstr "Sélectionner l'écart entre les images"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:717
 msgid "Select the height of the icon in pixel"
-msgstr ""
+msgstr "Sélectionner la hauteur de l'icône en pixels"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:454
 msgid "Select the height of the map in pixel."
-msgstr ""
+msgstr "Sélectionner la hauteur de la carte en pixels."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:225
 msgid "Select the hotspot styling"
@@ -20172,7 +20266,7 @@ msgstr "Sélectionner le style des Hotspots"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:727
 msgid "Select the left position of the icon anchor in pixel"
-msgstr ""
+msgstr "Sélectionner la position css left de l'icône ancre en pixels"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:355
 msgid ""
@@ -20185,11 +20279,11 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:105
 msgid "Select the location for the loaded css file"
-msgstr ""
+msgstr "Sélectionner l'emplacement du fichier css chargé"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:89
 msgid "Select the location for the loaded javascript file"
-msgstr ""
+msgstr "Sélectionner l'emplacement du fichier javascript chargé"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:286
 msgid ""
@@ -20217,7 +20311,7 @@ msgstr "Sélectionner le nombre de lignes de photos/vidéos dans le carrousel"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:761
 msgid "Select the opacity of the marker (0 = no opacity)"
-msgstr ""
+msgstr "Sélectionner l'opacité du marqueur (0 = transparent)"
 
 #: includes/admin/option_tabs/avia_shop.php:112
 msgid "Select the opacity of your colored banner overlay"
@@ -20252,7 +20346,7 @@ msgstr "Sélectionner la seconde couleur de votre dégradé."
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:209
 msgid "Select the size of the team member image"
-msgstr "Définissez la taille de l'image de membre d'équipe"
+msgstr "Définir la taille de l'image de membre d'équipe"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:310
 msgid "Select the sort order of the displayed photos/videos."
@@ -20276,7 +20370,7 @@ msgstr "Sélectionner le fuseau horaire de votre date."
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:737
 msgid "Select the top position of the icon anchor in pixel"
-msgstr ""
+msgstr "Sélectionner la position css top de l'icône ancre en pixels"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:632
 #: config-templatebuilder/avia-shortcodes/section.php:309
@@ -20352,12 +20446,12 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:707
 msgid "Select the width of the icon in pixel"
-msgstr ""
+msgstr "Sélectionner la largeur de l'icône en pixels"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:445
 #, php-format
 msgid "Select the width of the map in % of the container containing the map."
-msgstr ""
+msgstr "Sélectionner la largeur de la carte en % de son conteneur."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:471
 msgid "Select the width of the tooltip. Height is based on the content"
@@ -20381,9 +20475,9 @@ msgstr "Sélectionner les paramètres du thème à réinitialiser"
 
 #: includes/admin/option_tabs/avia_blog.php:70
 msgid ""
-"Select to disable or enable the post navigation that links to the "
-"next/previous post on single entries. Setting is also used for portfolio. "
-"Use filter avf_post_nav_settings to customize."
+"Select to disable or enable the post navigation that links to the next/"
+"previous post on single entries. Setting is also used for portfolio. Use "
+"filter avf_post_nav_settings to customize."
 msgstr ""
 "Choisir d'activer ou désactiver la navigation qui permet de passer d'un "
 "article/entrée à un(e) autre depuis son affichage seul(e). Ce réglage est "
@@ -20407,6 +20501,9 @@ msgid ""
 "screens viewport to draw visitors attention that there are more buttons "
 "available."
 msgstr ""
+"Sélectionner pour afficher des flèches dans la zone si les boutons d'onglet "
+"sont en dehors du viewport pour indiquer aux visiteurs que plus de boutons "
+"sont disponibles."
 
 #: functions-enfold.php:1882
 msgid "Select to display featured image for a single entry."
@@ -20546,6 +20643,9 @@ msgid ""
 "Make sure to set the links to your social profiles. Share links are created "
 "by theme."
 msgstr ""
+"Sélectionner ce que vous souhaitez faire. Le réseau social s'ouvre dans une "
+"nouvelle fenêtre. Assurez-vous de renseigner les liens vers vos profils "
+"sociaux. Les liens de partage sont générés par le thème."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:265
 msgid "Select when to display the tooltips"
@@ -20779,16 +20879,12 @@ msgid "Set a custom background color. Any hex color code."
 msgstr "Choisir une couleur d'arrière plan. Code couleur en hexa."
 
 #: includes/admin/option_tabs/avia_menu.php:312
-#, fuzzy
-#| msgid ""
-#| "Set a custom color of the 'Burger' Icon. Leave empty to use the default "
-#| "menu color"
 msgid ""
 "Set a custom color of the &quot;Burger&quot; Icon. Leave empty to use the "
 "default menu color"
 msgstr ""
-"Définir une couleur pour l'icône 'Burger' de menu mobile. Laisser vide pour "
-"utiliser la couleur par défaut du menu"
+"Définir une couleur pour l'icône &quot;Burger&quot; de menu mobile. Laisser "
+"vide pour utiliser la couleur par défaut du menu"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:416
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:456
@@ -20814,7 +20910,7 @@ msgid ""
 "Set a custom top or bottom margin. Both pixel and &percnt; based values are "
 "accepted. eg: 30px, 5&percnt;"
 msgstr ""
-"Réglez une marge haute ou basse personnalisée. Valeur en pixel ou &percnt; "
+"Régler une marge haute ou basse personnalisée. Valeur en pixel ou &percnt; "
 "acceptées. Ex. : 30px, 5&percnt;"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:560
@@ -20825,6 +20921,11 @@ msgid ""
 "columms. This will need additional custom CSS rules specific for your site "
 "to avoid breaking of layout."
 msgstr ""
+"Régler une marge haute ou basse personnalisée. Valeur en pixel ou &percnt; "
+"acceptées. Ex. : 30px, 5&percnt;<br /><br /><strong>Limitation :</strong> "
+"Des valeurs négatives en dehors de la boite ne peuvent être utilisées dans "
+"le cas de hauteur individuelles. Cela nécessite des CSS additionnelles "
+"spécifiques à votre site pour ne pas briser sa mise en page."
 
 #: includes/admin/option_tabs/avia_menu.php:322
 msgid ""
@@ -20877,7 +20978,7 @@ msgstr "Choix d'arrière plan de prévisualisation :"
 
 #: includes/admin/option_tabs/avia_cookie.php:74
 msgid "Set Privacy Policy"
-msgstr "Définissez une Politique de Confidentialité"
+msgstr "Définir une Politique de Confidentialité"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:470
 msgid "Set the border of the column here"
@@ -20898,8 +20999,8 @@ msgstr "Définir les couleurs de votre hotspot"
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:582
 msgid "Set the column count for this element, based on the device screensize."
 msgstr ""
-"Définissez le décompte de colonnes pour cet élément, en fonction de l'écran "
-"de l'appareil."
+"Définir le décompte de colonnes pour cet élément, en fonction de l'écran de "
+"l'appareil."
 
 #: config-templatebuilder/avia-shortcodes/section.php:610
 msgid "Set the direction of the diagonal border"
@@ -20910,7 +21011,7 @@ msgid ""
 "Set the distance from the cell content to the border here. Both pixel and "
 "&percnt; based values are accepted. eg: 30px, 5&percnt;"
 msgstr ""
-"Réglez la distance entre le contenu et le bord de la cellule ici. Valeurs en "
+"Régler la distance entre le contenu et le bord de la cellule ici. Valeurs en "
 "pixel et &percnt; sont acceptées. par exemple: 30 px, 5 &percnt;"
 
 #: config-templatebuilder/avia-shortcodes/columns.php:520
@@ -20918,7 +21019,7 @@ msgid ""
 "Set the distance from the column content to the border here. Both pixel and "
 "&percnt; based values are accepted. eg: 30px, 5&percnt;"
 msgstr ""
-"Réglez la marge entre le contenu de la colonne et son contour. Valeur en "
+"Régler la marge entre le contenu de la colonne et son contour. Valeur en "
 "pixels ou &percnt; acceptées. Par exemple : 30px, 5&percnt;"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:407
@@ -20929,44 +21030,43 @@ msgid ""
 "default value. Both pixel and &percnt; based values are accepted. eg: 30px, "
 "5&percnt;. px is used as default unit."
 msgstr ""
-"Réglez la distance entre le contenu et les autres éléments ici. Laisser vide "
+"Régler la distance entre le contenu et les autres éléments ici. Laisser vide "
 "par défaut, valeurs en pixels et &percnt; acceptées. Ex : 30px, 5&percnt;. "
 "px utilisé par défaut."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2408
 msgid "Set the font size for the content, based on the device screensize."
 msgstr ""
-"Définissez la police pour le contenu basé sur la taille de l'écran de "
+"Définir la police pour le contenu basé sur la taille de l'écran de "
 "l'appareil."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2384
 msgid "Set the font size for the heading, based on the device screensize."
 msgstr ""
-"Définissez la police pour le titre basé sur la taille de l'écran de "
-"l'appareil."
+"Définir la police pour le titre basé sur la taille de l'écran de l'appareil."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2459
 msgid "Set the font size for the number, based on the device screensize."
 msgstr ""
-"Définissez la taille de police pour le nombre, en fonction de la taille de "
+"Définir la taille de police pour le nombre, en fonction de la taille de "
 "l'écran."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2434
 msgid "Set the font size for the subheading, based on the device screensize."
 msgstr ""
-"Définissez la police pour le sous-titre basé sur la taille de l'écran de "
+"Définir la police pour le sous-titre basé sur la taille de l'écran de "
 "l'appareil."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2483
 msgid "Set the font size for the text, based on the device screensize."
 msgstr ""
-"Définissez la taille de police pour le texte basé sur la taille de l'écran "
-"de l'appareil."
+"Définir la taille de police pour le texte basé sur la taille de l'écran de "
+"l'appareil."
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:207
 msgid "Set the gallery height in relation to the gallery container width"
 msgstr ""
-"Définissez la hauteur de Galerie par rapport à la largeur de son conteneur"
+"Définir la hauteur de Galerie par rapport à la largeur de son conteneur"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:231
 msgid "Set the height of the progress bar"
@@ -20974,13 +21074,13 @@ msgstr "Régler la hauteur de la barre de progression"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:380
 msgid "Set the image size of the Portfolio Grid images"
-msgstr "Définissez la taille des images de la grille de portfolio"
+msgstr "Définir la taille des images de la grille de portfolio"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:386
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:336
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:340
 msgid "Set the image size of the preview images"
-msgstr "Définissez la taille des images d'aperçu"
+msgstr "Définir la taille des images d'aperçu"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:480
 msgid "Set the margin for the search results container"
@@ -20992,7 +21092,7 @@ msgstr "Régler la hauteur minimale de toutes les cellules : ex. 400px"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:299
 msgid "Set the number of the milestones visible at a time"
-msgstr "Définissez le nombre de périodes visibles à la fois"
+msgstr "Définir le nombre de périodes visibles à la fois"
 
 #: config-templatebuilder/avia-shortcodes/section.php:493
 #: config-templatebuilder/avia-shortcodes/image/image.php:261
@@ -21029,7 +21129,7 @@ msgid ""
 "Set the Portfolio Grid image size automatically based on column or layout "
 "width"
 msgstr ""
-"Réglez la taille des images de la grille de portfolio automatiquement en "
+"Régler la taille des images de la grille de portfolio automatiquement en "
 "fonction de la largeur de la colonne ou de la mise en page"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:287
@@ -21044,7 +21144,7 @@ msgstr "Indique la position de la règle horizontale"
 msgid ""
 "Set the preview image size automatically based on column or layout width"
 msgstr ""
-"Réglez la taille de l'image d'aperçu automatiquement en fonction de la "
+"Régler la taille de l'image d'aperçu automatiquement en fonction de la "
 "largeur de la colonne ou de la mise en page"
 
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:342
@@ -21056,18 +21156,18 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:346
 msgid "Set the preview image size automatically based on slider height"
 msgstr ""
-"Définissez la taille d'image de prévisualisation automatiquement en fonction "
-"de la hauteur du disporama"
+"Définir la taille d'image de prévisualisation automatiquement en fonction de "
+"la hauteur du disporama"
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:200
 msgid "Set the screen width when cells in this row should switch to full width"
 msgstr ""
-"Définissez la largeur de l'écran quand les cellules dans cette ligne doivent "
+"Définir la largeur de l'écran quand les cellules dans cette ligne doivent "
 "passer à la largeur complète"
 
 #: includes/admin/option_tabs/avia_menu.php:259
 msgid "Set the style of the &quot;Burger&quot; Icon"
-msgstr ""
+msgstr "Définir le style de l'icône &quot;Burger&quot; de menu"
 
 #: includes/admin/option_tabs/avia_menu.php:275
 msgid ""
@@ -21089,8 +21189,7 @@ msgstr "Sélectionner le style de votre grille de témoignages"
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2222
 msgid "Set the visibility for this element, based on the device screensize."
 msgstr ""
-"Définissez la visibilité de cet élément, en fonction de l'écran de "
-"l'appareil."
+"Définir la visibilité de cet élément, en fonction de l'écran de l'appareil."
 
 #: config-templatebuilder/avia-shortcodes/columns.php:347
 #: config-templatebuilder/avia-shortcodes/columns.php:608
@@ -21101,7 +21200,7 @@ msgstr "Indiquer la largeur de l'ombre"
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:353
 msgid "Set Zoom level automatically to show all markers"
 msgstr ""
-"Réglez le niveau de Zoom automatiquement pour afficher tous les marqueurs"
+"Régler le niveau de Zoom automatiquement pour afficher tous les marqueurs"
 
 #: includes/helper-privacy.php:1784 includes/admin/register-portfolio.php:167
 #: includes/admin/option_tabs/avia_cookie.php:436
@@ -21127,11 +21226,11 @@ msgstr "Ombrage"
 
 #: includes/admin/option_tabs/avia_blog.php:336
 msgid "Share Button Bar Alignment"
-msgstr ""
+msgstr "Alignement de barre de boutons de partage"
 
 #: includes/admin/option_tabs/avia_blog.php:316
 msgid "Share Button Bar Style"
-msgstr ""
+msgstr "Style de barre de boutons de partage"
 
 #: includes/helper-social-media.php:390
 msgid "Share by Mail"
@@ -21139,7 +21238,7 @@ msgstr "Partager par Mail"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:212
 msgid "Share Entry"
-msgstr ""
+msgstr "Partager l'entrée"
 
 #: includes/admin/option_tabs/avia_blog.php:203
 msgid "Share links at the bottom of your blog post"
@@ -21216,6 +21315,8 @@ msgid ""
 "Shortcodes that are added with filter or used e.g. in plugins are NOT "
 "recognised as &quot;in use&quot;."
 msgstr ""
+"Les shortcodes ajoutés via filters ou utilisés via plugins ne sont PAS "
+"reconnus comme &quot;en service&quot;."
 
 #: includes/admin/option_tabs/avia_cookie.php:223
 msgid "Shortcodes you can use in your Privacy Policy"
@@ -21227,8 +21328,9 @@ msgid ""
 "Should a pagination be displayed to view additional entries? This disables "
 "&quot;Display Tabs for each category&quot;."
 msgstr ""
-"Une pagination doit-elle être affichée pour voir des entrées supplémentaires "
-"? Cela désactive &quot;Afficher des onglets pour chaque catégorie&quot;."
+"Une pagination doit-elle être affichée pour voir des entrées "
+"supplémentaires ? Cela désactive &quot;Afficher des onglets pour chaque "
+"catégorie&quot;."
 
 #: config-templatebuilder/avia-shortcodes/product_grid.php:284
 #: config-templatebuilder/avia-shortcodes/product_list.php:290
@@ -21509,7 +21611,7 @@ msgstr "Afficher les infos d'analyse"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:642
 msgid "Show popup on pageload"
-msgstr ""
+msgstr "Montrer le popup au chargement de page"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2915
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:3031
@@ -21550,7 +21652,7 @@ msgstr "Voir la fiche du produit"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:574
 msgid "Show the &quot;Follow on Instagram&quot; Button"
-msgstr "Afficher le bouton &quot;Suivre sur Instagram&quot;"
+msgstr "Afficher le bouton Suivre sur Instagram"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:498
 msgid "Show the &quot;Follow on Instagram&quot; Button:"
@@ -21558,7 +21660,7 @@ msgstr "Afficher le bouton &quot;Suivre sur Instagram&quot; :"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:522
 msgid "Show the &quot;Load More&quot; Button"
-msgstr "Afficher le bouton &quot;Charger plus&quot;"
+msgstr "Afficher le bouton Charger plus"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:439
 msgid "Show the &quot;Load More&quot; Button:"
@@ -21576,7 +21678,7 @@ msgstr "Montrer la bio dans le header :"
 
 #: config-wpml/class-avia-wpml.php:532
 msgid "Show the default language flags"
-msgstr ""
+msgstr "Afficher les drapeaux de langue par défaut"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:366
 msgid "Show the feed Header:"
@@ -21703,6 +21805,10 @@ msgid ""
 "sure to upload an image dimension from which WP can create the necessary "
 "scrset and sizes attributes."
 msgstr ""
+"Depuis la version 4.8.2 les images responsive sont supportées (ex. pour "
+"écrans rétina). Assurez-vous d'uploader des images aux dimensions "
+"suffisantes pour pouvoir créer des attributs de tailles et de srcset "
+"nécessaires."
 
 #: includes/helper-privacy.php:2121
 msgid ""
@@ -21799,6 +21905,8 @@ msgstr ""
 #: includes/admin/option_tabs/avia_shop.php:31
 msgid "Single Product Added To Cart Message Box For ALB Products"
 msgstr ""
+"Boite de message d'ajout produit au panier ajoutée pour les produits gérés "
+"par l'éditeur de mise en forme avancé"
 
 #: includes/admin/option_tabs/avia_google.php:177
 msgid "Site Key Version 2"
@@ -21851,11 +21959,11 @@ msgstr "SKU :"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:410
 msgid "Skype Link"
-msgstr ""
+msgstr "Lien Skype"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:647
 msgid "Skype Profile Link"
-msgstr ""
+msgstr "Lien de profil Skype"
 
 #: config-templatebuilder/avia-shortcodes/section.php:618
 msgid "Slanting from left to right"
@@ -22122,16 +22230,16 @@ msgstr "Icônes sociales"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:219
 msgid "Social Profile And Share Buttons"
-msgstr ""
+msgstr "Bouton de partage et de profil social"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:347
 msgid "Social Profile Buttons"
-msgstr ""
+msgstr "Bouton de profil social"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:481
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:489
 msgid "Social Profile Links"
-msgstr ""
+msgstr "Liens de profil social"
 
 #: includes/admin/register-admin-options.php:140
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:178
@@ -22346,11 +22454,11 @@ msgstr "Tri actif"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:421
 msgid "Soundcloud Link"
-msgstr ""
+msgstr "Lien Soundcloud"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:657
 msgid "Soundcloud Profile Link"
-msgstr ""
+msgstr "Lien de profil Soundcloud"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:259
 msgid "Space between buttons"
@@ -22497,7 +22605,7 @@ msgstr "Nom de rue :"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2645
 msgid "Street and Number"
-msgstr ""
+msgstr "Rue et numéro"
 
 #: includes/admin/option_tabs/avia_styling.php:484
 msgid "Stretch Fullscreen"
@@ -22616,7 +22724,7 @@ msgstr "Design"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:673
 msgid "Styling of Marker"
-msgstr ""
+msgstr "Style de marqueur"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:445
 msgid "Sub-Title Font Sizes"
@@ -22719,7 +22827,7 @@ msgstr "Onglet 2"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:235
 msgid "Tab Buttons Out Of Screen Behaviour"
-msgstr ""
+msgstr "Comportement des boutons d'onglet en dehors de l'écran"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:421
 #: includes/admin/option_tabs/avia_cookie.php:703
@@ -22856,7 +22964,7 @@ msgstr "Page de présentation de la taxonomie"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1736
 msgid "Teal"
-msgstr ""
+msgstr "Teal"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:23
 msgid "Team Member"
@@ -23094,6 +23202,9 @@ msgid ""
 "The Auto importing script could not be loaded. Please use the wordpress "
 "importer and import the XML file <pre>%s</pre> manually."
 msgstr ""
+"Le script automatique d'auto-importation ne peut être chargé. Merci "
+"d'utiliser l'outil d'import WP et d'importer le fichier <pre>%s</pre> XML "
+"manuellement."
 
 #: config-templatebuilder/avia-template-builder/config/pointers.php:14
 msgid ""
@@ -23116,6 +23227,8 @@ msgid ""
 "The bbPress Plugin is currently not active. Please install and activate it, "
 "then reload this page in order to be able to import this demo"
 msgstr ""
+"Le plugin bbPress est actuellement désactivé. Merci de l'installer et de "
+"l'activer, puis recharger cette page afin de pouvoir importer cette démo"
 
 #: config-templatebuilder/avia-template-builder/config/pointers.php:14
 msgid "The Builder is available on Pages and Single Portfolio Entries"
@@ -23167,13 +23280,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:348
 msgid "The following buttons currently only support links to a profile."
-msgstr ""
+msgstr "Les boutons suivants ne supportent que les liens vers un profil."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:220
 msgid ""
 "The following buttons support share links (generated by theme) and links to "
 "a profile."
 msgstr ""
+"Les boutons suivants supportent les liens de partage et les liens vers un "
+"profil."
 
 #: includes/helper-privacy.php:2150
 msgid ""
@@ -23199,12 +23314,6 @@ msgstr ""
 "vides :"
 
 #: includes/admin/option_tabs/avia_styling.php:530
-#, fuzzy
-#| msgid ""
-#| "The Font heading allows you to use a wide range of fonts for your "
-#| "headings. Upload your own fonts, use websave fonts (faster rendering, but "
-#| "not mandatory installed on all devices) or Google webkit fonts (more "
-#| "unique)."
 msgid ""
 "The heading font allows you to use a wide range of fonts for your headings. "
 "Upload your own fonts, use websave fonts (faster rendering, but not "
@@ -23213,8 +23322,8 @@ msgstr ""
 "Les paramètres de police d'entête vous permettent l'utilisation d'une large "
 "gamme de polices pour vos titres. Vous pouvez uploader les vôtres, utiliser "
 "des polices dites web safe (au rendu plus rapide, mais pas obligatoirement "
-"présentent sur tous les appareils) ou des polices Google (plus particulières)"
-"."
+"présentent sur tous les appareils) ou des polices Google (plus "
+"particulières)."
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:254
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:353
@@ -23274,10 +23383,10 @@ msgid ""
 "screen size as well so it doesn't overlap the logo on tablets or small "
 "screens"
 msgstr ""
-"Le menu mobile est généralement affiché sur une taille d'écran de smartphone."
-" En cas de grand menu vous pouvez également souhaiter l'afficher dès une "
-"taille correspondant aux tablettes, ainsi le menu ne viendra pas sur le logo "
-"sur les petits écrans"
+"Le menu mobile est généralement affiché sur une taille d'écran de "
+"smartphone. En cas de grand menu vous pouvez également souhaiter l'afficher "
+"dès une taille correspondant aux tablettes, ainsi le menu ne viendra pas sur "
+"le logo sur les petits écrans"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:694
 msgid "The number of characters of the caption to display. Any number."
@@ -23456,8 +23565,8 @@ msgstr "La plus petite unité qui sera affichée"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:435
 msgid "The spacing around your photos. Any number, add px (= default) or %."
 msgstr ""
-"L'espace autour de vos photos. Chiffre quelconque. ajouter px (par défaut) "
-"ou%."
+"L'espace autour de vos photos. Chiffre quelconque. ajouter px (par défaut) ou"
+"%."
 
 #: includes/admin/option_tabs/avia_layout.php:138
 msgid ""
@@ -23556,6 +23665,11 @@ msgid ""
 "import the XML file (should be located in your themes folder: dummy.xml) "
 "manually <a href=\"/wp-admin/import.php\">here.</a>"
 msgstr ""
+"Le fichier XML <pre>%s</pre> contenant la démo n'est pas disponible ou ne "
+"peut être lu.<br/>Vérifier ses droits en lecture en chmod 777.<br/>Si ça ne "
+"marche pas utiliser alors l'outil d'import/export xml de Wordpress (doit "
+"être situé dans le répertoire des thèmes : dummy.xml) manuellement <a href="
+"\"/wp-admin/import.php\">ici.</a>"
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1728
 msgid "Theme Color"
@@ -23584,9 +23698,11 @@ msgstr "Thème par défaut (13 px)"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:75
 msgid ""
-"Theme default location is:  .../themes/enfold/config-leaflet-"
-"maps/assets/leafletjs"
+"Theme default location is:  .../themes/enfold/config-leaflet-maps/assets/"
+"leafletjs"
 msgstr ""
+"L'emplacement par défaut est :  .../themes/enfold/config-leaflet-maps/assets/"
+"leafletjs"
 
 #: includes/admin/register-admin-options.php:227
 msgid "Theme Extensions"
@@ -23704,7 +23820,7 @@ msgstr "Ces paramètres changent les permaliens utilisés pour la"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:238
 msgid "thin"
-msgstr "fin"
+msgstr "thin"
 
 #: includes/admin/option_tabs/avia_element_templates.php:154
 msgid ""
@@ -23716,7 +23832,7 @@ msgstr ""
 
 #: includes/loop-about-author.php:53
 msgid "This author has not written his bio yet."
-msgstr ""
+msgstr "Cet auteur n'a pas encore écrit sa bio."
 
 #: framework/php/class-form-generator.php:399
 msgid ""
@@ -23762,6 +23878,8 @@ msgid ""
 "This element has been disabled in your theme options. You can enable it in "
 "Enfold -&raquo; Theme Extensions -&raquo; Leaflet Maps."
 msgstr ""
+"Cet élément à été désactivé dans les options de votre thème. Vous pouvez "
+"l'activer dans Enfold -&raquo; Theme Extensions -&raquo; Leaflet Maps."
 
 #: framework/php/class-framework-widgets.php:2377
 msgid "This element is disabled in frontend with theme option"
@@ -23827,6 +23945,9 @@ msgid ""
 "Leaflet javascript library and OSM. You can download and activate the plugin "
 "here."
 msgstr ""
+"Ce plugin gratuit fournit l'interface nécessaire pour interagir avec la "
+"librairie javascript Leaflet et OSM. Vous pouvez télécharger et activer le "
+"plugin ici."
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:334
 msgid "This installation is connected to the Mailchimp account: "
@@ -23954,13 +24075,14 @@ msgstr ""
 
 #: framework/php/class-grecaptcha.php:195
 msgid ""
-"This site is protected by reCAPTCHA and the Google <a href=\"https:"
-"//policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https:"
-"//policies.google.com/terms\">Terms of Service</a> apply."
+"This site is protected by reCAPTCHA and the Google <a href=\"https://"
+"policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://"
+"policies.google.com/terms\">Terms of Service</a> apply."
 msgstr ""
 "Ce site est protégé par reCAPTCHA et la <a href=\"https://policies.google."
-"com/privacy\">politique de confidentialité</a> de Google et <a href=\"https:"
-"//policies.google.com/terms\">leur conditions d'utilisation</a> s'appliquent."
+"com/privacy\">politique de confidentialité</a> de Google et <a href="
+"\"https://policies.google.com/terms\">leur conditions d'utilisation</a> "
+"s'appliquent."
 
 #: includes/admin/option_tabs/avia_cookie.php:361
 msgid ""
@@ -23973,11 +24095,11 @@ msgstr ""
 #: includes/admin/option_tabs/avia_builder.php:75
 msgid ""
 "This will lock the elements for all administrators including you, to prevent "
-"accidental changing of a page layout. In order to change a page layout later,"
-" you will need to uncheck this option first"
+"accidental changing of a page layout. In order to change a page layout "
+"later, you will need to uncheck this option first"
 msgstr ""
-"Cela verrouillera les éléments pour tous les administrateurs, y compris vous,"
-" pour éviter toute modification accidentelle d'une mise en page. Pour "
+"Cela verrouillera les éléments pour tous les administrateurs, y compris "
+"vous, pour éviter toute modification accidentelle d'une mise en page. Pour "
 "modifier une mise en page plus tard, vous devrez décocher cette option "
 "auparavant"
 
@@ -24166,10 +24288,12 @@ msgid ""
 "To be independent from any external hoster we bundle the necessary basic "
 "Leaflet js library with the theme and store it on your server."
 msgstr ""
+"Pour être indépendants de tout hôte externe nous packageons la librairie de "
+"base Leaflet.js avec le thème et la stockons sur votre serveur."
 
 #: framework/php/inc-avia-download-demo.php:21
 msgid "To few parameters provided - a download is not possible."
-msgstr ""
+msgstr "Trop peu de paramètres fournis - un téléchargement n'est pas possible."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:59
 msgid ""
@@ -24427,7 +24551,7 @@ msgstr "Arrondi haut-droit"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:336
 msgid "Touch Zoom"
-msgstr ""
+msgstr "Zoom tactile"
 
 #: comments.php:114
 msgid "Trackbacks &amp; Pingbacks"
@@ -24557,7 +24681,7 @@ msgstr "Lien Tumblr"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:557
 msgid "Tumblr Profile Link"
-msgstr ""
+msgstr "Lien vers profil Tumblr"
 
 #: includes/admin/option_tabs/avia_google.php:69
 msgid "Tutorial: How to create an API key"
@@ -24570,7 +24694,7 @@ msgstr "Lien Twitter"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:507
 msgid "Twitter Profile Link"
-msgstr ""
+msgstr "Lien vers profil Twitter"
 
 #: framework/php/class-framework-widgets.php:1238
 msgid "Twitter Username:"
@@ -24615,6 +24739,8 @@ msgstr "Impossible de créer le dossier %s."
 #, php-format
 msgid "Unable to create the download folder <pre>%s</pre> for demo files."
 msgstr ""
+"Impossible de créer le répertoire de téléchargement <pre>%s</pre> pour les "
+"fichiers de démo."
 
 #: framework/php/font-management/class-avia-font-management-base.php:642
 msgid "Unable to create the file."
@@ -24686,14 +24812,10 @@ msgid "unknown"
 msgstr "inconnu(e)"
 
 #: config-wpml/class-avia-wpml.php:680
-#, fuzzy
-#| msgid "Unknown Custom Element Typw"
 msgid "Unknown Custom Element Type"
 msgstr "Type d'élément personnalisé inconnu"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:1633
-#, fuzzy
-#| msgid "Unkonwn element name"
 msgid "Unknown element name"
 msgstr "Nom d'élément inconnu"
 
@@ -24819,7 +24941,7 @@ msgstr "Uploadez un logo optionnel pour le préchargèrent de page"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:680
 msgid "Upload custom icon"
-msgstr ""
+msgstr "Uploader une icône personnalisée"
 
 #: config-templatebuilder/avia-shortcodes/section.php:537
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1292
@@ -24830,7 +24952,7 @@ msgstr "Uploadez une image personnalisée"
 
 #: includes/admin/option_tabs/avia_upload.php:177
 msgid "Upload Layout Builder Templates File"
-msgstr "Uploadez un fichier de modèle du constructeur de mise en page"
+msgstr "Uploadez un fichier de modèles du constructeur de mise en page"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:389
 msgid ""
@@ -24879,7 +25001,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:681
 msgid "Use a custom link"
-msgstr ""
+msgstr "Utiliser un lien personnalisé"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:199
 msgid "Use a custom set"
@@ -24887,8 +25009,8 @@ msgstr "Utilisez un jeu personnalisé"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:567
 msgid ""
-"Use a default generated link depending on the meta element (if a link exists)"
-", set a custom link or display only as text."
+"Use a default generated link depending on the meta element (if a link "
+"exists), set a custom link or display only as text."
 msgstr ""
 "Utiliser un lien généré par défaut dépendant du méta-élément (si lien "
 "existant), définir un lien personnalisé ou afficher seulement comme texte."
@@ -25139,6 +25261,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:198
 msgid "Use defaults that are also used for your blog (share entry)"
 msgstr ""
+"Utiliser les réglages par défaut également définis pour le blog (partage "
+"d'entrée)"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:254
 msgid "Use either the default or minimal design"
@@ -25221,7 +25345,7 @@ msgstr "Utiliser l'image comme logo"
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:98
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:114
 msgid "Use manual added URL in settings page"
-msgstr ""
+msgstr "Utiliser l'URL ajoutée manuellement dans les paramètres de page"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:311
 msgid "Use order of playlist as selected"
@@ -25234,7 +25358,7 @@ msgstr "Utiliser la taille d'origine (ou s'adapte au conteneur si trop large)"
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:97
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:113
 msgid "Use plugin default library"
-msgstr ""
+msgstr "Utiliser la librairie par défaut du plugin"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:788
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:989
@@ -25277,8 +25401,8 @@ msgid ""
 "page you have chosen in Enfold->Theme Options as a blog page)"
 msgstr ""
 "Utiliser l'éditeur avancé de présentation pour construire votre propre "
-"modèle de blog (suffit de modifier la page que vous avez choisi dans ENFOLD->"
-" Options du thème comme une page de blog)"
+"modèle de blog (suffit de modifier la page que vous avez choisi dans ENFOLD-"
+"> Options du thème comme une page de blog)"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:202
 msgid "Use the media manager to add/edit the copyright info."
@@ -25295,7 +25419,7 @@ msgstr "Utilisez le tableau pour afficher des données classiques"
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:96
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:112
 msgid "Use theme bundled library"
-msgstr ""
+msgstr "Utiliser la librairie packagée avec le thème"
 
 #: includes/admin/option_tabs/avia_builder.php:159
 msgid "Use Toggle Feature"
@@ -25586,15 +25710,15 @@ msgstr "Intégrations de vidéo Vimeo et Youtube :"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:432
 msgid "Vimeo Link"
-msgstr ""
+msgstr "Lien Viméo"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:667
 msgid "Vimeo Profile Link"
-msgstr ""
+msgstr "Lien vers profil Viméo"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:773
 msgid "Visibility"
-msgstr ""
+msgstr "Visibilité"
 
 #: includes/helper-social-media.php:530
 msgid "Visit us on Yelp"
@@ -25611,7 +25735,7 @@ msgstr "Lien VK"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:567
 msgid "VK Profile Link"
-msgstr ""
+msgstr "Lien vers profil VK"
 
 #: framework/php/class-breadcrumb-legacy.php:514
 #: framework/php/class-breadcrumb-trail.php:392
@@ -25641,22 +25765,18 @@ msgid "Warning (Red)"
 msgstr "Warning (rouge)"
 
 #: config-templatebuilder/avia-template-builder/php/html-helper.class.php:1063
-#, fuzzy, php-format
-#| msgid ""
-#| "Warning: Characters %s might break ALB backend or frontend. <a "
-#| "href=\"https://kriesi.at/documentation/enfold/intro-to-layout-"
-#| "builder/#using-special-characters\" target=\"_blank\" rel=\"noopener "
-#| "noreferrer\">Read more</a> if you want to use them."
+#, php-format
 msgid ""
-"Warning: Characters %s might break ALB backend or frontend. <a href=\"https:"
-"//kriesi.at/documentation/enfold/intro-to-layout-builder/#using-special-"
-"characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> if "
-"you want to use them. You can use valid HTML markup."
+"Warning: Characters %s might break ALB backend or frontend. <a href="
+"\"https://kriesi.at/documentation/enfold/intro-to-layout-builder/#using-"
+"special-characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read "
+"more</a> if you want to use them. You can use valid HTML markup."
 msgstr ""
-"Attention : Les caractères %s peuvent impacter l'éditeur de mise en page "
-"avancé. <a href=\"https://kriesi.at/documentation/enfold/intro-to-layout-"
-"builder/#using-special-characters\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">+ d'infos</a> si vous tenez à les utiliser."
+"Attention : Les caractères %s peuvent impacter le rendu de l'éditeur de mise "
+"en page avancé (backend ou frontend). <a href=\"https://kriesi.at/"
+"documentation/enfold/intro-to-layout-builder/#using-special-characters\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">+ d'infos</a> si vous tenez à "
+"les utiliser."
 
 #: config-woocommerce/config-356.php:1866 config-woocommerce/config.php:2232
 msgid "was added to the cart"
@@ -25664,7 +25784,7 @@ msgstr "a été ajouté au panier"
 
 #: framework/php/wordpress-importer/avia-import-class.php:274
 msgid "Wasn't able to create sub-folder for font files"
-msgstr ""
+msgstr "Impossible de créer le sous-répertoire pour les fichiers de fontes"
 
 #: framework/php/font-management/class-avia-font-management-base.php:409
 #: framework/php/font-management/class-avia-font-management-base.php:502
@@ -25673,11 +25793,11 @@ msgstr "Le dossier temporaire n'a pu être créé"
 
 #: framework/php/wordpress-importer/avia-import-class.php:253
 msgid "Wasn't able to create the folder for font files"
-msgstr ""
+msgstr "Impossible de créer le répertoire pour les fichiers de fontes"
 
 #: framework/php/inc-avia-download-demo.php:120
 msgid "Wasn't able to read demo files from downloaded zip file."
-msgstr ""
+msgstr "Impossible de lire la démo depuis le fichier zip."
 
 #: framework/php/inc-avia-download-demo.php:57
 #: framework/php/font-management/class-avia-font-management-base.php:417
@@ -25721,16 +25841,18 @@ msgid ""
 "check if the API key you have entered in your Enfold Theme Panel is valid "
 "and also check if you have at least one list created on mailchimp"
 msgstr ""
-"Nous n'avons pu trouver de listes auxquelles vos clients puissent s'inscrire."
-" Merci de vérifier si la clé API que vous avez entrée dans votre panneau de "
-"thème Enfold est valide et également vérifier si vous avez au moins une "
-"liste créée sur MailChimp"
+"Nous n'avons pu trouver de listes auxquelles vos clients puissent "
+"s'inscrire. Merci de vérifier si la clé API que vous avez entrée dans votre "
+"panneau de thème Enfold est valide et également vérifier si vous avez au "
+"moins une liste créée sur MailChimp"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:72
 msgid ""
 "We do not recommend to change any plugin settings unless you know what you "
 "are doing. All supported settings can be changed per map."
 msgstr ""
+"Nous vous conseillons de ne modifier aucun réglage du plugin à moins de bien "
+"savoir ce que vous faites. Tous les réglages peuvent être modifiés par carte."
 
 #: includes/helper-privacy.php:2079
 msgid ""
@@ -25748,8 +25870,9 @@ msgstr ""
 #: includes/admin/option_tabs/avia_upload.php:25
 msgid ""
 "We have detected that you are using a Child Theme. That's Great!. If you "
-"want to, we can import the settings of your Parent theme to your Child theme."
-" Please be aware that this will overwrite your current child theme settings."
+"want to, we can import the settings of your Parent theme to your Child "
+"theme. Please be aware that this will overwrite your current child theme "
+"settings."
 msgstr ""
 "Nous avons détecté que vous utilisez un thème enfant. C'est génial !. Si "
 "vous voulez, nous pouvons importer les paramètres de votre thème Parent dans "
@@ -25760,27 +25883,27 @@ msgstr ""
 msgid ""
 "We may request cookies to be set on your device. We use cookies to let us "
 "know when you visit our websites, how you interact with us, to enrich your "
-"user experience, and to customize your relationship with our website. <br>"
-"<br>Click on the different category headings to find out more. You can also "
-"change some of your preferences. Note that blocking some types of cookies "
-"may impact your experience on our websites and the services we are able to "
-"offer."
+"user experience, and to customize your relationship with our website. "
+"<br><br>Click on the different category headings to find out more. You can "
+"also change some of your preferences. Note that blocking some types of "
+"cookies may impact your experience on our websites and the services we are "
+"able to offer."
 msgstr ""
-"Nous pouvons demander que les cookies soient mis en place sur votre appareil."
-" Nous utilisons des cookies pour nous faire savoir quand vous visitez nos "
-"sites Web, comment vous interagissez avec nous, pour enrichir votre "
-"expérience utilisateur, et pour personnaliser votre relation avec notre site "
-"Web. <br> <br> Cliquez sur les différentes rubriques de la catégorie pour en "
-"savoir plus. Vous pouvez également modifier certaines de vos préférences. "
-"Notez que le blocage de certains types de cookies peut avoir une incidence "
-"sur votre expérience sur nos sites Web et les services que nous sommes en "
-"mesure d'offrir."
+"Nous pouvons demander que les cookies soient mis en place sur votre "
+"appareil. Nous utilisons des cookies pour nous faire savoir quand vous "
+"visitez nos sites Web, comment vous interagissez avec nous, pour enrichir "
+"votre expérience utilisateur, et pour personnaliser votre relation avec "
+"notre site Web. <br> <br> Cliquez sur les différentes rubriques de la "
+"catégorie pour en savoir plus. Vous pouvez également modifier certaines de "
+"vos préférences. Notez que le blocage de certains types de cookies peut "
+"avoir une incidence sur votre expérience sur nos sites Web et les services "
+"que nous sommes en mesure d'offrir."
 
 #: includes/helper-privacy.php:422
 msgid ""
 "We need a lightbox to show the modal popup. Please enable the built in "
-"lightbox in Theme Options Tab or include your own modal window plugin."
-"\\n\\nYou need to connect this plugin in JavaScript with callback wrapper "
+"lightbox in Theme Options Tab or include your own modal window plugin.\\n"
+"\\nYou need to connect this plugin in JavaScript with callback wrapper "
 "functions - see avia_cookie_consent_modal_callback in file enfold\\js\\avia-"
 "snippet-cookieconsent.js "
 msgstr ""
@@ -25806,12 +25929,15 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:1019
 msgid "We recommend to enter each option in a new line like:"
 msgstr ""
+"Nous recommandons d'entrer chaque option sur une nouvelle ligne comme :"
 
 #: includes/admin/option_tabs/avia_demo.php:19
 msgid ""
 "We recommend to use a clean WP installation for importing a demo to avoid "
 "conflicts with existing content."
 msgstr ""
+"Nous recommandons l'import d'une démo sur une installation vierge de WP, "
+"pour éviter tout conflit avec des contenus existants."
 
 #: includes/admin/option_tabs/avia_upload.php:16
 msgid ""
@@ -25862,6 +25988,8 @@ msgid ""
 "rel=\"noopener noreferrer\">Plugin Settings</a>. Please keep your plugin up "
 "to date."
 msgstr ""
+"Nous avons bien détecté ce plugin. Rien de plus à faire ici. <a href=\"%s\" "
+"rel=\"noopener noreferrer\">Réglages du plugin</a>. Merci de le tenir à jour."
 
 #: framework/php/class-grecaptcha.php:896
 msgid ""
@@ -25895,7 +26023,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:62
 msgid "We were not able to detect this plugin."
-msgstr ""
+msgstr "Nous n'avons pas pu détecter ce plugin."
 
 #: config-templatebuilder/avia-shortcodes/av-helper-mailchimp.php:477
 msgid ""
@@ -25990,7 +26118,7 @@ msgstr "Lien WhatsApp"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:517
 msgid "WhatsApp Profile Link"
-msgstr ""
+msgstr "Lien de profil WhatsApp"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:523
 msgid ""
@@ -26003,12 +26131,6 @@ msgstr ""
 "ou afficher une version plus grande de l'image dans une Lightbox"
 
 #: config-templatebuilder/avia-template-builder/php/element-templates.class.php:3198
-#, fuzzy
-#| msgid ""
-#| "When creating a new custom element you can set deault values for each "
-#| "option. You can also lock an option so it will no longer be possible to "
-#| "change it once you add a new instance of the new custom element to the "
-#| "page canvas."
 msgid ""
 "When creating a new custom element you can set default values for each "
 "option. You can also lock an option so it will no longer be possible to "
@@ -26016,9 +26138,9 @@ msgid ""
 "canvas."
 msgstr ""
 "Lors de la création d'un nouvel élément personnalisé vous pouvez définir des "
-"valeurs par défaut pour chaque option. Vous pouvez aussi verrouiller "
-"certaines de ces valeurs, ainsi elles seront non modifiables lors de l'ajout "
-"d'une instance de ce nouvel élément personnalisé dans une mise en page."
+"valeurs par défaut pour chaque option. Vous pouvez aussi verrouiller une "
+"option, ainsi il ne sera plus possible de la modifier lors de l'ajout d'une "
+"instance de ce nouvel élément personnalisé dans une mise en page."
 
 #: includes/admin/option_tabs/avia_header.php:484
 msgid ""
@@ -26034,14 +26156,6 @@ msgstr ""
 "principal, ce qui peut être défini ici."
 
 #: includes/admin/option_tabs/avia_cookie.php:854
-#, fuzzy
-#| msgid ""
-#| "When refusing all cookies this site might not be able to work as expected."
-#| " Please check our settings page and opt out for cookies or functions you "
-#| "do not want to use and accept cookies. You will be shown this message "
-#| "every time you open a new window or a new tab.\n"
-#| "\n"
-#| "Are you sure you want to continue?"
 msgid ""
 "When refusing all cookies this site might not be able to work as expected. "
 "Please check our settings page and opt out for cookies or functions you do "
@@ -26052,9 +26166,8 @@ msgstr ""
 "En refusant tous les cookies le site peut ne pas fonctionner tout à fait "
 "comme prévu. Merci de bien ajuster vos réglages et de ne refuser que les "
 "cookies ou services vous posant pb. ce message apparaitra à chaque "
-"changement de page ou d'ouverture d'une nouvelle fenêtre ou onglet.\n"
-"\n"
-"Voulez-vous vraiment continuer ?"
+"changement de page ou d'ouverture d'une nouvelle fenêtre ou onglet.\\n"
+"\\nVoulez-vous vraiment continuer ?"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:614
 msgid ""
@@ -26091,8 +26204,8 @@ msgid ""
 msgstr ""
 "Lorsque vous créez ou modifiez un élément personnalisé il est important de "
 "toujours le traduire dans toutes les langues, même si vous modifiez des "
-"réglages non traduisibles, car WPML doit copier absolument tous vos réglages,"
-" traduisibles ou non, à destination des autres langues."
+"réglages non traduisibles, car WPML doit copier absolument tous vos "
+"réglages, traduisibles ou non, à destination des autres langues."
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:886
 msgid "Where do you want to apply the link?"
@@ -26323,6 +26436,9 @@ msgid ""
 "WooCommerce displays a message box after a product had been added to cart on "
 "single product pages. Select the behaviour on single ALB product pages."
 msgstr ""
+"WooCommerce affiche une boite de dialogue après l'ajout d'un produit dans le "
+"panier sur la page single product. Sélectionner ce comportement sur les "
+"pages produit faites avec l'éditeur de mise en forme avancé."
 
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:2935
 #: config-templatebuilder/avia-template-builder/php/popup-templates.class.php:3051
@@ -26432,23 +26548,18 @@ msgstr "X Large"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:443
 msgid "Xing Link"
-msgstr ""
+msgstr "Lien Xing"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:677
 msgid "Xing Profile Link"
-msgstr ""
+msgstr "Lien de profil Xing"
 
 #: framework/php/class-breadcrumb-legacy.php:506
 #: framework/php/class-breadcrumb-legacy.php:513
-#: framework/php/class-breadcrumb-legacy.php:513
-#: framework/php/class-breadcrumb-legacy.php:519
 #: framework/php/class-breadcrumb-legacy.php:519
 #: framework/php/class-breadcrumb-legacy.php:525
 #: framework/php/class-breadcrumb-trail.php:385
-#: framework/php/class-breadcrumb-trail.php:385
 #: framework/php/class-breadcrumb-trail.php:391
-#: framework/php/class-breadcrumb-trail.php:391
-#: framework/php/class-breadcrumb-trail.php:396
 #: framework/php/class-breadcrumb-trail.php:396
 #: framework/php/class-breadcrumb-trail.php:401
 #: framework/php/function-set-avia-frontend.php:1539
@@ -26475,11 +26586,11 @@ msgstr "Lien Yelp"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:587
 msgid "Yelp Profile Link"
-msgstr ""
+msgstr "Lien de profil Yelp"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:337
 msgid "Yelp Share Link"
-msgstr ""
+msgstr "Lien de partage Yelp"
 
 #: functions-enfold.php:2322
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:376
@@ -26806,8 +26917,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:316
 msgid ""
-"You can either define a fixed height in pixel like '300px' or enter a "
-"width/height ratio like 16:9"
+"You can either define a fixed height in pixel like '300px' or enter a width/"
+"height ratio like 16:9"
 msgstr ""
 "Vous pouvez soit définir une hauteur fixe en pixels comme '300px' ou entrer "
 "un rapport largeur/hauteur comme le format 16:9"
@@ -26855,6 +26966,9 @@ msgid ""
 "You can enter up to 22 colors, enter each color in a new line in the order "
 "you like, either &quot;#efefef&quot; or &quot;rgba(0,0,0,0.3)&quot;."
 msgstr ""
+"Vous pouvez entrer jusqu'à 22 couleurs, entrer chaque couleur sur une "
+"nouvelle ligne, dans l'ordre que vous souhaitez, sous forme &quot;"
+"#efefef&quot; ou &quot;rgba(0,0,0,0.3)&quot;."
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:149
 msgid "You can enter your API key here"
@@ -26928,13 +27042,13 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:208
 msgid ""
-"You can upload your custom Font zip files. Intended for <a href='https:"
-"//fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google Webkit "
+"You can upload your custom Font zip files. Intended for <a href='https://"
+"fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google Webkit "
 "Fonts</a>."
 msgstr ""
-"Vous pouvez uploader votre propre fichier zip de police pour <a href='https:"
-"//fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google Webkit "
-"Fonts</a>."
+"Vous pouvez uploader votre propre fichier zip de police pour <a "
+"href='https://fonts.google.com/' target='_blank' rel='noopener "
+"noreferrer'>Google Webkit Fonts</a>."
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:407
 msgid ""
@@ -26959,6 +27073,8 @@ msgid ""
 "You did not enter an address. Please enter at least a City to fetch the "
 "coordinates."
 msgstr ""
+"Vous n'avez pas renseigné d'adresse. Merci d'indiquer au moins une ville "
+"pour définir les coordonnées."
 
 #: config-gutenberg/class-avia-gutenberg.php:284
 msgid ""
@@ -27029,6 +27145,8 @@ msgid ""
 "You selected to use the social share buttons used for your blog selected on "
 "theme options page . No options available here at the moment."
 msgstr ""
+"Vous avez choisi d'utiliser les boutons de partage définis dans les options "
+"du blog. De fait aucune option disponible ici."
 
 #: framework/php/class-update-notifier.php:160
 msgid "You're using version"
@@ -27114,19 +27232,19 @@ msgstr "Votre nom d'utilisateur : "
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:454
 msgid "YouTube Link"
-msgstr ""
+msgstr "Lien YouTube"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:687
 msgid "YouTube Profile Link"
-msgstr ""
+msgstr "Lien de profil YouTube"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:392
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:312
 msgid "Zoom Control"
-msgstr ""
+msgstr "Zoom Contrôle"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:271
 msgid "Zoom Level"
