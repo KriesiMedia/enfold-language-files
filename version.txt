@@ -1,3 +1,5 @@
+2021-07-09
+- French fr_FR (version 4.8.3, provided by comkapi - web@subit.fr)
 
 2021-05-30
 - Italian it_IT (version 4.8.3, provided by BigBatT - info@luigicircello.it)
