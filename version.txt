@@ -1,3 +1,4 @@
+
 2021-08-02
 - Czech language files cs_CZ (5 strings provided by mmotorola - paul.dukista@seznam.cz)
 
