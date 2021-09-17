@@ -1,3 +1,7 @@
+
+2021-09-17
+- Italian it_IT (version version 4.8.6.3-dev-3 (close to 4.8.6.3), provided by BigBatT - info@luigicircello.it)
+
 2021-09-16
 - sync all files 4.8.6.3-dev-3
 
