@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-02 13:22+0000\n"
-"PO-Revision-Date: 2021-09-16 10:32+0000\n"
+"PO-Revision-Date: 2021-09-18 07:13+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -519,7 +519,7 @@ msgstr "1.0"
 #: includes/admin/option_tabs/avia_footer.php:90
 #, php-format
 msgid "10% of viewport height"
-msgstr ""
+msgstr "10% van kijkvenster hoogte"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:189
 msgid "100"
@@ -565,7 +565,7 @@ msgstr "2 mijlpalen"
 #: includes/admin/option_tabs/avia_footer.php:91
 #, php-format
 msgid "20% of viewport height"
-msgstr ""
+msgstr "20% van kijkvenster hoogte"
 
 #: includes/admin/register-backend-advanced-styles.php:9
 msgid "200"
@@ -619,7 +619,7 @@ msgstr "3 mijlpalen"
 #: includes/admin/option_tabs/avia_footer.php:92
 #, php-format
 msgid "30% of viewport height"
-msgstr ""
+msgstr "30% van kijkvenster hoogte"
 
 #: includes/admin/register-backend-advanced-styles.php:10
 msgid "300"
@@ -657,7 +657,7 @@ msgstr "4 mijlpalen"
 #: includes/admin/option_tabs/avia_footer.php:93
 #, php-format
 msgid "40% of viewport height"
-msgstr ""
+msgstr "40% van kijkvenster hoogte"
 
 #: includes/admin/register-backend-advanced-styles.php:11
 msgid "400"
@@ -705,7 +705,7 @@ msgstr "5 mijlpalen"
 #: includes/admin/option_tabs/avia_footer.php:94
 #, php-format
 msgid "50% of viewport height"
-msgstr ""
+msgstr "50% van kijkvenster hoogte"
 
 #: includes/admin/register-backend-advanced-styles.php:12
 msgid "500"
@@ -733,7 +733,7 @@ msgstr "6 kolommen"
 #: includes/admin/option_tabs/avia_footer.php:95
 #, php-format
 msgid "60% of viewport height"
-msgstr ""
+msgstr "60% van kijkvenster hoogte"
 
 #: includes/admin/register-backend-advanced-styles.php:13
 msgid "600"
@@ -750,7 +750,7 @@ msgstr "7 kolommen"
 #: includes/admin/option_tabs/avia_footer.php:96
 #, php-format
 msgid "70% of viewport height (default)"
-msgstr ""
+msgstr "70% van kijkvenster hoogte (standaard)"
 
 #: includes/admin/register-backend-advanced-styles.php:14
 msgid "700"
@@ -767,7 +767,7 @@ msgstr "8 kolommen"
 #: includes/admin/option_tabs/avia_footer.php:97
 #, php-format
 msgid "80% of viewport height"
-msgstr ""
+msgstr "80% van kijkvenster hoogte"
 
 #: includes/admin/register-backend-advanced-styles.php:15
 msgid "800"
@@ -780,7 +780,7 @@ msgstr "80px * 80px"
 #: includes/admin/option_tabs/avia_footer.php:98
 #, php-format
 msgid "90% of viewport height"
-msgstr ""
+msgstr "90% van kijkvenster hoogte"
 
 #: includes/admin/register-backend-advanced-styles.php:16
 msgid "900"
@@ -2783,7 +2783,7 @@ msgstr "automatisch (= standaard)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:824
 msgid "Auto - defined by svg viewport"
-msgstr ""
+msgstr "Automatisch - bepaald door svg kijkvenster"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:230
 msgid "Auto adjust to content"
@@ -3133,6 +3133,8 @@ msgstr "Enkel basisopties"
 #: includes/admin/option_tabs/avia_blog.php:312
 msgid "Be sure you added a link, otherwise your selection will be ignored."
 msgstr ""
+"Zorg ervoor dat je een link hebt toegevoegd, anders wordt je selectie "
+"genegeerd."
 
 #: includes/helper-privacy.php:2077
 msgid ""
@@ -3188,7 +3190,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:392
 msgid "Big Image Size"
-msgstr ""
+msgstr "Afmetingen grote afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:239
 msgid "Big image with thumbnails below"
@@ -4700,6 +4702,11 @@ msgid ""
 "replaces theme support &quot;avia_rel_nofollow_for_links&quot; - please "
 "remove it - will be deprecated in a future version)"
 msgstr ""
+"Controleer of u extra opties wilt hebben om het rel attribuut van links te "
+"kwalificeren (nofollow, sponsored, ugc) in ALB elementen (sinds 4.8.6.3 "
+"vervangt deze optie thema ondersteuning &quot;"
+"avia_rel_nofollow_for_links&quot; - gelieve deze te verwijderen - zal in een "
+"toekomstige versie worden afgeschreven)"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:462
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:443
@@ -6866,11 +6873,11 @@ msgstr "Aangepast"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:420
 msgid "Custom +/- Icon Color"
-msgstr ""
+msgstr "Aangepaste +/- pictogramkleur"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:457
 msgid "Custom +/- Icon Color Current Toggle"
-msgstr ""
+msgstr "Aangepaste +/- pictogramkleur huidige toggle"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:468
 msgid "Custom Alt Attribute"
@@ -7176,7 +7183,7 @@ msgstr "Hoogte exact in pixels"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:541
 msgid "Custom Hover +/- Icon Color"
-msgstr ""
+msgstr "Aangepaste +/- pictogramkleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:529
 msgid "Custom Hover Background Color"
@@ -7516,7 +7523,7 @@ msgstr "Standaard achtergrondkleur"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:317
 msgid "Default Behavior - set in"
-msgstr ""
+msgstr "Standaardgedrag - ingesteld in"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:493
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:517
@@ -7739,7 +7746,7 @@ msgstr "Kies je eigen kleuren"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:120
 msgid "Define custom link"
-msgstr ""
+msgstr "Definieer aangepaste link"
 
 #: includes/admin/option_tabs/avia_sidebars.php:135
 msgid "Define text alignment for the left sidebar"
@@ -8292,11 +8299,11 @@ msgstr "Toon een diavoorstelling op volledig scherm"
 
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:52
 msgid "Display a fullwidth masonry/grid gallery"
-msgstr "Toon een volledige-breedte (bakstenen-)grid galerij"
+msgstr "Toon een volledige-breedte metselwerk/raster galerij"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:52
 msgid "Display a fullwidth masonry/grid with blog entries"
-msgstr "Toon een volledige-breedte (bakstenen-)grid met blog items"
+msgstr "Toon een volledige-breedte metselwerk/raster met blog items"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_revolution/slideshow_revolution.php:34
 msgid "Display a fullwidth Revolution Slider"
@@ -8308,7 +8315,7 @@ msgstr "Toon een Google Maps kaart met een of meerdere locaties"
 
 #: config-templatebuilder/avia-shortcodes/product_grid.php:35
 msgid "Display a Grid of Product Entries"
-msgstr "Toon een grid van Product Artikelen"
+msgstr "Toon een raster van product artikelen"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:550
 msgid "Display a image caption on hover"
@@ -10133,6 +10140,8 @@ msgid ""
 "Enter a custom heading text here. Options to customize heading tag and link "
 "are located in the &quot;Advanced&quot; tab."
 msgstr ""
+"Voer hier een aangepaste koptekst in. Opties om de heading tag en link aan "
+"te passen bevinden zich in het tabblad &quot;Geavanceerd&quot;."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3257
 msgid ""
@@ -11351,7 +11360,7 @@ msgstr "Lettertype voor de body tekst"
 
 #: includes/admin/register-backend-advanced-styles.php:491
 msgid "Font Hover Color"
-msgstr ""
+msgstr "Lettertypekleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:186
 msgid "Font Icon"
@@ -11490,7 +11499,7 @@ msgstr "Footer"
 #: config-templatebuilder/avia-template-builder/config/meta.php:309
 #: includes/admin/option_tabs/avia_footer.php:67
 msgid "Footer Behavior (currently in beta)"
-msgstr ""
+msgstr "Footer gedrag (momenteel in beta)"
 
 #: includes/admin/option_tabs/avia_footer.php:115
 msgid "Footer Columns"
@@ -12144,7 +12153,6 @@ msgid "Header Custom Height"
 msgstr "Aangepaste header hoogte"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:380
-#, fuzzy
 #| msgid "Header is invisible and appears once the users scrolls down "
 msgid "Header is invisible and appears once the users scrolls down"
 msgstr "Header is onzichtbaar en verschijnt pas bij het scrollen"
@@ -12328,7 +12336,7 @@ msgstr "Roulerende koptekst element"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:467
 msgid "Headline Text Padding"
-msgstr ""
+msgstr "Koptekst padding"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:486
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:301
@@ -12788,7 +12796,6 @@ msgid "Hide Form Labels"
 msgstr "Verberg formulierlabels"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:381
-#, fuzzy
 #| msgid "Hide Header on this page "
 msgid "Hide Header on this page"
 msgstr "Header verbergen op deze pagina"
@@ -13491,7 +13498,6 @@ msgstr ""
 "tablets)"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:252
-#, fuzzy
 #| msgid "If checked you can enter a title with link for this element"
 msgid "If checked you can enter a heading title with a link for this element"
 msgstr "Vink aan om een titel met link in te voeren voor dit element"
@@ -13574,6 +13580,9 @@ msgid ""
 "If you added Social Profile Links at %sSocial Profiles Tab%s the theme "
 "allows you to display these profile links at the bottom of your blog posts."
 msgstr ""
+"Als u links naar sociale profielen hebt toegevoegd aan het tabblad %Sociale "
+"profielen%s, kunt u met het thema deze profiellinks onderaan uw "
+"blogberichten weergeven."
 
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:294
 msgid ""
@@ -15324,7 +15333,7 @@ msgstr "Doorhalen"
 
 #: includes/admin/option_tabs/avia_blog.php:263
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: config-templatebuilder/avia-shortcodes/product_list.php:340
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:680
@@ -15928,7 +15937,7 @@ msgstr "Maximale inhoudsbreedte website"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:829
 msgid "Maximum Height"
-msgstr ""
+msgstr "Maximum hoogte"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:366
 msgid "Maximum Zoom Level"
@@ -15964,7 +15973,7 @@ msgstr "Media Icoon/Albumhoes"
 
 #: includes/admin/option_tabs/avia_footer.php:82
 msgid "Media Switch Back"
-msgstr ""
+msgstr "Media-schakelaar terug"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:287
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:409
@@ -16002,7 +16011,7 @@ msgstr "Menukleuren"
 
 #: includes/admin/option_tabs/avia_menu.php:179
 msgid "Menu Handling for Mobile Devices In Landscape Mode"
-msgstr ""
+msgstr "Menubehandeling voor mobiele apparaten in liggende modus"
 
 #: includes/admin/register-backend-advanced-styles.php:490
 msgid "Menu Hover BG"
@@ -17404,7 +17413,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_footer.php:62
 msgid "Only supported for streched layout."
-msgstr ""
+msgstr "Alleen ondersteund voor uitgerekte lay-out."
 
 #: includes/admin/option_tabs/avia_avia.php:279
 #| msgid ""
@@ -17458,7 +17467,6 @@ msgid "Open a preview of the entry (known as AJAX Portfolio)"
 msgstr "Toon preview van het item (dat heet: AJAX-Portfolio)"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:368
-#, fuzzy
 #| msgid ""
 #| "Open bigger version of Thumbnail Image in lightbox (image needs to be set)"
 msgid ""
@@ -17498,17 +17506,16 @@ msgstr "Openen in nieuw venster"
 
 #: config-templatebuilder/avia-template-builder/php/class-html-helper.php:3268
 msgid "Open in new window and use rel=\"nofollow sponsored\""
-msgstr ""
+msgstr "Open in nieuw venster en gebruik rel=\"nofollow sponsored\""
 
 #: config-templatebuilder/avia-template-builder/php/class-html-helper.php:3269
 msgid "Open in new window and use rel=\"nofollow ugc\""
-msgstr ""
+msgstr "Open in nieuw venster en gebruik rel=\"nofollow ugc\""
 
 #: config-templatebuilder/avia-template-builder/php/class-html-helper.php:3267
-#, fuzzy
 #| msgid "Open in new window and use rel=nofollow"
 msgid "Open in new window and use rel=\"nofollow\""
-msgstr "Open in nieuw venster en gebruik rel=nofollow"
+msgstr "Open in nieuw venster en gebruik rel=\"nofollow\""
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:327
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:331
@@ -17521,17 +17528,16 @@ msgstr "In hetzelfde venster openen"
 
 #: config-templatebuilder/avia-template-builder/php/class-html-helper.php:3264
 msgid "Open in same window and use rel=\"nofollow sponsored\""
-msgstr ""
+msgstr "Open in hetzelfde venster en gebruik rel=\"nofollow sponsored\""
 
 #: config-templatebuilder/avia-template-builder/php/class-html-helper.php:3265
 msgid "Open in same window and use rel=\"nofollow ugc\""
-msgstr ""
+msgstr "Open in hetzelfde venster en gebruik rel=\"nofollow ugc\""
 
 #: config-templatebuilder/avia-template-builder/php/class-html-helper.php:3263
-#, fuzzy
 #| msgid "Open in same window and use rel=nofollow"
 msgid "Open in same window and use rel=\"nofollow\""
-msgstr "Open in zelfde venster en gebruik rel=nofollow"
+msgstr "Open in hetzelfde venster en gebruik rel=\"nofollow\""
 
 #: includes/admin/option_tabs/avia_cookie.php:463
 msgid "Open info modal on privacy and cookies"
@@ -18648,7 +18654,7 @@ msgstr "Profiel van gebruiker:"
 
 #: includes/admin/option_tabs/avia_blog.php:316
 msgid "Profile links at the bottom of your blog post"
-msgstr ""
+msgstr "Profiel links onderaan uw blogbericht"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:80
 msgid "Profiles"
@@ -19422,11 +19428,11 @@ msgstr "Muiswiel zoomen"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:318
 msgid "Scroll with page"
-msgstr ""
+msgstr "Scroll met pagina"
 
 #: includes/admin/option_tabs/avia_footer.php:75
 msgid "Scroll with page (default)"
-msgstr ""
+msgstr "Scroll met pagina (standaard)"
 
 #: functions-enfold.php:155 functions-enfold.php:160 searchform.php:10
 #: framework/php/class-breadcrumb-legacy.php:138
@@ -19452,7 +19458,7 @@ msgstr "Zoek icoon"
 
 #: includes/admin/register-portfolio.php:19
 msgid "Search Portfolio Entries"
-msgstr "Zoek portfolio-items"
+msgstr "Zoek portfolio items"
 
 #: framework/php/function-set-avia-frontend.php:1596
 msgid "search result for:"
@@ -19752,6 +19758,8 @@ msgid ""
 "Select a custom color for the current active toggle icon. Leave empty to use "
 "default"
 msgstr ""
+"Selecteer een aangepaste kleur voor het huidige actieve toggle pictogram. "
+"Leeg laten om de standaard te gebruiken"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:394
 msgid ""
@@ -19764,6 +19772,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:421
 msgid "Select a custom color for the toggle icon. Leave empty to use default"
 msgstr ""
+"Selecteer een aangepaste kleur voor het toggle pictogram. Leeg laten om de "
+"standaard te gebruiken"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:340
 msgid ""
@@ -20006,6 +20016,8 @@ msgid ""
 "Select a custom hover color for the toggle icon. Leave empty to use &quot;"
 "Custom Hover Font Color&quot;"
 msgstr ""
+"Selecteer een aangepaste kleur voor het toggle pictogram bij muis-over. Leeg "
+"laten om &quot;Aangepaste tekstkleur bij muis-over&quot; te gebruiken"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:518
 msgid "Select a custom hover font color. Leave empty to use the default"
@@ -20047,12 +20059,18 @@ msgid ""
 "Select a custom size for all images. All registered image sizes are shown, "
 "make sure you select a valid size for your images."
 msgstr ""
+"Selecteer een aangepaste grootte voor alle afbeeldingen. Alle geregistreerde "
+"afbeeldingsformaten worden getoond, zorg ervoor dat u een geldige afmeting "
+"voor uw afbeeldingen selecteert."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2619
 msgid ""
 "Select a custom size for the image. All registered image sizes are shown, "
 "make sure you select a valid size for your image."
 msgstr ""
+"Selecteer een aangepaste grootte voor de afbeelding. Alle geregistreerde "
+"afbeeldingsformaten worden getoond, zorg ervoor dat u een geldige afmeting "
+"voor uw afbeelding selecteert."
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:487
 msgid "Select a font color"
@@ -20124,14 +20142,13 @@ msgstr ""
 "lay-out bewerker."
 
 #: includes/admin/option_tabs/avia_footer.php:33
-#, fuzzy
 #| msgid "Select a page to display as footer and socket"
 msgid "Select a page to replace both footer and socket"
 msgstr "Selecteer een pagina om als footer en socket te tonen"
 
 #: includes/admin/option_tabs/avia_footer.php:32
 msgid "Select a page to replace footer and keep socket"
-msgstr ""
+msgstr "Selecteer een pagina om de footer te vervangen en behoud de socket"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:402
 msgid ""
@@ -20494,6 +20511,9 @@ msgid ""
 "options (needs to be activated in &quot;Theme Options -> Layout Builder&quot;"
 ")"
 msgstr ""
+"Selecteer of u de link in een nieuw venster wilt openen en stel extra SEO "
+"opties in (moet worden geactiveerd in &quot;Thema-opties -> Layout "
+"Builder&quot;)"
 
 #: includes/admin/option_tabs/avia_styling.php:623
 msgid ""
@@ -20607,6 +20627,9 @@ msgid ""
 "in landscape mode (e.g. high resolution screens might switch back to normal "
 "menu in landscape mode)"
 msgstr ""
+"Selecteer portretmodus als u het mobiele menu ook wilt behouden als het "
+"apparaat in liggende modus wordt gebruikt (bijv. schermen met een hoge "
+"resolutie schakelen in liggende modus mogelijk terug naar het normale menu)"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:247
 msgid "Select Post"
@@ -20662,12 +20685,17 @@ msgstr "Selecteer het basiselement voor uw nieuwe aangepaste element."
 #: config-templatebuilder/avia-template-builder/config/meta.php:310
 msgid "Select the behavior of the footer when user scrolls the page."
 msgstr ""
+"Selecteer het gedrag van de footer wanneer de gebruiker door de pagina "
+"scrollt."
 
 #: includes/admin/option_tabs/avia_footer.php:59
 msgid ""
 "Select the behavior of the footer when user scrolls the page. Curtain effect "
 "will hide or show footer content when page is scrolled."
 msgstr ""
+"Selecteer het gedrag van de footer wanneer de gebruiker door de pagina "
+"scrollt. Het gordijneffect zal de inhoud van de footer verbergen of tonen "
+"wanneer de pagina wordt gescrolld."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:362
 msgid ""
@@ -20782,7 +20810,7 @@ msgstr "Selecteer de locatie voor het geladen javascript bestand"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:830
 msgid "Select the maximum height of the divider"
-msgstr ""
+msgstr "Selecteer de maximale hoogte van de verdeler"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:286
 msgid ""
@@ -21150,6 +21178,8 @@ msgid ""
 "Select to switch back to scroll footer content with page when footer height "
 "exceeds selected limit."
 msgstr ""
+"Selecteer om terug te schakelen naar scroll footer inhoud met pagina wanneer "
+"de footer hoogte de geselecteerde limiet overschrijdt."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1866
 msgid ""
@@ -21377,7 +21407,7 @@ msgstr "Selecteer..."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2655
 msgid "Selected size from media libary."
-msgstr ""
+msgstr "Geselecteerde afmeting uit de mediabibliotheek."
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:298
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:317
@@ -21525,6 +21555,9 @@ msgid ""
 "pixel and &percnt; based values are accepted. eg: 30px, 5&percnt;. px is "
 "used as default unit."
 msgstr ""
+"Stel een afstand in rond de koptekst. Laat leeg voor de standaard waarde. "
+"Zowel pixel als &percnt; gebaseerde waarden worden geaccepteerd. b.v.: 30px, "
+"5&percnt;. px wordt gebruikt als standaard eenheid."
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:163
 msgid "Set a tab title"
@@ -21581,7 +21614,7 @@ msgstr "Stel hier de randstijl voor uw kolom in"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:447
 msgid "Set the bottom padding for the element in pixel"
-msgstr ""
+msgstr "Stel de ruimte aan de onderkant van het element in pixels in"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:550
 msgid "Set the colors of your hotspot"
@@ -22488,6 +22521,8 @@ msgid ""
 "Single page settings will use the option settings from here when selecting "
 "theme default in the metabox options."
 msgstr ""
+"Enkele pagina instellingen zullen de optie instellingen van hier gebruiken "
+"bij het selecteren van thema standaard in de metabox opties."
 
 #: includes/helper-conditional-megamenu.php:65
 msgid "Single Post"
@@ -23206,7 +23241,7 @@ msgstr "Vastgeplakt submenu"
 #: config-templatebuilder/avia-template-builder/config/meta.php:319
 #: includes/admin/option_tabs/avia_footer.php:76
 msgid "Sticky with curtain effect"
-msgstr ""
+msgstr "Vastgeplakt met gordijneffect"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:290
 msgid "Stop after playing last song"
@@ -23445,7 +23480,7 @@ msgstr "Opsomming van ontbrekende tags:"
 
 #: includes/admin/option_tabs/avia_seo.php:90
 msgid "Support ALB Elements To Qualify Links"
-msgstr ""
+msgstr "Ondersteuning van ALB-elementen om links te kwalificeren"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:710
 msgid "SVG Dividers"
@@ -24361,7 +24396,7 @@ msgstr "Thema standaard (13px)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2651
 msgid "Theme default is:"
-msgstr ""
+msgstr "Thema standaard is:"
 
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:75
 msgid ""
@@ -24482,7 +24517,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:302
 msgid "These settings are only available for streched layout"
-msgstr ""
+msgstr "Deze instellingen zijn alleen beschikbaar voor uitgerekte opmaak"
 
 #: includes/admin/register-portfolio.php:195
 msgid "These settings change the permalinks used for the"
@@ -25732,7 +25767,7 @@ msgstr "Gebruik blok-editor standaardstijlen"
 
 #: includes/admin/option_tabs/avia_menu.php:187
 msgid "Use current mode screen width"
-msgstr ""
+msgstr "Gebruik de huidige modus schermbreedte"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:311
 msgid "Use custom link (fallback is image link)"
@@ -25940,7 +25975,7 @@ msgstr "Gebruik standaard portfolio lay-out"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:119
 msgid "Use default setting"
-msgstr ""
+msgstr "Gebruik de standaard instelling"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_upsells.php:128
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2797
@@ -26060,7 +26095,7 @@ msgstr "Gebruik de plugin lightbox"
 
 #: includes/admin/option_tabs/avia_menu.php:188
 msgid "Use portrait mode screen width"
-msgstr ""
+msgstr "Gebruik rechtop modus schermbreedte"
 
 #: functions-enfold.php:2579
 msgid "Use selected page to display as footer (no socket)"
@@ -26071,19 +26106,23 @@ msgid "Use selected page to display as footer and socket"
 msgstr "Gebruik de geselecteerde pagina om als footer en socket te tonen"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:292
-#, fuzzy
 #| msgid "Use selected page to display inside footer and socket"
 msgid "Use selected page to replace both footer and socket"
 msgstr ""
-"Gebruik de geselecteerde pagina om in de footer en socket weer te geven"
+"Gebruik de geselecteerde pagina om zowel de footer alsook de socket te "
+"vervangen"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:291
 msgid "Use selected page to replace footer and keep socket"
 msgstr ""
+"Gebruik de geselecteerde pagina om de footer te vervangen en de socket te "
+"behouden"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:793
 msgid "Use size from media libary &quot;Attachment Display Settings&quot; "
 msgstr ""
+"Gebruik afmeting uit de mediabibliotheek &quot;Bijlage weergave "
+"instellingen&quot; "
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:461
 msgid "Use special 1 column layout (side by side)"
@@ -26978,7 +27017,7 @@ msgstr "Waarheen dient de afbeelding te linken?"
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:720
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1077
 msgid "Where should the image link to?"
-msgstr ""
+msgstr "Waar moet de afbeelding naartoe linken?"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:570
 msgid "Where should the image/logo link to?"
@@ -27520,10 +27559,9 @@ msgid "You are here:"
 msgstr "U bevindt zich hier:"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:127
-#, fuzzy
 #| msgid "You can add a link to any (external) page here. "
 msgid "You can add a link to any (external) page here."
-msgstr "Hier voegt u de link toe naar een externe webpagina."
+msgstr "Hier kunt u een link toevoegen naar een willekeurige (externe) pagina."
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:432
 msgid ""
