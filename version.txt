@@ -1,3 +1,5 @@
+2021-09-25
+- minor typo in german files
 
 2021-09-18
 - Dutch nl_NL (version version 4.8.6.3-dev-3 (close to 4.8.6.3), provided by EZWebdesign - Roger Hoen )
