@@ -9,7 +9,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "POT-Creation-Date: 2020-08-17 16:40+0000\n"
-"PO-Revision-Date: 2021-09-16 10:34+0000\n"
+"PO-Revision-Date: 2021-09-30 14:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Report-Msgid-Bugs-To: \n"
@@ -450,7 +450,7 @@ msgstr "0.8"
 msgid "0.9"
 msgstr "0.9"
 
-#: includes/admin/option_tabs/avia_footer.php:122
+#: includes/admin/option_tabs/avia_footer.php:139
 msgid "1"
 msgstr "1"
 
@@ -487,7 +487,7 @@ msgstr "Отступ в 1 пиксель"
 msgid "1.0"
 msgstr "1.0"
 
-#: includes/admin/option_tabs/avia_footer.php:90
+#: includes/admin/option_tabs/avia_footer.php:97
 #, php-format
 msgid "10% of viewport height"
 msgstr ""
@@ -512,7 +512,7 @@ msgstr ""
 msgid "16:9"
 msgstr "16:9"
 
-#: includes/admin/option_tabs/avia_footer.php:123
+#: includes/admin/option_tabs/avia_footer.php:140
 msgid "2"
 msgstr "2"
 
@@ -533,7 +533,7 @@ msgstr "2 столбца"
 msgid "2 Milestones"
 msgstr "2 пункта"
 
-#: includes/admin/option_tabs/avia_footer.php:91
+#: includes/admin/option_tabs/avia_footer.php:98
 #, php-format
 msgid "20% of viewport height"
 msgstr ""
@@ -562,7 +562,7 @@ msgstr "20x20px"
 msgid "2k+ likes"
 msgstr "2k+ лайки"
 
-#: includes/admin/option_tabs/avia_footer.php:124
+#: includes/admin/option_tabs/avia_footer.php:141
 msgid "3"
 msgstr "3"
 
@@ -587,7 +587,7 @@ msgstr ""
 msgid "3 Milestones"
 msgstr "3 пункта"
 
-#: includes/admin/option_tabs/avia_footer.php:92
+#: includes/admin/option_tabs/avia_footer.php:99
 #, php-format
 msgid "30% of viewport height"
 msgstr ""
@@ -600,7 +600,7 @@ msgstr ""
 msgid "30px * 30px"
 msgstr "30x30px"
 
-#: includes/admin/option_tabs/avia_footer.php:125
+#: includes/admin/option_tabs/avia_footer.php:142
 msgid "4"
 msgstr "4"
 
@@ -625,7 +625,7 @@ msgstr ""
 msgid "4 Milestones"
 msgstr "4 пункта"
 
-#: includes/admin/option_tabs/avia_footer.php:93
+#: includes/admin/option_tabs/avia_footer.php:100
 #, php-format
 msgid "40% of viewport height"
 msgstr ""
@@ -651,7 +651,7 @@ msgstr "40x40px"
 msgid "4:3"
 msgstr "4:3"
 
-#: includes/admin/option_tabs/avia_footer.php:126
+#: includes/admin/option_tabs/avia_footer.php:143
 msgid "5"
 msgstr "5"
 
@@ -673,7 +673,7 @@ msgstr ""
 msgid "5 Milestones"
 msgstr "5 пунктов"
 
-#: includes/admin/option_tabs/avia_footer.php:94
+#: includes/admin/option_tabs/avia_footer.php:101
 #, php-format
 msgid "50% of viewport height"
 msgstr ""
@@ -701,7 +701,7 @@ msgstr "50x50px"
 msgid "6 Columns"
 msgstr "6 колонок"
 
-#: includes/admin/option_tabs/avia_footer.php:95
+#: includes/admin/option_tabs/avia_footer.php:102
 #, php-format
 msgid "60% of viewport height"
 msgstr ""
@@ -718,9 +718,9 @@ msgstr "60x60px"
 msgid "7 Columns"
 msgstr "7 колонок"
 
-#: includes/admin/option_tabs/avia_footer.php:96
+#: includes/admin/option_tabs/avia_footer.php:103
 #, php-format
-msgid "70% of viewport height (default)"
+msgid "70% of viewport height"
 msgstr ""
 
 #: includes/admin/register-backend-advanced-styles.php:14
@@ -735,9 +735,9 @@ msgstr "70x70px"
 msgid "8 Columns"
 msgstr "8 колонок"
 
-#: includes/admin/option_tabs/avia_footer.php:97
+#: includes/admin/option_tabs/avia_footer.php:104
 #, php-format
-msgid "80% of viewport height"
+msgid "80% of viewport height (default)"
 msgstr ""
 
 #: includes/admin/register-backend-advanced-styles.php:15
@@ -748,7 +748,7 @@ msgstr ""
 msgid "80px * 80px"
 msgstr "80x80px"
 
-#: includes/admin/option_tabs/avia_footer.php:98
+#: includes/admin/option_tabs/avia_footer.php:105
 #, php-format
 msgid "90% of viewport height"
 msgstr ""
@@ -1011,7 +1011,7 @@ msgstr ""
 msgid "Accept use of cookies"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:58
+#: includes/admin/option_tabs/avia_avia.php:62
 msgid "Accepted formats: .ico, .png, .gif"
 msgstr "Допустимые форматы: .ico, .png, .gif"
 
@@ -1054,7 +1054,7 @@ msgstr "Активировать анимацию при загрузке стр
 msgid "Activate bundled plugin"
 msgstr "Активировать связанный плагин"
 
-#: functions-enfold.php:2351
+#: functions-enfold.php:2354
 msgid "Activate double opt-in?"
 msgstr "Активировать подтверждение электронного адреса?"
 
@@ -1148,7 +1148,7 @@ msgid ""
 "settings."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_footer.php:133
+#: includes/admin/option_tabs/avia_footer.php:150
 msgid "Add a custom copyright text at the bottom of your site. eg:"
 msgstr "Информация об авторских правах, например:"
 
@@ -1624,6 +1624,15 @@ msgstr "По ширине блока"
 msgid "Admin notice for:"
 msgstr "Примечание администратора для:"
 
+#: includes/admin/option_tabs/avia_avia.php:50
+msgid ""
+"Administrators may upload svg files to media library. We also support a "
+"paths to local filesystem or urls that are not in the media library (not "
+"recommended for security reasons, must start with http:// or https://). If "
+"we cannot read the content of this url on pageload we render the url in an "
+"img tag as fallback."
+msgstr ""
+
 #: includes/admin/option_tabs/avia_element_templates.php:57
 msgid "Admins only"
 msgstr ""
@@ -1669,7 +1678,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:151
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:554
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:108
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:487
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:486
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:111
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:235
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:151
@@ -1727,7 +1736,7 @@ msgid "Advanced Layout Builder"
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2905
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2381
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2401
 msgid "Advanced Layout Editor"
 msgstr "Расширенный Редактор Макета"
 
@@ -1884,8 +1893,8 @@ msgstr "Выравнивает меню по левому краю, по пра�
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1198
 #: config-templatebuilder/avia-shortcodes/search/search.php:266
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:265
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1152
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1190
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1160
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1198
 msgid "All"
 msgstr "Все"
 
@@ -1932,7 +1941,7 @@ msgstr ""
 msgid "All users"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:285
+#: includes/admin/option_tabs/avia_avia.php:289
 msgid "Allow block editor for all possible post types (= default)..."
 msgstr ""
 
@@ -2395,28 +2404,28 @@ msgstr "Цвет воды"
 msgid "Archive"
 msgstr "Архив"
 
-#: framework/php/function-set-avia-frontend.php:1571
+#: framework/php/function-set-avia-frontend.php:1608
 msgid "Archive for category:"
 msgstr "Архив Категории:"
 
-#: framework/php/function-set-avia-frontend.php:1575
+#: framework/php/function-set-avia-frontend.php:1612
 msgid "Archive for date:"
 msgstr "Архив Даты:"
 
-#: framework/php/function-set-avia-frontend.php:1579
+#: framework/php/function-set-avia-frontend.php:1616
 msgid "Archive for month:"
 msgstr "Архив Месяца:"
 
-#: framework/php/function-set-avia-frontend.php:1583
+#: framework/php/function-set-avia-frontend.php:1620
 msgid "Archive for year:"
 msgstr "Архив Года:"
 
-#: framework/php/function-set-avia-frontend.php:1631
+#: framework/php/function-set-avia-frontend.php:1668
 msgid "Archive for:"
 msgstr "Архив для:"
 
 #. Name of the template
-#: framework/php/function-set-avia-frontend.php:1635
+#: framework/php/function-set-avia-frontend.php:1672
 msgid "Archives"
 msgstr "Архивы"
 
@@ -2596,7 +2605,7 @@ msgstr "Аудио Плеер"
 msgid "Author"
 msgstr "Автор"
 
-#: framework/php/function-set-avia-frontend.php:1615
+#: framework/php/function-set-avia-frontend.php:1652
 msgid "Author Archive"
 msgstr "Архив Автора"
 
@@ -2646,7 +2655,7 @@ msgstr ""
 msgid "Auto Repair"
 msgstr "Авто исправление"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2660
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2680
 msgid ""
 "Auto Repair Function enabled - Repairs errors in shortcode structure during "
 "update"
@@ -2691,7 +2700,7 @@ msgid "Autorotation"
 msgstr "Автопрокрутка"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:313
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:415
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:414
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:392
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:298
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:307
@@ -3400,7 +3409,7 @@ msgstr "В рамке, с тенью"
 msgid "Box Size"
 msgstr "Размер окошка"
 
-#: functions-enfold.php:2332
+#: functions-enfold.php:2335
 msgid "Boxed"
 msgstr "В рамке"
 
@@ -3777,18 +3786,18 @@ msgid ""
 "using &quot;Edit Custom Elements&quot; button"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2565
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2582
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2585
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2602
 msgid "By name (ascending)"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2566
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2585
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2586
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2605
 msgid "By name (descending)"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2567
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2588
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2587
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2608
 msgid "By usage"
 msgstr ""
 
@@ -4031,8 +4040,8 @@ msgstr "Изменить"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:335
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:336
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:539
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:540
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:541
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:486
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:487
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:649
@@ -4281,7 +4290,7 @@ msgstr "Проверить ключ"
 msgid "Check API key here"
 msgstr "Проверьте ключ API здесь"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2659
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2679
 msgid "Check enabled on update - checks the structure only"
 msgstr "При обновлении включена проверка — проверять только структуру"
 
@@ -4301,7 +4310,7 @@ msgstr ""
 msgid "Check if the content slider should rotate by default"
 msgstr "Прокручивать слайды автоматически?"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:416
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:415
 msgid "Check if the logo slider should rotate by default"
 msgstr "Галочка, если слайдер логотипов должен вращаться по умолчанию"
 
@@ -4691,7 +4700,7 @@ msgstr "Позволить пользователю выбрать просмо�
 msgid "Check to display the controls at the right side of the map"
 msgstr "Галочка, чтобы показывать кнопки управления справа на карте"
 
-#: includes/admin/option_tabs/avia_footer.php:144
+#: includes/admin/option_tabs/avia_footer.php:161
 msgid "Check to display the social icons defined in"
 msgstr "Отображать ссылки на"
 
@@ -4703,7 +4712,7 @@ msgstr ""
 "Галочка, чтобы показывать подсказку по умолчанию. Если неактивно, "
 "пользователь должен кликнуть на маркер, чтобы увидеть подсказку"
 
-#: includes/admin/option_tabs/avia_avia.php:209
+#: includes/admin/option_tabs/avia_avia.php:213
 msgid ""
 "Check to enable maintenance mode and show or redirect all page requests to a "
 "maintenance page of your choice. This page will not be accessable and will "
@@ -4718,7 +4727,7 @@ msgid ""
 "will be prompted again when opening a new browser window or new a tab."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:132
+#: includes/admin/option_tabs/avia_avia.php:136
 msgid ""
 "Check to enable the default lightbox that opens once you click a link to an "
 "image. Uncheck only if you want to use your own modal window plugin"
@@ -4845,7 +4854,7 @@ msgstr "Выберите изображение для превью/заглуш
 msgid "Choose a styling variaton"
 msgstr "Выберите внешний вид"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:535
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:534
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:481
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:644
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:529
@@ -4988,7 +4997,7 @@ msgstr ""
 msgid "Choose if you want to display the alternate menu on mobile devices."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:259
+#: includes/admin/option_tabs/avia_avia.php:263
 msgid ""
 "Choose if you want to enable and use the built in classic editor - no plugin "
 "is needed."
@@ -5072,7 +5081,6 @@ msgstr "Задайте размер для большого превью"
 msgid "Choose image size for the small preview thumbnails"
 msgstr "Задайте размер для маленькоого превью"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:280
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:232
 msgid "Choose image size for your slideshow."
 msgstr "Выбрать размер изображений слайдшоу."
@@ -5180,6 +5188,13 @@ msgstr ""
 "Выберите стандартный макет страниц здесь. При желании, вы сможете изменить "
 "эту настройку при редактировании каждой отдельной страницы"
 
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:280
+msgid ""
+"Choose the image size. When using svg images you must select an image size. "
+"If &quot;No scaling&quot; is used we make a fallback to WP default &quot;"
+"Medium&quot;."
+msgstr ""
+
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:281
 msgid "Choose the initial map view after loading the map"
 msgstr "Выберите тип карты по умолчанию при загрузке карты"
@@ -5247,7 +5262,7 @@ msgstr "Выберите оформление Панели состояния з
 msgid "Choose the transition for your content slider."
 msgstr "Выберите переходы между слайдами."
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:402
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:401
 msgid "Choose the transition for your logo slider."
 msgstr "Выберите переходы для вашего слайдера логотипов."
 
@@ -5899,7 +5914,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:107
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:512
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:70
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:471
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:470
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:68
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:201
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:474
@@ -6176,9 +6191,9 @@ msgstr "Копировать и добавить последнюю запись
 msgid "Copy to a new draft"
 msgstr ""
 
-#: footer.php:180 functions-enfold.php:2481
-#: includes/admin/option_tabs/avia_footer.php:132
-#: includes/admin/option_tabs/avia_footer.php:133
+#: footer.php:180 functions-enfold.php:2484
+#: includes/admin/option_tabs/avia_footer.php:149
+#: includes/admin/option_tabs/avia_footer.php:150
 msgid "Copyright"
 msgstr "Копирайт"
 
@@ -6761,7 +6776,7 @@ msgstr ""
 msgid "Custom Elements:"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:161
+#: includes/admin/option_tabs/avia_avia.php:165
 msgid "Custom Error 404 Page"
 msgstr "Собственную страница 404"
 
@@ -6859,7 +6874,7 @@ msgstr "Собственная ссылка"
 msgid "Custom link destination"
 msgstr "Открытие ссылки"
 
-#: includes/admin/option_tabs/avia_avia.php:101
+#: includes/admin/option_tabs/avia_avia.php:105
 msgid "Custom Logo for preloader"
 msgstr "Картинка для загрузчика"
 
@@ -7049,7 +7064,7 @@ msgstr "Деактивировать разметку schema.org"
 msgid "Decrease Column Size"
 msgstr "Уменьшить размер колонки"
 
-#: functions-enfold.php:2331 config-woocommerce/admin-options.php:293
+#: functions-enfold.php:2334 config-woocommerce/admin-options.php:293
 #: config-woocommerce/config.php:1512
 #: includes/admin/register-backend-advanced-styles.php:5
 #: includes/admin/register-backend-advanced-styles.php:19
@@ -7118,8 +7133,8 @@ msgstr "Уменьшить размер колонки"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2081
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2134
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2307
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2564
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2579
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2584
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2599
 #: framework/php/font-management/class-avia-type-fonts.php:922
 #: includes/admin/option_tabs/avia_menu.php:281
 #: includes/admin/option_tabs/avia_shop.php:53
@@ -7177,7 +7192,7 @@ msgstr ""
 msgid "Default display (at the bottom of the elements image)"
 msgstr "Стандартное отображение (под изображением элементов)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2382
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2402
 msgid "Default Editor"
 msgstr "Стандартный редактор"
 
@@ -7205,7 +7220,7 @@ msgstr ""
 msgid "Default inline style"
 msgstr "Встроенная иконка"
 
-#: functions-enfold.php:2577 functions-enfold.php:2587
+#: functions-enfold.php:2580 functions-enfold.php:2590
 #: config-templatebuilder/avia-template-builder/config/meta.php:252
 #: config-templatebuilder/avia-template-builder/config/meta.php:284
 #: config-templatebuilder/avia-template-builder/config/meta.php:349
@@ -7734,11 +7749,11 @@ msgstr "Отключить автовоспроизведение"
 msgid "Disable badge"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:286
+#: includes/admin/option_tabs/avia_avia.php:290
 msgid "Disable block editor for all listed post types..."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:278
+#: includes/admin/option_tabs/avia_avia.php:282
 msgid "Disable Block Editor For Selected Post Types:"
 msgstr ""
 
@@ -7824,13 +7839,13 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:326
 #: config-templatebuilder/avia-template-builder/config/meta.php:194
-#: includes/admin/option_tabs/avia_avia.php:215
+#: includes/admin/option_tabs/avia_avia.php:219
 #: includes/admin/option_tabs/avia_element_templates.php:55
 #: includes/admin/option_tabs/avia_ext_leaflet_maps.php:41
 msgid "Disabled"
 msgstr "Отключено"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2658
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2678
 msgid "Disabled - No checks are done on update"
 msgstr "Отключено — во время обновления не сделано проверок"
 
@@ -7907,7 +7922,7 @@ msgstr "Показать карту Google с одним или более пу�
 msgid "Display a Grid of Product Entries"
 msgstr "Показывать сетку из Товаров"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:550
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:549
 msgid "Display a image caption on hover"
 msgstr "Отображать подпись картинки при наведении"
 
@@ -8049,11 +8064,11 @@ msgstr ""
 msgid "Display blog posts"
 msgstr "Показывать записи блога"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:310
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:309
 msgid "Display border"
 msgstr "Показать рамку"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:303
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:302
 msgid "Display Border around images?"
 msgstr "Показывать границы вокруг изображения?"
 
@@ -8247,13 +8262,13 @@ msgstr "Только хлебные крошки"
 msgid "Display only on active slides"
 msgstr "Показывать только на активных слайдах"
 
-#: functions-enfold.php:2589
+#: functions-enfold.php:2592
 #: config-templatebuilder/avia-template-builder/config/meta.php:286
 #: includes/admin/option_tabs/avia_footer.php:26
 msgid "Display only the footer widgets (no socket)"
 msgstr "Только нижние виджеты"
 
-#: functions-enfold.php:2590
+#: functions-enfold.php:2593
 #: config-templatebuilder/avia-template-builder/config/meta.php:287
 #: includes/admin/option_tabs/avia_footer.php:27
 msgid "Display only the socket (no footer widgets)"
@@ -8300,7 +8315,7 @@ msgstr "Показывать результаты поиска в собстве
 msgid "Display search results on the same page (AJAX)"
 msgstr "Показывать результаты поиска на той же странице (AJAX)"
 
-#: includes/admin/option_tabs/avia_avia.php:169
+#: includes/admin/option_tabs/avia_avia.php:173
 msgid "Display selected page without redirect"
 msgstr ""
 
@@ -8404,11 +8419,11 @@ msgstr "Показывать первый элемент над всеми"
 msgid "Display the first entry beside the others"
 msgstr "Показывать первый элемент под всеми"
 
-#: functions-enfold.php:2575
+#: functions-enfold.php:2578
 msgid "Display the footer page?"
 msgstr "Показывать страницу в футере?"
 
-#: functions-enfold.php:2588
+#: functions-enfold.php:2591
 #: config-templatebuilder/avia-template-builder/config/meta.php:285
 #: includes/admin/option_tabs/avia_footer.php:25
 msgid "Display the footer widgets & socket"
@@ -8418,7 +8433,7 @@ msgstr "Нижние виджеты и авторские права"
 msgid "Display the footer widgets or page?"
 msgstr "Показывать виджеты футера или страницу?"
 
-#: functions-enfold.php:2585
+#: functions-enfold.php:2588
 msgid "Display the footer widgets?"
 msgstr "Показывать виджеты в футере?"
 
@@ -8645,7 +8660,7 @@ msgstr "Не дублировать элемент"
 msgid "Do not display arrows"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:311
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:310
 msgid "Do not display border"
 msgstr ""
 
@@ -8680,7 +8695,7 @@ msgstr ""
 msgid "Do not show at all"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:298
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:297
 msgid ""
 "Do not stretch image. If more space is available image will be centered."
 msgstr ""
@@ -8762,7 +8777,7 @@ msgstr "Отображать названия слайдов над изобра
 msgid "Do you want to display a heading above the slides?"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:304
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:303
 msgid "Do you want to display a light border around the images?"
 msgstr "Вы хотите показать тонкую рамку вокруг изображений?"
 
@@ -8786,7 +8801,7 @@ msgid ""
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:213
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:345
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:344
 msgid "Do you want to display slider control buttons?"
 msgstr "Отображать кнопки управления слайдами?"
 
@@ -8814,7 +8829,7 @@ msgstr ""
 msgid "Do you want to use a custom or predefined minimum height?"
 msgstr "Вы хотите установить собственную высоту или использовать стандартную?"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:332
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:331
 msgid "Do you want to use a grid or a slider to display the logos?"
 msgstr "Вы хотите использовать сетку или слайдер для отображения логотипов?"
 
@@ -8830,13 +8845,13 @@ msgstr "Не показывать капчу"
 msgid "Don't display Sidebar navigation"
 msgstr "Не показывать постраничную навигацию в сайдбаре"
 
-#: functions-enfold.php:2591
+#: functions-enfold.php:2594
 #: config-templatebuilder/avia-template-builder/config/meta.php:288
 #: includes/admin/option_tabs/avia_footer.php:28
 msgid "Don't display the socket & footer widgets"
 msgstr "Спрятать футер сайта"
 
-#: functions-enfold.php:2580
+#: functions-enfold.php:2583
 msgid "Don't display the socket & page"
 msgstr "Не показывать ни страницу, ни копирайт"
 
@@ -9283,7 +9298,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:331
 #: config-templatebuilder/avia-shortcodes/image/image.php:189
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:687
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:536
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:535
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:482
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:645
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:530
@@ -9421,7 +9436,7 @@ msgstr ""
 msgid "Element Opacity"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1017
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1037
 msgid "Element Preview"
 msgstr "Предпросмотр элемента"
 
@@ -9547,11 +9562,11 @@ msgstr ""
 msgid "Enabled"
 msgstr "Включено"
 
-#: includes/admin/option_tabs/avia_avia.php:217
+#: includes/admin/option_tabs/avia_avia.php:221
 msgid "Enabled - Redirect to selected page"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:216
+#: includes/admin/option_tabs/avia_avia.php:220
 msgid "Enabled - Use selected page content without redirect"
 msgstr ""
 
@@ -9705,7 +9720,7 @@ msgstr "Введите заголовок, который будет отобр�
 msgid "Enter a label text for the button"
 msgstr "Введите текст метки для кнопки"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:579
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:578
 msgid "Enter a link title"
 msgstr "Введите заголовок ссылки"
 
@@ -10438,11 +10453,11 @@ msgstr "Очень большая"
 msgid "F"
 msgstr "F"
 
-#: framework/php/function-set-avia-frontend.php:1575
+#: framework/php/function-set-avia-frontend.php:1612
 msgid "F jS, Y"
 msgstr "F jS, Y"
 
-#: framework/php/function-set-avia-frontend.php:1579
+#: framework/php/function-set-avia-frontend.php:1616
 msgid "F, Y"
 msgstr "F, Y"
 
@@ -10459,7 +10474,7 @@ msgid "Facebook Profile Link"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:306
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:410
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:409
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:292
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:449
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:311
@@ -10520,15 +10535,15 @@ msgstr "быстрые"
 msgid "fat"
 msgstr "широкий"
 
-#: includes/admin/option_tabs/avia_avia.php:63
+#: includes/admin/option_tabs/avia_avia.php:67
 msgid "Favicon"
 msgstr "Значок сайта"
 
-#: includes/admin/option_tabs/avia_avia.php:59
+#: includes/admin/option_tabs/avia_avia.php:63
 msgid "favicon"
 msgstr "значок сайта"
 
-#: functions-enfold.php:1922
+#: functions-enfold.php:1925
 msgid "Featured Image"
 msgstr ""
 
@@ -10576,6 +10591,13 @@ msgstr ""
 #: includes/admin/option_tabs/avia_performance.php:38
 msgid "File Compression"
 msgstr "Сжатие файлов"
+
+#: includes/admin/option_tabs/avia_avia.php:51
+msgid ""
+"File content is parsed and added inline starting with the first svg tag. "
+"preserveAspectRatio is set for this to be responsive according to logo "
+"location. Nesting of svg is allowed."
+msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:369
 msgid "File did not contain any templates. No templates were added."
@@ -10944,7 +10966,7 @@ msgstr "Шрифт: "
 msgid "Fonts"
 msgstr "Шрифты"
 
-#: functions-enfold.php:2577 functions-enfold.php:2587
+#: functions-enfold.php:2580 functions-enfold.php:2590
 #: includes/admin/register-admin-options.php:108
 #: config-templatebuilder/avia-template-builder/config/meta.php:284
 #: config-templatebuilder/avia-template-builder/config/meta.php:290
@@ -10958,7 +10980,7 @@ msgstr "Футер"
 msgid "Footer Behavior (currently in beta)"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_footer.php:115
+#: includes/admin/option_tabs/avia_footer.php:132
 msgid "Footer Columns"
 msgstr "Колонки футера"
 
@@ -11004,7 +11026,7 @@ msgid ""
 "remove a cookie so we might not be able to remove all cookies."
 msgstr ""
 
-#: framework/php/function-set-avia-frontend.php:1620
+#: framework/php/function-set-avia-frontend.php:1657
 msgid "for:"
 msgstr "для:"
 
@@ -11479,7 +11501,7 @@ msgstr ""
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:335
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:424
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:339
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:338
 msgid "Grid"
 msgstr "Сетка"
 
@@ -11655,7 +11677,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:177
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:432
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:210
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:392
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:391
 msgid "Heading"
 msgstr "Заголовок"
 
@@ -12259,7 +12281,7 @@ msgstr "Скрыть при наведении"
 msgid "Hide on screens smaller than 767px"
 msgstr ""
 
-#: functions-enfold.php:1930
+#: functions-enfold.php:1933
 msgid "Hide on single entry"
 msgstr ""
 
@@ -12498,7 +12520,7 @@ msgstr "Сколько колонок нужно показать?"
 msgid "How many columns do you want to use"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_footer.php:116
+#: includes/admin/option_tabs/avia_footer.php:133
 msgid "How many columns should be displayed in your footer"
 msgstr "Сколько колонок показывать в футере?"
 
@@ -12993,7 +13015,7 @@ msgid ""
 "page, can see it for developping purpose."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:177
+#: includes/admin/option_tabs/avia_avia.php:181
 msgid ""
 "If you are using a caching plugin, make sure to exclude this page from "
 "caching."
@@ -13192,7 +13214,7 @@ msgstr "Слайдер из изображений"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:214
 #: config-templatebuilder/avia-shortcodes/image/image.php:309
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:549
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:548
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:695
 msgid "Image Caption"
 msgstr "Подпись изображения"
@@ -13272,7 +13294,7 @@ msgstr "Размер превьюшки"
 msgid "Image size"
 msgstr "Размер изображения"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:290
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:289
 msgid "Image size behaviour"
 msgstr "Использовать как значок сайта"
 
@@ -13282,7 +13304,7 @@ msgstr "Использовать как значок сайта"
 msgid "Image Slide"
 msgstr "Слайд изображения"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:297
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:296
 msgid "Image stretches to fill the available space"
 msgstr "Изображение растягивается на все доступное пространтсво."
 
@@ -13321,7 +13343,7 @@ msgstr "Нажмите для изменения точек"
 msgid "image with no title"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:321
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:320
 msgid "Images"
 msgstr ""
 
@@ -13336,7 +13358,7 @@ msgid "Images keeping original aspect ratio"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:327
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:430
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:429
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:331
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:507
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:350
@@ -13617,7 +13639,7 @@ msgstr ""
 "Менять настройки видимости возможно только для колонок на всю ширину (что "
 "значит, только на мобильных устройствах), чтобы не повредить верстку макета"
 
-#: includes/admin/option_tabs/avia_footer.php:148
+#: includes/admin/option_tabs/avia_footer.php:165
 msgid "in your socket"
 msgstr "в блоке с авторскими правами"
 
@@ -13685,7 +13707,7 @@ msgstr "Содержимое облачка:"
 msgid "Info displayed above the fake user profiles"
 msgstr "Информация, которая отображается над фейковыми профайлами"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2597
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2617
 msgid "Information"
 msgstr "Информация"
 
@@ -13825,7 +13847,7 @@ msgstr "Вставить узор"
 msgid "Insert Settings File"
 msgstr "Вставить конфигурационный файл"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1684
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1704
 msgid "Insert Theme Shortcode"
 msgstr "Вставить шорткод темы"
 
@@ -14006,7 +14028,7 @@ msgstr ""
 msgid "It seems that your Google API key is not configured correctly"
 msgstr "Похоже, ключ Google API нерабочий"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1016
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1036
 msgid ""
 "It seems you are currently adding some HTML markup or other special "
 "characters. Once all HTML tags are closed the preview will be available "
@@ -14546,7 +14568,7 @@ msgstr "Текст описания изображения лайтбокса"
 msgid "Lightbox linking active"
 msgstr "Ссылка на лайтбокс активна"
 
-#: includes/admin/option_tabs/avia_avia.php:131
+#: includes/admin/option_tabs/avia_avia.php:135
 msgid "Lightbox Modal Window"
 msgstr "Модальные окна"
 
@@ -14562,7 +14584,7 @@ msgstr ""
 msgid "Likes & Comments"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1675
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1695
 msgid "Line Break"
 msgstr ""
 
@@ -14630,7 +14652,7 @@ msgstr "Настройки ссылки"
 msgid "Link text"
 msgstr "Текст ссылки"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:578
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:577
 msgid "Link Title"
 msgstr "Заголовок ссылки"
 
@@ -14850,7 +14872,7 @@ msgid "Log Out"
 msgstr "Выйти из системы"
 
 #: framework/php/class-framework-widgets.php:510
-#: includes/admin/option_tabs/avia_avia.php:51
+#: includes/admin/option_tabs/avia_avia.php:55
 msgid "Logo"
 msgstr "Логотип"
 
@@ -14878,10 +14900,6 @@ msgstr ""
 msgid "Logo image"
 msgstr "Изображение логотипа"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:279
-msgid "Logo Image Size"
-msgstr "Размер логотипа"
-
 #: includes/admin/option_tabs/avia_header.php:236
 msgid "Logo left, Menu below"
 msgstr "Лого слева, меню снизу"
@@ -14898,7 +14916,7 @@ msgstr "Лого справа, меню снизу"
 msgid "Logo right, Menu Left"
 msgstr "Лого справа, меню слева"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:331
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:330
 msgid "Logo Slider or Logo Grid Layout"
 msgstr "Слайдер логотипов или Сетка логотипов"
 
@@ -14967,7 +14985,7 @@ msgstr ""
 msgid "Mailchimp API key not valid"
 msgstr ""
 
-#: functions-enfold.php:2305
+#: functions-enfold.php:2308
 msgid "Mailchimp list to subscribe to"
 msgstr "Список Mailchimp для подписки"
 
@@ -15015,7 +15033,7 @@ msgstr "Ссылки выпадающего меню"
 msgid "Main Shop Page Banner"
 msgstr "Баннер на главной странице магазина"
 
-#: includes/admin/option_tabs/avia_avia.php:208
+#: includes/admin/option_tabs/avia_avia.php:212
 msgid "Maintenance Mode"
 msgstr "Режим обслуживания"
 
@@ -15217,7 +15235,7 @@ msgstr "Медиа"
 msgid "Media Icon/Album Cover"
 msgstr "Иконка/Обложка альбома"
 
-#: includes/admin/option_tabs/avia_footer.php:82
+#: includes/admin/option_tabs/avia_footer.php:89
 msgid "Media Switch Back"
 msgstr ""
 
@@ -15244,7 +15262,7 @@ msgstr "Положение меню и логотипа"
 msgid "Menu Background"
 msgstr "Фон меню"
 
-#: includes/admin/option_tabs/avia_header.php:504
+#: includes/admin/option_tabs/avia_header.php:508
 msgid ""
 "Menu color for transparent header (Leave empty to use the default color)"
 msgstr ""
@@ -15353,7 +15371,7 @@ msgstr "Сообщение под формами Конструктора"
 msgid "Message Colors"
 msgstr "Цвет сообщения"
 
-#: functions-enfold.php:2375
+#: functions-enfold.php:2378
 msgid "Message if user subscribes successfully"
 msgstr "Сообщение в случае успешной подписки"
 
@@ -15816,7 +15834,7 @@ msgstr ""
 msgid "Newest to Oldest"
 msgstr ""
 
-#: functions-enfold.php:2270 includes/admin/register-admin-options.php:172
+#: functions-enfold.php:2273 includes/admin/register-admin-options.php:172
 msgid "Newsletter"
 msgstr "Рассылка новостей"
 
@@ -15837,7 +15855,7 @@ msgstr "Следующий"
 msgid "Next update: %s"
 msgstr "Следующее обновление: %s"
 
-#: functions-enfold.php:2357
+#: functions-enfold.php:2360
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:377
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:393
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:450
@@ -15873,7 +15891,7 @@ msgstr "Следующее обновление: %s"
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:343
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:382
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:423
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:424
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:423
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:286
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:400
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:306
@@ -15966,7 +15984,7 @@ msgstr ""
 msgid "No content"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:168
+#: includes/admin/option_tabs/avia_avia.php:172
 msgid "No custom 404 page selected"
 msgstr ""
 
@@ -16265,7 +16283,7 @@ msgid "No, display no banner"
 msgstr "Нет, не показывать баннер"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:221
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:354
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:353
 msgid "No, do not display any control buttons"
 msgstr "Не показывать кнопки управления"
 
@@ -16629,10 +16647,10 @@ msgid ""
 msgstr ""
 
 #: includes/admin/option_tabs/avia_footer.php:62
-msgid "Only supported for streched layout."
+msgid "Only supported for stretched layout."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:279
+#: includes/admin/option_tabs/avia_avia.php:283
 msgid ""
 "Only the classic WP editor will be used for the selected post types. The "
 "links to WP block editor (Gutenberg) will not be available. You can change "
@@ -17039,11 +17057,11 @@ msgid "Padding: top/bottom"
 msgstr ""
 
 #: includes/helper-conditional-megamenu.php:66
-#: framework/php/function-set-avia-frontend.php:1641
+#: framework/php/function-set-avia-frontend.php:1678
 msgid "Page"
 msgstr "Страница"
 
-#: framework/php/function-set-avia-frontend.php:1326
+#: framework/php/function-set-avia-frontend.php:1363
 #, php-format
 msgid "Page %d of %d"
 msgstr "Страница %d из %d"
@@ -17069,7 +17087,7 @@ msgstr "Макет страницы"
 msgid "Page Order"
 msgstr "Порядок страниц"
 
-#: includes/admin/option_tabs/avia_avia.php:82
+#: includes/admin/option_tabs/avia_avia.php:86
 msgid "Page Preloading"
 msgstr "Загрузчик страниц"
 
@@ -17081,7 +17099,7 @@ msgstr "Постраничная навигация в сайдбаре"
 msgid "Page Split"
 msgstr "Разделение страниц"
 
-#: includes/admin/option_tabs/avia_avia.php:91
+#: includes/admin/option_tabs/avia_avia.php:95
 msgid "Page Transitions"
 msgstr "Плавные переходы"
 
@@ -17129,11 +17147,15 @@ msgstr "Parallax"
 msgid "Partner/Logo Element"
 msgstr "Элемент логотипов/партнеров"
 
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:279
+msgid "Partner/Logo Image Size"
+msgstr ""
+
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:35
 msgid "Partner/Logo Item"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:569
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:568
 msgid "Partner/Logo Link?"
 msgstr "Ссылка партнеров/логотипа?"
 
@@ -17207,7 +17229,7 @@ msgstr "Производительность"
 msgid "Performance Settings"
 msgstr "Настройки Производительности"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1669
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1689
 msgid "Permanent Line Break"
 msgstr ""
 
@@ -17390,7 +17412,7 @@ msgid ""
 "landscape&quot; width settings. Each item will have the same width"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:224
+#: includes/admin/option_tabs/avia_avia.php:228
 msgid ""
 "Please note that logged in Administrators, Editors and Authors will still be "
 "able to access the site"
@@ -17958,7 +17980,7 @@ msgstr "Произвольно"
 #: includes/loop-index.php:126 includes/loop-index.php:127
 #: includes/loop-index.php:454 includes/loop-index.php:468
 #: includes/loop-page.php:34 includes/loop-portfolio-single.php:37
-#: framework/php/function-set-avia-frontend.php:1660
+#: framework/php/function-set-avia-frontend.php:1697
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:711
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:947
 msgid "Read more"
@@ -18062,7 +18084,7 @@ msgstr "Перенаправление"
 msgid "Redirect the user to another page"
 msgstr "Перенаправить пользователя на другую страницу"
 
-#: includes/admin/option_tabs/avia_avia.php:170
+#: includes/admin/option_tabs/avia_avia.php:174
 msgid "Redirect to selected page"
 msgstr ""
 
@@ -18487,6 +18509,13 @@ msgstr "Распродажа!"
 msgid "Same height for all tabs"
 msgstr "Одинаковая высота для всех вкладок"
 
+#: includes/admin/option_tabs/avia_header.php:494
+msgid ""
+"Same rules as described at &quot;Theme Options -&gt; Logo&quot;. If you want "
+"to mix svg and other image formats for the logos you might need to add "
+"custom css."
+msgstr ""
+
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:287
 msgid "Satellite"
 msgstr "Спутник"
@@ -18536,7 +18565,7 @@ msgid "Scale to fit (scales image so the whole image is always visible)"
 msgstr ""
 "Увеличить (увеличивает изображение так, что оно остаётся полностью видимым)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1017
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1037
 msgid "Scaled to:"
 msgstr ""
 
@@ -18613,7 +18642,7 @@ msgstr "Иконка поиска"
 msgid "Search Portfolio Entries"
 msgstr "Поиск записей в портфолио"
 
-#: framework/php/function-set-avia-frontend.php:1596
+#: framework/php/function-set-avia-frontend.php:1633
 msgid "search result for:"
 msgstr "Результат поиска для:"
 
@@ -18648,11 +18677,11 @@ msgid "Search Results for address:"
 msgstr ""
 
 #: config-woocommerce/config-356.php:613 config-woocommerce/config.php:766
-#: framework/php/function-set-avia-frontend.php:1603
+#: framework/php/function-set-avia-frontend.php:1640
 msgid "Search results for:"
 msgstr "Результат поиска для:"
 
-#: framework/php/function-set-avia-frontend.php:1592
+#: framework/php/function-set-avia-frontend.php:1629
 msgid "search results for:"
 msgstr "Результаты поиска для:"
 
@@ -19235,7 +19264,7 @@ msgstr ""
 msgid "Select a number between 0 and 100"
 msgstr "Задайте число между 0 и 100"
 
-#: includes/helper-main-menu.php:179 includes/helper-main-menu.php:255
+#: includes/helper-main-menu.php:188 includes/helper-main-menu.php:264
 msgid "Select a page"
 msgstr "Выберите страницу"
 
@@ -19591,7 +19620,7 @@ msgid ""
 "modal popup to edit an element."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:162
+#: includes/admin/option_tabs/avia_avia.php:166
 msgid ""
 "Select if you want to use any of your pages as your custom Error 404 Page. "
 "This page will be excluded from page lists and search results. You must "
@@ -20054,15 +20083,15 @@ msgid ""
 "available."
 msgstr ""
 
-#: functions-enfold.php:1916
+#: functions-enfold.php:1919
 msgid "Select to display featured image for a single entry."
 msgstr ""
 
-#: functions-enfold.php:1913
+#: functions-enfold.php:1916
 msgid "Select to display featured image for a single portfolio entry."
 msgstr ""
 
-#: functions-enfold.php:1910
+#: functions-enfold.php:1913
 msgid "Select to display featured image for a single post entry."
 msgstr ""
 
@@ -20134,7 +20163,7 @@ msgstr ""
 msgid "Select to size of the header."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_footer.php:83
+#: includes/admin/option_tabs/avia_footer.php:90
 msgid ""
 "Select to switch back to scroll footer content with page when footer height "
 "exceeds selected limit."
@@ -20304,15 +20333,15 @@ msgid ""
 "(except the disabled cookie)."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:176
+#: includes/admin/option_tabs/avia_avia.php:180
 msgid "Select Your Custom Error 404 Page"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:258
+#: includes/admin/option_tabs/avia_avia.php:262
 msgid "Select Your Editor"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:223
+#: includes/admin/option_tabs/avia_avia.php:227
 msgid "Select Your Maintenance Mode Page"
 msgstr ""
 
@@ -20496,7 +20525,7 @@ msgstr "Настроить вручную"
 msgid "Set opacity for color Overlay"
 msgstr "Установить прозрачность для баннера"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1017
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1037
 msgid "Set preview background:"
 msgstr "Установить фон предпросмотра:"
 
@@ -20957,7 +20986,7 @@ msgstr "Показать всю запись или только отрывок?
 msgid "Should the icons appear in an animated way?"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:291
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:290
 msgid "Should the image stretch to fill the available space?"
 msgstr "Установка размера превьюшки"
 
@@ -20988,7 +21017,7 @@ msgstr "Показать список ближайших событий"
 msgid "Show a message string on contact form page instead"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:83
+#: includes/admin/option_tabs/avia_avia.php:87
 msgid "Show a preloader when opening a page on your site."
 msgstr "Показывать анимацию загрузки при открытии сайта"
 
@@ -21130,11 +21159,11 @@ msgstr ""
 msgid "Show On Mouse Hover - Hide On Click"
 msgstr ""
 
-#: functions-enfold.php:1929
+#: functions-enfold.php:1932
 msgid "Show on single entry"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2664
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2684
 msgid "Show Parser Info"
 msgstr "Показать информацию обработчика"
 
@@ -21312,7 +21341,7 @@ msgstr "Настройки Боковой панели"
 msgid "Sidebar Settings"
 msgstr "Настройки сайдбара"
 
-#: functions-enfold.php:2326
+#: functions-enfold.php:2329
 msgid "Signup Form Styling"
 msgstr "Оформление формы подписки"
 
@@ -21330,6 +21359,11 @@ msgid ""
 "sure to upload an image dimension from which WP can create the necessary "
 "scrset and sizes attributes AND you must select &quot;Full Size&quot; for "
 "image size (unless you add the attachment ID)."
+msgstr ""
+
+#: includes/admin/option_tabs/avia_avia.php:49
+#: includes/admin/option_tabs/avia_header.php:493
+msgid "Since 4.8.6.4 (in beta) - support for svg files"
 msgstr ""
 
 #: includes/helper-privacy.php:2121
@@ -21490,7 +21524,7 @@ msgid "Slanting from right to left"
 msgstr "Справа налево"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:305
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:409
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:408
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:448
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:345
 msgid "Slide"
@@ -21538,13 +21572,13 @@ msgstr "Заголовок слайда"
 msgid "Slide up/down"
 msgstr "Скольжение вверх/вниз"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:338
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:364
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:337
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:363
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:330
 msgid "Slider"
 msgstr "Слайдер"
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:444
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:443
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:420
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:345
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:484
@@ -21554,12 +21588,12 @@ msgid "Slider Animation"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:326
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:429
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:428
 msgid "Slider autorotation duration"
 msgstr "Интервал прокрутки"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:212
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:344
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:343
 msgid "Slider controls"
 msgstr "Кнопки управления"
 
@@ -21713,7 +21747,7 @@ msgstr "Наименьшая единица времени"
 msgid "smart"
 msgstr "умные"
 
-#: includes/admin/option_tabs/avia_avia.php:92
+#: includes/admin/option_tabs/avia_avia.php:96
 msgid ""
 "Smooth page transition when navigating from one page to the next. Please "
 "disable if this causes problems with plugins when navigating ajax or "
@@ -21739,7 +21773,7 @@ msgstr ""
 msgid "Social Icon URL:"
 msgstr "Ссылка на соцсеть:"
 
-#: includes/admin/option_tabs/avia_footer.php:143
+#: includes/admin/option_tabs/avia_footer.php:160
 msgid "Social Icons"
 msgstr "Социальные сети"
 
@@ -21759,7 +21793,7 @@ msgstr ""
 #: includes/admin/register-admin-options.php:140
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:178
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:475
-#: includes/admin/option_tabs/avia_footer.php:146
+#: includes/admin/option_tabs/avia_footer.php:163
 #: includes/admin/option_tabs/avia_header.php:398
 #: includes/admin/option_tabs/avia_layout.php:248
 msgid "Social Profiles"
@@ -21921,19 +21955,19 @@ msgstr ""
 msgid "Sort randomly"
 msgstr "Сортировать произвольно"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2582
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2602
 msgid "Sort shortcode buttons by name ascending"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2585
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2605
 msgid "Sort shortcode buttons by name descending"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2579
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2599
 msgid "Sort shortcode buttons by theme default sorting"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2588
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2608
 msgid "Sort shortcode buttons by usage"
 msgstr ""
 
@@ -21945,7 +21979,7 @@ msgstr "Сортировать?"
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:341
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:322
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:310
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2575
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2595
 msgid "Sorting"
 msgstr "Сортировка"
 
@@ -21998,7 +22032,7 @@ msgstr ""
 "Дополнительно: RSS (добавьте адрес RSS-ленты или оставьте пустым, если "
 "хотите использовать стандартный путь WordPress  к RSS ленте)"
 
-#: includes/admin/option_tabs/avia_avia.php:58
+#: includes/admin/option_tabs/avia_avia.php:62
 msgid "Specify a favicon for your site."
 msgstr "Укажите значок сайта (отображается на вкладке)."
 
@@ -22273,12 +22307,12 @@ msgstr "Тема"
 msgid "Submit"
 msgstr "Отправить"
 
-#: functions-enfold.php:2380
+#: functions-enfold.php:2383
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:237
 msgid "Submit Button Label"
 msgstr "Метка для кнопки подтверждения"
 
-#: functions-enfold.php:2275 framework/php/class-framework-widgets.php:1209
+#: functions-enfold.php:2278 framework/php/class-framework-widgets.php:1209
 #: config-templatebuilder/avia-template-builder/php/class-html-helper.php:2971
 msgid "Subscribe"
 msgstr "Подписаться"
@@ -22457,7 +22491,7 @@ msgstr ""
 msgid "Tag"
 msgstr "Тег"
 
-#: framework/php/function-set-avia-frontend.php:1626
+#: framework/php/function-set-avia-frontend.php:1663
 msgid "Tag Archive for:"
 msgstr "Архив Тега для:"
 
@@ -22695,7 +22729,7 @@ msgstr ""
 "Шорткод текстового блока создан в %d вокруг текстового содержимого, чтобы "
 "позволить его редактирование в дальнейшем: %s"
 
-#: functions-enfold.php:2274
+#: functions-enfold.php:2277
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:399
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:671
 msgid "Thank you for subscribing to our newsletter!"
@@ -23280,7 +23314,7 @@ msgstr ""
 "сверху"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:302
-msgid "These settings are only available for streched layout"
+msgid "These settings are only available for stretched layout"
 msgstr ""
 
 #: includes/admin/register-portfolio.php:195
@@ -23612,7 +23646,7 @@ msgstr ""
 msgid "Timezone"
 msgstr ""
 
-#: functions-enfold.php:2301 framework/php/class-framework-widgets.php:3046
+#: functions-enfold.php:2304 framework/php/class-framework-widgets.php:3046
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:183
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:311
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:170
@@ -23741,7 +23775,7 @@ msgstr ""
 msgid "to RSS Feed"
 msgstr "на RSS-ленту"
 
-#: framework/php/function-set-avia-frontend.php:1607
+#: framework/php/function-set-avia-frontend.php:1644
 msgid "To search the site please enter a valid term"
 msgstr "Для поиска по сайту введите корректный запрос"
 
@@ -23989,7 +24023,7 @@ msgid "Transient to verify form was missing or expired."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:298
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:401
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:400
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:441
 msgid "Transition"
 msgstr "Переход"
@@ -24021,11 +24055,11 @@ msgstr ""
 msgid "Translucent Buttons"
 msgstr "Полупрозрачные кнопки"
 
-#: includes/admin/option_tabs/avia_header.php:494
+#: includes/admin/option_tabs/avia_header.php:498
 msgid "Transparency Logo"
 msgstr "Логотип для режима прозрачности"
 
-#: includes/admin/option_tabs/avia_header.php:503
+#: includes/admin/option_tabs/avia_header.php:507
 msgid "Transparency menu color"
 msgstr "Цвет меню в режиме прозрачности"
 
@@ -24319,7 +24353,7 @@ msgid ""
 "overwritten."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_header.php:495
+#: includes/admin/option_tabs/avia_header.php:491
 msgid ""
 "Upload a logo image, or enter the URL or ID of an image if its already "
 "uploaded. (Leave empty to use the default logo)"
@@ -24349,7 +24383,7 @@ msgstr ""
 "Загрузите конфигурационный файл сюда. Учтите, что это заменит ваши текущие "
 "настройки и вы не сможете их восстановить."
 
-#: includes/admin/option_tabs/avia_avia.php:102
+#: includes/admin/option_tabs/avia_avia.php:106
 msgid "Upload an optional logo image for your preloader page"
 msgstr ""
 "Укажите картинку, которая будет отображаться во время загрузки страницы."
@@ -24446,7 +24480,7 @@ msgstr ""
 msgid "Use as FAQ Page (SEO improvement)"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:265
+#: includes/admin/option_tabs/avia_avia.php:269
 msgid "Use Block Editor"
 msgstr ""
 
@@ -24737,7 +24771,7 @@ msgstr "Использовать изображение как баннер"
 msgid "Use image as custom marker icon"
 msgstr "Использовать изображение как значок маркера"
 
-#: includes/admin/option_tabs/avia_avia.php:67
+#: includes/admin/option_tabs/avia_avia.php:71
 msgid "Use Image as Favicon"
 msgstr "Использовать как значок сайта"
 
@@ -24745,9 +24779,9 @@ msgstr "Использовать как значок сайта"
 msgid "Use image as Google Maps fallback image"
 msgstr "Использовать изображение как альтернативное для Google Карты"
 
-#: includes/admin/option_tabs/avia_avia.php:55
-#: includes/admin/option_tabs/avia_avia.php:106
-#: includes/admin/option_tabs/avia_header.php:498
+#: includes/admin/option_tabs/avia_avia.php:59
+#: includes/admin/option_tabs/avia_avia.php:110
+#: includes/admin/option_tabs/avia_header.php:502
 msgid "Use Image as logo"
 msgstr "Использовать картинку в качестве логотипа"
 
@@ -24783,11 +24817,11 @@ msgstr ""
 msgid "Use portrait mode screen width"
 msgstr ""
 
-#: functions-enfold.php:2579
+#: functions-enfold.php:2582
 msgid "Use selected page to display as footer (no socket)"
 msgstr "Использовать выбранную страницу в качестве футера (без копирайта"
 
-#: functions-enfold.php:2578
+#: functions-enfold.php:2581
 msgid "Use selected page to display as footer and socket"
 msgstr "Использовать выбранную страницу в качестве футера + копирайт"
 
@@ -24863,7 +24897,7 @@ msgid ""
 "and numbers, no special characters can be used)."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_avia.php:266
+#: includes/admin/option_tabs/avia_avia.php:270
 msgid "Use WP Classic Editor"
 msgstr ""
 
@@ -25452,7 +25486,7 @@ msgstr ""
 msgid "were detected parsing the shortcodes."
 msgstr "были обнаружены в процесса обработки шорткодов."
 
-#: includes/admin/option_tabs/avia_avia.php:59
+#: includes/admin/option_tabs/avia_avia.php:63
 msgid "What is a"
 msgstr "Что такое"
 
@@ -25601,7 +25635,7 @@ msgstr "Куда должна вести ссылка?"
 msgid "Where should the image link to?"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:570
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:569
 msgid "Where should the image/logo link to?"
 msgstr "Куда должна вести ссылка?"
 
@@ -25917,7 +25951,7 @@ msgstr ""
 #: framework/php/class-breadcrumb-trail.php:396
 #: framework/php/class-breadcrumb-trail.php:396
 #: framework/php/class-breadcrumb-trail.php:401
-#: framework/php/function-set-avia-frontend.php:1583
+#: framework/php/function-set-avia-frontend.php:1620
 msgid "Y"
 msgstr "Y"
 
@@ -25943,7 +25977,7 @@ msgstr ""
 msgid "Yelp Share Link"
 msgstr ""
 
-#: functions-enfold.php:2356
+#: functions-enfold.php:2359
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:376
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:392
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:449
@@ -25977,7 +26011,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:342
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:381
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:424
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:423
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:422
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:287
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:399
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:305
@@ -26043,12 +26077,12 @@ msgid "Yes, display an icon in front of number"
 msgstr "Да, показывать иконку перед цифрами"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:219
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:352
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:351
 msgid "Yes, display arrow control buttons"
 msgstr "Да, показывать стрелки"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:220
-#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:353
+#: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:352
 msgid "Yes, display dot control buttons"
 msgstr "Да, показывать точки"
 
