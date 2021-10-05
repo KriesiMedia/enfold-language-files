@@ -1,3 +1,6 @@
+2021-10-05
+- Italian it_IT (version 4.8.6.4, provided by BigBatT - info@luigicircello.it)
+
 2021-09-30
 - sync all files 4.8.6.4-dev-1
 
@@ -5,10 +8,10 @@
 - minor typo in german files
 
 2021-09-18
-- Dutch nl_NL (version version 4.8.6.3-dev-3 (close to 4.8.6.3), provided by EZWebdesign - Roger Hoen )
+- Dutch nl_NL (version 4.8.6.3-dev-3 (close to 4.8.6.3), provided by EZWebdesign - Roger Hoen )
 
 2021-09-17
-- Italian it_IT (version version 4.8.6.3-dev-3 (close to 4.8.6.3), provided by BigBatT - info@luigicircello.it)
+- Italian it_IT (version 4.8.6.3-dev-3 (close to 4.8.6.3), provided by BigBatT - info@luigicircello.it)
 
 2021-09-16
 - sync all files 4.8.6.3-dev-3
