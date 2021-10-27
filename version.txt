@@ -1,3 +1,8 @@
+2021-10-27
+- Dutch nl_NL (version 4.8.7, provided by EZWebdesign - Roger Hoen )
+- sync all files 4.8.7
+- fixed: italien translation breaking selectbox in ALB Image Hotspot tooltip location
+
 2021-10-09
 - French language files fr_FR (version 4.8.6.4, provided by comkapi - web@subit.fr)
 
