@@ -1,5 +1,6 @@
 2021-10-27
 - Dutch nl_NL (version 4.8.7, provided by EZWebdesign - Roger Hoen )
+- Italian it_IT (version 4.8.7, provided by BigBatT - info@luigicircello.it)
 - sync all files 4.8.7
 - fixed: italien translation breaking selectbox in ALB Image Hotspot tooltip location
 
