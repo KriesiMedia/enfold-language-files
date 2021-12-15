@@ -1,3 +1,12 @@
+2021-12-15
+- Italian language files it_IT (version 4.8.8, provided by BigBatT - info@luigicircello.it)
+- Dutch language files nl_NL (version 4.8.8 provided by EZWebdesign - Roger Hoen )
+- Hungarian language files hu_HU (version 4.8.7 provided by DECOrpOs - https://github.com/DECOrpOs )
+- French language files fr_FR (version 4.8.8, provided by comkapi - web@subit.fr)
+- German language files de_DE_formal 1 small translation error
+
+fixed: translation error in Dutch language file which was causing critical error
+
 2021-12-03
 - sync all files 4.8.7.2
 
