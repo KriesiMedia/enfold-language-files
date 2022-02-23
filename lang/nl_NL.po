@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 15:00+0200\n"
-"PO-Revision-Date: 2022-02-16 11:30+0000\n"
-"Last-Translator: \n"
-"Language-Team: Dutch\n"
+"PO-Revision-Date: 2022-02-18 15:44+0000\n"
+"Last-Translator: Roger Hoen\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.5.5; wp-5.7.4\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:570
@@ -181,6 +181,8 @@ msgstr "deze site"
 msgid " Unknown "
 msgstr "Onbekend"
 
+#: framework/php/class-framework-widgets.php:3107
+#: framework/php/class-framework-widgets.php:3117
 #: framework/php/legacy/class-framework-widgets.php:3116
 #: framework/php/legacy/class-framework-widgets.php:3126
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:587
@@ -308,6 +310,7 @@ msgstr ""
 msgid "( %d templates found )"
 msgstr "( %d sjablonen gevonden )"
 
+#: framework/php/class-framework-widgets.php:2312
 #: framework/php/legacy/class-framework-widgets.php:2321
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:530
 msgid "(1-19)"
@@ -419,6 +422,7 @@ msgstr "(Toon Styling Pagina)"
 msgid "(Unnamed Slider - #%d)"
 msgstr "(Naamloze diavoorstelling - #%d)"
 
+#: framework/php/class-framework-widgets.php:1963
 #: framework/php/legacy/class-framework-widgets.php:1972
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:140
 msgid "(Visible to admins only.)"
@@ -609,6 +613,7 @@ msgstr "2018"
 msgid "20px * 20px"
 msgstr "20px * 20px"
 
+#: framework/php/class-framework-widgets.php:566
 #: framework/php/legacy/class-framework-widgets.php:575
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:445
 msgid "2k+ likes"
@@ -1080,12 +1085,14 @@ msgstr ""
 "privacybeleid om het formulier te verzenden. Zie standaardtekst hierboven "
 "als u leeg laat."
 
+#: framework/php/class-framework-widgets.php:1156
 #: framework/php/legacy/class-framework-widgets.php:1165
 #: framework/php/widgets/widget-classes/class-avia-portfoliobox.php:28
 msgid "A Sidebar widget to display latest portfolio entries in your sidebar"
 msgstr ""
 "Een zijbalk-widget om de nieuwste portfolio-items in uw zijbalk weer te geven"
 
+#: framework/php/class-framework-widgets.php:886
 #: framework/php/legacy/class-framework-widgets.php:895
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:62
 msgid "A Sidebar widget to display latest post entries in your sidebar"
@@ -1120,6 +1127,7 @@ msgstr "Een testimonial element"
 msgid "A Timeline Element Item"
 msgstr "Een tijdlijn element"
 
+#: framework/php/class-framework-widgets.php:173
 #: framework/php/legacy/class-framework-widgets.php:182
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:36
 msgid ""
@@ -1132,6 +1140,7 @@ msgstr ""
 msgid "A widget that displays a Mailchimp newsletter signup form"
 msgstr "Creëert een Mailchimp aanmeldformulier"
 
+#: framework/php/class-framework-widgets.php:1408
 #: framework/php/legacy/class-framework-widgets.php:1417
 #: framework/php/widgets/widget-classes/class-avia-combo.php:40
 msgid ""
@@ -1141,6 +1150,7 @@ msgstr ""
 "Een widget die uw populaire berichten, recente berichten, recente "
 "opmerkingen en een tagcloud weergeeft"
 
+#: framework/php/class-framework-widgets.php:1180
 #: framework/php/legacy/class-framework-widgets.php:1189
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:30
 msgid "A widget to display a link to your Twitter profile and rss feed"
@@ -1400,6 +1410,7 @@ msgstr ""
 "Voeg een volledige-breedte sectie toe met tabkaarten die kolommen en andere "
 "elementen kunnen bevatten"
 
+#: framework/php/class-framework-widgets.php:1892
 #: framework/php/legacy/class-framework-widgets.php:1901
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:53
 msgid "Add a google map to your blog or site"
@@ -1678,7 +1689,7 @@ msgstr "Voeg unieke tijdstempels toe (= standaard)"
 
 #: framework/php/class-sidebar-generator.php:110
 msgid "Add Widget Area"
-msgstr ""
+msgstr "Voeg widget gebied toe"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:228
 msgid "Add your caption text"
@@ -1783,6 +1794,7 @@ msgstr "door een plugin toegevoegd"
 msgid "added by theme"
 msgstr "door thema toegevoegd"
 
+#: framework/php/class-framework-widgets.php:2627
 #: framework/php/legacy/class-framework-widgets.php:2636
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:111
 msgid ""
@@ -1812,6 +1824,7 @@ msgstr "Positie van aanvullende beschrijving"
 msgid "Additional Functionality"
 msgstr "Extra functionaliteit"
 
+#: framework/php/class-framework-widgets.php:571
 #: framework/php/legacy/class-framework-widgets.php:580
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:450
 msgid "Additional Information:"
@@ -1849,7 +1862,7 @@ msgstr "Google kan het adres niet vinden. Voeg a.u.b. handmatig toe"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:387
 msgid "Address:"
-msgstr ""
+msgstr "Adres:"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:312
 msgid "Adjust table to screen size"
@@ -2017,6 +2030,8 @@ msgstr ""
 "options\" target=\"_blank\" rel=\"noopener noreferrer\"> meer opties krijgen."
 "</a>"
 
+#: framework/php/class-framework-widgets.php:1287
+#: framework/php/class-framework-widgets.php:1289
 #: framework/php/legacy/class-framework-widgets.php:1296
 #: framework/php/legacy/class-framework-widgets.php:1298
 #: framework/php/widgets/widget-classes/class-avia-partner.php:87
@@ -2026,7 +2041,7 @@ msgstr "Adverteer hier"
 
 #: framework/php/widgets/widget-classes/class-avia-partner.php:44
 msgid "Advertising Area"
-msgstr ""
+msgstr "Advertentie gebied"
 
 #: includes/admin/option_tabs/avia_element_templates.php:191
 msgid ""
@@ -2432,11 +2447,13 @@ msgstr "Een accordeon element (toggle, accordeons, FAQ)"
 msgid "An Accordion Slider image or video item"
 msgstr "Een accordeon diavoorstelling afbeeldings- of video-element"
 
+#: framework/php/class-framework-widgets.php:1370
 #: framework/php/legacy/class-framework-widgets.php:1379
 #: framework/php/widgets/widget-classes/class-avia-one-partner.php:29
 msgid "An advertising widget that displays 1 big image"
 msgstr "Een reclamewidget die 1 grote afbeelding laat zien"
 
+#: framework/php/class-framework-widgets.php:1274
 #: framework/php/legacy/class-framework-widgets.php:1283
 #: framework/php/widgets/widget-classes/class-avia-partner.php:51
 msgid "An advertising widget that displays 2 images with 125 x 125 px in size"
@@ -3238,6 +3255,7 @@ msgstr "Achtergrondvideo"
 msgid "Banner Color Overlay (leave empty for no overlay)"
 msgstr "Banner kleur overlay (leeg laten voor geen overlay)"
 
+#: framework/php/class-framework-widgets.php:501
 #: framework/php/legacy/class-framework-widgets.php:510
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:380
 msgid "Banner image"
@@ -3285,7 +3303,6 @@ msgstr ""
 "genegeerd."
 
 #: includes/helper-privacy.php:2106
-#, fuzzy
 #| msgid ""
 #| "Because these cookies are strictly necessary to deliver the website, "
 #| "refuseing them will have impact how our site functions. You always can "
@@ -3351,7 +3368,7 @@ msgstr "onder het menu"
 
 #: framework/php/widgets/widget-classes/class-avia-one-partner.php:25
 msgid "Big Advertising Area"
-msgstr ""
+msgstr "Grote advertentie gebied"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:240
 msgid "Big image only, other images can be accessed via lightbox"
@@ -4063,6 +4080,7 @@ msgstr "Knop-stijl (gekleurd)"
 msgid "Button text"
 msgstr "Knop tekst"
 
+#: framework/php/class-framework-widgets.php:542
 #: framework/php/legacy/class-framework-widgets.php:551
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:421
 msgid "Button text confirm link to Facebook:"
@@ -4072,6 +4090,7 @@ msgstr "Knoptekst bevestig link naar Facebook:"
 msgid "Button text confirm to load Google Maps"
 msgstr "Knoptekst bevestig om Google Maps te laden"
 
+#: framework/php/class-framework-widgets.php:2363
 #: framework/php/legacy/class-framework-widgets.php:2372
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:581
 msgid "Button text confirm to load Google Maps:"
@@ -4103,6 +4122,7 @@ msgstr "Knoppen"
 #: includes/loop-search.php:152
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:835
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
+#: framework/php/class-framework-widgets.php:1815
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1393
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1395
 #: framework/php/legacy/class-framework-widgets.php:1824
@@ -4231,6 +4251,7 @@ msgstr "Op naam (aflopend)"
 msgid "By usage"
 msgstr "Door gebruik"
 
+#: framework/php/class-framework-widgets.php:3052
 #: framework/php/legacy/class-framework-widgets.php:3061
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:532
 msgid "Cache on your server - no instagram connection needed on pageload"
@@ -4493,7 +4514,7 @@ msgstr "Pas de lay-out aan"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:811
 msgid "Change layout on mobile devices"
-msgstr ""
+msgstr "Wijzig de lay-out op mobiele apparaten"
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:79
 msgid "Change Leaflet Library Files Location"
@@ -5709,6 +5730,7 @@ msgstr "Kies hier een randstijl voor uw cirkel"
 msgid "Choose the border style for your element here"
 msgstr "Kies hier de randstijl voor uw element"
 
+#: framework/php/class-framework-widgets.php:1101
 #: framework/php/legacy/class-framework-widgets.php:1110
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:339
 msgid ""
@@ -5994,6 +6016,7 @@ msgstr "Cirkel omvang"
 msgid "City"
 msgstr "Stad"
 
+#: framework/php/class-framework-widgets.php:2281
 #: framework/php/legacy/class-framework-widgets.php:2290
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:499
 msgid "City:"
@@ -6046,6 +6069,7 @@ msgstr ""
 msgid "Click here to add your own text"
 msgstr "Klik hier om uw eigen tekst toe te voegen"
 
+#: framework/php/class-framework-widgets.php:2273
 #: framework/php/legacy/class-framework-widgets.php:2282
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:491
 msgid "Click here to enter an address."
@@ -6136,11 +6160,13 @@ msgstr "Klik om video embeds toe te staan/te blokkeren."
 msgid "Click to import"
 msgstr "Klik om te importeren"
 
+#: framework/php/class-framework-widgets.php:241
 #: framework/php/legacy/class-framework-widgets.php:250
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:52
 msgid "Click to load facebook widget"
 msgstr "Klik om Facebook-widget te laden"
 
+#: framework/php/class-framework-widgets.php:1941
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:377
 #: framework/php/legacy/class-framework-widgets.php:1950
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:103
@@ -6407,7 +6433,7 @@ msgstr ""
 
 #: framework/php/widgets/widget-classes/class-avia-combo.php:36
 msgid "Combo Widget"
-msgstr ""
+msgstr "Combo widget"
 
 #: includes/loop-author.php:159 includes/loop-index.php:447
 #: includes/loop-search.php:89
@@ -6423,6 +6449,7 @@ msgstr "Aantal reacties"
 #: includes/loop-author.php:158 includes/loop-author.php:160
 #: includes/loop-index.php:446 includes/loop-index.php:448
 #: includes/loop-search.php:88 includes/loop-search.php:90
+#: framework/php/class-framework-widgets.php:1537
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:26
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:930
 #: framework/php/legacy/class-framework-widgets.php:1546
@@ -6700,13 +6727,17 @@ msgstr "Hoogte tabkaarten"
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:107
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:118
 msgid "Content is only rendered in frontend."
-msgstr ""
+msgstr "Inhoud wordt alleen aan de voorkant weergegeven."
 
+#: framework/php/class-framework-widgets.php:1637
 #: framework/php/legacy/class-framework-widgets.php:1646
 #: framework/php/widgets/widget-classes/class-avia-combo.php:320
 msgid "Content of first tab"
 msgstr "Inhoud van eerste tabkaart"
 
+#: framework/php/class-framework-widgets.php:1646
+#: framework/php/class-framework-widgets.php:1653
+#: framework/php/class-framework-widgets.php:1660
 #: framework/php/legacy/class-framework-widgets.php:1655
 #: framework/php/legacy/class-framework-widgets.php:1662
 #: framework/php/legacy/class-framework-widgets.php:1669
@@ -6857,6 +6888,7 @@ msgstr "Copyright"
 msgid "Copyright Info"
 msgstr "Auteursrechtinformatie"
 
+#: framework/php/class-framework-widgets.php:3971
 #: framework/php/legacy/class-framework-widgets.php:3980
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:1444
 #, php-format
@@ -6905,6 +6937,7 @@ msgstr ""
 "Kon het lettertype niet toevoegen/verwijderen.<br/>Het script heeft de "
 "volgende fout geretourneerd: <br/><br/>"
 
+#: framework/php/class-framework-widgets.php:2413
 #: framework/php/class-gmaps.php:190
 #: framework/php/legacy/class-framework-widgets.php:2422
 msgid "couldn't be found by Google, please add them manually"
@@ -6915,6 +6948,7 @@ msgstr "werden niet gevonden door Google; voor a.u.b. handmatig toe"
 msgid "Country"
 msgstr "Land"
 
+#: framework/php/class-framework-widgets.php:2293
 #: framework/php/legacy/class-framework-widgets.php:2302
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:511
 msgid "Country:"
@@ -7155,6 +7189,7 @@ msgstr "Huidig bericht of pagina"
 msgid "Current Toggle Appearance"
 msgstr "Huidig toggle uiterlijk"
 
+#: framework/php/class-framework-widgets.php:3092
 #: framework/php/legacy/class-framework-widgets.php:3101
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:572
 msgid "Current window (_self)"
@@ -7567,6 +7602,7 @@ msgstr "Aangepaste markering-afbeelding"
 msgid "Custom Map Marker Image Size"
 msgstr "Aangepaste grootte markering-afbeelding"
 
+#: framework/php/class-framework-widgets.php:2247
 #: framework/php/legacy/class-framework-widgets.php:2256
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:465
 msgid "Custom Marker Icon"
@@ -8336,7 +8372,7 @@ msgstr "Omschrijving onder titel"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:494
 msgid "Description Color"
-msgstr ""
+msgstr "Beschrijving kleur"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:210
 msgid "Description Column"
@@ -8417,6 +8453,7 @@ msgstr "Afmeting b * h in px"
 msgid "Dimensions"
 msgstr "Afmetingen"
 
+#: framework/php/class-framework-widgets.php:547
 #: framework/php/legacy/class-framework-widgets.php:556
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:426
 msgid "Direct link to FB-page text:"
@@ -8426,6 +8463,7 @@ msgstr "Directe link naar FB-pagina tekst:"
 msgid "Direct link to Google Maps page"
 msgstr "Directe link naar Google Maps pagina"
 
+#: framework/php/class-framework-widgets.php:2368
 #: framework/php/legacy/class-framework-widgets.php:2377
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:586
 msgid "Direct link to Google Maps page:"
@@ -8652,6 +8690,7 @@ msgstr "Toon een lijst met gerelateerde producten en/of up-sells"
 msgid "Display a partner/logo Grid or Slider"
 msgstr "Een partner-/logo raster of diavoorstelling tonen"
 
+#: framework/php/class-framework-widgets.php:2334
 #: framework/php/legacy/class-framework-widgets.php:2343
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:552
 msgid ""
@@ -8972,6 +9011,7 @@ msgstr "Toon bij hover"
 msgid "Display on mouse hover"
 msgstr "Tonen bij muis-over"
 
+#: framework/php/class-framework-widgets.php:4158
 #: framework/php/legacy/class-framework-widgets.php:4167
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:238
 msgid "Display on Single Blog Posts only"
@@ -9231,11 +9271,13 @@ msgstr "Toon titel en broodkruimelpad"
 msgid "Display Title and Excerpt"
 msgstr "Toon titel en samenvatting"
 
+#: framework/php/class-framework-widgets.php:1112
 #: framework/php/legacy/class-framework-widgets.php:1121
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:350
 msgid "display title and excerpt"
 msgstr "toon titel en samenvatting"
 
+#: framework/php/class-framework-widgets.php:1106
 #: framework/php/legacy/class-framework-widgets.php:1115
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:344
 msgid "Display title only or title &amp; excerpt"
@@ -9271,7 +9313,7 @@ msgstr "Zoombediening weergeven?"
 
 #: includes/admin/register-widget-area.php:9
 msgid "Displayed Everywhere"
-msgstr ""
+msgstr "Overal getoond"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:62
 msgid "Displays a map based on OpenStreetMaps and Leaflet Map plugin"
@@ -9293,6 +9335,7 @@ msgstr "Toont artikelen van uw blog"
 msgid "Displays your latest Instagram feeds (Smash Balloon Plugin)"
 msgstr "Geeft uw nieuwste Instagram-feeds weer (Smash Balloon Plugin)"
 
+#: framework/php/class-framework-widgets.php:2610
 #: framework/php/legacy/class-framework-widgets.php:2619
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:78
 msgid "Displays your latest Instagram photos"
@@ -9882,7 +9925,7 @@ msgstr "Wijzig het element"
 
 #: config-gutenberg/class-avia-gutenberg.php:965
 #: config-gutenberg/class-avia-gutenberg.php:970
-#: framework/php/function-set-avia-backend.php:1257
+#: framework/php/function-set-avia-backend.php:1269
 msgid "Edit Frontpage"
 msgstr "Voorpagina aanpassen"
 
@@ -10333,6 +10376,7 @@ msgstr ""
 "u problemen ondervindt. Laad de widgetpagina opnieuw wanneer u klaar bent "
 "met bewerken om een scan van de widgets te forceren."
 
+#: framework/php/class-framework-widgets.php:4164
 #: framework/php/legacy/class-framework-widgets.php:4173
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:244
 msgid "Enable Smooth Scrolling"
@@ -10407,6 +10451,10 @@ msgid ""
 "add a custom CSS class below and adjust the CSS rules for this element "
 "and/or use responsive font size settings if available."
 msgstr ""
+"Enfold biedt alleen CSS voor standaard thema-tags, dus het kan nodig zijn om "
+"een aangepaste CSS-klasse hieronder toe te voegen en de CSS-regels voor dit "
+"element aan te passen en/of gebruik te maken van responsieve lettergrootte-"
+"instellingen, indien beschikbaar."
 
 #: includes/admin/option_tabs/avia_cookie.php:279
 #: includes/admin/option_tabs/avia_cookie.php:768
@@ -10683,7 +10731,7 @@ msgstr ""
 
 #: framework/php/class-sidebar-generator.php:109
 msgid "Enter Name of the new Widget Area here"
-msgstr ""
+msgstr "Voer hier de naam van het nieuwe widget gebied in"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:171
 msgid ""
@@ -10740,6 +10788,7 @@ msgstr ""
 "Voer hier wat inhoud in. Wordt gebruikt als achterkant van flipbox of pop-up "
 "voor tooltip."
 
+#: framework/php/class-framework-widgets.php:557
 #: framework/php/legacy/class-framework-widgets.php:566
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:436
 msgid "Enter some info to the page"
@@ -10829,6 +10878,7 @@ msgstr "Voer hier de subtitel van het rasteritem in"
 msgid "Enter the grid item title here (Better keep it short)"
 msgstr "Voer hier de titel van het rasteritem in (hou dit liefst kort)"
 
+#: framework/php/class-framework-widgets.php:2350
 #: framework/php/legacy/class-framework-widgets.php:2359
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:568
 msgid "Enter the height in px or &percnt;"
@@ -10846,6 +10896,7 @@ msgstr ""
 msgid "Enter the item description here"
 msgstr "Geef omschrijving van item"
 
+#: framework/php/class-framework-widgets.php:2273
 #: framework/php/legacy/class-framework-widgets.php:2282
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:491
 msgid ""
@@ -11019,6 +11070,7 @@ msgstr "Vul hier de titel voor de toggle in (hou het kort)"
 msgid "Enter the URL of the page you want to link to"
 msgstr "Vul een URL in van de pagina waarnaar u wilt linken"
 
+#: framework/php/class-framework-widgets.php:528
 #: framework/php/legacy/class-framework-widgets.php:537
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:407
 msgid ""
@@ -11029,6 +11081,7 @@ msgstr ""
 "<strong>Facebook fanpagina</strong>. Persoonlijke profielen zijn niet "
 "toegestaan!"
 
+#: framework/php/class-framework-widgets.php:2346
 #: framework/php/legacy/class-framework-widgets.php:2355
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:564
 msgid ""
@@ -11050,6 +11103,7 @@ msgstr "Voer uw aangepaste kleurenpalet in"
 msgid "Enter your description here"
 msgstr "Vul hier uw beschrijving in"
 
+#: framework/php/class-framework-widgets.php:1242
 #: framework/php/legacy/class-framework-widgets.php:1251
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:162
 msgid "Enter your feed url:"
@@ -11189,6 +11243,7 @@ msgstr "Fouten konden worden gerepareerd."
 msgid "Errors could not be repaired."
 msgstr "Fouten konden niet worden gerepareerd."
 
+#: framework/php/class-framework-widgets.php:3160
 #: framework/php/legacy/class-framework-widgets.php:3169
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:640
 msgid "Errors found:"
@@ -11230,7 +11285,7 @@ msgstr "Evenement-navigatie"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:426
 msgid "Event Title Color"
-msgstr ""
+msgstr "Evenement titel kleur"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:335
 msgid "Event Title Font Size"
@@ -11275,6 +11330,7 @@ msgstr "Samenvatting met \\\"Lees Meer\\\" link"
 msgid "Exclude Content"
 msgstr "Inhoud uitsluiten"
 
+#: framework/php/class-framework-widgets.php:4109
 #: framework/php/legacy/class-framework-widgets.php:4118
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:185
 msgid "Exclude headlines by class:"
@@ -11346,12 +11402,13 @@ msgstr "F, Y"
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:32
 msgid "Facebook Likebox"
-msgstr ""
+msgstr "Facebook vind-ik-leuk box"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:227
 msgid "Facebook link"
 msgstr "Facebook link "
 
+#: framework/php/class-framework-widgets.php:556
 #: framework/php/legacy/class-framework-widgets.php:565
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:435
 msgid "Facebook Page Title:"
@@ -11401,6 +11458,7 @@ msgstr "Reserve"
 msgid "Fallback Image to replace Google Maps"
 msgstr "Reserve afbeelding om Google Maps te vervangen"
 
+#: framework/php/class-framework-widgets.php:2257
 #: framework/php/legacy/class-framework-widgets.php:2266
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:475
 msgid "Fallback image to replace Google Maps"
@@ -11460,6 +11518,7 @@ msgstr "Coördinaten ophalen"
 msgid "Fetch coordinates for address above"
 msgstr "Coördinaten ophalen voor bovenstaand adres"
 
+#: framework/php/class-framework-widgets.php:2297
 #: framework/php/legacy/class-framework-widgets.php:2306
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:515
 msgid "Fetch coordinates!"
@@ -11469,6 +11528,7 @@ msgstr "Coördinaten ophalen!"
 msgid "Fetching address ......."
 msgstr "Ophalen adres ......."
 
+#: framework/php/class-framework-widgets.php:2298
 #: framework/php/legacy/class-framework-widgets.php:2307
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:516
 msgid "Fetching the coordinates. Please wait..."
@@ -11531,6 +11591,7 @@ msgstr "Filter items op datum"
 msgid "Filter entries by time period"
 msgstr "Filter items op tijdsperiode"
 
+#: framework/php/class-framework-widgets.php:3307
 #: framework/php/legacy/class-framework-widgets.php:3316
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:786
 msgid "Filter extended to filter images or videos"
@@ -11628,6 +11689,7 @@ msgstr "Omdraaien"
 msgid "Flyout width"
 msgstr "Uitklappaneel breedte"
 
+#: framework/php/class-framework-widgets.php:1204
 #: framework/php/legacy/class-framework-widgets.php:1213
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:84
 msgid "Follow"
@@ -11642,11 +11704,13 @@ msgstr "Volg een handmatig toegevoegde link"
 msgid "Follow Me"
 msgstr "Volg me!"
 
+#: framework/php/class-framework-widgets.php:2751
 #: framework/php/legacy/class-framework-widgets.php:2760
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:93
 msgid "Follow Me!"
 msgstr "Volg me!"
 
+#: framework/php/class-framework-widgets.php:234
 #: framework/php/legacy/class-framework-widgets.php:243
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:45
 msgid "Follow us on Facebook"
@@ -11718,10 +11782,9 @@ msgid "Font Colors"
 msgstr "Tekstkleuren"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:468
-#, fuzzy
 #| msgid "Font color?"
 msgid "Font colors"
-msgstr "Tekstkleur?"
+msgstr "Tekstkleuren"
 
 #: includes/admin/register-backend-advanced-styles.php:32
 #: includes/admin/register-backend-advanced-styles.php:67
@@ -11929,6 +11992,7 @@ msgstr "Footer Menu <br/><small>(geen dropdowns)</small>"
 msgid "Footer Settings"
 msgstr "Footer instellingen"
 
+#: framework/php/class-framework-widgets.php:3002
 #: framework/php/legacy/class-framework-widgets.php:3011
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:462
 msgid "For admins only: Missing intagram user name !!"
@@ -12245,6 +12309,7 @@ msgstr "Algemene lay-out"
 msgid "General Styling"
 msgstr "Algemene stijl"
 
+#: framework/php/class-framework-widgets.php:3051
 #: framework/php/legacy/class-framework-widgets.php:3060
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:531
 msgid "Get from your instagram account (instagram server connection needed)"
@@ -12341,10 +12406,14 @@ msgid ""
 "Google Maps API could not be loaded. We are not able to verify keys. Check "
 "your internet connection and try again."
 msgstr ""
+"Google Maps API kon niet worden geladen. We zijn niet in staat om de "
+"sleutels te verifiëren. Controleer uw internetverbinding en probeer het "
+"opnieuw."
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:404
 msgid "Google Maps is disabled in theme options &quot;Google Services&quot;."
 msgstr ""
+"Google Maps is uitgeschakeld in thema-opties &quot;Google Diensten&quot;."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:218
 msgid "Google Maps Locations"
@@ -12352,7 +12421,7 @@ msgstr "Google Maps locaties"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:49
 msgid "Google Maps Widget"
-msgstr ""
+msgstr "Google Maps widget"
 
 #: includes/admin/option_tabs/avia_google.php:152
 msgid "Google ReCAPTCHA"
@@ -12541,7 +12610,7 @@ msgstr "H1 - Selector: h1 { ... }"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:165
 msgid "H1 Headlines"
-msgstr ""
+msgstr "H1 Kopteksten"
 
 #: includes/admin/option_tabs/avia_styling.php:627
 msgid "H2 - Selector: h2 { ... }"
@@ -12549,7 +12618,7 @@ msgstr "H2 - Selector: h2 { ... }"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:166
 msgid "H2 Headlines"
-msgstr ""
+msgstr "H2 Kopteksten"
 
 #: includes/admin/option_tabs/avia_styling.php:630
 msgid "H3 - Selector: h3 { ... }"
@@ -12557,7 +12626,7 @@ msgstr "H3 - Selector: h3 { ... }"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:167
 msgid "H3 Headlines"
-msgstr ""
+msgstr "H1 Kopteksten"
 
 #: includes/admin/option_tabs/avia_styling.php:633
 msgid "H4 - Selector: h4 { ... }"
@@ -12565,7 +12634,7 @@ msgstr "H4 - Selector: h4 { ... }"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:168
 msgid "H4 Headlines"
-msgstr ""
+msgstr "H4 Kopteksten"
 
 #: includes/admin/option_tabs/avia_styling.php:636
 msgid "H5 - Selector: h5 { ... }"
@@ -12573,7 +12642,7 @@ msgstr "H5 - Selector: h5 { ... }"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:169
 msgid "H5 Headlines"
-msgstr ""
+msgstr "H5 Kopteksten"
 
 #: includes/admin/option_tabs/avia_styling.php:639
 msgid "H6 - Selector: h6 { ... }"
@@ -12581,7 +12650,7 @@ msgstr "H6 - Selector: h6 { ... }"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:170
 msgid "H6 Headlines"
-msgstr ""
+msgstr "H6 Kopteksten"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:699
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:902
@@ -13404,6 +13473,7 @@ msgstr "Op mobiele apparaten video verbergen?"
 msgid "Hierarchical Custom Elements"
 msgstr "Hiërarchie aangepaste elementen"
 
+#: framework/php/class-framework-widgets.php:4161
 #: framework/php/legacy/class-framework-widgets.php:4170
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:241
 msgid "Hierarchy Indentation"
@@ -13596,6 +13666,7 @@ msgstr ""
 "weergegeven? De cookie verloopt automatisch als de titel, tekst of "
 "berichtkleur wordt gewijzigd."
 
+#: framework/php/class-framework-widgets.php:1083
 #: framework/php/legacy/class-framework-widgets.php:1092
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:320
 msgid "How many entries do you want to display: "
@@ -14453,11 +14524,13 @@ msgstr "Afbeelding Miniaturen Info"
 msgid "Image title"
 msgstr "Afbeelding titel"
 
+#: framework/php/class-framework-widgets.php:1346
 #: framework/php/legacy/class-framework-widgets.php:1355
 #: framework/php/widgets/widget-classes/class-avia-partner.php:167
 msgid "Image URL 2: (125px * 125px):"
 msgstr "Afbeeldings-URL 2: (125px * 125px):"
 
+#: framework/php/class-framework-widgets.php:1337
 #: framework/php/legacy/class-framework-widgets.php:1346
 #: framework/php/widgets/widget-classes/class-avia-partner.php:153
 msgid "Image URL:"
@@ -14864,11 +14937,13 @@ msgstr ""
 "Zie ook onze <a href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
 "documentatie.</a>"
 
+#: framework/php/class-framework-widgets.php:2338
 #: framework/php/legacy/class-framework-widgets.php:2347
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:556
 msgid "Info Bubble Content:"
 msgstr "Info Bubbelinhoud:"
 
+#: framework/php/class-framework-widgets.php:572
 #: framework/php/legacy/class-framework-widgets.php:581
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:451
 msgid "Info displayed above the fake user profiles"
@@ -15049,6 +15124,8 @@ msgstr "Voegt afbeelding in met een of meerdere hotspots met tekstkadertjes"
 msgid "Inset"
 msgstr "Binnenkant"
 
+#: framework/php/class-framework-widgets.php:2609
+#: framework/php/class-framework-widgets.php:2744
 #: framework/php/legacy/class-framework-widgets.php:2618
 #: framework/php/legacy/class-framework-widgets.php:2753
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:74
@@ -15060,6 +15137,7 @@ msgstr "Instagram"
 msgid "Instagram (Smash Balloon)"
 msgstr "Instagram (Smash Balloon)"
 
+#: framework/php/class-framework-widgets.php:3336
 #: framework/php/legacy/class-framework-widgets.php:3345
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:815
 msgid "Instagram did not return any images."
@@ -15073,6 +15151,9 @@ msgstr "Instagram feed"
 msgid "Instagram Feeds"
 msgstr "Instagram feeds"
 
+#: framework/php/class-framework-widgets.php:3253
+#: framework/php/class-framework-widgets.php:3262
+#: framework/php/class-framework-widgets.php:3267
 #: framework/php/legacy/class-framework-widgets.php:3262
 #: framework/php/legacy/class-framework-widgets.php:3271
 #: framework/php/legacy/class-framework-widgets.php:3276
@@ -15086,6 +15167,7 @@ msgstr "Instagram heeft ongeldige data geretourneerd."
 msgid "Instagram Icon/Link"
 msgstr "Instagram icoon/link"
 
+#: framework/php/class-framework-widgets.php:3284
 #: framework/php/legacy/class-framework-widgets.php:3293
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:763
 msgid "Instagram Image"
@@ -15099,6 +15181,7 @@ msgstr "Instagram link"
 msgid "Instagram Profile Link"
 msgstr "Instagram profiellink"
 
+#: framework/php/class-framework-widgets.php:3244
 #: framework/php/legacy/class-framework-widgets.php:3253
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:723
 #, php-format
@@ -15338,6 +15421,7 @@ msgstr "Javascript bestanden samenvoeging en compressie"
 msgid "Job title of the person."
 msgstr "Titel functie van de persoon"
 
+#: framework/php/class-framework-widgets.php:240
 #: framework/php/legacy/class-framework-widgets.php:249
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:51
 msgid "Join our Facebook community"
@@ -15364,7 +15448,7 @@ msgstr "Behoud snelle CSS inhoud"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:812
 msgid "Keep selected layout just like on large screens"
-msgstr ""
+msgstr "Behoud geselecteerde lay-out net als op grote schermen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:286
 msgid "Keyboard Support"
@@ -15388,6 +15472,7 @@ msgid "Landscape"
 msgstr "Landschap"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:408
+#: framework/php/class-framework-widgets.php:3085
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:505
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:289
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:515
@@ -15494,22 +15579,24 @@ msgstr ""
 
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:55
 msgid "Latest News"
-msgstr ""
+msgstr "Laatste nieuws"
 
 #: framework/php/widgets/widget-classes/class-avia-portfoliobox.php:24
 msgid "Latest Portfolio"
-msgstr ""
+msgstr "Laatste portfolio"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2612
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2272
 msgid "Latitude"
 msgstr "Breedtegraad"
 
+#: framework/php/class-framework-widgets.php:2412
 #: framework/php/class-gmaps.php:189
 #: framework/php/legacy/class-framework-widgets.php:2421
 msgid "Latitude and longitude for"
 msgstr "Breedte- en lengtegraad voor"
 
+#: framework/php/class-framework-widgets.php:2303
 #: framework/php/legacy/class-framework-widgets.php:2312
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:392
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:521
@@ -15843,6 +15930,7 @@ msgid "Light transparent"
 msgstr "Licht transparant"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:767
+#: framework/php/class-framework-widgets.php:3091
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:984
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1027
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:474
@@ -15951,6 +16039,7 @@ msgstr "Link instelling"
 msgid "Link Settings"
 msgstr "Link instellingen"
 
+#: framework/php/class-framework-widgets.php:3096
 #: framework/php/legacy/class-framework-widgets.php:3105
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:576
 msgid "Link text"
@@ -15983,11 +16072,13 @@ msgstr "Link naar 500px"
 msgid "Link to another page"
 msgstr "Koppeling naar andere pagina"
 
+#: framework/php/class-framework-widgets.php:533
 #: framework/php/legacy/class-framework-widgets.php:542
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:412
 msgid "Link to Facebook"
 msgstr "Link naar Facebook"
 
+#: framework/php/class-framework-widgets.php:2354
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:360
 #: framework/php/legacy/class-framework-widgets.php:2363
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:572
@@ -16154,6 +16245,7 @@ msgstr ""
 msgid "Location"
 msgstr "Locatie"
 
+#: framework/php/class-framework-widgets.php:3049
 #: framework/php/legacy/class-framework-widgets.php:3058
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:529
 msgid "Location of your photos or videos"
@@ -16184,6 +16276,7 @@ msgstr "Inloggen"
 msgid "Log Out"
 msgstr "Uitloggen"
 
+#: framework/php/class-framework-widgets.php:511
 #: framework/php/legacy/class-framework-widgets.php:520
 #: includes/admin/option_tabs/avia_avia.php:55
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:390
@@ -16210,6 +16303,7 @@ msgstr ""
 "Afmeting logo: 340px * 156px (als het logo groter is, pas dan de "
 "headergrootte aan, of laat het schalen) "
 
+#: framework/php/class-framework-widgets.php:323
 #: framework/php/legacy/class-framework-widgets.php:332
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:179
 msgid "Logo image"
@@ -16240,6 +16334,7 @@ msgstr "Lay-out van logo diavoorstelling of -raster"
 msgid "Longitude"
 msgstr "Lengtegraad"
 
+#: framework/php/class-framework-widgets.php:2307
 #: framework/php/legacy/class-framework-widgets.php:2316
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:393
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:525
@@ -16309,7 +16404,7 @@ msgstr "Mailchimp lijst om te abonneren"
 
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:106
 msgid "Mailchimp List:"
-msgstr ""
+msgstr "Mailchimp lijst:"
 
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:29
 msgid "Mailchimp Newsletter Signup"
@@ -16422,7 +16517,7 @@ msgstr "Kaart interactie"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:408
 msgid "Map is only rendered in frontend."
-msgstr ""
+msgstr "Kaart wordt enkel weergegeven in front-end."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:303
 msgid "Map Settings"
@@ -16432,6 +16527,7 @@ msgstr "Kaart instellingen"
 msgid "Map Size"
 msgstr "Kaart omvang"
 
+#: framework/php/class-framework-widgets.php:2323
 #: framework/php/legacy/class-framework-widgets.php:2332
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:541
 msgid "Map Type:"
@@ -16978,7 +17074,7 @@ msgstr "Mobiel breekpunt"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:817
 msgid "Mobile Breaking Points"
-msgstr ""
+msgstr "Mobiele breekpunten"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1070
 msgid "Mobile Breakpoint"
@@ -17218,6 +17314,7 @@ msgstr "Nieuw portfolio-item"
 msgid "New Search"
 msgstr "Nieuwe zoekopdracht"
 
+#: framework/php/class-framework-widgets.php:3093
 #: framework/php/legacy/class-framework-widgets.php:3102
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:573
 msgid "New window (_blank)"
@@ -17227,6 +17324,7 @@ msgstr "Nieuw venster (_blank)"
 msgid "Newer Comments &raquo;"
 msgstr "Nieuwe reacties &raquo;"
 
+#: framework/php/class-framework-widgets.php:1604
 #: framework/php/legacy/class-framework-widgets.php:1613
 #: framework/php/widgets/widget-classes/class-avia-combo.php:51
 msgid "Newest comments"
@@ -17252,6 +17350,8 @@ msgstr "Nieuwsbrief via Mailchimp"
 msgid "Next"
 msgstr "Volgende"
 
+#: framework/php/class-framework-widgets.php:3111
+#: framework/php/class-framework-widgets.php:3121
 #: framework/php/legacy/class-framework-widgets.php:3120
 #: framework/php/legacy/class-framework-widgets.php:3130
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:591
@@ -17386,6 +17486,7 @@ msgstr "Geen Sluiten Knop"
 msgid "No comments"
 msgstr "Geen commentaren"
 
+#: framework/php/class-framework-widgets.php:1601
 #: framework/php/legacy/class-framework-widgets.php:1610
 #: framework/php/widgets/widget-classes/class-avia-combo.php:48
 msgid "No content"
@@ -17458,6 +17559,7 @@ msgstr "Geen icoon"
 msgid "No icon or image"
 msgstr "Geen icoon of afbeelding"
 
+#: framework/php/class-framework-widgets.php:2997
 #: framework/php/legacy/class-framework-widgets.php:3006
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:457
 msgid "No images available at the moment"
@@ -17651,6 +17753,8 @@ msgstr "Geen thema shortcodes gebruikt in widgets"
 msgid "No thousands seperator"
 msgstr "Geen duizendtal scheidingsteken"
 
+#: framework/php/class-framework-widgets.php:3107
+#: framework/php/class-framework-widgets.php:3117
 #: framework/php/legacy/class-framework-widgets.php:3116
 #: framework/php/legacy/class-framework-widgets.php:3126
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:587
@@ -17871,6 +17975,7 @@ msgstr "Getal lettergrootte"
 msgid "Number of characters"
 msgstr "Aantal karakters"
 
+#: framework/php/class-framework-widgets.php:3071
 #: framework/php/legacy/class-framework-widgets.php:3080
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:551
 msgid "Number of columns"
@@ -17916,21 +18021,25 @@ msgstr "Aantal items"
 msgid "Number of Milestones per Slide"
 msgstr "Aantal Mijlpalen per Slide"
 
+#: framework/php/class-framework-widgets.php:1623
 #: framework/php/legacy/class-framework-widgets.php:1632
 #: framework/php/widgets/widget-classes/class-avia-combo.php:306
 msgid "Number of newest comments"
 msgstr "Aantal nieuwste commentaren"
 
+#: framework/php/class-framework-widgets.php:3055
 #: framework/php/legacy/class-framework-widgets.php:3064
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:535
 msgid "Number of photos"
 msgstr "Aantal foto's"
 
+#: framework/php/class-framework-widgets.php:1609
 #: framework/php/legacy/class-framework-widgets.php:1618
 #: framework/php/widgets/widget-classes/class-avia-combo.php:292
 msgid "Number of popular posts"
 msgstr "Aantal populaire berichten"
 
+#: framework/php/class-framework-widgets.php:1616
 #: framework/php/legacy/class-framework-widgets.php:1625
 #: framework/php/widgets/widget-classes/class-avia-combo.php:299
 msgid "Number of recent posts"
@@ -17948,6 +18057,7 @@ msgstr "Aantal rijen in de carrousel"
 msgid "Number of rows of posts in the carousel:"
 msgstr "Aantal rijen berichten in de carrousel:"
 
+#: framework/php/class-framework-widgets.php:1630
 #: framework/php/legacy/class-framework-widgets.php:1639
 #: framework/php/widgets/widget-classes/class-avia-combo.php:313
 msgid "Number of tags for tag cloud"
@@ -17961,7 +18071,7 @@ msgstr "Hotspot genummerd"
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:437
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:483
 msgid "Numbers Color"
-msgstr ""
+msgstr "Getallen kleur"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:323
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:375
@@ -18004,6 +18114,7 @@ msgstr ""
 msgid "On tablets (at a screen width of 989px or lower)"
 msgstr "Op tablets (bij een schermbreedte van 989px of lager)"
 
+#: framework/php/class-framework-widgets.php:1204
 #: framework/php/legacy/class-framework-widgets.php:1213
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:85
 msgid "on Twitter"
@@ -18072,12 +18183,14 @@ msgstr "Samenvatting en Lees meer-link"
 msgid "Only one toggle open at a time (Accordion Mode)"
 msgstr "Alleen een toggle open per keer (Accordeon Modus)"
 
+#: framework/php/class-framework-widgets.php:2358
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:368
 #: framework/php/legacy/class-framework-widgets.php:2367
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:576
 msgid "Only open Google Maps in new window"
 msgstr "Open Google Maps alleen in een nieuw venster"
 
+#: framework/php/class-framework-widgets.php:537
 #: framework/php/legacy/class-framework-widgets.php:546
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:416
 msgid "Only open the Facebook page - no data are sent"
@@ -18118,6 +18231,7 @@ msgstr "Alleen titel"
 msgid "Only Title + Read More Link"
 msgstr "Titel en Lees meer-link"
 
+#: framework/php/class-framework-widgets.php:2929
 #: framework/php/legacy/class-framework-widgets.php:2938
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:388
 msgid "Only visible for admins:"
@@ -18147,11 +18261,13 @@ msgid ""
 msgstr ""
 "Open groter formaat van thumbnail in een lightbox (kies eerst een afbeelding)"
 
+#: framework/php/class-framework-widgets.php:242
 #: framework/php/legacy/class-framework-widgets.php:251
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:53
 msgid "Open Facebook page now"
 msgstr "Ga naar de Facebook pagina"
 
+#: framework/php/class-framework-widgets.php:1942
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:386
 #: framework/php/legacy/class-framework-widgets.php:1951
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:104
@@ -18225,6 +18341,7 @@ msgstr "Openen Instagram in een nieuw venster"
 msgid "Open Link in new Window?"
 msgstr "Open link in een nieuw venster?"
 
+#: framework/php/class-framework-widgets.php:3089
 #: framework/php/legacy/class-framework-widgets.php:3098
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:569
 msgid "Open links in"
@@ -18368,6 +18485,7 @@ msgstr "Sorteren op"
 msgid "Orientation"
 msgstr "Oriëntatie"
 
+#: framework/php/class-framework-widgets.php:3086
 #: framework/php/legacy/class-framework-widgets.php:3095
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:566
 msgid "Original"
@@ -18862,6 +18980,7 @@ msgstr ""
 msgid "Please fill in all required fields."
 msgstr "Vul alle vereiste velden in."
 
+#: framework/php/class-framework-widgets.php:2414
 #: framework/php/class-gmaps.php:191
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:38
 #: framework/php/legacy/class-framework-widgets.php:2423
@@ -19041,11 +19160,13 @@ msgstr "Plugin details"
 msgid "Pop up"
 msgstr "Pop-up"
 
+#: framework/php/class-framework-widgets.php:1515
 #: framework/php/legacy/class-framework-widgets.php:1524
 #: framework/php/widgets/widget-classes/class-avia-combo.php:166
 msgid "Popular"
 msgstr "Populair"
 
+#: framework/php/class-framework-widgets.php:1602
 #: framework/php/legacy/class-framework-widgets.php:1611
 #: framework/php/widgets/widget-classes/class-avia-combo.php:49
 msgid "Popular posts"
@@ -19176,6 +19297,7 @@ msgstr "Postcode"
 msgid "Postcode"
 msgstr "Postcode"
 
+#: framework/php/class-framework-widgets.php:2289
 #: framework/php/legacy/class-framework-widgets.php:2298
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:507
 msgid "Postcode:"
@@ -19523,7 +19645,7 @@ msgstr "Willekeurig"
 #: includes/loop-page.php:34 includes/loop-portfolio-single.php:34
 #: framework/php/function-set-avia-frontend.php:1817
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:729
-#: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1126
+#: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1132
 msgid "Read more"
 msgstr "Lees meer"
 
@@ -19548,11 +19670,13 @@ msgid ""
 "reCAPTCHA version in transient differs from selected version in element."
 msgstr "reCAPTCHA-versie verschilt van geselecteerde versie in element."
 
+#: framework/php/class-framework-widgets.php:1526
 #: framework/php/legacy/class-framework-widgets.php:1535
 #: framework/php/widgets/widget-classes/class-avia-combo.php:177
 msgid "Recent"
 msgstr "Recent"
 
+#: framework/php/class-framework-widgets.php:1603
 #: framework/php/legacy/class-framework-widgets.php:1612
 #: framework/php/widgets/widget-classes/class-avia-combo.php:50
 msgid "Recent posts"
@@ -19639,11 +19763,13 @@ msgstr "Redirect naar de zoekresultaten pagina"
 msgid "Redo"
 msgstr "Doe opnieuw"
 
+#: framework/php/class-framework-widgets.php:1349
 #: framework/php/legacy/class-framework-widgets.php:1358
 #: framework/php/widgets/widget-classes/class-avia-partner.php:172
 msgid "Referal URL 2:"
 msgstr "Referentie URL 2:"
 
+#: framework/php/class-framework-widgets.php:1340
 #: framework/php/legacy/class-framework-widgets.php:1349
 #: framework/php/widgets/widget-classes/class-avia-partner.php:158
 msgid "Referal URL:"
@@ -19845,7 +19971,7 @@ msgstr "Responsief (gekozen door Google API)"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:825
 msgid "Responsive Break Points"
-msgstr ""
+msgstr "Responsieve breekpunten"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2671
 #: includes/admin/option_tabs/avia_performance.php:405
@@ -20074,11 +20200,11 @@ msgstr ""
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:116
 msgid "RSS Feed URL:"
-msgstr ""
+msgstr "RSS feed URL:"
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:26
 msgid "RSS Link and Twitter Account"
-msgstr ""
+msgstr "RSS Link en Twitter account"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1057
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:970
@@ -20589,12 +20715,16 @@ msgstr ""
 msgid ""
 "Select a custom color for your description here. Leave blank to use default."
 msgstr ""
+"Selecteer hier een aangepaste kleur voor uw beschrijving. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:427
 msgid ""
 "Select a custom color for your event title here (if needed). Leave blank to "
 "use default."
 msgstr ""
+"Selecteer hier een aangepaste kleur voor de titel van uw evenement (indien "
+"nodig). Laat leeg om de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:343
 msgid ""
@@ -20610,6 +20740,8 @@ msgstr ""
 msgid ""
 "Select a custom color for your numbers here. Leave blank to use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor uw getallen. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:506
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1015
@@ -20629,6 +20761,8 @@ msgstr "Kies hier een aangepaste kleur voor uw onderschrift"
 msgid ""
 "Select a custom color for your time units here. Leave blank to use default."
 msgstr ""
+"Selecteer hier een aangepaste kleur voor uw tijdseenheden. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1932
 msgid "Select a Custom Element to lock values"
@@ -20860,26 +20994,31 @@ msgstr "Selecteer een aangepaste lettergrootte voor de subkop."
 #: config-templatebuilder/avia-shortcodes/team/team.php:359
 msgid "Select a custom font size for the team member additional description."
 msgstr ""
+"Kies een aangepaste lettergrootte voor de aanvullende beschrijving van het "
+"teamlid."
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:339
 msgid "Select a custom font size for the team member job description."
 msgstr ""
+"Kies een aangepaste lettergrootte voor de functiebeschrijving van het "
+"teamlid."
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:319
 msgid "Select a custom font size for the team member name."
-msgstr ""
+msgstr "Kies een aangepaste lettergrootte voor de naam van het teamlid."
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:374
 msgid "Select a custom font size for the testimonial content."
-msgstr ""
+msgstr "Selecteer een aangepaste lettergrootte voor de testimonial-inhoud."
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:334
 msgid "Select a custom font size for the testimonial name."
-msgstr ""
+msgstr "Kies een aangepaste lettergrootte voor de naam van de testimonial."
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:354
 msgid "Select a custom font size for the testimonial subtitle."
 msgstr ""
+"Kies een aangepaste lettergrootte voor de ondertitel van de testimonial."
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:434
 msgid "Select a custom font size for the text."
@@ -20915,6 +21054,8 @@ msgid ""
 "Select a custom font size for the toggle title. Using non default values "
 "might need CSS styling."
 msgstr ""
+"Kies een aangepaste lettergrootte voor de titel van de toggle. Het gebruik "
+"van niet-standaard waarden kan CSS-styling nodig hebben."
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:421
 msgid "Select a custom height for the search input and button"
@@ -21070,11 +21211,11 @@ msgstr "Selecteer een stijl voor de kop"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2407
 msgid "Select a heading tag for this element."
-msgstr ""
+msgstr "Selecteer een &lt;H&gt;-tag voor dit element."
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:645
 msgid "Select a html tag for the toggle titles of this element."
-msgstr ""
+msgstr "Selecteer een html tag voor de toggle titels van dit element."
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:310
 msgid "Select a mailchimp list..."
@@ -21157,6 +21298,7 @@ msgstr ""
 "altijd werken zoals verwacht door de structuur van de lay-out (bijv. voor "
 "volledig-breedte elementen). Dit is geen bug."
 
+#: framework/php/class-framework-widgets.php:4135
 #: framework/php/legacy/class-framework-widgets.php:4144
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:214
 msgid "Select a style"
@@ -21327,6 +21469,7 @@ msgstr ""
 "door voordat u wijzigingen aanbrengt. U kunt ook de filter avf_font_display "
 "gebruiken."
 
+#: framework/php/class-framework-widgets.php:4115
 #: framework/php/legacy/class-framework-widgets.php:4124
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:191
 msgid "Select headlines to include:"
@@ -22881,6 +23024,8 @@ msgstr ""
 msgid ""
 "Set the screen width when cells in a row should switch to fullwidth (or 50%)"
 msgstr ""
+"Stel de schermbreedte in wanneer cellen in een rij moeten omschakelen naar "
+"volle breedte (of 50%)"
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:204
 msgid "Set the screen width when cells in this row should switch to full width"
@@ -23044,7 +23189,7 @@ msgstr "Winkel opties"
 
 #: includes/admin/register-widget-area.php:38
 msgid "Shop Overview Page"
-msgstr ""
+msgstr "Winkel overzicht pagina"
 
 #: config-woocommerce/config-356.php:1874 config-woocommerce/config.php:2286
 msgid "Shopping Cart"
@@ -23294,6 +23439,7 @@ msgstr "Toon details"
 msgid "Show empty Cells"
 msgstr "Toon lege cellen"
 
+#: framework/php/class-framework-widgets.php:535
 #: framework/php/legacy/class-framework-widgets.php:544
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:414
 msgid "Show Facebook page widget &quot;Share/Like&quot; directly"
@@ -23313,6 +23459,7 @@ msgstr "Toon feed header"
 msgid "Show Fullscreen Button (HTML5 videos)"
 msgstr "Toon knop Volledig scherm (HTML5 video's)"
 
+#: framework/php/class-framework-widgets.php:2356
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:366
 #: framework/php/legacy/class-framework-widgets.php:2365
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:574
@@ -23464,6 +23611,7 @@ msgstr "Toon miniatuur en berichttitel standaard"
 msgid "Show thumbnails and display post title by tooltip"
 msgstr "Toon miniaturen en geef de berichttitel weer in een tooltip"
 
+#: framework/php/class-framework-widgets.php:1111
 #: framework/php/legacy/class-framework-widgets.php:1120
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:349
 msgid "show title only"
@@ -23504,11 +23652,11 @@ msgstr "Zijbalk"
 
 #: includes/admin/register-widget-area.php:82
 msgid "Sidebar Archives"
-msgstr ""
+msgstr "Zijbalk archieven"
 
 #: includes/admin/register-widget-area.php:18
 msgid "Sidebar Blog"
-msgstr ""
+msgstr "Zijbalk blog"
 
 #: includes/admin/option_tabs/avia_menu.php:298
 msgid "Sidebar Flyout Menu (Classic)"
@@ -23540,7 +23688,7 @@ msgstr "Zijbalk op mobiele telefoons"
 
 #: includes/admin/register-widget-area.php:27
 msgid "Sidebar Pages"
-msgstr ""
+msgstr "Zijbalk pagina's"
 
 #: includes/admin/option_tabs/avia_sidebars.php:119
 msgid "Sidebar Separator Styling"
@@ -23566,7 +23714,7 @@ msgstr "Zilver"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:174
 msgid "Simple"
-msgstr ""
+msgstr "Eenvoudig"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:375
 msgid "Simple background color"
@@ -23697,7 +23845,7 @@ msgstr ""
 
 #: includes/admin/register-widget-area.php:47
 msgid "Single Product Pages"
-msgstr ""
+msgstr "Enkel-product pagina's"
 
 #: includes/admin/option_tabs/avia_google.php:177
 msgid "Site Key Version 2"
@@ -23947,6 +24095,7 @@ msgid "slim"
 msgstr "Klein"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:406
+#: framework/php/class-framework-widgets.php:3084
 #: includes/admin/register-admin-option-values.php:148
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:503
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:287
@@ -24385,11 +24534,13 @@ msgstr "Start bij laden van pagina"
 msgid "State"
 msgstr "Status"
 
+#: framework/php/class-framework-widgets.php:2285
 #: framework/php/legacy/class-framework-widgets.php:2294
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:503
 msgid "State:"
 msgstr "Staat:"
 
+#: framework/php/class-framework-widgets.php:565
 #: framework/php/legacy/class-framework-widgets.php:574
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:444
 msgid "Static like count:"
@@ -24448,6 +24599,7 @@ msgstr "sla de unieke ID op voor het element"
 msgid "Street address"
 msgstr "Adres"
 
+#: framework/php/class-framework-widgets.php:2277
 #: framework/php/legacy/class-framework-widgets.php:2286
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:495
 msgid "Street Address:"
@@ -24618,6 +24770,7 @@ msgstr "Verzenden"
 msgid "Submit Button Label"
 msgstr "Label verzendknop"
 
+#: framework/php/class-framework-widgets.php:1210
 #: framework/php/legacy/class-framework-widgets.php:1219
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2402
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:46
@@ -24771,7 +24924,7 @@ msgstr "Tabel bouwer"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:116
 msgid "Table can only be rendered in frontend."
-msgstr ""
+msgstr "De tabel kan alleen in de front-end worden weergegeven."
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:277
 msgid "Table Caption"
@@ -24783,7 +24936,7 @@ msgstr "Tabel opmaak"
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:34
 msgid "Table of Contents"
-msgstr ""
+msgstr "Inhoudsopgave"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:226
 msgid "Table Purpose"
@@ -24809,7 +24962,7 @@ msgstr "Tabkaarten"
 
 #: framework/php/widgets/widget-classes/class-avia-combo.php:249
 msgid "Tabs are only rendered in frontend."
-msgstr ""
+msgstr "Tabkaarten kunnen alleen in de front-end worden weergegeven."
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:80
 msgid "Tabs Item"
@@ -24817,7 +24970,7 @@ msgstr "Tabkaarten element"
 
 #: framework/php/widgets/widget-classes/class-avia-combo.php:247
 msgid "Tabs:"
-msgstr ""
+msgstr "Tabkaarten:"
 
 #: config-woocommerce/config-356.php:662 config-woocommerce/config.php:815
 msgid "Tag"
@@ -24827,11 +24980,13 @@ msgstr "Tag"
 msgid "Tag Archive for:"
 msgstr "Tag Archief van:"
 
+#: framework/php/class-framework-widgets.php:1605
 #: framework/php/legacy/class-framework-widgets.php:1614
 #: framework/php/widgets/widget-classes/class-avia-combo.php:52
 msgid "Tag cloud"
 msgstr "Tag cloud"
 
+#: framework/php/class-framework-widgets.php:1549
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:505
 #: framework/php/legacy/class-framework-widgets.php:1558
 #: framework/php/widgets/widget-classes/class-avia-combo.php:200
@@ -24868,7 +25023,7 @@ msgstr "Teamlid beschrijving letterkleur"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:358
 msgid "Team Member Description Font Sizes"
-msgstr ""
+msgstr "Teamlid beschrijving lettergroottes"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:406
 msgid "Team Member Font Color"
@@ -24885,6 +25040,7 @@ msgstr "Teamlid element"
 #: config-templatebuilder/avia-shortcodes/team/team.php:338
 msgid "Team Member Job Font Sizes"
 msgstr ""
+"Teamlid functie lettergroottes\n"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:211
 #| msgid "Team Member Job title"
@@ -24901,7 +25057,7 @@ msgstr "Naam teamlid"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:318
 msgid "Team Member Name Font Sizes"
-msgstr ""
+msgstr "Teamlid naam lettergroottes"
 
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:132
 msgid ""
@@ -24938,7 +25094,7 @@ msgstr "Testimonial door"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:373
 msgid "Testimonial Content Font Sizes"
-msgstr ""
+msgstr "Lettergrootte van testimonial-inhoud"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:285
 msgid "Testimonial Grid"
@@ -24958,7 +25114,7 @@ msgstr "Testimonial element"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:333
 msgid "Testimonial Name Font Sizes"
-msgstr ""
+msgstr "Testimonial naam lettergroottes"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:286
 msgid "Testimonial Slider (Compact)"
@@ -24974,7 +25130,7 @@ msgstr "Testimonial stijl"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:353
 msgid "Testimonial Subtitle Font Sizes"
-msgstr ""
+msgstr "Testimonial subtitel lettergroottes"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:97
 msgid "Testimonials"
@@ -25171,6 +25327,8 @@ msgid ""
 "The cells in a row will switch to 50% width or fullwidth at these screen "
 "widths"
 msgstr ""
+"De cellen in een rij gaan naar 50% breedte of volle breedte bij deze "
+"schermbreedtes"
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:212
 msgid "The cells in this row will switch to fullwidth at this screen width "
@@ -25574,6 +25732,8 @@ msgstr ""
 "De geldige toegangstijd tot Envato is verlopen. Log opnieuw in met uw Envato-"
 "gebruikersnaam. Bedankt."
 
+#: framework/php/class-framework-widgets.php:3110
+#: framework/php/class-framework-widgets.php:3120
 #: framework/php/legacy/class-framework-widgets.php:3119
 #: framework/php/legacy/class-framework-widgets.php:3129
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:590
@@ -25858,6 +26018,7 @@ msgstr ""
 "Dit element is uitgeschakeld in uw thema-opties. U kunt het inschakelen in "
 "Enfold -&raquo; Thema Extensies -&raquo; Leaflet kaarten."
 
+#: framework/php/class-framework-widgets.php:2378
 #: framework/php/legacy/class-framework-widgets.php:2387
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:596
 msgid "This element is disabled in frontend with theme option"
@@ -26085,6 +26246,7 @@ msgid "Those icons can then be used in your Layout Builder."
 msgstr "Deze iconen kunnen dan gebruikt worden in uw Lay-out builder"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:286
+#: framework/php/class-framework-widgets.php:3083
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:384
 #: framework/php/legacy/class-framework-widgets.php:3092
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:563
@@ -26103,6 +26265,7 @@ msgstr "Thumbnail fade-in effect"
 msgid "Thumbnail Image"
 msgstr "Thumbnail afbeelding"
 
+#: framework/php/class-framework-widgets.php:3081
 #: framework/php/legacy/class-framework-widgets.php:3090
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:561
 msgid "Thumbnail size"
@@ -26131,7 +26294,7 @@ msgstr "Verschuiving ondoorzichtigheid"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:438
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:448
 msgid "Time Unit Color"
-msgstr ""
+msgstr "Tijdseenheid kleur"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:376
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:375
@@ -26175,6 +26338,7 @@ msgstr ""
 msgid "Timezone"
 msgstr "Tijdzone"
 
+#: framework/php/class-framework-widgets.php:3047
 #: includes/admin/register-portfolio.php:146
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:183
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:333
@@ -26259,6 +26423,12 @@ msgid "Title, Excerpt, Read More Button"
 msgstr "Titel, samenvatting, Lees meer knop"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:1032
+#: framework/php/class-framework-widgets.php:523
+#: framework/php/class-framework-widgets.php:662
+#: framework/php/class-framework-widgets.php:1079
+#: framework/php/class-framework-widgets.php:1334
+#: framework/php/class-framework-widgets.php:2269
+#: framework/php/class-framework-widgets.php:4104
 #: framework/php/legacy/class-framework-widgets.php:532
 #: framework/php/legacy/class-framework-widgets.php:671
 #: framework/php/legacy/class-framework-widgets.php:1088
@@ -26281,11 +26451,12 @@ msgstr "Titel:"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:836
 msgid "To 50% at a screen width of 767px or lower"
-msgstr ""
+msgstr "Tot 50% bij een schermbreedte van 767px of lager"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:835
 msgid "To 50% at a screen width of 989px, to fullwidth on 767px"
 msgstr ""
+"Naar 50% op een schermbreedte van 989px, naar volledige breedte op 767px"
 
 #: includes/admin/option_tabs/avia_cookie.php:870
 msgid "To add a toggle for that cookie use the following shortcodes:"
@@ -26322,11 +26493,11 @@ msgstr "Te weinig parameters verstrekt - een download is niet mogelijk."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:833
 msgid "To fullwidth at a screen width of 767px or lower"
-msgstr ""
+msgstr "Naar volledige breedte bij een schermbreedte van 767px of lager"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:834
 msgid "To fullwidth at a screen width of 989px or lower"
-msgstr ""
+msgstr "Naar volledige breedte bij een schermbreedte van 989px of lager"
 
 #: includes/admin/option_tabs/avia_styling.php:587
 msgid ""
@@ -26360,6 +26531,7 @@ msgid "To reflect your cookie selections we need to reload the page."
 msgstr ""
 "Om uw cookieselecties weer te geven, moeten we de pagina opnieuw laden."
 
+#: framework/php/class-framework-widgets.php:1210
 #: framework/php/legacy/class-framework-widgets.php:1219
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:94
 msgid "to RSS Feed"
@@ -26448,7 +26620,7 @@ msgstr "Hier komt de inhoud van de toggle"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:581
 msgid "Toggle Font Sizes"
-msgstr ""
+msgstr "Toggle lettergroottes"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:768
 msgid "Toggle Sorting Tags"
@@ -26461,11 +26633,11 @@ msgstr "Titel toggle"
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:644
 #, php-format
 msgid "Toggle Title Tag (Theme Default is &lt;%s&gt;)"
-msgstr ""
+msgstr "Toggle titel tag (thema standaard is &lt;%s&gt;)"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:656
 msgid "Toggle Titles"
-msgstr ""
+msgstr "Toggle titels"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:292
 msgid "Toggles"
@@ -26483,6 +26655,7 @@ msgstr "Het token om het formulier te valideren is reeds verlopen."
 msgid "Token to validate form is not valid."
 msgstr "Het token om het formulier te valideren is ongeldig."
 
+#: framework/php/class-framework-widgets.php:2411
 #: framework/php/class-gmaps.php:188
 #: framework/php/legacy/class-framework-widgets.php:2420
 msgid ""
@@ -26768,6 +26941,7 @@ msgstr "Twitter link "
 msgid "Twitter Profile Link"
 msgstr "Twitter profiellink"
 
+#: framework/php/class-framework-widgets.php:1239
 #: framework/php/legacy/class-framework-widgets.php:1248
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:117
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:157
@@ -26791,6 +26965,7 @@ msgstr "Typografie"
 msgid "Unable to communicate with gRECAPTCHA: <br /><br />%s"
 msgstr "Kon niet communiceren met gRECAPTCHA: %s"
 
+#: framework/php/class-framework-widgets.php:3233
 #: framework/php/legacy/class-framework-widgets.php:3242
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:712
 msgid "Unable to communicate with Instagram."
@@ -26800,6 +26975,7 @@ msgstr "Niet in staat om te communiceren met Instagram."
 msgid "Unable to copy the file content."
 msgstr "Kon de inhoud van het bestand niet kopiëren."
 
+#: framework/php/class-framework-widgets.php:3709
 #: framework/php/legacy/class-framework-widgets.php:3718
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:1183
 #, php-format
@@ -26810,7 +26986,7 @@ msgstr ""
 "Kan geen cache-map \"%s\" aanmaken. Bestanden worden direct vanuit Instagram "
 "geladen"
 
-#: framework/php/function-set-avia-backend.php:1145
+#: framework/php/function-set-avia-backend.php:1157
 #, php-format
 msgid "Unable to create folder %s."
 msgstr "Kon de map %s niet aanmaken."
@@ -26824,7 +27000,7 @@ msgstr "Kan de download map <pre>%s</pre> voor demo bestanden niet aanmaken."
 msgid "Unable to create the file."
 msgstr "Kon het bestand niet aanmaken."
 
-#: framework/php/function-set-avia-backend.php:1152
+#: framework/php/function-set-avia-backend.php:1164
 #, php-format
 msgid "Unable to delete file %s."
 msgstr "Kon het bestand %s niet verwijderen."
@@ -26833,7 +27009,7 @@ msgstr "Kon het bestand %s niet verwijderen."
 msgid "Unable to extract the file."
 msgstr "Kon het bestand niet uitpakken."
 
-#: framework/php/function-set-avia-backend.php:1158
+#: framework/php/function-set-avia-backend.php:1170
 #, php-format
 msgid "Unable to rename/move file %s to %s"
 msgstr "Kon bestand %s niet hernoemen/verplaatsen naar %s"
@@ -26898,6 +27074,7 @@ msgstr "Onbekend aangepast element Type"
 msgid "Unknown element name"
 msgstr "Onbekende element naam"
 
+#: framework/php/class-framework-widgets.php:3242
 #: framework/php/class-grecaptcha.php:581
 #: framework/php/legacy/class-framework-widgets.php:3251
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:721
@@ -26941,6 +27118,7 @@ msgstr "Update nu!"
 msgid "Update your Theme from the WordPress Dashboard"
 msgstr "Update uw thema via het WordPress Dashboard"
 
+#: framework/php/class-framework-widgets.php:502
 #: framework/php/legacy/class-framework-widgets.php:511
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:381
 msgid "Upload a banner image or enter the URL"
@@ -26954,11 +27132,13 @@ msgstr "Upload een achtergrondafbeelding voor uw"
 msgid "Upload a BG image for your Body"
 msgstr "Upload een achtergrondafbeelding voor de body"
 
+#: framework/php/class-framework-widgets.php:2248
 #: framework/php/legacy/class-framework-widgets.php:2257
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:466
 msgid "Upload a custom marker icon or enter the URL"
 msgstr "Upload een aangepast markeringsicoon of voer de URL in"
 
+#: framework/php/class-framework-widgets.php:2258
 #: framework/php/legacy/class-framework-widgets.php:2267
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:476
 msgid ""
@@ -27003,6 +27183,7 @@ msgstr ""
 "Upload of selecteer een logo afbeelding, of voer een URL of ID in van een "
 "bestaand bestand. Als u niets invult wordt het Enfold-logo gebruikt."
 
+#: framework/php/class-framework-widgets.php:512
 #: framework/php/legacy/class-framework-widgets.php:521
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:391
 msgid "Upload a logo or enter the URL"
@@ -27073,7 +27254,7 @@ msgstr "Hoofdletters"
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:241
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: includes/helper-privacy.php:624
 msgid "Usage unknown"
@@ -27470,11 +27651,13 @@ msgstr "Gebruik afbeelding"
 msgid "Use Image as banner"
 msgstr "Gebruik afbeelding als banner"
 
+#: framework/php/class-framework-widgets.php:507
 #: framework/php/legacy/class-framework-widgets.php:516
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:386
 msgid "Use image as banner"
 msgstr "Gebruik afbeelding als banner"
 
+#: framework/php/class-framework-widgets.php:2253
 #: framework/php/legacy/class-framework-widgets.php:2262
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:471
 msgid "Use image as custom marker icon"
@@ -27484,6 +27667,7 @@ msgstr "Gebruik afbeelding als aangepast markerings-icoon"
 msgid "Use Image as Favicon"
 msgstr "Gebruik afbeelding als favicon"
 
+#: framework/php/class-framework-widgets.php:2263
 #: framework/php/legacy/class-framework-widgets.php:2272
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:481
 msgid "Use image as Google Maps fallback image"
@@ -27495,6 +27679,7 @@ msgstr "Gebruik afbeelding als Google Maps backup afbeelding"
 msgid "Use Image as logo"
 msgstr "Gebruik afbeelding als logo"
 
+#: framework/php/class-framework-widgets.php:517
 #: framework/php/legacy/class-framework-widgets.php:526
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:396
 msgid "Use image as logo"
@@ -27674,12 +27859,14 @@ msgstr ""
 "Gebruiker moet accepteren en moet zich aanmelden, alleen essentiële cookies "
 "geselecteerd"
 
+#: framework/php/class-framework-widgets.php:536
 #: framework/php/legacy/class-framework-widgets.php:545
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:415
 msgid "User must accept to show Facebook page widget &quot;Share/Like&quot;"
 msgstr ""
 "Gebruiker moet accepteren om Facebookwidget &quot;Vind-ik-leuk&quot; te tonen"
 
+#: framework/php/class-framework-widgets.php:2357
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:367
 #: framework/php/legacy/class-framework-widgets.php:2366
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:575
@@ -27694,6 +27881,7 @@ msgstr "Gebruikersnaam"
 msgid "User Name:"
 msgstr "Gebruikersnaam:"
 
+#: framework/php/class-framework-widgets.php:3048
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:656
 #: framework/php/legacy/class-framework-widgets.php:3057
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:528
@@ -27708,7 +27896,7 @@ msgstr ""
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:1033
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:489
 msgid "Username:"
-msgstr ""
+msgstr "Gebruikersnaam:"
 
 #: includes/admin/option_tabs/avia_cookie.php:281
 msgid ""
@@ -28521,6 +28709,7 @@ msgstr "Waar moeten de zoekresultaten worden getoond?"
 msgid "Which categories should be used for the blog?"
 msgstr "Welke categorieën voor het blog te gebruiken"
 
+#: framework/php/class-framework-widgets.php:1059
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:201
 #: framework/php/legacy/class-framework-widgets.php:1068
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:296
@@ -28605,8 +28794,9 @@ msgstr "Widget gebaseerde footer opties"
 
 #: framework/php/widgets/base-classes/class-avia-widget.php:100
 msgid "Widget content only rendered in frontend."
-msgstr ""
+msgstr "Inhoud van de widget wordt alleen in de front-end weergegeven."
 
+#: framework/php/class-framework-widgets.php:1962
 #: framework/php/legacy/class-framework-widgets.php:1971
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:139
 msgid ""
@@ -28619,6 +28809,7 @@ msgstr ""
 msgid "Widget Links"
 msgstr "Widget links"
 
+#: framework/php/class-framework-widgets.php:4032
 #: framework/php/legacy/class-framework-widgets.php:4041
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:38
 msgid ""
@@ -28754,6 +28945,7 @@ msgstr ""
 msgid "Working examples:"
 msgstr "Werkende voorbeelden:"
 
+#: framework/php/class-framework-widgets.php:3103
 #: framework/php/legacy/class-framework-widgets.php:3112
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:583
 msgid ""
@@ -29270,6 +29462,7 @@ msgstr ""
 "aangepaste ruimte selecteren (niet gebruikt wanneer breekpunt over de volle "
 "breedte actief is)"
 
+#: framework/php/class-framework-widgets.php:1060
 #: framework/php/legacy/class-framework-widgets.php:1069
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:297
 msgid "You can select multiple categories here"
@@ -29303,7 +29496,6 @@ msgstr ""
 "Google Webkit Fonts</a>."
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:469
-#, fuzzy
 #| msgid ""
 #| "You can use the default font colors and styles or use a custom font color "
 #| "for the element (in case you use a background image for example)"
@@ -29388,6 +29580,7 @@ msgstr ""
 msgid "You need to remove at least one cell"
 msgstr "U dient minimaal 1 cel te verwijderen"
 
+#: framework/php/class-framework-widgets.php:3740
 #: framework/php/legacy/class-framework-widgets.php:3749
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:1214
 msgid "You need to specify an Instagram username."
@@ -29512,6 +29705,7 @@ msgstr "Zoom besturing"
 msgid "Zoom Level"
 msgstr "Zoomniveau"
 
+#: framework/php/class-framework-widgets.php:2312
 #: framework/php/legacy/class-framework-widgets.php:2321
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:530
 msgid "Zoom Level:"
