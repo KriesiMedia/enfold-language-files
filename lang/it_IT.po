@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Enfold v4.9-dev-1a\n"
+"Project-Id-Version: Enfold v4.9.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 15:59+0100\n"
-"PO-Revision-Date: 2022-02-21 11:28+0100\n"
+"POT-Creation-Date: 2022-04-01 18:21+0200\n"
+"PO-Revision-Date: 2022-04-01 18:22+0200\n"
 "Last-Translator: Luigi Circello <luigi.circello@hotmail.it>\n"
 "Language-Team: BigBatT (info@luigicircello.it\n"
 "Language: it_IT\n"
@@ -329,7 +329,7 @@ msgstr "Titolo del widget:"
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:62
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:192
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:122
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:863
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:865
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:117
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:546
 #: config-templatebuilder/avia-shortcodes/image/image.php:62
@@ -665,7 +665,7 @@ msgstr "Usa predefinito"
 # @ avia_framework
 # @ woothemes
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:192
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:363
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:382
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:287
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:203
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:277
@@ -744,7 +744,7 @@ msgstr "Dal più recente al più datato"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:320
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:334
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:299
-#: config-woocommerce/config.php:1527
+#: config-woocommerce/config.php:1542
 msgid "Random"
 msgstr "Casuale"
 
@@ -1489,13 +1489,13 @@ msgstr ""
 "vostra chiave API per aggiornare i dati della lista qui presentata."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:725
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:744
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:645
 msgid "Load more"
 msgstr "Carica di più"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:835
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:854
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1393
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1395
@@ -1507,21 +1507,21 @@ msgid "by"
 msgstr "da"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:961
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:980
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:874
 msgid "image with no title"
 msgstr "immagine senza titolo"
 
 # @ LayerSlider
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:964
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:983
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:877
 #, php-format
 msgid "image %s"
 msgstr "immagine %s"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1057
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1076
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:970
 msgid "Sale!"
 msgstr "Offerta!"
@@ -1607,7 +1607,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:84
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:78
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:138
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:884
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:886
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:133
 #: config-templatebuilder/avia-shortcodes/image/image.php:78
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:89
@@ -1691,7 +1691,7 @@ msgstr "Stile"
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:105
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:100
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:164
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:907
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:909
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:156
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:562
 #: config-templatebuilder/avia-shortcodes/image/image.php:100
@@ -2337,10 +2337,10 @@ msgstr "Seleziona un colore personalizzato per il tuo lettore qui"
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:724
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:381
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:265
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:555
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:593
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1125
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1164
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:557
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:595
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1127
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1166
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:386
 #: config-templatebuilder/avia-shortcodes/section/section.php:339
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:492
@@ -4208,7 +4208,7 @@ msgstr "Padding-sinistro"
 # @ LayerSlider
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:584
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:249
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:450
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:452
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:356
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:258
 msgid "Padding"
@@ -4280,8 +4280,8 @@ msgstr "Bottom-Left-Radius"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:663
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:270
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:711
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1269
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:713
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1271
 #: config-templatebuilder/avia-shortcodes/section/section.php:635
 msgid "Borders"
 msgstr "Bordi"
@@ -4303,8 +4303,8 @@ msgid "Column Box-Shadow Width"
 msgstr "Casella colonna-larghezza ombreggiatura"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:708
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:761
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1318
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:763
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1320
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:401
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:366
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:408
@@ -4331,10 +4331,10 @@ msgstr "Seleziona il tipo di sfondo per la colonna."
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:725
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:266
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:556
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:594
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1126
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1165
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:558
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:596
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1128
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1167
 #: config-templatebuilder/avia-shortcodes/section/section.php:340
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:493
 msgid "Background Gradient"
@@ -4439,7 +4439,7 @@ msgstr "Evidenziare"
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:434
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:131
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:311
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:795
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:797
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:503
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:521
 #: config-templatebuilder/avia-shortcodes/image/image.php:436
@@ -4629,7 +4629,7 @@ msgid "edit"
 msgstr "modifica"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:1569
-#: config-templatebuilder/avia-shortcodes/section/section.php:1159
+#: config-templatebuilder/avia-shortcodes/section/section.php:1171
 msgid "Dummy Content to demonstrate &quot;Bring To Front&quot; option"
 msgstr "Contenuto fittizio per dimostrare l'opzione \"Porta in primo piano\""
 
@@ -4837,7 +4837,7 @@ msgstr "Aggiungi/Modifica Elemento modulo Contatto"
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:214
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:259
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:590
-#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:1521
+#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:1536
 msgid "Name"
 msgstr "Nome"
 
@@ -5028,10 +5028,10 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:153
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:274
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:308
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:466
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:541
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1036
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1111
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:468
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:543
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1038
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1113
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:318
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:366
 #: config-templatebuilder/avia-shortcodes/image/image.php:334
@@ -5078,9 +5078,9 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2188
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2361
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2520
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2654
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2669
-#: config-woocommerce/admin-options.php:293 config-woocommerce/config.php:1519
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2666
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2681
+#: config-woocommerce/admin-options.php:293 config-woocommerce/config.php:1534
 #: framework/php/font-management/class-avia-type-fonts.php:906
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:196
 #: includes/admin/option_tabs/avia_menu.php:281
@@ -5289,7 +5289,7 @@ msgstr "Scuro Trasparente"
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:622
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:486
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:458
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1346
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1348
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:700
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:503
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:836
@@ -5457,8 +5457,8 @@ msgstr "Convalidare Numero"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:705
-msgid "Valid Positiv Number including 0"
-msgstr "Numero positivo valido, compreso 0"
+msgid "Valid Positive Number including 0"
+msgstr "Numero positivo valido incluso 0"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:710
@@ -5520,8 +5520,8 @@ msgstr "Selezionare il tipo di titolo che si desidera visualizzare."
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:780
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:785
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1384
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1393
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1386
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1395
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:721
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:730
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:610
@@ -5767,10 +5767,10 @@ msgstr "Margine e riempimento"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:328
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:267
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:459
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:525
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1029
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1095
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:461
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:527
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1031
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1097
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:311
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:350
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:730
@@ -5789,10 +5789,10 @@ msgstr "Colori Font"
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:329
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:268
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:302
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:460
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:535
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1030
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1105
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:462
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:537
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1032
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1107
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:312
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:529
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:417
@@ -5815,10 +5815,10 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:336
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:275
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:309
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:467
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:542
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1037
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1112
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:469
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:544
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1039
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1114
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:319
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:536
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:424
@@ -5852,14 +5852,14 @@ msgstr "Definisci colori personalizzati"
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:280
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:291
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:325
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:473
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:485
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:497
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:509
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1043
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1055
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1067
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1079
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:475
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:487
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:499
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:511
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1045
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1057
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1069
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1081
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:325
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:336
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:361
@@ -6012,7 +6012,7 @@ msgstr "Il contenuto dello slide va qui"
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:634
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:330
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:443
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1358
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1360
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:650
 msgid "Title Link?"
 msgstr "Titolo Link?"
@@ -6128,7 +6128,7 @@ msgstr "Visualizza conto alla rovescia per una data specifica"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:658
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:332
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:297
-#: config-woocommerce/config-356.php:1362 config-woocommerce/config.php:1523
+#: config-woocommerce/config-356.php:1362 config-woocommerce/config.php:1538
 msgid "Date"
 msgstr "Data"
 
@@ -7693,14 +7693,14 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:190
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:804
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:806
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:385
 msgid "Mobile Behaviour"
 msgstr "Comportamento mobile"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:191
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:805
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:807
 msgid ""
 "Choose how the cells inside the grid should behave on mobile devices and "
 "small screens"
@@ -8502,7 +8502,7 @@ msgstr "Separatore personalizzato"
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:308
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:478
 #: config-templatebuilder/avia-shortcodes/search/search.php:270
-#: config-woocommerce/config.php:1520
+#: config-woocommerce/config.php:1535
 msgid "Custom"
 msgstr "Personalizzato"
 
@@ -8861,8 +8861,8 @@ msgstr "Nessuna riquadro intorno al contenuto"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:279
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:484
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1054
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:486
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1056
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:324
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:472
 msgid "Custom Title Font Color"
@@ -8870,8 +8870,8 @@ msgstr "Colore Personalizzato font titolo"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:290
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:508
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1078
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:510
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1080
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:335
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:484
 msgid "Custom Content Font Color"
@@ -8887,10 +8887,10 @@ msgstr "Colori icona"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:314
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:562
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:600
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1132
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1171
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:564
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:602
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1134
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1173
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:387
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:542
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:430
@@ -8950,7 +8950,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:444
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1359
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1361
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:651
 msgid "Do you want to apply a link to the title?"
 msgstr "Volete applicare un link al titolo?"
@@ -9159,12 +9159,20 @@ msgid "Select a custom font size for the icon."
 msgstr ""
 "Selezionare una dimensione di carattere personalizzata per l&rsquo;icona."
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:439
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:435
+msgid ""
+"Important: To set padding to 0 you MUST use 0px or 0% (this is a backwards "
+"compatibility bug)"
+msgstr ""
+"Importante: per impostare il riempimento su 0 è NECESSARIO utilizzare 0px o "
+"0% (questo è un bug di compatibilità con le versioni precedenti)"
+
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:441
 msgid "Items Padding"
 msgstr "Padding elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:440
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:442
 msgid ""
 "Set the padding for the icongrid container. Both pixel and &percnt; based "
 "values are accepted. eg: 30px, 5&percnt;. Leave empty to use theme default."
@@ -9173,175 +9181,175 @@ msgstr ""
 "valori basati su pixel e &percnt;. es: 30px, 5&percnt;. Lasciare vuoto per "
 "usare i valori predefiniti del tema."
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:472
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1042
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:474
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1044
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:521
 msgid "Custom Icon Font Color"
 msgstr "Icona personalizzata colore del carattere"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:496
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1066
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:498
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1068
 msgid "Custom Sub-Title Font Color"
 msgstr "Colore personalizzato sotto-titolo carattere"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:534
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:627
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1104
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1199
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:536
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:629
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1106
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1201
 #: config-templatebuilder/avia-shortcodes/section/section.php:370
 msgid "Background Colors"
 msgstr "Colori di sfondo"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:547
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1117
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:549
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1119
 msgid "Custom Background Front"
 msgstr "Sfondo personalizzato anteriore"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:548
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:586
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1118
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1157
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:550
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:588
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1120
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1159
 msgid "Select the type of background."
 msgstr "Selezionare il tipo di sfondo."
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:561
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1131
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:563
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1133
 msgid "Custom Background Color Front"
 msgstr "Colore di sfondo personalizzato frontale"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:585
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1156
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:587
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1158
 msgid "Custom Background Back / Tooltip"
 msgstr "Sfondo personalizzato indietro/ToolTip"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:599
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1170
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:601
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1172
 msgid "Custom Background Color Back / Tooltip"
 msgstr "Sfondo colore personalizzato dietro/ToolTip"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:651
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1213
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:653
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1215
 msgid "Border Style Item"
 msgstr "Stile bordo elemento"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:652
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1214
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:654
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1216
 msgid "Border Width Item"
 msgstr "Larghezza bordo elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:653
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1215
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:655
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1217
 msgid "Border Color Item"
 msgstr "Colore bordo elemento"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:664
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1226
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:666
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1228
 msgid "Border Style Flipbox (= Backside)"
 msgstr "Stile bordo Flipbox (= lato posteriore)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:665
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1227
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:667
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1229
 msgid "Border Width Flipbox (= Backside)"
 msgstr "Larghezza bordo Flipbox (= lato posteriore)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:666
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1228
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:668
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1230
 msgid "Border Color Flipbox (= Backside)"
 msgstr "Colore bordo Flipbox (= lato posteriore)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:677
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1238
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:679
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1240
 msgid "Border Radius (Front And Flipbox Backside)"
 msgstr "Arrotondamento bordi (anteriore e posteriore Flipbox)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:687
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1247
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:689
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1249
 msgid "Border Style Tooltip"
 msgstr "Stile bordo Tooltip"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:688
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1248
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:690
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1250
 msgid "Border Width Tooltip"
 msgstr "Larghezza bordo Tooltip"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:689
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1249
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:691
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1251
 msgid "Border Color Tooltip"
 msgstr "Colore bordo Tooltip"
 
 # @ woothemes
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:700
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1259
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:702
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1261
 msgid "Border Radius Tooltip"
 msgstr "Arrotondamento bordo Tooltip"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:732
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1291
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:734
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1293
 msgid "Box Shadow Flipbox (= Backside)"
 msgstr "Ombra Flipbox (= lato posteriore)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:733
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1292
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:735
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1294
 msgid "Box Shadow Styling Flipbox (= Backside)"
 msgstr "Stile ombra Flipbox (= lato posteriore)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:734
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1293
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:736
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1295
 msgid "Box Shadow Color Flipbox (= Backside)"
 msgstr "Colore ombra Flipbox (= lato posteriore)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:746
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1304
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:748
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1306
 msgid "Box Shadow Tooltip"
 msgstr "Ombra box Tooltip"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:747
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1305
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:749
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1307
 msgid "Box Shadow Styling Tooltip"
 msgstr "Stile ombra Tooltip"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:748
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1306
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:750
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1308
 msgid "Box Shadow Color Tooltip"
 msgstr "Colore ombra Tooltip"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:776
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:778
 msgid "Rotation Of Flip Box"
 msgstr "Rotazione di Flip Box"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:777
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:779
 msgid "Select the rotation axis for the flip box"
 msgstr "Selezionare l&rsquo;asse di rotazione per il flip box"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:784
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:786
 msgid "Rotate Y-axis"
 msgstr "Ruotare l&rsquo;asse Y"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:785
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:787
 msgid "Rotate X-axis"
 msgstr "Ruotare l&rsquo;asse X"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:811
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:813
 msgid "Change layout on mobile devices"
 msgstr "Modificare il layout sui dispositivi mobili"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:812
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:814
 msgid "Keep selected layout just like on large screens"
 msgstr "Mantieni il layout selezionato come sui grandi schermi"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:817
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:819
 msgid "Mobile Breaking Points"
 msgstr "Punto di rottura cellulari"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:818
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:820
 msgid ""
 "Set the screen width when cells in a row should switch to fullwidth (or 50%)"
 msgstr ""
@@ -9349,11 +9357,11 @@ msgstr ""
 "passare a piena larghezza (o 50%)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:825
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:827
 msgid "Responsive Break Points"
 msgstr "Punti di rottura responsive"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:826
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:828
 msgid ""
 "The cells in a row will switch to 50% width or fullwidth at these screen "
 "widths"
@@ -9361,58 +9369,58 @@ msgstr ""
 "Le celle in una riga passeranno al 50% di larghezza o alla larghezza "
 "completa a queste larghezze di schermo"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:833
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:835
 msgid "To fullwidth at a screen width of 767px or lower"
 msgstr ""
 "Per la larghezza completa ad una larghezza dello schermo di 767px o inferiore"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:834
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:836
 msgid "To fullwidth at a screen width of 989px or lower"
 msgstr ""
 "Per la larghezza completa ad una larghezza dello schermo di 989px o inferiore"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:835
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:837
 msgid "To 50% at a screen width of 989px, to fullwidth on 767px"
 msgstr ""
 "Al 50% ad una larghezza di schermo di 989px, a piena larghezza su 767px"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:836
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:838
 msgid "To 50% at a screen width of 767px or lower"
 msgstr "Al 50% con una larghezza dello schermo di 767px o inferiore"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:959
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:961
 msgid "Grid Item Title"
 msgstr "Titolo elemento griglia"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:960
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:962
 msgid "Enter the grid item title here (Better keep it short)"
 msgstr "Inserire il titolo elemento griglia qui (Meglio tenerlo breve)"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:968
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:970
 msgid "Grid Item Sub-Title"
 msgstr "Sottotitolo elemento griglia"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:969
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:971
 msgid "Enter the grid item sub-title here"
 msgstr "Inserire il sottotitolo elemento griglia qui"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:977
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:979
 msgid "Grid Item Icon"
 msgstr "Icona elemento griglia"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:978
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:980
 msgid "Select an icon for your grid item below"
 msgstr "Selezionare un&rsquo;icona per l'elemento Grid sottostante"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:991
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:993
 msgid "Grid Element Front Content"
 msgstr "Elemento della griglia Contenuto frontale"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1001
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1003
 msgid "Grid Item Content"
 msgstr "Contenuto elemento griglia"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1002
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1004
 msgid ""
 "Enter some content here. Will be used as backside of flipbox or tooltip "
 "popup."
@@ -9420,11 +9428,11 @@ msgstr ""
 "Inserisci qui alcuni contenuti. Sarà utilizzato come retro di flipbox o "
 "popup di tooltip."
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1005
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1007
 msgid "Grid Content goes here"
 msgstr "Il contenuto della griglia va qui"
 
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1014
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1016
 msgid "Grid Element Backside/Tooltip Content"
 msgstr "Contenuto backside/tooltip elemento griglia"
 
@@ -11717,7 +11725,7 @@ msgstr "Ordine decrescente -> Z-A"
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:363
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:326
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:324
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2665
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2677
 msgid "Sorting"
 msgstr "Ordinamento"
 
@@ -19305,65 +19313,65 @@ msgstr "Sotto 479px (Ritratto smartphone)"
 msgid "Text Block Styling"
 msgstr "Stile del blocco di testo"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1511
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1594
 msgid "Blog status of elements is currently not available"
 msgstr "Lo stato  degli elementi del blog non è al momento disponibile"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1522
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1605
 msgid "Post status of elements is currently not available"
 msgstr "Lo stato degli elementi dei post non è al momento disponibile"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1542
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1625
 msgid "No theme shortcodes used in widgets"
 msgstr "Nessun tema codici brevi utilizzati nei widget"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1565
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1648
 msgid "currently updating database"
 msgstr "aggiornamento del database in corso"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1565
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1648
 msgid "is up to date"
 msgstr "è aggiornato"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1569
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1652
 msgid "Shortcode Usage Overview"
 msgstr "Panoramica sull'utilizzo di Shortcode"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1573
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1656
 msgid "General Element Manager Info"
 msgstr "Informazioni generali sulla gestione elementi"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1575
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1658
 msgid "Element Manager Version: "
 msgstr "Versione di Element Manager: "
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1576
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1659
 msgid "Element Manager Update State: "
 msgstr "Stato di aggiornamento di Element Manager: "
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1580
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1663
 msgid "Blog Usage - which elements are used in the blog"
 msgstr "Uso del blog: quali elementi vengono utilizzati nel blog"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1588
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1671
 msgid "Post Usage - which elements are used in this post"
 msgstr "Uso dei Post: quali elementi vengono utilizzati in questo post"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1596
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1679
 msgid "Widget Usage - which elements are used in the sidebar widgets"
 msgstr ""
 "Widget Usage-quali elementi vengono utilizzati nei widget della barra "
 "laterale"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1604
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1687
 msgid "Check State - shows, which elements are recognised or new or in update"
 msgstr ""
 "Verifica stato: mostra quali elementi sono riconosciuti, nuovi o in "
 "aggiornamento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1617
+#: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1700
 msgid "Detailed Shortcode Usage"
 msgstr "Utilizzo shortcode dettagliato"
 
@@ -21899,7 +21907,7 @@ msgstr "Editor di default di Wordpress abilitato"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2905
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2471
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2483
 msgid "Advanced Layout Editor"
 msgstr "Editor avanzato di Layout"
 
@@ -22157,11 +22165,11 @@ msgstr "(SVG personalizzato)"
 msgid "No divider"
 msgstr "Nessun divisore"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:368
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:365
 msgid "Miscellaneous"
 msgstr "Varie"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1106
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1115
 msgid ""
 "It seems you are currently adding some HTML markup or other special "
 "characters. Once all HTML tags are closed the preview will be available "
@@ -22174,82 +22182,82 @@ msgstr ""
 "caratteri speciali e prova a rimuoverli."
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1107
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1116
 msgid "Element Preview"
 msgstr "Anteprima Elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1107
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1116
 msgid "Set preview background:"
 msgstr "Impostare anteprima dello sfondo:"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1107
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1116
 msgid "Scaled to:"
 msgstr "Ridimensionato a:"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1759
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1771
 msgid "Permanent Line Break"
 msgstr "Interruzione di linea permanente"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1765
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1777
 msgid "Line Break"
 msgstr "Interruzione di riga"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1774
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1786
 msgid "Insert Theme Shortcode"
 msgstr "Inserisci shortcode del tema"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2472
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2484
 msgid "Default Editor"
 msgstr "Editor standard"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2655
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2672
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2667
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2684
 msgid "By name (ascending)"
 msgstr "Per nome (crescente)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2656
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2675
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2668
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2687
 msgid "By name (descending)"
 msgstr "Per nome (discendente)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2657
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2678
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2669
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2690
 msgid "By usage"
 msgstr "Per uso"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2669
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2681
 msgid "Sort shortcode buttons by theme default sorting"
 msgstr "Ordina i pulsanti di scelta rapida per tema di ordinamento predefinito"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2672
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2684
 msgid "Sort shortcode buttons by name ascending"
 msgstr "Ordina i tasti di scelta rapida per nome ascendente"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2675
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2687
 msgid "Sort shortcode buttons by name descending"
 msgstr "Ordina i tasti di scelta rapida per nome decrescente"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2678
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2690
 msgid "Sort shortcode buttons by usage"
 msgstr "Ordina i pulsanti di scelta rapida in base all&rsquo;uso"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2687
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2699
 msgid "Information"
 msgstr "Informazioni"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2748
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2760
 msgid "Disabled - No checks are done on update"
 msgstr "Disabilitato - Nessun controllo sull'aggiornamento"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2749
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2761
 msgid "Check enabled on update - checks the structure only"
 msgstr "Verifica abilitata su aggiornamento - controlla solo la struttura"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2750
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2762
 msgid ""
 "Auto Repair Function enabled - Repairs errors in shortcode structure during "
 "update"
@@ -22258,7 +22266,7 @@ msgstr ""
 "struttura dello shortcode durante l'aggiornamento"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2754
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2766
 msgid "Show Parser Info"
 msgstr "Mostra Info Analisi"
 
@@ -22534,7 +22542,7 @@ msgstr "Nuovo ordine"
 # @ avia_framework
 #: config-woocommerce/admin-import.php:264
 #: config-woocommerce/admin-import.php:265
-#: config-woocommerce/config-356.php:471 config-woocommerce/config.php:624
+#: config-woocommerce/config-356.php:471 config-woocommerce/config.php:639
 msgid "View Order"
 msgstr "Visualizza ordine"
 
@@ -22714,60 +22722,60 @@ msgstr ""
 "correttamente i tuoi prodotti"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:378 config-woocommerce/config.php:531
+#: config-woocommerce/config-356.php:378 config-woocommerce/config.php:546
 msgid "Select options"
 msgstr "Selezionare le opzioni"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:383 config-woocommerce/config.php:536
+#: config-woocommerce/config-356.php:383 config-woocommerce/config.php:551
 #: framework/php/legacy/class-tgm-plugin-activation.php:2079
 #: framework/php/legacy/class-tgm-plugin-activation.php:2088
 msgid "Show Details"
 msgstr "Mostra dettagli"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:467 config-woocommerce/config.php:620
+#: config-woocommerce/config-356.php:467 config-woocommerce/config.php:635
 msgid "My Account"
 msgstr "Il mio account"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:469 config-woocommerce/config.php:622
+#: config-woocommerce/config-356.php:469 config-woocommerce/config.php:637
 msgid "Change Password"
 msgstr "Cambia password"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:470 config-woocommerce/config.php:623
+#: config-woocommerce/config-356.php:470 config-woocommerce/config.php:638
 msgid "Edit Address"
 msgstr "Modifica indirizzo"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:474 config-woocommerce/config.php:627
+#: config-woocommerce/config-356.php:474 config-woocommerce/config.php:642
 msgid "Log Out"
 msgstr "Uscire"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:489 config-woocommerce/config.php:642
+#: config-woocommerce/config-356.php:489 config-woocommerce/config.php:657
 msgid "Register"
 msgstr "Registrarsi"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:492 config-woocommerce/config.php:645
+#: config-woocommerce/config-356.php:492 config-woocommerce/config.php:660
 msgid "Log In"
 msgstr "Accedere"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:613 config-woocommerce/config.php:766
+#: config-woocommerce/config-356.php:613 config-woocommerce/config.php:781
 #: framework/php/function-set-avia-frontend.php:1754
 msgid "Search results for:"
 msgstr "Cerca risultati per:"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:662 config-woocommerce/config.php:815
+#: config-woocommerce/config-356.php:662 config-woocommerce/config.php:830
 msgid "Tag"
 msgstr "Tag"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:742 config-woocommerce/config.php:895
+#: config-woocommerce/config-356.php:742 config-woocommerce/config.php:910
 msgid "Shop"
 msgstr "Negozio"
 
@@ -22777,7 +22785,7 @@ msgid "Default Order"
 msgstr "Ordine Predefinito"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1361 config-woocommerce/config.php:1522
+#: config-woocommerce/config-356.php:1361 config-woocommerce/config.php:1537
 msgid "Price"
 msgstr "Prezzo"
 
@@ -22787,39 +22795,39 @@ msgid "Popularity"
 msgstr "Popolarità"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1365 config-woocommerce/config.php:1537
+#: config-woocommerce/config-356.php:1365 config-woocommerce/config.php:1552
 msgid "Click to order products ascending"
 msgstr "Clicca per ordinare i prodotti in forma  ascendente"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:1538
+#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:1553
 msgid "Click to order products descending"
 msgstr "Clicca per ordinare i prodotti in forma discendente"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1368 config-woocommerce/config.php:1540
+#: config-woocommerce/config-356.php:1368 config-woocommerce/config.php:1555
 msgid "Products per page"
 msgstr "Prodotti per pagina"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1392 config-woocommerce/config.php:1602
+#: config-woocommerce/config-356.php:1392 config-woocommerce/config.php:1617
 msgid "Sort by"
 msgstr "Ordinare per"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1411 config-woocommerce/config.php:1641
+#: config-woocommerce/config-356.php:1411 config-woocommerce/config.php:1656
 #: includes/admin/register-backend-advanced-styles.php:101
 #: includes/admin/register-backend-advanced-styles.php:121
 msgid "Display"
 msgstr "Mostrare"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1743 config-woocommerce/config.php:2145
+#: config-woocommerce/config-356.php:1743 config-woocommerce/config.php:2160
 msgid "(disabled)"
 msgstr "(disabilitato)"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1749 config-woocommerce/config.php:2151
+#: config-woocommerce/config-356.php:1749 config-woocommerce/config.php:2166
 msgid ""
 "This page is set as the default WooCommerce Shop Overview and therefore does "
 "not support the Enfold advanced layout editor"
@@ -22828,11 +22836,11 @@ msgstr ""
 "plugin e quindi non supporta l&rsquo;editor di layout avanzato di Enfold"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1749 config-woocommerce/config.php:2151
+#: config-woocommerce/config-356.php:1749 config-woocommerce/config.php:2166
 msgid "Learn more"
 msgstr "Scopri di più"
 
-#: config-woocommerce/config-356.php:1758 config-woocommerce/config.php:2159
+#: config-woocommerce/config-356.php:1758 config-woocommerce/config.php:2174
 msgid ""
 "Please note that the Advanced Layout Builder for products will not work with "
 "all WooCommerce Extensions"
@@ -22841,15 +22849,15 @@ msgstr ""
 "funziona per tutte le estensioni di WooCommerce"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1873 config-woocommerce/config.php:2281
+#: config-woocommerce/config-356.php:1873 config-woocommerce/config.php:2296
 msgid "was added to the cart"
 msgstr "è stato aggiunto al carrello"
 
-#: config-woocommerce/config-356.php:1874 config-woocommerce/config.php:2286
+#: config-woocommerce/config-356.php:1874 config-woocommerce/config.php:2301
 msgid "Shopping Cart"
 msgstr "Carrello"
 
-#: config-woocommerce/config-356.php:2352 config-woocommerce/config.php:2859
+#: config-woocommerce/config-356.php:2352 config-woocommerce/config.php:2874
 msgid ""
 "Attention! Pages built with the Enfold Advanced Template Builder will not be "
 "displayed at the bottom of the checkout page but only with a link."
@@ -22858,27 +22866,27 @@ msgstr ""
 "verranno visualizzate nella parte inferiore della pagina di check-out ma "
 "solo con un collegamento."
 
-#: config-woocommerce/config.php:437
+#: config-woocommerce/config.php:452
 msgid "Placeholder image"
 msgstr "Immagine segnaposto"
 
 # @ avia_framework
-#: config-woocommerce/config.php:1524
+#: config-woocommerce/config.php:1539
 msgid "Popularity (sales)"
 msgstr "I più venduti (vendite)"
 
 # @ LayerSlider
-#: config-woocommerce/config.php:1525
+#: config-woocommerce/config.php:1540
 msgid "Average rating"
 msgstr "Valutazione media"
 
 # @ LayerSlider
-#: config-woocommerce/config.php:1526
+#: config-woocommerce/config.php:1541
 msgid "Relevance"
 msgstr "Rilevanza"
 
 # @ woothemes
-#: config-woocommerce/config.php:1528
+#: config-woocommerce/config.php:1543
 msgid "Product ID"
 msgstr "ID Prodotto"
 
@@ -25896,7 +25904,6 @@ msgstr "Le schede sono rese solo nel frontend."
 
 # @ avia_framework
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:32
-#| msgid "Facebook link"
 msgid "Facebook Likebox"
 msgstr "Facebook Likebox"
 
@@ -33026,36 +33033,6 @@ msgstr ""
 "impostata o viceversa WordPress utilizzerà l'opzione predefinita."
 
 # @ avia_framework
-#: includes/admin/register-widget-area.php:9
-msgid "Displayed Everywhere"
-msgstr "Visualizzato ovunque"
-
-# @ avia_framework
-#: includes/admin/register-widget-area.php:18
-msgid "Sidebar Blog"
-msgstr "Barra laterale Blog"
-
-# @ avia_framework
-#: includes/admin/register-widget-area.php:27
-msgid "Sidebar Pages"
-msgstr "Barra laterale pagine"
-
-# @ avia_framework
-#: includes/admin/register-widget-area.php:38
-msgid "Shop Overview Page"
-msgstr "Pagina panoramica del negozio"
-
-# @ avia_framework
-#: includes/admin/register-widget-area.php:47
-msgid "Single Product Pages"
-msgstr "Pagina singola del prodotto"
-
-# @ avia_framework
-#: includes/admin/register-widget-area.php:82
-msgid "Sidebar Archives"
-msgstr "Barra laterale archivi"
-
-# @ avia_framework
 #: includes/admin/register-widget-area.php:103
 msgid "Interesting links"
 msgstr "Collegamenti interessanti"
@@ -33906,6 +33883,30 @@ msgstr "Mensile"
 #: template-archives.php:207
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
+
+# @ avia_framework
+#~ msgid "Displayed Everywhere"
+#~ msgstr "Visualizzato ovunque"
+
+# @ avia_framework
+#~ msgid "Sidebar Blog"
+#~ msgstr "Barra laterale Blog"
+
+# @ avia_framework
+#~ msgid "Sidebar Pages"
+#~ msgstr "Barra laterale pagine"
+
+# @ avia_framework
+#~ msgid "Shop Overview Page"
+#~ msgstr "Pagina panoramica del negozio"
+
+# @ avia_framework
+#~ msgid "Single Product Pages"
+#~ msgstr "Pagina singola del prodotto"
+
+# @ avia_framework
+#~ msgid "Sidebar Archives"
+#~ msgstr "Barra laterale archivi"
 
 # @ avia_framework
 #~ msgid "Select a custom color for your text here"
