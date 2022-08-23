@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 15:00+0200\n"
-"PO-Revision-Date: 2022-08-20 13:13+0000\n"
+"PO-Revision-Date: 2022-08-23 08:43+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:601
@@ -170,7 +170,7 @@ msgstr "Elementen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:525
 msgid " just in case controls are necessary."
-msgstr ""
+msgstr "voor het geval besturingselementen nodig zijn."
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:491
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:323
@@ -446,11 +446,14 @@ msgstr "(Enkel zichtbaar voor beheerders)"
 #: config-templatebuilder/avia-shortcodes/image/image.php:444
 msgid "- Box shadow does not work when you select to zoom the image."
 msgstr ""
+"- De kaderschaduw werkt niet wanneer u kiest om de afbeelding te zoomen."
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:445
 msgid ""
 "- Image fading does not work when image caption overlay or a link is used."
 msgstr ""
+"- Het vervagen van afbeeldingen werkt niet wanneer een onderschrift over een "
+"afbeelding of een link wordt gebruikt."
 
 #: includes/admin/register-portfolio.php:238
 #: framework/php/legacy/class-update-notifier.php:160
@@ -540,10 +543,9 @@ msgstr "1 kolom"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:352
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:353
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:354
-#, fuzzy
 #| msgid "6 Columns"
 msgid "1 column"
-msgstr "6 kolommen"
+msgstr "1 kolom"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:446
 msgid "1 Column layout"
@@ -651,7 +653,7 @@ msgstr "2k+ likes"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1720
 msgid "2nd Opacity"
-msgstr ""
+msgstr "2e ondoorzichtigheid"
 
 #: includes/admin/option_tabs/avia_footer.php:144
 msgid "3"
@@ -692,7 +694,7 @@ msgstr "30px * 30px"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1731
 msgid "3rd Opacity"
-msgstr ""
+msgstr "3e ondoorzichtigheid"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:71
 msgid "3rd Party Accessibility Support"
@@ -1311,6 +1313,10 @@ msgid ""
 "to use custom units. Only recommended for experienced users who know, what "
 "they are doing. This is in active beta (since 5.0.1)."
 msgstr ""
+"Activeer om voorgedefinieerde selectievakjes met lettergroottes te vervangen "
+"door tekstvelden om aangepaste eenheden te gebruiken. Alleen aanbevolen voor "
+"ervaren gebruikers die weten wat ze doen. Dit is in actieve beta (sinds 5.0."
+"1)."
 
 #: includes/admin/option_tabs/avia_seo.php:55
 msgid "Activated"
@@ -1441,7 +1447,7 @@ msgstr "Een link toevoegen"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:442
 msgid "Add a mouse hover effect to the image."
-msgstr ""
+msgstr "Voeg een muis-over effect toe aan de afbeelding."
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:195
 msgid ""
@@ -1791,7 +1797,7 @@ msgstr "Toevoegen/bewerken rasteritems"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:208
 msgid "Add/Edit Icon items"
-msgstr ""
+msgstr "Icoon-items toevoegen/bewerken"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:205
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:231
@@ -2186,19 +2192,19 @@ msgstr "Lijn rechts uit"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1682
 msgid "Align to closest corner"
-msgstr ""
+msgstr "Uitlijnen naar dichtstbijzijnde hoek"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1680
 msgid "Align to closest side"
-msgstr ""
+msgstr "Uitlijnen naar dichtstbijzijnde rand"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1683
 msgid "Align to farthest corner"
-msgstr ""
+msgstr "Uitlijnen naar verste hoek"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1681
 msgid "Align to farthest side"
-msgstr ""
+msgstr "Uitlijnen naar verste rand"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:367
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:320
@@ -2444,7 +2450,7 @@ msgstr "Ook sluiten wanneer gebruiker buiten icoonraster klikt"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:304
 msgid "Also close when visitor clicks outside icongrid"
-msgstr ""
+msgstr "Sluit ook wanneer bezoeker buiten icongrid klikt"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:901
 msgid "Alt Attribut"
@@ -2466,7 +2472,7 @@ msgstr "Alternatieve achtergrond voor menu hover, tabellen etc..."
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:501
 msgid "Alternate Fade Image"
-msgstr ""
+msgstr "Alternatief vervaag-afbeelding"
 
 #: includes/admin/option_tabs/avia_menu.php:151
 #| msgid "Alternate Menu for Mobile"
@@ -2590,7 +2596,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:68
 msgid "An Icon Circles Element Item"
-msgstr ""
+msgstr "Een icoon cirkels element item"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:108
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:94
@@ -2756,6 +2762,9 @@ msgid ""
 "Apply a link to the grid item. On touch screens this will show the animation "
 "and then follow the link when touched again."
 msgstr ""
+"Breng een link aan naar het rasteritem. Op aanraakschermen zal dit de "
+"animatie tonen en vervolgens de link volgen wanneer deze opnieuw wordt "
+"aangeraakt."
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:481
 msgid "Apply a link to the menu text?"
@@ -3360,13 +3369,14 @@ msgid ""
 "Background Image For Backside Flip Box - IGNORED When &quot;Content Appears "
 "In Tooltip&quot; Selected"
 msgstr ""
+"Achtergrondafbeelding voor Achterkant Flip Box - GENEGEERD wanneer &quot;"
+"Inhoud verschijnt in Tooltip&quot; is geselecteerd"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1305
 msgid "Background Image For Front Side"
-msgstr ""
+msgstr "Achtergrondafbeelding voor voorkant"
 
 #: includes/admin/option_tabs/avia_performance.php:290
-#, fuzzy
 #| msgid ""
 #| "Background image parallax and delayed CSS animations when an element "
 #| "comes in viewport had been restricted on mobile devices prior to Enfold 5."
@@ -3394,7 +3404,7 @@ msgstr "Positie van achtergrondafbeelding"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1395
 msgid "Background Images"
-msgstr ""
+msgstr "Achtergrondafbeeldingen"
 
 #: includes/admin/option_tabs/avia_performance.php:132
 msgid "Background information"
@@ -3442,7 +3452,7 @@ msgstr "Alleen basis elementen"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:317
 msgid "Based on the CSS Flexible Box Layout Model"
-msgstr ""
+msgstr "Gebaseerd op het CSS flexibele box lay-outmodel"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:841
 msgid "Baseline (Default)"
@@ -3542,6 +3552,8 @@ msgid ""
 "Better keep it short for tooltip due to square layout and check responsive "
 "behaviour."
 msgstr ""
+"Houd het kort voor de tooltip vanwege de vierkante lay-out en controleer het "
+"responsieve gedrag."
 
 #: framework/php/widgets/widget-classes/class-avia-one-partner.php:25
 msgid "Big Advertising Area"
@@ -3583,7 +3595,7 @@ msgstr "Blanco hotspot"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1534
 msgid "Blob"
-msgstr ""
+msgstr "Blob"
 
 #: includes/admin/register-admin-option-values.php:60
 msgid "Block"
@@ -4292,7 +4304,7 @@ msgstr "Knop link?"
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:405
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:381
 msgid "Button Margin And Padding"
-msgstr ""
+msgstr "Knop marge en padding"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:126
 msgid "Button Opacity On Hover"
@@ -4300,7 +4312,7 @@ msgstr "Knop ondoorzichtigheid bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:661
 msgid "Button Padding"
-msgstr ""
+msgstr "Knop padding"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:156
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:311
@@ -4354,11 +4366,11 @@ msgstr "Knoptekst bevestig laden van Google Maps:"
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:365
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:342
 msgid "Button Text Font Sizes"
-msgstr ""
+msgstr "Knop tekst lettergroottes"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:353
 msgid "Button Text Padding"
-msgstr ""
+msgstr "Knop tekst padding"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:214
 msgid "Button Title"
@@ -4461,6 +4473,8 @@ msgid ""
 "By default the linear gradient is bottom to top (0 deg). Here you can rotate "
 "the gradient."
 msgstr ""
+"Standaard is de lineaire gradiënt van onder naar boven (0 graden). Hier kunt "
+"u het kleurverloop roteren."
 
 #: includes/admin/option_tabs/avia_performance.php:273
 msgid ""
@@ -4704,7 +4718,7 @@ msgstr "Stijl van de categorie"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:337
 msgid "Cell Alignment"
-msgstr ""
+msgstr "Cel uitlijning"
 
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:341
 msgid "Cell Link"
@@ -4763,7 +4777,7 @@ msgstr "Midden links"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:248
 msgid "Center Logo/Image"
-msgstr ""
+msgstr "Midden logo/afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:607
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1824
@@ -5185,6 +5199,8 @@ msgid ""
 "Check if you want to change front and backside. This will show the backside "
 "initially."
 msgstr ""
+"Controleer of u de voor- en achterkant wilt veranderen. Dit zal eerst de "
+"achterkant tonen."
 
 #: includes/admin/option_tabs/avia_builder.php:137
 msgid ""
@@ -5245,6 +5261,9 @@ msgid ""
 "above your slideshow image/video. Video player controls will not be "
 "accessible when this option is enabled. "
 msgstr ""
+"Vink aan of je een transparante kleur en/of patroon overlay wil tonen boven "
+"je slideshow afbeelding/video. De bediening van de videospeler is niet "
+"toegankelijk wanneer deze optie is ingeschakeld. "
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:662
 msgid "Check if you want to enable multiple answers"
@@ -5372,6 +5391,8 @@ msgstr "Vink aan als u het vinkvakje van tevoren wilt aanvinken"
 msgid ""
 "Check if you want to reverse the order of items when switching to mobile."
 msgstr ""
+"Controleer of u de volgorde van de items wilt omkeren bij het overschakelen "
+"naar mobiel."
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:655
 msgid ""
@@ -5988,6 +6009,8 @@ msgid ""
 "Choose the 1 column layout. This will ignore all responsive settings you "
 "make."
 msgstr ""
+"Kies de 1-kolom layout. Dit zal alle responsieve instellingen die je maakt "
+"negeren."
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:312
 msgid "Choose the alignment of your button here"
@@ -6295,11 +6318,11 @@ msgstr "Cirkel randstijl"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:370
 msgid "Circle Color"
-msgstr ""
+msgstr "Cirkel kleur"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:591
 msgid "Circle Icon"
-msgstr ""
+msgstr "Cirkel icoon"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:378
 msgid "Circle Shadow"
@@ -6678,10 +6701,12 @@ msgstr "Kolom schaduweffect breedte"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:395
 msgid "Column count - default, used for all screen sizes(no media query)"
 msgstr ""
+"Aantal kolommen - standaard, gebruikt voor alle schermformaten (geen media "
+"query)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:396
 msgid "Column count for large screens (wider than 990px - eg: Desktop)"
-msgstr ""
+msgstr "Aantal kolommen voor grote schermen (breder dan 990px - bv: Desktop)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2466
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:397
@@ -6760,7 +6785,7 @@ msgstr "Kolommen"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:353
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:354
 msgid "columns"
-msgstr ""
+msgstr "kolommen"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:374
 msgid ""
@@ -7408,6 +7433,8 @@ msgid ""
 "Creates a grid with optional icon, text and background images for tooltips "
 "or flipbox"
 msgstr ""
+"Creëert een raster met optionele pictogrammen, tekst en "
+"achtergrondafbeeldingen voor tooltips of flipbox"
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:39
 msgid "Creates a horizontal scrollable gallery"
@@ -7971,7 +7998,7 @@ msgstr "Aangepaste grootte markering-afbeelding"
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:453
 #: config-templatebuilder/avia-shortcodes/section/section.php:360
 msgid "Custom Margins"
-msgstr ""
+msgstr "Aangepaste marges"
 
 #: framework/php/legacy/class-framework-widgets.php:2256
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:465
@@ -8006,11 +8033,11 @@ msgstr "Aangepast berichttype venster (alleen voor ontwikkelaars)"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:501
 msgid "Custom Progress Bar Background Color"
-msgstr ""
+msgstr "Aangepaste voortgangsbalk achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:512
 msgid "Custom Progress Bar Striped Color"
-msgstr ""
+msgstr "Aangepaste voortgangsbalk gestreepte kleur"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:582
 msgid "Custom Pulse Color"
@@ -8383,6 +8410,7 @@ msgstr "Standaard Rij"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:74
 msgid "default setting - used for all screen sizes (no media query)"
 msgstr ""
+"standaard instelling - gebruikt voor alle schermformaten (geen media query)"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:272
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:351
@@ -8792,6 +8820,9 @@ msgid ""
 "background color might not be visible because the image covers the complete "
 "background."
 msgstr ""
+"Afhankelijk van uw instellingen voor de achtergrondopties is het mogelijk "
+"dat een eerder geselecteerde achtergrondkleur niet zichtbaar is omdat de "
+"afbeelding de volledige achtergrond bedekt."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2828
 msgid "Desaturation effect"
@@ -8846,13 +8877,13 @@ msgstr "Lettergrootte omschrijvingstekst"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:292
 msgid "Description Text Font Sizes"
-msgstr ""
+msgstr "Beschrijvingstekst lettergrootte"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:83
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:196
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:405
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1582
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1643
@@ -8878,7 +8909,7 @@ msgstr "Ontwikkelaar instellingen"
 
 #: includes/admin/option_tabs/avia_performance.php:433
 msgid "Developers: To disable on ALB element level use:"
-msgstr ""
+msgstr "Ontwikkelaars: Om uit te schakelen op ALB element niveau gebruik:"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:315
 msgid "Diagonal Border Box Style"
@@ -9104,6 +9135,8 @@ msgid ""
 "Display a big circle with several icons displaying an info note on hover in "
 "center"
 msgstr ""
+"Toon een grote cirkel met verschillende icoontjes die een info notitie tonen "
+"bij muis-over in het midden"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:400
 #| msgid "Display Border around images?"
@@ -9817,11 +9850,11 @@ msgstr "Toont uw laatste Instagram foto's"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:352
 msgid "Distance Between Cells In Row"
-msgstr ""
+msgstr "Afstand tussen cellen in rij"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:362
 msgid "Distance Between Rows"
-msgstr ""
+msgstr "Afstand tussen rijen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1107
 msgid "Divider Color"
@@ -9976,7 +10009,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1052
 msgid "Do not show an icon"
-msgstr ""
+msgstr "Toon geen icoon"
 
 #: includes/admin/option_tabs/avia_shop.php:25
 msgid "Do not show at all"
@@ -10075,6 +10108,8 @@ msgid ""
 "Do you want to display a hover effect on overview pages and replace the "
 "default thumbnail with the first image of the gallery?"
 msgstr ""
+"Wilt u een muis-over effect weergeven op overzichtspagina's en de standaard "
+"thumbnail vervangen door de eerste afbeelding van de galerij?"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:401
 msgid "Do you want to display a light border around the images?"
@@ -10454,7 +10489,7 @@ msgstr "Tekstkader hotspot aanpassen"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:212
 msgid "Edit Icon Circle Item"
-msgstr ""
+msgstr "Icoon cirkel element bewerken"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.php:99
 msgid "Edit Layer Slider here"
@@ -10622,6 +10657,8 @@ msgstr ""
 msgid ""
 "Either upload a new, or choose an existing image from your media library."
 msgstr ""
+"Upload een nieuwe afbeelding of kies een bestaande afbeelding uit uw "
+"mediabibliotheek."
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:748
 msgid ""
@@ -10731,7 +10768,7 @@ msgstr "Element"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:471
 msgid "Element Bottom Padding"
-msgstr ""
+msgstr "Element onderkant padding"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:336
 msgid "Element Columns"
@@ -10751,7 +10788,7 @@ msgstr "Element Manager Versie:"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:446
 msgid "Element Margin"
-msgstr ""
+msgstr "Element marge"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:834
 msgid "Element only - on hover once"
@@ -10796,7 +10833,7 @@ msgstr "Zichtbaarheid van het element"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1679
 msgid "Ellipse"
-msgstr ""
+msgstr "Ellips"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:291
 msgid "em"
@@ -11190,7 +11227,6 @@ msgstr ""
 "het een geldige hash string is. Daar is geen controle op."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:801
-#, fuzzy
 #| msgid ""
 #| "Enter a valid value to set a perspective, used to apply a perspective "
 #| "transform (to the children of the element). Negative values are syntax "
@@ -11201,10 +11237,11 @@ msgid ""
 "element). Negative values are syntax errors. Leave empty to use default or "
 "inherit desktop setting."
 msgstr ""
-"Voer een geldige waarde in om een perspectief in te stellen, gebruikt om een "
-"perspectief transformatie toe te passen (op de kinderen van het element). "
-"Negatieve waarden zijn syntaxfouten. Leeg laten om de standaard instelling "
-"te gebruiken of de desktop instelling te erven."
+"Voer een geldige waarde in (inclusief een CSS eenheid zoals px, em, vw,...) "
+"om een perspectief in te stellen, gebruikt om een perspectief transformatie "
+"toe te passen (op de kinderen van het element). Negatieve waarden zijn "
+"syntaxfouten. Leeg laten om de standaard instelling te gebruiken of de "
+"desktop instelling over te nemen."
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:327
 #: config-templatebuilder/avia-shortcodes/video/video.php:320
@@ -11327,6 +11364,8 @@ msgid ""
 "Enter size of the font, only use valid CSS units. Unit defaults to px if "
 "missing."
 msgstr ""
+"Voer de grootte van het lettertype in, gebruik alleen geldige CSS eenheden. "
+"Eenheid wordt standaard op px gezet als deze ontbreekt."
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:604
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:701
@@ -11362,19 +11401,19 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:220
 msgid "Enter some description content for title 1 here"
-msgstr ""
+msgstr "Voer hier een beschrijving in voor titel 1"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:226
 msgid "Enter some description content for title 2 here"
-msgstr ""
+msgstr "Voer hier een beschrijving in voor titel 2"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:232
 msgid "Enter some description content for title 3 here"
-msgstr ""
+msgstr "Voer hier een beschrijving in voor titel 3"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:585
 msgid "Enter some descriptive content here. Keep it short."
-msgstr ""
+msgstr "Vul hier een beschrijvende inhoud in. Hou het kort."
 
 #: framework/php/legacy/class-framework-widgets.php:566
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:436
@@ -11475,7 +11514,7 @@ msgstr "Voer hier de subtitel van het rasteritem in"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1036
 msgid "Enter the grid item sub-title here - better keep it short"
-msgstr ""
+msgstr "Vul hier de subtitel van het raster-item in - hou het kort"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:976
 msgid "Enter the grid item title here (Better keep it short)"
@@ -11483,7 +11522,7 @@ msgstr "Voer hier de titel van het rasteritem in (hou dit liefst kort)"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1027
 msgid "Enter the grid item title here - better keep it short"
-msgstr ""
+msgstr "Voer hier de titel van het raster-item in - hou het kort"
 
 #: framework/php/legacy/class-framework-widgets.php:2359
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:568
@@ -11592,6 +11631,9 @@ msgid ""
 "Enter the number of the first icon to be active when user scrolls to the "
 "element after pageload. Starts with 1. Leave empty if not needed."
 msgstr ""
+"Voer het nummer in van het eerste pictogram dat actief moet zijn wanneer de "
+"gebruiker naar het element scrollt na pageload. Begint met 1. Leeg laten "
+"indien niet nodig."
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:207
 msgid ""
@@ -11688,7 +11730,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:602
 msgid "Enter the title for your icon here. Keep it short."
-msgstr ""
+msgstr "Vul hier de titel van uw icoon in. Hou het kort."
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:765
 msgid "Enter the toggle title here (Better keep it short)"
@@ -12028,7 +12070,7 @@ msgstr "Uitbreiding schaal"
 
 #: framework/php/class-htmlhelper.php:2189
 msgid "Export Demo Settings File"
-msgstr ""
+msgstr "Demo instellingen bestand exporteren"
 
 #: includes/admin/option_tabs/avia_upload.php:164
 msgid "Export Layout Builder Templates"
@@ -12133,7 +12175,7 @@ msgstr "Fade-out effect"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:477
 msgid "Fade to another image"
-msgstr ""
+msgstr "Vervagen naar andere afbeelding"
 
 #: config-wpml/class-avia-wpml.php:504
 msgid "Failing to do this will result in a broken layout."
@@ -12250,11 +12292,11 @@ msgstr "Bestandsgrootte"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1604
 msgid "Fill"
-msgstr ""
+msgstr "Vullen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1653
 msgid "Fill with space"
-msgstr ""
+msgstr "Vullen met ruimte"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:350
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:338
@@ -12312,7 +12354,7 @@ msgstr "Vind"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:239
 msgid "First Active Icon"
-msgstr ""
+msgstr "Eerste actieve icoon"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:408
 msgid "First entry position"
@@ -12320,7 +12362,7 @@ msgstr "Postitie eerste item"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1603
 msgid "Fit"
-msgstr ""
+msgstr "Passend"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:284
 msgid "Fit into container (enlarge/decrease to 100% width)"
@@ -12395,7 +12437,7 @@ msgstr "Omdraaien in Y"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1536
 msgid "Flower"
-msgstr ""
+msgstr "Bloem"
 
 #: includes/admin/option_tabs/avia_menu.php:347
 #| msgid "Flyout width"
@@ -12571,16 +12613,18 @@ msgstr "Lettertype grootte (standaard %s):"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:179
 msgid "Font Size default - used for all screen sizes(no media query)"
 msgstr ""
+"Standaard lettergrootte - gebruikt voor alle schermgroottes (geen media "
+"query)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2206
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2270
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:190
 msgid "Font Size for large screens (wider than 990px - Desktop)"
-msgstr ""
+msgstr "Lettergrootte voor grote schermen (breder dan 990px - Desktop)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:180
 msgid "Font Size for large screens (wider than 990px - eg: Desktop)"
-msgstr ""
+msgstr "Lettergrootte voor grote schermen (breder dan 990px - bijv.: desktop)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2215
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2279
@@ -12603,7 +12647,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:293
 msgid "Font size for the text in px"
-msgstr ""
+msgstr "Lettergrootte voor de tekst in px"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2233
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2297
@@ -12753,7 +12797,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:75
 msgid "for large screens (wider than 990px - Desktop)"
-msgstr ""
+msgstr "voor grote schermen (breder dan 990px - Desktop)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:76
 msgid ""
@@ -12915,12 +12959,14 @@ msgstr "Volledige Inhoud"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:346
 msgid "Full distance to horizontal borders (= space-evenly)"
-msgstr ""
+msgstr "Volledige afstand tot horizontale grenzen (= evenveel ruimte)"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:347
 msgid ""
 "Full distance to horizontal borders, centered without distance (= center)"
 msgstr ""
+"Volledige afstand tot horizontale randen, gecentreerd zonder afstand (= "
+"midden)"
 
 #: includes/admin/option_tabs/avia_menu.php:307
 msgid "Full Page Overlay Menu"
@@ -13260,7 +13306,7 @@ msgstr "Grijswaarden"
 #: config-templatebuilder/avia-shortcodes/image/image.php:479
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1480
 msgid "Grayscale image"
-msgstr ""
+msgstr "Grijswaarden afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:238
 msgid "great"
@@ -13450,7 +13496,7 @@ msgstr "H6 Kopteksten"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:345
 msgid "Half distance to horizontal borders (= space-around)"
-msgstr ""
+msgstr "Halve afstand tot horizontale randen (= ruimte-omheen)"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:699
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:902
@@ -13664,7 +13710,7 @@ msgstr "Roulerende koptekst element"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:458
 msgid "Headline Text (And Icon) Padding"
-msgstr ""
+msgstr "Koptekst (en pictogrammen) padding"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:622
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:220
@@ -13729,6 +13775,8 @@ msgid ""
 "Here you can add, remove and edit the items of your icon circle. We "
 "recommend between 3 and 12."
 msgstr ""
+"Hier kunt u de items van uw pictogrammencirkel toevoegen, verwijderen en "
+"bewerken. Wij raden tussen 3 en 12 aan."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:255
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:238
@@ -13962,7 +14010,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1537
 msgid "Hexagon"
-msgstr ""
+msgstr "Zeshoek"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:322
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:323
@@ -14304,12 +14352,16 @@ msgid ""
 "Hiding this text on large screens by default is currently not supported and "
 "will be ignored."
 msgstr ""
+"Het standaard verbergen van deze tekst op grote schermen wordt momenteel "
+"niet ondersteund en zal worden genegeerd."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:271
 msgid ""
 "Hiding this text on large screens is currently not supported and will be "
 "ignored."
 msgstr ""
+"Het verbergen van deze tekst op grote schermen wordt momenteel niet "
+"ondersteund en zal worden genegeerd."
 
 #: includes/admin/option_tabs/avia_element_templates.php:154
 msgid "Hierarchical Custom Elements"
@@ -14455,7 +14507,7 @@ msgstr "Muis-over effect"
 
 #: config-woocommerce/admin-options.php:203
 msgid "Hover effect on <strong>Overview Pages</strong>"
-msgstr ""
+msgstr "Muis-over effect op <strong>Overzichtspagina's</strong>"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:551
 msgid "Hover Text"
@@ -14488,7 +14540,6 @@ msgid "How many columns do you want to display?"
 msgstr "Hoeveel kolommen wilt u tonen?"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:437
-#, fuzzy
 #| msgid "How many columns do you want to use"
 msgid "How many columns do you want to use."
 msgstr "Hoeveel kolommen wilt u gebruiken"
@@ -14626,7 +14677,7 @@ msgstr "Enorme padding (130px 130px)"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:355
 msgid "Huge Padding (130px)"
-msgstr ""
+msgstr "Enorme padding (130px)"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:291
 msgid "Hybrid"
@@ -14672,23 +14723,23 @@ msgstr "Achtergrond Icoon"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:639
 msgid "Icon Background Color"
-msgstr ""
+msgstr "Icoon achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:669
 msgid "Icon Background Color On Hover"
-msgstr ""
+msgstr "Icoon achtergrondkleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:649
 msgid "Icon Border Color"
-msgstr ""
+msgstr "Icoon randkleur"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:679
 msgid "Icon Border Color On Hover"
-msgstr ""
+msgstr "Icoon randkleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:488
 msgid "Icon Bottom Padding"
-msgstr ""
+msgstr "Icoon onderkant padding"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:23
 msgid "Icon Box"
@@ -14700,11 +14751,11 @@ msgstr "Bijschrift bij Icoon"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:53
 msgid "Icon Circles"
-msgstr ""
+msgstr "Icoon cirkels"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:67
 msgid "Icon Circles Item"
-msgstr ""
+msgstr "Icoon cirkels element"
 
 #: includes/admin/register-backend-advanced-styles.php:514
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:283
@@ -14714,7 +14765,7 @@ msgstr "Icoonkleur"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:659
 msgid "Icon Color On Hover"
-msgstr ""
+msgstr "Icoonkleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:301
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:359
@@ -14800,7 +14851,7 @@ msgstr "Icoonbreedte"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:94
 msgid "Icon/Flipbox Grid"
-msgstr ""
+msgstr "Icoon/flipbox raster"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:173
 msgid "IconBox Icon"
@@ -14820,19 +14871,19 @@ msgstr "Iconfont beheerder"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:340
 msgid "Icons Background Color"
-msgstr ""
+msgstr "Iconen achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:360
 msgid "Icons Background Color On Hover"
-msgstr ""
+msgstr "Iconen achtergrondkleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:330
 msgid "Icons Color"
-msgstr ""
+msgstr "Iconen kleur"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:350
 msgid "Icons Color On Hover"
-msgstr ""
+msgstr "Iconen kleur bij muis-over"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:550
 #: framework/php/class-media.php:361
@@ -14920,6 +14971,10 @@ msgid ""
 "slideshow link settings and other captions will be ignored, and player "
 "controls will not be accessible when this option is enabled."
 msgstr ""
+"Indien aangevinkt zal het bijschrift bovenaan de schuifbalk worden geplaatst."
+" Merk op dat de diavoorstelling link instellingen en andere bijschriften "
+"genegeerd zullen worden, en dat de speler besturingselementen niet "
+"toegankelijk zullen zijn wanneer deze optie is ingeschakeld."
 
 #: includes/admin/option_tabs/avia_header.php:375
 msgid ""
@@ -15390,7 +15445,7 @@ msgstr "Afbeeldingsoptimalisatie"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1577
 msgid "Image overlay"
-msgstr ""
+msgstr "Afbeelding overlay"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:468
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:479
@@ -16205,7 +16260,7 @@ msgstr "Ongeldig V3 antwoord. Acties:"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1094
 msgid "Inverse Layout - Ignored For Tooltip"
-msgstr ""
+msgstr "Inverse Layout - genegeerd voor Tooltip"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1163
 msgid "Invert"
@@ -16345,7 +16400,7 @@ msgstr "Item: %s"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:506
 msgid "Items Content Padding"
-msgstr ""
+msgstr "Elementen inhoud padding"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:455
 msgid "Items Padding"
@@ -16391,7 +16446,7 @@ msgstr "Globale lay-outopties gesynchroniseerd houden"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1508
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1797
 msgid "Keep original"
-msgstr ""
+msgstr "Bewaar origineel"
 
 #: includes/admin/option_tabs/avia_upload.php:52
 #: includes/admin/option_tabs/avia_upload.php:123
@@ -16461,7 +16516,7 @@ msgstr "Grote padding (70px 70px)"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:354
 msgid "Large Padding (70px)"
-msgstr ""
+msgstr "Grote padding (70px)"
 
 #: includes/admin/option_tabs/avia_menu.php:210
 msgid "Large separator"
@@ -16734,11 +16789,11 @@ msgstr "Laat leeg voor de standaard themakleur"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:256
 msgid "Leave empty for default."
-msgstr ""
+msgstr "Leeglaten voor standaard."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1143
 msgid "Leave empty for theme default settings."
-msgstr ""
+msgstr "Leeglaten voor thema standaardinstellingen."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:525
 msgid "Leave empty if you want to use the default marker"
@@ -16750,11 +16805,11 @@ msgstr "Laat leeg om de standaard plugin instellingen te gebruiken."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:260
 msgid "Leave empty to use default setting."
-msgstr ""
+msgstr "Leeglaten om de standaardinstelling te gebruiken."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1144
 msgid "Leave empty to use default settings."
-msgstr ""
+msgstr "Leeglaten om de standaardinstellingen te gebruiken."
 
 #: includes/admin/option_tabs/avia_styling.php:609
 msgid ""
@@ -16996,7 +17051,7 @@ msgstr "Doorhalen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1578
 msgid "Linear gradient overlay"
-msgstr ""
+msgstr "Lineaire gradiënt overlay"
 
 #: includes/admin/option_tabs/avia_blog.php:274
 msgid "Link"
@@ -17009,7 +17064,7 @@ msgstr "Link instellingen"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1555
 msgid "Link Grid Item"
-msgstr ""
+msgstr "Link rasterelement"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:515
 msgid "Link Handling"
@@ -17615,27 +17670,27 @@ msgstr "Markeringen"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1564
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1752
 msgid "Mask Overlay"
-msgstr ""
+msgstr "Masker overlay"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1620
 msgid "Mask Position"
-msgstr ""
+msgstr "Masker positie"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1641
 msgid "Mask Repeat"
-msgstr ""
+msgstr "Masker herhaling"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1610
 msgid "Mask Scale"
-msgstr ""
+msgstr "Masker schaal"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1584
 msgid "Mask Shape"
-msgstr ""
+msgstr "Masker vorm"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1595
 msgid "Mask Size"
-msgstr ""
+msgstr "Masker grootte"
 
 #: functions.php:257
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:67
@@ -18012,7 +18067,7 @@ msgstr "Minimale aangepaste hoogte in pixels"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:372
 msgid "Minimum Height - For Flipbox Only"
-msgstr ""
+msgstr "Minimale hoogte - enkel voor flipbox"
 
 #: config-wpml/class-avia-wpml.php:473
 #, php-format
@@ -18119,7 +18174,7 @@ msgstr "Mobiele breekpunt positie"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:295
 msgid "Mobile Close Behaviour"
-msgstr ""
+msgstr "Gedrag bij sluiten op mobiel"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:233
 msgid "Mobile display"
@@ -18127,7 +18182,7 @@ msgstr "Mobiele weergave"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:537
 msgid "Mobile Display Of Description"
-msgstr ""
+msgstr "Tonen van beschrijving op mobiel"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:648
 msgid "Mobile Fallback Image Link"
@@ -18602,7 +18657,7 @@ msgstr "Geen omschrijving"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:344
 msgid "No distance to horizontal borders (= space-between)"
-msgstr ""
+msgstr "Geen afstand tot horizontale grenzen (= tussenruimte)"
 
 #: config-templatebuilder/avia-template-builder/php/class-svg-shapes.php:343
 msgid "No divider"
@@ -18643,7 +18698,7 @@ msgstr "Geen ruimte ertussen"
 
 #: config-woocommerce/admin-options.php:211
 msgid "No hover effect"
-msgstr ""
+msgstr "Geen muis-over effect"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:504
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:233
@@ -18727,7 +18782,7 @@ msgstr "Het tonen van meer afbeeldingen niet aanbieden"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1576
 msgid "No overlay"
-msgstr ""
+msgstr "Geen overlay"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:359
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:373
@@ -18738,7 +18793,7 @@ msgstr "Geen padding"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:351
 msgid "No Padding (0px)"
-msgstr ""
+msgstr "Geen padding (0px)"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:370
 msgid "No Pagination"
@@ -18800,11 +18855,11 @@ msgstr "Geen Revolution Slider Gevonden. Klik hier om er een te maken"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:449
 msgid "No Rotation"
-msgstr ""
+msgstr "Geen rotatie"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1666
 msgid "No rotation"
-msgstr ""
+msgstr "Geen rotatie"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:959
 msgid "No Scaling"
@@ -19043,7 +19098,7 @@ msgstr "Niet genoeg informatie gegeven."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1738
 msgid "Not used"
-msgstr ""
+msgstr "Niet gebruikt"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:174
 msgid "Note"
@@ -20049,6 +20104,9 @@ msgid ""
 "Player controls such as the volume slider will not be accessible when slide "
 "overlay or permanent caption is enabled, but we created a"
 msgstr ""
+"Speler besturingselementen zoals de volumeregelaar zullen niet toegankelijk "
+"zijn wanneer dia-overlay of permanente ondertiteling is ingeschakeld, maar "
+"we maakten een"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:286
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:686
@@ -20395,27 +20453,27 @@ msgstr "Positie"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:257
 msgid "Position 1"
-msgstr ""
+msgstr "Positie 1"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:258
 msgid "Position 2"
-msgstr ""
+msgstr "Positie 2"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:259
 msgid "Position 3"
-msgstr ""
+msgstr "Positie 3"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:260
 msgid "Position 4"
-msgstr ""
+msgstr "Positie 4"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:261
 msgid "Position 5"
-msgstr ""
+msgstr "Positie 5"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:262
 msgid "Position 6"
-msgstr ""
+msgstr "Positie 6"
 
 #: includes/admin/option_tabs/avia_layout.php:208
 msgid "Position at the Left"
@@ -20704,7 +20762,7 @@ msgstr "Animatie voortgangsbalk ingeschakeld?"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:490
 msgid "Progress Bar Color"
-msgstr ""
+msgstr "Voortgangsbalk kleur"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:298
 msgid "Progress Bar Coloring"
@@ -20732,7 +20790,7 @@ msgstr "Titel voortgangsbalken"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:523
 msgid "Progress Container Background Color"
-msgstr ""
+msgstr "Voortgangsbalk containerelement achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:444
 msgid "Progress in &percnt;"
@@ -20830,15 +20888,15 @@ msgstr "Quote"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1579
 msgid "Radial gradient overlay"
-msgstr ""
+msgstr "Radiaal kleurverloop overlay"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1688
 msgid "Radial Gradient Position"
-msgstr ""
+msgstr "Radiaal kleurverloop positie"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1670
 msgid "Radial Gradient Shape"
-msgstr ""
+msgstr "Radiaal kleurverloop vorm"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:639
 msgid "Radial Inside Outside"
@@ -21191,7 +21249,7 @@ msgstr "Responsief (gekozen door Google API)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:440
 msgid "Responsive behaviour is handled by default from theme."
-msgstr ""
+msgstr "Het responsieve gedrag wordt standaard door het thema afgehandeld."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:882
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:841
@@ -21225,7 +21283,7 @@ msgstr "Responsieve stijl"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:443
 msgid "Restrictions:"
-msgstr ""
+msgstr "Beperkingen:"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:684
 msgid "Result Colors"
@@ -21270,7 +21328,7 @@ msgstr "Omgekeerde volgorde"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:898
 msgid "Reverse Order Of Items On Mobile"
-msgstr ""
+msgstr "Omgekeerde volgorde van elementen op mobiel"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:512
 msgid "Revisions Count"
@@ -21376,7 +21434,7 @@ msgstr "Binnenrollen"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:443
 msgid "Rotate"
-msgstr ""
+msgstr "Roteren"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1328
 msgid "Rotate Animations"
@@ -21406,7 +21464,7 @@ msgstr "Rotatie hoek"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1659
 msgid "Rotation Angle Of Linear Gradient"
-msgstr ""
+msgstr "Rotatiehoek van lineaire gradiënt"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:410
 msgid "Rotation Animation"
@@ -21423,7 +21481,7 @@ msgstr "Rond"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1654
 msgid "Round to fit"
-msgstr ""
+msgstr "Afronden om passend te maken"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:252
 msgid "Rounded Big Bars"
@@ -21583,9 +21641,10 @@ msgid ""
 "Scale the image mask. Allowed unit values are px, &percnt;, em, vw. Defaults "
 "to px."
 msgstr ""
+"Schaal het afbeeldingsmasker. Toegestane eenheidswaarden zijn px, &percnt;, "
+"em, vw. Standaard op px."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1834
-#, fuzzy
 #| msgid "Scale to fit (scales image so the whole image is always visible)"
 msgid ""
 "Scale to fit = contain (scales image so the whole image is always visible)"
@@ -21918,12 +21977,16 @@ msgid ""
 "Select a custom background color for the icon here on hover. Leave blank to "
 "use default."
 msgstr ""
+"Selecteer hier een aangepaste achtergrondkleur voor het icoon bij hover. "
+"Laat leeg om de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:640
 msgid ""
 "Select a custom background color for the icon here. Leave blank to use "
 "default."
 msgstr ""
+"Selecteer hier een aangepaste achtergrondkleur voor het icoon. Laat leeg om "
+"de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:877
 msgid ""
@@ -21989,6 +22052,8 @@ msgid ""
 "Select a custom background color for your icons here. Leave blank to use "
 "default."
 msgstr ""
+"Selecteer hier een aangepaste achtergrondkleur voor uw pictogrammen. Laat "
+"leeg om de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:299
 msgid "Select a custom background color for your Notification here"
@@ -22051,11 +22116,15 @@ msgid ""
 "Select a custom border color for the icon here on hover. Leave blank to use "
 "default."
 msgstr ""
+"Selecteer hier een aangepaste randkleur voor het icoon bij hover. Laat leeg "
+"om de standaard te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:650
 msgid ""
 "Select a custom border color for the icon here. Leave blank to use default."
 msgstr ""
+"Selecteer hier een aangepaste randkleur voor het pictogram. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:396
 msgid "Select a custom border color here"
@@ -22081,12 +22150,16 @@ msgstr "Selecteer een aangepaste randbreedte voor het zoeken-veld en knop"
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:371
 msgid "Select a custom circle color. Leave blank to use default."
 msgstr ""
+"Selecteer een aangepaste kleur voor de cirkel. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:544
 msgid ""
 "Select a custom color for background of the title, icon and progress bar "
 "percentage. Leave empty for theme default."
 msgstr ""
+"Selecteer een aangepaste kleur voor de achtergrond van de titel, icoon en "
+"voortgangsbalk percentage. Laat leeg voor standaard thema."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1717
 msgid ""
@@ -22108,10 +22181,14 @@ msgstr ""
 msgid ""
 "Select a custom color for the icon here on hover. Leave blank to use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor het icoon bij hover. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:630
 msgid "Select a custom color for the icon here. Leave blank to use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor het icoon. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:317
 msgid ""
@@ -22171,10 +22248,14 @@ msgid ""
 "Select a custom color for your icons here on hover. Leave blank to use "
 "default."
 msgstr ""
+"Selecteer een aangepaste kleur voor uw pictogrammen hier op hover. Laat leeg "
+"om de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:331
 msgid "Select a custom color for your icons here. Leave blank to use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor uw pictogrammen. Laat leeg om de "
+"standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:343
 msgid ""
@@ -22211,6 +22292,8 @@ msgid ""
 "Select a custom color for your text background here. Leave blank to use "
 "default."
 msgstr ""
+"Selecteer hier een aangepaste kleur voor uw tekstachtergrond. Laat leeg om "
+"de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:466
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:485
@@ -22225,6 +22308,8 @@ msgid ""
 "Select a custom color for your title and description here. Leave blank to "
 "use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor uw titel en beschrijving. Laat leeg om "
+"de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2054
 msgid "Select a Custom Element to lock values"
@@ -22304,6 +22389,8 @@ msgid ""
 "Select a custom font color for title, icon and progress bar percentage. "
 "Leave empty for theme default."
 msgstr ""
+"Selecteer een aangepaste letterkleur voor titel, icoon en voortgangsbalk "
+"percentage. Laat leeg voor standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:318
 msgid "Select a custom font color for your Button here"
@@ -22389,13 +22476,15 @@ msgstr "Kies aangepaste tekstkleur. Laat leeg om de standaard te gebruiken"
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:366
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:343
 msgid "Select a custom font size for the button text."
-msgstr ""
+msgstr "Selecteer een aangepaste lettergrootte voor de tekst van de knop."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:314
 msgid ""
 "Select a custom font size for the button text. Used for all buttons, can "
 "also be set for each button seperate."
 msgstr ""
+"Kies een aangepaste lettergrootte voor de tekst van de knop. Wordt gebruikt "
+"voor alle knoppen, kan ook voor elke knop afzonderlijk worden ingesteld."
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:396
 msgid ""
@@ -22431,7 +22520,7 @@ msgstr "Selecteer een aangepaste lettergrootte voor de datums."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:293
 msgid "Select a custom font size for the dexscription text."
-msgstr ""
+msgstr "Kies een aangepaste lettergrootte voor de tekst van het opschrift."
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:363
 msgid "Select a custom font size for the event title."
@@ -22817,12 +22906,15 @@ msgstr "Selecteer een thema kleur voor dit contactformulier widget"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1481
 msgid "Select a value to grayscale the image. The bigger, the stronger."
 msgstr ""
+"Selecteer een waarde om het beeld grijs te maken. Hoe groter, hoe sterker."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1770
 msgid ""
 "Select a value to smoothen the image (filter blur()). The bigger, the "
 "stronger."
 msgstr ""
+"Kies een waarde om het beeld glad te maken (filter blur()). Hoe groter, hoe "
+"sterker."
 
 #: includes/admin/option_tabs/avia_blog.php:386
 msgid "Select alignment of the share buttons bar"
@@ -22868,7 +22960,7 @@ msgstr "Selecteer een icoon voor in de knop"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:592
 msgid "Select an icon for your circle icon entry"
-msgstr ""
+msgstr "Selecteer een icoon voor uw cirkel icoon item"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1058
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:994
@@ -22906,6 +22998,9 @@ msgid ""
 "Select an image to be shown in the center when no icon is active. Either "
 "upload a new, or choose an existing image from your media library."
 msgstr ""
+"Selecteer een afbeelding die in het midden moet worden getoond wanneer geen "
+"pictogram actief is. Upload een nieuwe afbeelding of kies een bestaande "
+"afbeelding uit uw mediabibliotheek."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:670
 msgid ""
@@ -23046,6 +23141,9 @@ msgid ""
 "Select how the cells are aligned in the container and the distance between "
 "the cells and horizontal borders is assigned. Multiple lines are supported."
 msgstr ""
+"Selecteer hoe de cellen worden uitgelijnd in de container en de afstand "
+"tussen de cellen en de horizontale randen wordt toegewezen. Meerdere lijnen "
+"worden ondersteund."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:474
 msgid "Select how to align the form labels and the send button"
@@ -23154,7 +23252,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1045
 msgid "Select if you want to display an icon"
-msgstr ""
+msgstr "Selecteer of u een pictogram wilt weergeven"
 
 #: includes/admin/option_tabs/avia_builder.php:231
 msgid ""
@@ -23352,7 +23450,6 @@ msgstr ""
 "resolutie schakelen in liggende modus mogelijk terug naar het normale menu)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:250
-#, fuzzy
 #| msgid ""
 #| "Select position of column when switching to fullwidth - 0 based. Only "
 #| "used when &quot;Column Behaviour&quot; set to individual."
@@ -23360,8 +23457,8 @@ msgid ""
 "Select position of column when switching to fullwidth. Only used when &quot;"
 "Column Behaviour&quot; set to individual."
 msgstr ""
-"Positie van kolom bij omschakelen naar volledige breedte - 0 gebaseerd. "
-"Alleen gebruikt wanneer &quot;Kolomgedrag&quot; ingesteld is op individueel."
+"Selecteer positie van kolom bij omschakelen naar volledige breedte. Enkel "
+"gebruikt wanneer &quot;Column Behaviour&quot; ingesteld is op individueel."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:238
 msgid "Select Post"
@@ -23421,11 +23518,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1732
 msgid "Select the 3rd opacity. 1 shows background, 0 hides it."
-msgstr ""
+msgstr "Selecteer de 3e opaciteit. 1 toont de achtergrond, 0 verbergt hem."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:249
 msgid "Select the appearance of the icon grid."
-msgstr ""
+msgstr "Selecteer het uiterlijk van het pictogrammenraster."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:674
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:417
@@ -23474,6 +23571,8 @@ msgid ""
 "Select the behaviour of an open flipbox or tooltip on mobile devices and "
 "touch screens"
 msgstr ""
+"Kies het gedrag van een geopende flipbox of tooltip op mobiele toestellen en "
+"aanraakschermen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:229
 msgid ""
@@ -23493,7 +23592,7 @@ msgstr "Selecteer het carrousel lustype"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1689
 msgid "Select the center position of the radial gradient."
-msgstr ""
+msgstr "Selecteer de middenpositie van de radiale gradiënt."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:880
 msgid "Select the color for the sonar shadow. Leave empty for theme default."
@@ -23514,11 +23613,11 @@ msgstr "Kies de gewenste pagina lay-out"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:353
 msgid "Select the distance between the cells in a row."
-msgstr ""
+msgstr "Selecteer de afstand tussen de cellen in een rij."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:363
 msgid "Select the distance between the rows."
-msgstr ""
+msgstr "Selecteer de afstand tussen de rijen."
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:114
 msgid "Select the entry that should be displayed"
@@ -23563,19 +23662,19 @@ msgstr "Selecteer de stijl van de hotspot"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1621
 msgid "Select the image mask position"
-msgstr ""
+msgstr "Selecteer de positie van het afbeeldingsmasker"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1642
 msgid "Select the image mask repeat behaviour"
-msgstr ""
+msgstr "Selecteer het herhalingsgedrag van het afbeeldingsmasker"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1596
 msgid "Select the image mask size"
-msgstr ""
+msgstr "Selecteer de grootte van het afbeeldingsmasker"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1585
 msgid "Select the image to use as mask shape"
-msgstr ""
+msgstr "Selecteer de afbeelding die u wilt gebruiken als maskervorm"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:728
 msgid "Select the left position of the icon anchor in pixel"
@@ -23631,7 +23730,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:373
 msgid "Select the minimum height of the cells."
-msgstr ""
+msgstr "Selecteer de minimum hoogte van de cellen."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1572
 msgid ""
@@ -23726,11 +23825,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1721
 msgid "Select the second opacity. 1 shows background, 0 hides it."
-msgstr ""
+msgstr "Selecteer de tweede opaciteit. 1 toont de achtergrond, 0 verbergt hem."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1671
 msgid "Select the shape of the radial gradient."
-msgstr ""
+msgstr "Selecteer de vorm van de radiale gradiënt."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1614
 msgid ""
@@ -23757,6 +23856,7 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1710
 msgid "Select the start opacity. 1 shows background, 0 hides it."
 msgstr ""
+"Selecteer de start ondoorzichtigheid. 1 toont de achtergrond, 0 verbergt hem."
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:365
 msgid "Select the styling of the toggles"
@@ -24033,6 +24133,9 @@ msgid ""
 "Select to hide description text when element is viewed on different devices. "
 "Recommended for larger text to avoid overlapping the circle."
 msgstr ""
+"Selecteer om de beschrijvingstekst te verbergen wanneer het element op "
+"verschillende apparaten wordt bekeken. Aanbevolen voor grotere tekst om "
+"overlapping met de cirkel te voorkomen."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1037
 msgid ""
@@ -24043,7 +24146,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:444
 msgid "Select to rotate the element clockwise"
-msgstr ""
+msgstr "Selecteer om het element met de klok mee te draaien"
 
 #: includes/admin/option_tabs/avia_cookie.php:809
 msgid "Select to show a badge to reopen the message bar"
@@ -24105,7 +24208,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1565
 msgid "Select to use a mask overlay effect"
-msgstr ""
+msgstr "Selecteer om een maskeroverlay-effect te gebruiken"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:314
 msgid ""
@@ -24501,13 +24604,15 @@ msgid ""
 "Set a distance around the headline text and a possible icon. Valid CSS units "
 "are accepted, eg: 30px, 5&percnt;. px is used as default unit."
 msgstr ""
+"Stel een afstand in rond de koptekst en een eventueel icoon. Geldige CSS "
+"eenheden worden geaccepteerd, bijv: 30px, 5&percnt;. px wordt gebruikt als "
+"standaard eenheid."
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:329
 msgid "Set a distance between the content and slide borders."
-msgstr ""
+msgstr "Stel een afstand in tussen de inhoud en de randen van de dia."
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:469
-#, fuzzy
 #| msgid ""
 #| "Set a distance between the images - need when using box shadow outside. "
 #| "Both pixel and &percnt; based values are accepted. eg: 30px, 5&percnt;. "
@@ -24525,6 +24630,8 @@ msgstr ""
 msgid ""
 "Set a distance between the slides - needed when using box shadow outside."
 msgstr ""
+"Stel een afstand in tussen de dia's - nodig bij gebruik van box schaduw "
+"buiten."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:417
 msgid ""
@@ -24532,6 +24639,9 @@ msgid ""
 "of the element only px will work for left and right to keep circle inside "
 "the container."
 msgstr ""
+"Stel een marge in voor de cirkel ten opzichte van de omringende container. "
+"Door de layout van het element werkt alleen px voor links en rechts om de "
+"cirkel binnen de container te houden."
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:157
 msgid "Set a position for the button"
@@ -24549,21 +24659,24 @@ msgstr "Stel een positie in voor de afbeelding."
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:382
 msgid "Set a responsive margin and a padding to text for the button."
 msgstr ""
+"Stel een responsieve marge en een padding in voor de tekst van de knop."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:662
 msgid "Set a responsive padding to text for the button."
-msgstr ""
+msgstr "Stel een responsieve padding in voor de tekst van de knop."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:354
 msgid ""
 "Set a responsive padding to text for the buttons. Used for all buttons, can "
 "also be set for each button seperate."
 msgstr ""
+"Stel een responsieve padding in voor de tekst van de knoppen. Wordt gebruikt "
+"voor alle knoppen, kan ook voor elke knop apart worden ingesteld."
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:467
 #: config-templatebuilder/avia-shortcodes/section/section.php:373
 msgid "Set a responsive top and bottom margin"
-msgstr ""
+msgstr "Stel een responsieve boven- en ondermarge in"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:166
 msgid "Set a tab title"
@@ -24624,12 +24737,17 @@ msgid ""
 "Set the bottom padding for the element. Valid CSS units are accepted, eg: "
 "30px, 5&percnt;. px is used as default unit."
 msgstr ""
+"Stel de bottom padding voor het element in. Geldige CSS eenheden worden "
+"geaccepteerd, bijv: 30px, 5&percnt;. px wordt gebruikt als standaard eenheid."
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:489
 msgid ""
 "Set the bottom padding for the icon. Valid CSS units are accepted, eg: 30px, "
 "5&percnt;. px is used as default unit."
 msgstr ""
+"Stel de opvulling van de onderkant van het icoon in. Geldige CSS eenheden "
+"worden geaccepteerd, b.v.: 30px, 5&percnt;. px wordt gebruikt als standaard "
+"eenheid."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:550
 msgid "Set the colors of your hotspot"
@@ -24650,10 +24768,12 @@ msgid ""
 "Set the distance from the cell content to the border here. Theme default is "
 "30px."
 msgstr ""
+"Stel hier de afstand van de celinhoud tot de rand in. Thema standaard is "
+"30px."
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:638
 msgid "Set the distance from the column content to the border here."
-msgstr ""
+msgstr "Stel hier de afstand van de inhoud van de kolom tot de rand in."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:346
 msgid ""
@@ -24722,12 +24842,17 @@ msgid ""
 "Set the margin for the search results container. Valid CSS units are "
 "accepted, eg: 30px, 5&percnt;. px is used as default unit."
 msgstr ""
+"Stel de marge in voor de zoekresultaten container. Geldige CSS eenheden "
+"worden geaccepteerd, bijv: 30px, 5&percnt;. px wordt gebruikt als standaard "
+"eenheid."
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:447
 msgid ""
 "Set the margin to other elements here. Valid CSS units are accepted, eg: "
 "30px, 5&percnt;. px is used as default unit."
 msgstr ""
+"Stel hier de marge in voor andere elementen. Geldige CSS eenheden worden "
+"geaccepteerd, bijv: 30px, 5&percnt;. px wordt gebruikt als standaard eenheid."
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:234
 msgid "Set the minimum height of all the cells in pixel. eg:400px"
@@ -24755,7 +24880,6 @@ msgid "Set the orientation of the timeline"
 msgstr "Stel de oriëntatie van de tijdlijn in"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:507
-#, fuzzy
 #| msgid ""
 #| "Set the distance from the cell content to the border here. Both pixel and "
 #| "&percnt; based values are accepted. eg: 30px, 5&percnt;. Leave empty to "
@@ -24765,9 +24889,9 @@ msgid ""
 "based values are accepted. eg: 30px, 5&percnt;. Leave empty to use theme "
 "default."
 msgstr ""
-"Stel hier de afstand van de celinhoud tot de rand in. Zowel pixel als "
-"&percnt; gebaseerde waarden worden geaccepteerd. bv: 30px, 5&percnt;. Laat "
-"leeg om het thema standaard 30px te gebruiken."
+"Stel hier de padding van de celinhoud in. Zowel pixel als &percnt; "
+"gebaseerde waarden worden geaccepteerd. bv: 30px, 5&percnt;. Laat leeg om "
+"het thema standaard 30px te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:456
 msgid ""
@@ -24783,6 +24907,9 @@ msgid ""
 "Set the padding for the search results container. Valid CSS units are "
 "accepted, eg: 30px, 5&percnt;. px is used as default unit."
 msgstr ""
+"Stel de padding in voor de zoekresultaten container. Geldige CSS eenheden "
+"worden geaccepteerd, bijv: 30px, 5&percnt;. px wordt gebruikt als standaard "
+"eenheid."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:299
 msgid ""
@@ -24854,7 +24981,6 @@ msgstr ""
 "wordt 0 px aangenomen"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:464
-#, fuzzy
 #| msgid "Set the padding for the search results container"
 msgid "Set the spacing for the search results container"
 msgstr "Stel de padding in voor de zoekresultaten container"
@@ -24904,12 +25030,16 @@ msgid ""
 "Set your custom margin.  Valid CSS units are accepted, eg: 30px, 5&percnt;. "
 "px is used as default unit."
 msgstr ""
+"Stel uw aangepaste marge in.  Geldige CSS eenheden worden geaccepteerd, bijv:"
+" 30px, 5&percnt;. px wordt gebruikt als standaard eenheid."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1141
 msgid ""
 "Set your custom padding. Valid CSS units are accepted, eg: 30px, 5&percnt;. "
 "px is used as default unit."
 msgstr ""
+"Stel uw eigen padding in. Geldige CSS eenheden worden geaccepteerd, bijv: "
+"30px, 5&percnt;. px wordt gebruikt als standaard eenheid."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:279
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:354
@@ -25302,7 +25432,7 @@ msgstr "Toon enkel verborgen producten"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1051
 msgid "Show icon above title"
-msgstr ""
+msgstr "Pictogram boven titel tonen"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:355
 #: config-templatebuilder/avia-shortcodes/video/video.php:348
@@ -25707,7 +25837,7 @@ msgstr "Instellingen formaat"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1538
 msgid "Sketch"
-msgstr ""
+msgstr "Schets"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:878
 msgid "Skewing"
@@ -25920,20 +26050,18 @@ msgid "Slightly fade in effect"
 msgstr "Enigszins fade-in effect"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:475
-#, fuzzy
 #| msgid "Yes, slightly increase the image size"
 msgid "Slightly increase the image size"
-msgstr "Ja, vergroot de afbeelding enigszins"
+msgstr "Vergroot de afbeelding enigszins"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:334
 msgid "Slightly oversaturated"
 msgstr "Licht over-verzadigd"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:476
-#, fuzzy
 #| msgid "Yes, slightly zoom the image"
 msgid "Slightly zoom the image"
-msgstr "Ja, zoom de afbeelding enigszins in"
+msgstr "Zoom de afbeelding enigszins in"
 
 #: includes/admin/option_tabs/avia_header.php:256
 msgid "slim"
@@ -25970,7 +26098,7 @@ msgstr "Kleine padding (20px 20px)"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:352
 msgid "Small Padding (20px)"
-msgstr ""
+msgstr "Kleine padding (20px)"
 
 #: includes/admin/option_tabs/avia_menu.php:209
 msgid "Small separator"
@@ -26013,23 +26141,23 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1385
 msgid "Smoothen Backside Background Image"
-msgstr ""
+msgstr "Achtergrondafbeelding van achterkant gladmaken"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1342
 msgid "Smoothen Front Background Image"
-msgstr ""
+msgstr "Achtergrondafbeelding van voorkant gladmaken"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1769
 msgid "Smoothen Image"
-msgstr ""
+msgstr "Afbeelding gladmaken"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:478
 msgid "Smoothen image ( blur() )"
-msgstr ""
+msgstr "Afbeelding gladmaken ( blur() )"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:487
 msgid "Smoothen Image On Hover"
-msgstr ""
+msgstr "Achtergrond gladmaken bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:23
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:191
@@ -26505,7 +26633,6 @@ msgid "Stretch image to fit the slideshow size?"
 msgstr "Afbeelding uitrekken naar afmetingen diavoorstelling?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1833
-#, fuzzy
 #| msgid "Stretch to fit (stretches image to cover the element)"
 msgid "Stretch to fit = stretch (stretches image to cover the element)"
 msgstr ""
@@ -27052,7 +27179,7 @@ msgstr "Uitlijning tekst"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:390
 msgid "Text Background Color"
-msgstr ""
+msgstr "Tekst achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:23
 msgid "Text Block"
@@ -27064,7 +27191,7 @@ msgstr "Tekstblok opmaak"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:380
 msgid "Text Color"
-msgstr ""
+msgstr "Tekstkleur"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:546
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:598
@@ -27884,16 +28011,22 @@ msgid ""
 "This color fills up the progress container to 100 &percnt;. Leave empty for "
 "theme default."
 msgstr ""
+"Deze kleur vult de voortgang container tot 100 &percnt;. Leeg laten voor "
+"standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:502
 msgid "This color is used as the main background color for the progress bar."
 msgstr ""
+"Deze kleur wordt gebruikt als de belangrijkste achtergrondkleur voor de "
+"voortgangsbalk."
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:513
 msgid ""
 "This color is used as the striped color for the progress bar. Only used when "
 "option striped bars is selected."
 msgstr ""
+"Deze kleur wordt gebruikt als de gestreepte kleur voor de voortgangsbalk. "
+"Wordt alleen gebruikt als de optie gestreepte balken is geselecteerd."
 
 #: framework/php/class-form-generator.php:434
 msgid ""
@@ -28199,7 +28332,7 @@ msgstr "Tegel horizontaal"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1831
 msgid "Tile Horizontally = repeat-x"
-msgstr ""
+msgstr "Horizontaal betegelen = herhaal-x"
 
 #: includes/admin/option_tabs/avia_styling.php:361
 #: includes/admin/option_tabs/avia_styling.php:501
@@ -28209,7 +28342,7 @@ msgstr "Tegel verticaal"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1832
 msgid "Tile Vertically = repeat-y"
-msgstr ""
+msgstr "Vertikaal betegelen = herhaal-y"
 
 #: config-templatebuilder/avia-template-builder/php/class-svg-shapes.php:182
 msgid "Tilt"
@@ -28288,15 +28421,15 @@ msgstr "Titel + Lees meer knop"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:217
 msgid "Title 1"
-msgstr ""
+msgstr "Titel 1"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:223
 msgid "Title 2"
-msgstr ""
+msgstr "Titel 2"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:229
 msgid "Title 3"
-msgstr ""
+msgstr "Titel 3"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:279
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:342
@@ -28318,7 +28451,7 @@ msgstr "Titelattribuut"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:543
 msgid "Title Background Color"
-msgstr ""
+msgstr "Titel achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:506
 msgid "Title Bar Custom Background Color"
@@ -28340,7 +28473,7 @@ msgstr "Titel kleur"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:533
 msgid "Title Font Color"
-msgstr ""
+msgstr "Titel tekstkleur"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:369
 msgid "Title Font Size"
@@ -28463,7 +28596,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:275
 msgid "To hide text on this device enter &quot;hidden&quot;."
-msgstr ""
+msgstr "Om tekst op dit apparaat te verbergen, voert u &quot;hidden&quot; in."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:96
 msgid ""
@@ -28649,7 +28782,7 @@ msgstr "Breedte tekstkader"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:250
 msgid "Tooltip will always be in a square shape."
-msgstr ""
+msgstr "Tooltip zal altijd in een vierkante vorm zijn."
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:395
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:220
@@ -28768,7 +28901,7 @@ msgstr "Tracknummers"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:457
 msgid "Transform"
-msgstr ""
+msgstr "Overgang"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:720
 msgid "Transform Rules"
@@ -28938,7 +29071,7 @@ msgstr "Typografie"
 
 #: includes/admin/option_tabs/avia_builder.php:112
 msgid "Typography Input Fields"
-msgstr ""
+msgstr "Typografie invoervelden"
 
 #: framework/php/class-grecaptcha.php:572
 #, php-format
@@ -29642,7 +29775,7 @@ msgstr "Gebruik standaard"
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:358
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:368
 msgid "Use Default (= 0)"
-msgstr ""
+msgstr "Gebruik standaard (= 0)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:255
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:343
@@ -29871,15 +30004,15 @@ msgstr "Gebruik thema standaard"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:429
 msgid "Use theme default (1 column)"
-msgstr ""
+msgstr "Gebruik thema standaard (1 kolom)"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:428
 msgid "Use theme default (2 columns)"
-msgstr ""
+msgstr "Gebruik thema standaard (2 kolommen)"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:427
 msgid "Use theme default (3 columns)"
-msgstr ""
+msgstr "Gebruik thema standaard (3 kolommen)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2681
 msgid "Use theme setting for responsive images"
@@ -30067,11 +30200,11 @@ msgstr "Geldig positief getal inclusief 0"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:874
 msgid "Valid values Angle: e.g. 45deg"
-msgstr ""
+msgstr "Geldige waarden hoek: bijv. 45deg"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:821
 msgid "Valid values x,y,z: 0-1, Angle: e.g. 45deg"
-msgstr ""
+msgstr "Geldige waarden x,y,z: 0-1, Hoek: b.v. 45deg"
 
 #: framework/php/class-grecaptcha.php:242
 msgid "Verify...."
@@ -30083,7 +30216,7 @@ msgstr "Verticaal"
 
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:214
 msgid "Vertical Align"
-msgstr ""
+msgstr "Vertikaal uitlijnen"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:232
 msgid "Vertical align"
@@ -30785,7 +30918,7 @@ msgstr "Waar moet het icoon worden getoond?"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:711
 msgid "Where should the icon link to?"
-msgstr ""
+msgstr "Waar moet het icoon naartoe linken?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:783
 msgid "Where should the image link to"
@@ -31245,7 +31378,7 @@ msgstr "Ja - Laat zien, maar geen titel op mobiele apparaten"
 
 #: config-woocommerce/admin-options.php:210
 msgid "Yes - show first gallery image on hover"
-msgstr ""
+msgstr "Ja - toon eerste galerij afbeelding bij hover"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:233
 msgid "Yes, always display copyright info"
@@ -31567,6 +31700,8 @@ msgstr "U kunt hier uw API sleutel vinden"
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:586
 msgid "You can hide it depending on the device: Tab Advanced -&gt; Responsive"
 msgstr ""
+"U kunt het verbergen afhankelijk van het apparaat: Tabblad Geavanceerd -&gt; "
+"Responsive"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:339
 msgid "You can only hide form fields that are not required"
