@@ -1,5 +1,10 @@
+2022-10-10
+- Italian it_IT (version 5.2, provided by BigBatT - info@luigicircello.it)
+- Dutch nl_NL (version 5.2, provided by EZWebdesign - Roger Hoen )
+
 2022-10-08
 - sync all files 5.2-dev-2
+- Spanish es_ES - minor changes only
 
 2022-09-05
 - Italian it_IT (version 5.1.2, provided by BigBatT - info@luigicircello.it)
