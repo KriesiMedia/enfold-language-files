@@ -1,3 +1,7 @@
+
+2022-10-11
+- French language files fr_FR (version 5.2, provided by comkapi - web@subit.fr)
+
 2022-10-10
 - Italian it_IT (version 5.2, provided by BigBatT - info@luigicircello.it)
 - Dutch nl_NL (version 5.2, provided by EZWebdesign - Roger Hoen )
