@@ -7,10 +7,12 @@ If you have a GitHub account (or do not mind creating one), you can easily submi
 
 1- Go to https://github.com/KriesiMedia/enfold-language-files and click "Fork" button 
 
-![Fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+![Fork image](https://user-images.githubusercontent.com/5331416/197038042-15690550-98b3-4ed1-852b-35ba4ab5f5c1.png)
 
 
 2- Please download the repository you have forked and use language files in it instead of language files inside Enfold/lang folder. This way, we are going to minimize the risk of overwriting files. 
+
+![Download the repo](https://user-images.githubusercontent.com/5331416/197038874-d4b43327-6fe3-4b11-98e9-62cb5a50c390.png)
 
 
 3- Add your language files inside "lang" folder (please both .po and .mo files), upload fork and click "New Pull Request" button
