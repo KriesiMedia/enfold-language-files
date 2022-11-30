@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 15:00+0200\n"
-"PO-Revision-Date: 2022-11-29 13:42+0000\n"
+"PO-Revision-Date: 2022-11-30 07:20+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Loco-Version: 2.6.3; wp-6.0.3\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:599
@@ -254,13 +254,13 @@ msgstr "%s"
 #: framework/php/class-megamenu.php:438
 #, php-format
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s (Ongeldig)"
 
 #. %s: title of menu item in draft status
 #: framework/php/class-megamenu.php:444
 #, php-format
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s (Wachtend)"
 
 #: framework/php/class-grecaptcha.php:631
 #, php-format
@@ -416,7 +416,7 @@ msgstr ""
 
 #: framework/php/class-megamenu.php:477
 msgid "(Mega Menu)"
-msgstr ""
+msgstr "(Mega Menu)"
 
 #: includes/admin/register-demo-import.php:590
 #: includes/admin/register-demo-import.php:612
@@ -473,11 +473,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:701
 msgid "-- Bubble Chart datapoint structure: x/y/r  (e.g. 5/20/3;15/30/2 )"
-msgstr ""
+msgstr "-- Bubbel grafiek datapuntenstructuur: x/y/r (bijv. 5/20/3;15/30/2 )"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:702
 msgid "-- Scatter Chart datapoint structure: x/y  (e.g. 5/20;10/15 ) "
-msgstr ""
+msgstr "-- Scatter grafiek datapuntenstructuur: x/y/r (bijv. 5/20/3;15/30/2 )"
 
 #: includes/admin/register-portfolio.php:238
 #: framework/php/legacy/class-update-notifier.php:160
@@ -961,7 +961,7 @@ msgstr "Een catalogus element"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:72
 msgid "A Chart Dataset Item"
-msgstr ""
+msgstr "Een grafiek dataset item"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:516
 msgid ""
@@ -1011,6 +1011,8 @@ msgstr ""
 msgid ""
 "A dataset consists of a series of datapoints. You may use multiple datasets."
 msgstr ""
+"Een dataset bestaat uit een serie datapunten. U kunt meerdere datasets "
+"gebruiken."
 
 #: framework/php/auto-updates/auto-updates.php:296
 #, php-format
@@ -1278,7 +1280,7 @@ msgstr "Accordeon diavoorstelling element"
 
 #: config-woocommerce/config.php:2716
 msgid "Account Page Link"
-msgstr ""
+msgstr "Link naar accountpagina"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:189
 msgid "Action with codeblock"
@@ -1410,6 +1412,8 @@ msgid ""
 "Add a color for each datapoint, seperate by ; (e.g. #fefefe;#efefef;green). "
 "Missing colors will loop from the beginning again."
 msgstr ""
+"Voeg een kleur toe voor elk datapunt, gescheiden door ; (bijv. #fefefe;"
+"#efefef;groen). Ontbrekende kleuren worden vanaf het begin opnieuw doorlopen."
 
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:33
 msgid "Add a comment form and comments list to the template"
@@ -1781,17 +1785,19 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:768
 msgid "Add the background colors."
-msgstr ""
+msgstr "Voeg de achtergrondkleuren toe."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:759
 msgid "Add the border or line colors."
-msgstr ""
+msgstr "Voeg de rand- of lijnkleuren toe."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:700
 msgid ""
 "Add the dataset datapoints. Seperate with ;. Use numeric values for a point "
 "(e.g. 5, 5.20)"
 msgstr ""
+"Voeg de datapunten van de dataset toe. Gebruik ; als scheidingsteken. "
+"Gebruik numerieke waarden voor een punt (bijv. 5, 5,20)"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:283
 msgid ""
@@ -1799,6 +1805,9 @@ msgid ""
 "Number of labels should correspond with number of datapoints. Default labels "
 "are created if needed."
 msgstr ""
+"Voeg de beschrijvende x-as tabellen toe voor uw datapunten. Scheiden met ;. "
+"Het aantal labels moet overeenkomen met het aantal datapunten. Standaard "
+"labels worden aangemaakt indien nodig."
 
 #: includes/admin/option_tabs/avia_header.php:463
 msgid "Add the text that should be displayed in your header here"
@@ -1850,7 +1859,7 @@ msgstr "Toevoegen/wijzigen elementen contactformulier"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:261
 msgid "Add/Edit Datasets"
-msgstr ""
+msgstr "Toevoegen/bewerken datasets"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:218
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:202
@@ -2457,6 +2466,8 @@ msgid ""
 "Allowed color formats are string in hexadecimal, RGB, named colors or HSL (e."
 "g. #fefefe, rgba(214,87,153,0.58), green)."
 msgstr ""
+"Toegestane kleurformaten zijn string in hexadecimaal, RGB, benoemde kleuren "
+"of HSL (bijv. #fefefe, rgba(214,87,153,0.58), groen)."
 
 #: includes/admin/option_tabs/avia_cookie.php:656
 msgid ""
@@ -3058,7 +3069,7 @@ msgstr "Bijlage"
 #: framework/php/function-set-avia-ajax.php:1373
 #, php-format
 msgid "Attachment ID: %d"
-msgstr ""
+msgstr "Bijlage ID: %d"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:651
 msgid "Attachment image for: "
@@ -3296,7 +3307,7 @@ msgstr "Beschikbare sjabloonbouwer elementen:"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:505
 msgid "Average"
-msgstr ""
+msgstr "Gemiddeld"
 
 #: config-woocommerce/config.php:1906
 msgid "Average rating"
@@ -3527,7 +3538,7 @@ msgstr "Banner opties"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:231
 msgid "Bar Chart"
-msgstr ""
+msgstr "Staafdiagram"
 
 #: includes/admin/register-portfolio.php:260
 #: includes/admin/register-portfolio.php:274
@@ -3806,7 +3817,7 @@ msgstr "Body achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:580
 msgid "Body Text Color"
-msgstr ""
+msgstr "Inhoud tekstkleur"
 
 #: includes/admin/register-admin-option-values.php:22
 msgid "Bold"
@@ -3964,11 +3975,11 @@ msgstr "Randbreedte tooltip"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:776
 msgid "Border Width/Line Width"
-msgstr ""
+msgstr "Randbreedte/lijnbreedte"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:758
 msgid "Border/Line Colors"
-msgstr ""
+msgstr "Rand-/lijnkleuren"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:595
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:280
@@ -4226,7 +4237,7 @@ msgstr "Naar voorgrond brengen"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:232
 msgid "Bubble Chart"
-msgstr ""
+msgstr "Bubbelgrafiek"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:218
 msgid "Build simple custom menu"
@@ -4249,6 +4260,7 @@ msgid ""
 "Bundled is js version 3.9.1 - so there is no access to any external "
 "ressources."
 msgstr ""
+"Gebundeld is js versie 3.9.1 - dus er is geen toegang tot externe bronnen."
 
 #: includes/admin/option_tabs/avia_menu.php:237
 msgid "Burger/Mobile Menu"
@@ -4675,7 +4687,7 @@ msgstr "Door gebruik"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:204
 msgid "Cache Information"
-msgstr ""
+msgstr "Cache informatie"
 
 #: framework/php/legacy/class-framework-widgets.php:3062
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:532
@@ -5007,7 +5019,6 @@ msgid "Change the styling for all Heading tags"
 msgstr "De stijl aanpassen van alle titel tags"
 
 #: includes/admin/register-backend-advanced-styles.php:898
-#, fuzzy
 #| msgid ""
 #| "Change the styling for all your cookie consent extra buttons (not accept "
 #| "buttons)"
@@ -5205,39 +5216,39 @@ msgstr "Charcode:"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:55
 msgid "Chart"
-msgstr ""
+msgstr "Grafiek"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:375
 msgid "Chart Background Color"
-msgstr ""
+msgstr "Grafiek achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:298
 msgid "Chart Data"
-msgstr ""
+msgstr "Grafiekdata"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:71
 msgid "Chart Dataset Item"
-msgstr ""
+msgstr "Grafiek dataset item"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:467
 msgid "Chart Padding"
-msgstr ""
+msgstr "Grafiek padding"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:318
 msgid "Chart Subtitle"
-msgstr ""
+msgstr "Grafiek subtitel"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:309
 msgid "Chart Title"
-msgstr ""
+msgstr "Grafiek titel"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:350
 msgid "Chart Title, Subtitle, Position"
-msgstr ""
+msgstr "Grafiek titel, subtitel, positie"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:248
 msgid "Chart Type"
-msgstr ""
+msgstr "Grafiektype"
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:15
 msgid ""
@@ -6781,11 +6792,11 @@ msgstr "Kleur en Weergave"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:512
 msgid "Color Boxes"
-msgstr ""
+msgstr "Kleur kaders"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:742
 msgid "Color Information"
-msgstr ""
+msgstr "Kleur informatie"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:744
 msgid "Color of the Likes & Comments"
@@ -6793,7 +6804,7 @@ msgstr "Kleur van de 'Vind-ik-leuk's & commentaren"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:748
 msgid "Color Picker Helper"
-msgstr ""
+msgstr "Kleurkiezer helper"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:331
 msgid "Color Saturation"
@@ -6848,7 +6859,7 @@ msgstr "Kleuren"
 
 #: framework/php/class-megamenu.php:476
 msgid "Column"
-msgstr ""
+msgstr "Kolom"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:838
 msgid "Column Animation"
@@ -7058,11 +7069,11 @@ msgstr "Contactformulier element"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:365
 msgid "Container Background Color"
-msgstr ""
+msgstr "Container achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:459
 msgid "Container Padding"
-msgstr ""
+msgstr "Container padding"
 
 #: includes/admin/register-backend-advanced-styles.php:763
 msgid "Container Width"
@@ -7490,7 +7501,7 @@ msgstr ""
 #: framework/php/function-set-avia-ajax.php:1279
 #, php-format
 msgid "Could not create directory [%s] to store downloaded thumbnails."
-msgstr ""
+msgstr "Kon map [%s] niet aanmaken om gedownloade miniaturen op te slaan."
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:73
 msgid "Could not load the template. You might want to try and reload the page"
@@ -7786,7 +7797,7 @@ msgstr ""
 
 #: framework/php/function-set-avia-ajax.php:1260
 msgid "Currently only Youtube and Vimeo are supported."
-msgstr ""
+msgstr "Momenteel worden alleen Youtube en Vimeo ondersteund."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1649
 msgid "currently updating database"
@@ -8347,23 +8358,23 @@ msgstr "Database foutmelding tijdens het opslaan."
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:816
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:820
 msgid "Dataset"
-msgstr ""
+msgstr "Dataset"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:270
 msgid "Dataset 1"
-msgstr ""
+msgstr "Dataset 1"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:274
 msgid "Dataset 2"
-msgstr ""
+msgstr "Dataset 2"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:716
 msgid "Dataset Datapoints"
-msgstr ""
+msgstr "Dataset datapunten"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:706
 msgid "Dataset Label"
-msgstr ""
+msgstr "Dataset label"
 
 #: config-woocommerce/config-356.php:1362 config-woocommerce/config.php:1904
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:257
@@ -8678,6 +8689,8 @@ msgid ""
 "Define a label for your dataset. Will be displayed above the chart and on "
 "hover."
 msgstr ""
+"Definieer een label voor uw dataset. Wordt weergegeven boven de grafiek en "
+"bij zweven."
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:209
 msgid "Define a minimum height for the grid row."
@@ -9025,6 +9038,8 @@ msgstr "Demo Importeur (%s):"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:736
 msgid "Depending on the selected chart type not all settings will be used."
 msgstr ""
+"Afhankelijk van het gekozen grafiektype worden niet alle instellingen "
+"gebruikt."
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:261
 msgid ""
@@ -9709,7 +9724,7 @@ msgstr "Toon in het hoofdmenu gebied"
 
 #: includes/admin/option_tabs/avia_shop.php:40
 msgid "Display in main menu"
-msgstr ""
+msgstr "Toon in hoofdmenu"
 
 #: includes/admin/option_tabs/avia_header.php:418
 #: includes/admin/option_tabs/avia_header.php:455
@@ -10075,6 +10090,8 @@ msgid ""
 "Displays different types of charts based on static user data - or dynamic "
 "data with filter"
 msgstr ""
+"Toont verschillende soorten grafieken op basis van statische "
+"gebruikersgegevens - of dynamische gegevens met filter"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:93
 msgid "Displays multiple buttons beside each other"
@@ -10254,7 +10271,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_shop.php:39
 msgid "Do not show"
-msgstr ""
+msgstr "Niet tonen"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1056
 msgid "Do not show an icon"
@@ -10435,7 +10452,7 @@ msgstr "Dubbele opt-in?"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:233
 msgid "Doughnut Chart"
-msgstr ""
+msgstr "Donutgrafiek"
 
 #: includes/admin/option_tabs/avia_demo.php:17
 msgid "Download And Import Demo Files"
@@ -10481,6 +10498,8 @@ msgstr "Download gestart"
 #: config-templatebuilder/avia-shortcodes/video/video.php:209
 msgid "Download the video preview thumbnail and save it in the media library"
 msgstr ""
+"Download de video voorbeeldweergave thumbnail en sla deze op in de "
+"mediabibliotheek"
 
 #: framework/php/legacy/class-update-notifier.php:165
 msgid "Download Update From Themeforest.net"
@@ -10488,7 +10507,7 @@ msgstr "Download de update van Themeforest.net"
 
 #: config-templatebuilder/avia-shortcodes/video/video.php:210
 msgid "Download video thumbnail"
-msgstr ""
+msgstr "Download video thumbnail"
 
 #: framework/php/function-set-avia-ajax.php:764
 #, php-format
@@ -10681,7 +10700,7 @@ msgstr "Aangepaste elementen bewerken"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:265
 msgid "Edit Dataset"
-msgstr ""
+msgstr "Dataset bewerken"
 
 #: framework/php/class-htmlhelper.php:3100
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2050
@@ -10768,7 +10787,7 @@ msgstr "Locatie bewerken"
 
 #: framework/php/class-megamenu.php:505 framework/php/class-megamenu.php:507
 msgid "Edit Menu Item"
-msgstr ""
+msgstr "Menu-item bewerken"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:259
 msgid "Edit Metadata Element"
@@ -11471,6 +11490,8 @@ msgid ""
 "Enter a title for the chart - better keep it short. Leave empty if not "
 "needed. Click outside input field to show more options if needed."
 msgstr ""
+"Voer een titel in voor de grafiek - houd het kort. Laat leeg indien niet "
+"nodig. Klik buiten het invoerveld om zo nodig meer opties te tonen."
 
 #: framework/php/auto-updates/auto-updates.php:350
 msgid "Enter a valid Envato private token"
@@ -11556,6 +11577,8 @@ msgid ""
 "Enter an additional subtitle for the chart - better keep it short. Leave "
 "empty if not needed."
 msgstr ""
+"Voer een extra ondertitel in voor de grafiek - houd het kort. Laat leeg "
+"indien niet nodig."
 
 #: includes/admin/option_tabs/avia_cookie.php:481
 #: includes/admin/option_tabs/avia_cookie.php:616
@@ -12153,7 +12176,7 @@ msgstr "Envato API verzoek om download URL werd gestart"
 
 #: framework/php/auto-updates/auto-updates.php:299
 msgid "Envato Market Plugin"
-msgstr ""
+msgstr "Envato Market plugin"
 
 #: framework/php/auto-updates/auto-updates.php:309
 #, php-format
@@ -12161,12 +12184,17 @@ msgid ""
 "Envato Market Plugin is activated (version %s). You may now also use WP_CLI "
 "or %sEnvato Market Admin Page%s to update the theme."
 msgstr ""
+"Envato Market plugin is geactiveerd (versie %s). U kunt nu ook WP_CLI of "
+"%sEnvato Market Admin Page%s gebruiken om het thema bij te werken."
 
 #: framework/php/auto-updates/auto-updates.php:317
 msgid ""
 "Envato Market Plugin is installed but not activated. Please activate it if "
 "you want to use it (e.g. to update theme with WP_CLI)."
 msgstr ""
+"Envato Market plugin is geïnstalleerd maar niet geactiveerd. Activeer hem "
+"als u hem wilt gebruiken (bijvoorbeeld om het thema bij te werken met WP_CLI)"
+"."
 
 #: framework/php/auto-updates/class-avia-envato-base-api.php:229
 #, php-format
@@ -12226,11 +12254,11 @@ msgstr "Fout(en) geretourneerd:"
 #: framework/php/function-set-avia-ajax.php:1322
 #, php-format
 msgid "Error: Cannot connect to %s to read thummbnail info."
-msgstr ""
+msgstr "Fout: Kan geen verbinding maken met %s om thumbnail info te lezen."
 
 #: framework/php/function-set-avia-ajax.php:1249
 msgid "Error: Cannot connect to Vimeo to read thummbnail info."
-msgstr ""
+msgstr "Fout: Kan geen verbinding maken met Vimeo om thumbnail info te lezen."
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:527
 #, php-format
@@ -12249,12 +12277,12 @@ msgstr "Fout: het sjabloon bestaat niet."
 #: framework/php/function-set-avia-ajax.php:1343
 #, php-format
 msgid "Error: Unable to save downloaded thumbnail to [%s]."
-msgstr ""
+msgstr "Fout: Kan gedownloade thumbnail niet opslaan in [%s]."
 
 #: framework/php/function-set-avia-ajax.php:1222
 #: framework/php/function-set-avia-ajax.php:1239
 msgid "Error: Video ID is missing"
-msgstr ""
+msgstr "Fout: Video ID ontbreekt"
 
 #: includes/helper-privacy.php:1444
 msgid "Error: You must agree to our privacy policy to comment on this site..."
@@ -12497,7 +12525,7 @@ msgstr "Vervagen naar andere afbeelding"
 
 #: framework/php/function-set-avia-ajax.php:1299
 msgid "Failed to create folder for thumbnails:"
-msgstr ""
+msgstr "Kon map voor miniaturen niet aanmaken:"
 
 #: config-wpml/class-avia-wpml.php:574
 msgid "Failing to do this will result in a broken layout."
@@ -12643,7 +12671,7 @@ msgstr "Filter inhoud"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1918
 msgid "Filter Entries By Date"
-msgstr ""
+msgstr "Filteren items op datum"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1907
 msgid "Filter entries by date"
@@ -13255,6 +13283,8 @@ msgid ""
 "Found no SVG file with font information in your folder. Was not able to "
 "create the necessary config files"
 msgstr ""
+"Vond geen SVG bestand met lettertype informatie in uw map. Was niet in staat "
+"om de nodige configuratie bestanden aan te maken"
 
 #: includes/admin/option_tabs/avia_layout.php:161
 msgid "Frame Width"
@@ -13853,7 +13883,7 @@ msgstr "Header"
 
 #: includes/admin/option_tabs/avia_shop.php:31
 msgid "Header Account Icon"
-msgstr ""
+msgstr "Kopregel account pictogram"
 
 #: includes/admin/option_tabs/avia_header.php:332
 msgid "Header Behavior"
@@ -14102,6 +14132,7 @@ msgstr "Hier kunt u knoppen toevoegen, verwijderen en bewerken"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:255
 msgid "Here you can add, remove and edit the datasets for your chart."
 msgstr ""
+"Hier kunt u de datasets voor uw grafiek toevoegen, verwijderen en bewerken."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:186
 msgid ""
@@ -15417,7 +15448,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-media.php:132
 msgid "If provided, the image will link to this URL"
-msgstr ""
+msgstr "Indien opgegeven, zal de afbeelding linken naar deze URL"
 
 #: includes/admin/option_tabs/avia_layout.php:198
 msgid ""
@@ -15494,6 +15525,8 @@ msgid ""
 "If you are using a cache plugin we recommend that you exclude the page "
 "containing the contact form from caching."
 msgstr ""
+"Als u een cache-plugin gebruikt, raden wij u aan de pagina met het "
+"contactformulier uit te sluiten van caching."
 
 #: includes/admin/option_tabs/avia_avia.php:181
 msgid ""
@@ -15671,6 +15704,10 @@ msgid ""
 "manage the updates. Follow the steps there to download and activate the "
 "plugin."
 msgstr ""
+"Als u het thema wilt bijwerken met WP_CLI (of bijvoorbeeld problemen hebt "
+"met onze updatefunctie) kunt u de officiële %sEnvato Market Plugin%s "
+"downloaden om de updates te beheren. Volg de stappen daar om de plugin te "
+"downloaden en te activeren."
 
 #: config-layerslider/config.php:227
 msgid ""
@@ -17285,7 +17322,7 @@ msgstr "Links zonder Kader"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:407
 msgid "Legend Text Color"
-msgstr ""
+msgstr "Legenda tekstkleur"
 
 #: includes/admin/option_tabs/avia_header.php:374
 #| msgid "Let logo and menu position adapt to browser window"
@@ -17384,7 +17421,7 @@ msgstr "Regel Afkapping"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:235
 msgid "Line Chart"
-msgstr ""
+msgstr "Lijngrafiek"
 
 #: includes/admin/register-backend-advanced-styles.php:35
 #: includes/admin/register-backend-advanced-styles.php:57
@@ -17707,11 +17744,11 @@ msgstr "Uitloggen"
 
 #: config-woocommerce/config.php:2720
 msgid "Login / Register"
-msgstr ""
+msgstr "Inloggen / registreren"
 
 #: config-woocommerce/config.php:2721
 msgid "Login / Register Page Link"
-msgstr ""
+msgstr "Inloggen / registreren link naar pagina"
 
 #: framework/php/legacy/class-framework-widgets.php:521
 #: includes/admin/option_tabs/avia_avia.php:55
@@ -17867,7 +17904,7 @@ msgstr "Hoofdmenu"
 
 #: includes/admin/register-backend-advanced-styles.php:452
 msgid "Main Menu (Icon )"
-msgstr ""
+msgstr "Hoofdmenu (Pictogram)"
 
 #: includes/admin/option_tabs/avia_customizer.php:29
 msgid "Main Menu (Icon)"
@@ -18636,7 +18673,7 @@ msgstr ""
 #, php-format
 msgid ""
 "More information about the different chart types you can find %s here %s."
-msgstr ""
+msgstr "Meer informatie over de verschillende grafiektypes vindt u hier %s."
 
 #: includes/admin/option_tabs/avia_google.php:34
 msgid "More information and more privacy settings you find here:"
@@ -18673,7 +18710,7 @@ msgstr "Verplaats"
 
 #: framework/php/class-megamenu.php:503
 msgid "Move down"
-msgstr ""
+msgstr "Verplaats omlaag"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2518
 msgid "move down"
@@ -18689,7 +18726,7 @@ msgstr "Verplaats naar rechts"
 
 #: framework/php/class-megamenu.php:490
 msgid "Move up"
-msgstr ""
+msgstr "Verplaats omhoog"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2517
 msgid "move up"
@@ -18730,7 +18767,7 @@ msgstr "Mijn Account"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:710
 msgid "My Dataset"
-msgstr ""
+msgstr "Mijn dataset"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_meta.php:129
 msgid "N/A"
@@ -18827,11 +18864,11 @@ msgstr "Navigatie stippen kleur"
 
 #: framework/php/class-megamenu.php:523
 msgid "Navigation Label"
-msgstr ""
+msgstr "Navigatielabel"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:506
 msgid "Nearest"
-msgstr ""
+msgstr "Dichtsbijzijnde"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:558
 msgid "Necessary changes were applied to fix all found problems."
@@ -18845,6 +18882,8 @@ msgid ""
 "Need a chart with dynamic data (e.g. to display currency exchange rates of "
 "the last week): Check our %s documentation %s"
 msgstr ""
+"U wilt een grafiek met dynamische gegevens (bijvoorbeeld om wisselkoersen "
+"van de afgelopen week weer te geven): Bekijk onze %s documentatie %s"
 
 #: includes/admin/option_tabs/avia_styling.php:606
 msgid "Need more flexibility for CSS units:"
@@ -18895,7 +18934,7 @@ msgstr "Nieuw venster (_blank)"
 
 #: framework/php/class-megamenu.php:541
 msgid "New window or tab"
-msgstr ""
+msgstr "Nieuw window of tab"
 
 #: comments.php:83 comments.php:138
 msgid "Newer Comments &raquo;"
@@ -20110,7 +20149,7 @@ msgstr "Originele LayerSlider Plugin wordt gebruikt"
 #: framework/php/function-set-avia-ajax.php:1374
 #, php-format
 msgid "Original source: %s"
-msgstr ""
+msgstr "Originele bron: %s"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:776
 msgid "Original Width"
@@ -20275,7 +20314,7 @@ msgstr "Pagina inhoud"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1876
 msgid "Page Element Filter"
-msgstr ""
+msgstr "Pagina element filter"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:18
 msgid "Page Layout"
@@ -20502,7 +20541,7 @@ msgstr "Kies de minuten"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:234
 msgid "Pie Chart"
-msgstr ""
+msgstr "Taartgrafiek"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1176
 msgid "Pink"
@@ -20761,6 +20800,9 @@ msgid ""
 "rel=\"noopener noreferrer\">documentation</a> how to create the zip files "
 "and a fallback szenario."
 msgstr ""
+"Lees onze <a href=\"https://kriesi.at/documentation/enfold/typography/#using-"
+"variable-fonts\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"documentatie</a> over het maken van de zip-bestanden en een reserve scenario."
 
 #: config-wpml/class-avia-wpml.php:692
 msgid ""
@@ -20825,7 +20867,7 @@ msgstr "Plugin details"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:236
 msgid "Polar Area Chart"
-msgstr ""
+msgstr "Poolgebiedgrafiek"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:296
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1337
@@ -20931,7 +20973,7 @@ msgstr "Plaats aan de rechterkant"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:328
 msgid "Position Of Chart Title"
-msgstr ""
+msgstr "Positie van grafiektitel"
 
 #: includes/admin/option_tabs/avia_styling.php:322
 #: includes/admin/option_tabs/avia_styling.php:462
@@ -21338,7 +21380,7 @@ msgstr "Quote"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:237
 msgid "Radar Chart"
-msgstr ""
+msgstr "Radargrafiek"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1579
 msgid "Radial gradient overlay"
@@ -21597,7 +21639,7 @@ msgstr "Herinner me later"
 
 #: framework/php/class-megamenu.php:661
 msgid "Remove"
-msgstr ""
+msgstr "Verwijder"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:275
 msgid ""
@@ -22046,7 +22088,7 @@ msgstr ""
 
 #: framework/php/class-megamenu.php:540
 msgid "Same window or tab"
-msgstr ""
+msgstr "Zelfde window of tab"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:295
 msgid "Satellite"
@@ -22087,7 +22129,7 @@ msgstr "Dit element opslaan als sjabloon"
 
 #: config-templatebuilder/avia-shortcodes/video/video.php:208
 msgid "Save Video Thumbnail Locally"
-msgstr ""
+msgstr "Video Thumbnail lokaal opslaan"
 
 #: includes/loop-comments.php:37
 msgid "says:"
@@ -22152,7 +22194,7 @@ msgstr "Scan widgets voor thema-shortcodes"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:238
 msgid "Scatter Chart"
-msgstr ""
+msgstr "Scattergrafiek"
 
 #: framework/php/class-grecaptcha.php:720
 #, php-format
@@ -22390,6 +22432,7 @@ msgstr "Selecteer een achtergrondkleur"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:366
 msgid "Select a background color for container around the chart area"
 msgstr ""
+"Selecteer een achtergrondkleur voor de container rond het grafiekgebied"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:582
 msgid "Select a background color for the button"
@@ -22397,7 +22440,7 @@ msgstr "Selecteer een achtergrondkleur voor de knop"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:376
 msgid "Select a background color for the chart area"
-msgstr ""
+msgstr "Kies een achtergrondkleur voor het grafiekgebied"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:538
 msgid "Select a background color for the input"
@@ -22421,11 +22464,11 @@ msgstr "Selecteer een randkleur voor de invoer en knop"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:777
 msgid "Select a border or line width."
-msgstr ""
+msgstr "Selecteer een rand- of lijndikte."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:787
 msgid "Select a border radius."
-msgstr ""
+msgstr "Selecteer de ronding van de rand."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:248
 msgid "Select a category"
@@ -22439,19 +22482,26 @@ msgstr "Kies de lay-out van de cel"
 msgid ""
 "Select a color for the background of the tooltip. Leave empty for default."
 msgstr ""
+"Selecteer een kleur voor de achtergrond van de tooltip. Laat leeg voor de "
+"standaardinstelling."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:581
 msgid ""
 "Select a color for the body text of the tooltip. Leave empty for default."
 msgstr ""
+"Selecteer een kleur voor de tekst van de tooltip. Laat leeg voor de "
+"standaardinstelling."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:397
 msgid "Select a color for the chart subtitle. Leave empty for default."
 msgstr ""
+"Kies een kleur voor de ondertitel van de grafiek. Laat leeg voor de "
+"standaardinstelling."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:386
 msgid "Select a color for the chart title. Leave empty for default."
 msgstr ""
+"Kies een kleur voor de grafiektitel. Laat leeg voor de standaardinstelling."
 
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:518
 msgid "Select a color for the content here. Leave blank for theme default."
@@ -22466,17 +22516,23 @@ msgstr ""
 msgid ""
 "Select a color for the legend of the data points. Leave empty for default."
 msgstr ""
+"Kies een kleur voor de legenda van de datapunten. Laat leeg voor de "
+"standaardinstelling."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:418
 msgid ""
 "Select a color for the legend on the x-axis data points. Leave empty for "
 "default."
 msgstr ""
+"Selecteer een kleur voor de legenda op de x-as datapunten. Laat leeg voor de "
+"standaardinstelling."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:428
 msgid ""
 "Select a color for the legend on the y-axis values. Leave empty for default."
 msgstr ""
+"Selecteer een kleur voor de legenda op de y-as waarden. Laat leeg voor de "
+"standaardinstelling."
 
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:494
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:508
@@ -22487,6 +22543,8 @@ msgstr "Kies hier een kleur voor de titel. Laat leeg voor thema-standaard."
 msgid ""
 "Select a color for the title text of the tooltip. Leave empty for default."
 msgstr ""
+"Selecteer een kleur voor de titeltekst van de tooltip. Laat leeg voor de "
+"standaardinstelling."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1044
 msgid "Select a css position for the element."
@@ -22844,6 +22902,8 @@ msgid ""
 "Select a custom color which you can copy into the color settings textareas "
 "below."
 msgstr ""
+"Kies een aangepaste kleur die je kunt kopiëren naar de tekstvelden voor de "
+"kleurinstellingen hieronder."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2085
 msgid "Select a Custom Element to lock values"
@@ -23996,7 +24056,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:329
 msgid "Select position of the titles"
-msgstr ""
+msgstr "Positie van de titels kiezen"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:241
 msgid "Select Post"
@@ -24330,7 +24390,7 @@ msgstr "Selecteer de ondoorzichtigheid van uw gekleurde banner overlay"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:527
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:543
 msgid "Select the position of the tooltip caret"
-msgstr ""
+msgstr "Kies de positie van de tooltip-kompas"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:242
 msgid "Select the post to show metadata."
@@ -24477,7 +24537,7 @@ msgstr "Selecteer het type achtergrond."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:217
 msgid "Select the type of chart for your datasets."
-msgstr ""
+msgstr "Selecteer het type grafiek voor uw datasets."
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:770
 msgid "Select the type of content for your milestone bullet"
@@ -24612,6 +24672,8 @@ msgstr "Vink aan om de mobiele lay-out uit te schakelen"
 msgid ""
 "Select to display an icon to link to the user account or login/register page."
 msgstr ""
+"Selecteer om een pictogram weer te geven voor een link naar de "
+"gebruikersaccount of login/registratiepagina."
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:294
 msgid ""
@@ -24653,6 +24715,10 @@ msgid ""
 "Can be used for pulling related entries on a page/post/custom post type page "
 "and skip the entry referencing to current page/post/...."
 msgstr ""
+"Selecteer het weergeven/overslaan van een item als het de huidige "
+"pagina/post/portfolio/... Kan worden gebruikt voor het ophalen van "
+"gerelateerde items op een pagina/post/custom post type pagina en het "
+"overslaan van de entry die verwijst naar de huidige pagina/post/...."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:841
 msgid "Select to enable carousel autoplay"
@@ -24720,6 +24786,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:499
 msgid "Select to show a tooltip when moving the mouse over the chart"
 msgstr ""
+"Selecteer om een tooltip te tonen wanneer de muis over de grafiek beweegt"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:242
 msgid "Select to show an additional icon above headline"
@@ -24735,7 +24802,7 @@ msgstr "Vink aan om carrousel paginering te tonen"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:513
 msgid "Select to show color boxes"
-msgstr ""
+msgstr "Selecteer om kleurvakken te tonen"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:988
 msgid "Select to show comments in the lightbox."
@@ -24922,12 +24989,18 @@ msgid ""
 "Select which level of file merging and compression you want to apply to your "
 "CSS files. Minified files are recommended for best performance."
 msgstr ""
+"Selecteer welk niveau van samenvoeging en compressie u wilt toepassen op uw "
+"CSS-bestanden. Geminimaliseerde bestanden worden aanbevolen voor de beste "
+"prestaties."
 
 #: includes/admin/option_tabs/avia_performance.php:73
 msgid ""
 "Select which level of file merging and compression you want to apply to your "
 "Javascript files. Minified files are recommended for best performance."
 msgstr ""
+"Selecteer welk niveau van samenvoeging en compressie je wilt toepassen op je "
+"Javascript bestanden. Geminimaliseerde bestanden worden aanbevolen voor de "
+"beste prestaties."
 
 #: includes/admin/option_tabs/avia_avia.php:26
 #| msgid ""
@@ -25447,6 +25520,9 @@ msgid ""
 "Set the padding for the chart inside the surrounding container. Valid CSS "
 "units are accepted, eg: 30px, 5&percnt;. px is used as default unit."
 msgstr ""
+"Stel de opvulling in voor de grafiek binnen de omringende container. Geldige "
+"CSS eenheden worden geaccepteerd, bijvoorbeeld: 30px, 5&percnt;. px wordt "
+"gebruikt als standaard eenheid."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:511
 #| msgid ""
@@ -25494,6 +25570,9 @@ msgid ""
 "Set the padding in px of the chart in the chart area. Only numbers are "
 "allowed. Leave empty to use theme default."
 msgstr ""
+"Stel de opvulling in px in van de grafiek in het grafiekgebied. Alleen "
+"getallen zijn toegestaan. Laat leeg om de standaardwaarde van het thema te "
+"gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:279
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:294
@@ -26425,7 +26504,7 @@ msgstr "Skill of Taak"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1884
 msgid "Skip page content entry"
-msgstr ""
+msgstr "Inhoud van de pagina overslaan"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_meta.php:130
 msgid "SKU:"
@@ -27132,6 +27211,7 @@ msgid ""
 "Starting instructions how to work with WP_CLI you can find in our %s "
 "documentation %s."
 msgstr ""
+"Startinstructies voor het werken met WP_CLI vindt u in onze documentatie %s."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2271
 msgid "State"
@@ -27401,7 +27481,7 @@ msgstr "Ondertitel onder de naam"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:396
 msgid "Subtitle Color"
-msgstr ""
+msgstr "Ondertitel Kleur"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:495
 msgid "Subtitle Font Color"
@@ -27948,7 +28028,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/config/pointers.php:29
 msgid "The Builder is available on:"
-msgstr ""
+msgstr "De Builder is beschikbaar op:"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:887
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:842
@@ -29100,7 +29180,7 @@ msgstr "Titel bovenaan"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:569
 msgid "Title Text Color"
-msgstr ""
+msgstr "Titel tekstkleur"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1043
 msgid "Title will be changed to:"
@@ -29374,7 +29454,7 @@ msgstr "Tekstkader"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:498
 msgid "Tooltip On Hover"
-msgstr ""
+msgstr "Tooltip bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:480
 msgid "Tooltip Position"
@@ -29670,7 +29750,7 @@ msgstr "Twitter gebruikersnaam:"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:224
 msgid "Type Of Chart"
-msgstr ""
+msgstr "Grafiektype"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:687
 msgid "Type of Highlight:"
@@ -30842,6 +30922,10 @@ msgid ""
 "google.com/knowledge/glossary/instance/\" target=\"_blank\" rel=\"noopener "
 "noreferrer\">named instances</a> are supported by default."
 msgstr ""
+"Variabele lettertypes kunnen worden geüpload, maar momenteel worden alleen "
+"<a href=\"https://fonts.google.com/knowledge/glossary/instance/\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">named instances</a> standaard "
+"ondersteund."
 
 #: framework/php/class-grecaptcha.php:247
 msgid "Verify...."
@@ -30936,11 +31020,11 @@ msgstr "Video als dia"
 #: framework/php/function-set-avia-ajax.php:1290
 #, php-format
 msgid "Video thumbnail already exist in the media library (Attachment ID: %d)"
-msgstr ""
+msgstr "Video thumbnail bestaat al in de mediabibliotheek (Attachment ID: %d)"
 
 #: framework/php/function-set-avia-ajax.php:1372
 msgid "Video thumbnail is now available in the media library:"
-msgstr ""
+msgstr "Videominiaturen zijn nu beschikbaar in de mediabibliotheek:"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:316
 #: config-templatebuilder/avia-shortcodes/video/video.php:320
@@ -31064,15 +31148,15 @@ msgstr "is toegevoegd aan de winkelwagen"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:202
 msgid "Was not able to remove Font"
-msgstr ""
+msgstr "Kon het lettertype niet verwijderen"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:166
 msgid "Was not able to retrieve the Font name from your Uploaded Folder"
-msgstr ""
+msgstr "Kon de naam van het lettertype niet ophalen uit uw geüploade map"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:418
 msgid "Was not able to write a config file"
-msgstr ""
+msgstr "Kon geen configuratiebestand schrijven"
 
 #: framework/php/wordpress-importer/avia-import-class.php:274
 msgid "Wasn't able to create sub-folder for font files"
@@ -31917,7 +32001,7 @@ msgstr "Zeer groot"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:526
 msgid "X-Alignment"
-msgstr ""
+msgstr "X-uitlijning"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:740
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:758
@@ -31930,11 +32014,11 @@ msgstr "X-as vervormingshoek"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:282
 msgid "X-Axis Labels"
-msgstr ""
+msgstr "X-as labels"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:417
 msgid "X-Axis Legend Color"
-msgstr ""
+msgstr "X-as legendakleur"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:457
 msgid "Xing Link"
@@ -31963,7 +32047,7 @@ msgstr "Y"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:542
 msgid "Y-Alignment"
-msgstr ""
+msgstr "Y-uitlijning"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:741
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:759
@@ -31976,7 +32060,7 @@ msgstr "Y-as vervormingshoek"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:427
 msgid "Y-Axis Legend Color"
-msgstr ""
+msgstr "Y-as legendakleur"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:40
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:83
@@ -32449,7 +32533,6 @@ msgid "You can upload additional Iconfont Packages generated with"
 msgstr "U kunt extra iconfont-pakketten uploaden die zijn gegenereerd met"
 
 #: includes/admin/option_tabs/avia_upload.php:204
-#, fuzzy
 #| msgid ""
 #| "You can upload your custom Font zip files. Intended for <a href='https:"
 #| "//fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google "
