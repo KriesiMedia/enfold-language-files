@@ -1,5 +1,6 @@
 2022-12-20
 - Croatian language files hr (version 5.3, provided by NUIT d.o.o. - info@nuit.hr)
+- Italian language files it_IT (version 5.3, provided by BigBatT - info@luigicircello.it)
 
 2022-12-14
 - Dutch language files nl_NL (version 5.3-dev-4 provided by EZWebdesign - Roger Hoen )
