@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Enfold v5.3-dev-4\n"
+"Project-Id-Version: Enfold v5.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-03 18:50+0100\n"
-"PO-Revision-Date: 2022-12-03 18:58+0100\n"
+"POT-Creation-Date: 2022-12-14 18:52+0100\n"
+"PO-Revision-Date: 2022-12-14 19:05+0100\n"
 "Last-Translator: Luigi Circello <luigi.circello@hotmail.it>\n"
 "Language-Team: BigBatT (info@luigicircello.it\n"
 "Language: it_IT\n"
@@ -211,7 +211,7 @@ msgstr "Modifica pagina iniziale (Editore classico)"
 # @ avia_framework
 #: config-gutenberg/class-avia-gutenberg.php:971
 #: config-gutenberg/class-avia-gutenberg.php:976
-#: framework/php/function-set-avia-backend.php:1320
+#: framework/php/function-set-avia-backend.php:1322
 msgid "Edit Frontpage"
 msgstr "Modifica pagina iniziale"
 
@@ -745,6 +745,11 @@ msgstr "Seleziona Media:"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:138
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:139
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1327
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2935
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2936
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2937
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2938
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2939
 msgid "Use Default"
 msgstr "Usa predefinito"
 
@@ -752,12 +757,12 @@ msgstr "Usa predefinito"
 # @ avia_framework
 # @ woothemes
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:192
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:436
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:450
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:287
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:214
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:267
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:965
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:387
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:404
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1210
 #: config-templatebuilder/avia-shortcodes/search/search.php:272
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:305
@@ -830,7 +835,7 @@ msgstr "Dal più recente al più datato"
 # @ avia_framework
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:211
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:310
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:350
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:351
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:310
 #: config-woocommerce/config.php:1908
 msgid "Random"
@@ -1312,10 +1317,10 @@ msgstr ""
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:738
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:358
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:442
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:468
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:480
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:964
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:548
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:565
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:846
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:910
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:943
@@ -1563,13 +1568,13 @@ msgstr ""
 "vostra chiave API per aggiornare i dati della lista qui presentata."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:845
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:875
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:645
 msgid "Load more"
 msgstr "Carica di più"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:956
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:986
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1409
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1411
@@ -1581,21 +1586,21 @@ msgid "by"
 msgstr "da"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1082
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1112
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:874
 msgid "image with no title"
 msgstr "immagine senza titolo"
 
 # @ LayerSlider
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1085
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1115
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:877
 #, php-format
 msgid "image %s"
 msgstr "immagine %s"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1183
+#: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1213
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:970
 msgid "Sale!"
 msgstr "Offerta!"
@@ -1673,7 +1678,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:163
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:114
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:120
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:99
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:104
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:133
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:136
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:117
@@ -1701,8 +1706,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:124
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:220
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:491
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:159
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:144
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:160
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:145
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:130
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:387
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:83
@@ -1763,7 +1768,7 @@ msgstr "Stile"
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:186
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:135
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:136
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:121
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:126
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:149
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:157
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:137
@@ -1791,8 +1796,8 @@ msgstr "Stile"
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:587
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:146
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:237
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:182
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:167
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:183
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:168
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:147
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:403
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:106
@@ -2436,6 +2441,7 @@ msgstr "Seleziona un colore personalizzato per il tuo lettore qui"
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:390
 #: config-templatebuilder/avia-shortcodes/section/section.php:432
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:504
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2962
 #: includes/admin/option_tabs/avia_styling.php:186
 #: includes/admin/register-backend-advanced-styles.php:75
 #: includes/admin/register-backend-advanced-styles.php:105
@@ -2471,8 +2477,8 @@ msgstr "Seleziona un colore di sfondo"
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:272
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:316
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:566
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:557
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:433
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:573
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:450
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:302
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:310
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:387
@@ -2547,8 +2553,8 @@ msgstr "Colore del bordo personalizzato"
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:353
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:601
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:484
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:573
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:449
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:589
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:466
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:337
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:519
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:319
@@ -2691,7 +2697,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:252
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:196
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:225
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:254
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:255
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:221
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:193
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:204
@@ -2705,7 +2711,7 @@ msgstr "Quali Voci?"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:228
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:226
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:255
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:256
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:222
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:194
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:205
@@ -2720,7 +2726,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:236
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:233
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:262
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:263
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:229
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:201
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:258
@@ -2872,7 +2878,7 @@ msgstr "Senza títolo e senza riassunto"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:310
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:321
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:284
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:285
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:251
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:220
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:239
@@ -2958,7 +2964,7 @@ msgstr ""
 # @ LayerSlider
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:359
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:348
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:317
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:318
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:278
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:258
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:276
@@ -3049,14 +3055,14 @@ msgstr "Aspetto"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:437
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:505
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:521
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:484
 msgid "Post Number"
 msgstr "Numero di articoli"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:438
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:506
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:522
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:485
 msgid "How many items should be displayed per page?"
 msgstr "Quanti elementi devono essere visualizzati per pagina?"
@@ -3068,10 +3074,10 @@ msgstr "Quanti elementi devono essere visualizzati per pagina?"
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:266
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:371
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:400
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:515
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:535
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:391
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:411
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:531
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:551
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:408
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:428
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:494
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:512
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:324
@@ -3408,6 +3414,9 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:139
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2227
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2291
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2937
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2938
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2939
 msgid "Hidden"
 msgstr "Nascosto"
 
@@ -3441,7 +3450,7 @@ msgstr "Dimensioni dei caratteri"
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:466
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:392
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:298
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1152
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1155
 msgid "Padding"
 msgstr "Spazio"
 
@@ -3778,7 +3787,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:855
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:464
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:386
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:384
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:410
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:433
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:134
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:314
@@ -3788,8 +3797,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:531
 #: config-templatebuilder/avia-shortcodes/image/image.php:538
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:324
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:613
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:489
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:629
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:506
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:549
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:351
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:490
@@ -5197,8 +5206,8 @@ msgstr "Seleziona qui la larghezza del bordo della colonna"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:136
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1147
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1382
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:643
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:649
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:646
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:652
 #: includes/admin/register-admin-option-values.php:36
 #: includes/admin/register-admin-option-values.php:50
 #: includes/admin/register-demo-import.php:188
@@ -6027,8 +6036,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:532
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:560
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:436
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:551
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:427
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:567
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:444
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:311
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:485
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:368
@@ -6058,15 +6067,15 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:537
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:82
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:195
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:404
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:407
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1563
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1636
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2227
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2291
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2492
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2651
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2711
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2726
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2708
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2723
 #: config-woocommerce/admin-options.php:326 config-woocommerce/config.php:1900
 #: framework/php/font-management/class-avia-type-fonts.php:953
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:196
@@ -6138,13 +6147,13 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:403
-#: framework/php/class-form-generator.php:1112
+#: framework/php/class-form-generator.php:1175
 msgid "New Message"
 msgstr "Nuovo Messaggio"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:403
-#: framework/php/class-form-generator.php:1112
+#: framework/php/class-form-generator.php:1175
 msgid "sent by contact form at"
 msgstr "inviato tramite modulo di contatto a"
 
@@ -6593,8 +6602,8 @@ msgstr "Slide 2"
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:258
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:264
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:302
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:495
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:372
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:511
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:389
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:475
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:315
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:336
@@ -6628,7 +6637,7 @@ msgstr "Slider"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:295
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:303
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:329
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:334
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:396
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:347
@@ -6642,7 +6651,7 @@ msgstr "Controlli navigazione"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:317
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:347
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:373
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:356
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:367
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:322
@@ -6677,8 +6686,8 @@ msgstr "Impostare una distanza tra il contenuto e i bordi della diapositiva."
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:342
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:329
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1139
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1443
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1142
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1446
 msgid "Margin And Padding"
 msgstr "Margine e riempimento"
 
@@ -6720,8 +6729,8 @@ msgstr "Colori Font"
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1046
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1121
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:316
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:545
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:421
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:561
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:438
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:761
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:825
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:857
@@ -6750,8 +6759,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1053
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1128
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:323
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:552
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:428
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:568
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:445
 #: config-templatebuilder/avia-shortcodes/search/search.php:500
 #: config-templatebuilder/avia-shortcodes/search/search.php:522
 #: config-templatebuilder/avia-shortcodes/search/search.php:544
@@ -7009,7 +7018,7 @@ msgstr "Visualizza conto alla rovescia per una data specifica"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:257
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:648
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:348
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:349
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:308
 #: config-woocommerce/config-356.php:1362 config-woocommerce/config.php:1904
 msgid "Date"
@@ -7150,8 +7159,8 @@ msgstr "Trasparente scuro"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:453
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:461
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:544
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:420
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:560
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:437
 msgid "Custom Colors"
 msgstr "Colori Personalizzati"
 
@@ -7366,7 +7375,7 @@ msgstr "Mostrare la impaginazione?"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:58
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:280
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:306
 #: config-templatebuilder/avia-template-builder/config/meta.php:175
 #: functions.php:258
 msgid "Gallery"
@@ -7379,15 +7388,15 @@ msgstr "Crea una galleria personalizzata"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:214
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:198
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:243
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:203
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:244
 msgid "Edit Gallery"
 msgstr "Editare galleria"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:215
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:199
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:244
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:204
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:245
 msgid "Create a new Gallery by selecting existing or uploading new images"
 msgstr ""
 "Crea una nuova galleria selezionando immagini esistenti o aggiungendo nuove "
@@ -7395,16 +7404,16 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:218
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:202
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:247
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:207
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:248
 msgid "Add/Edit Gallery"
 msgstr "Aggiungere/editare galleria"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:219
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:203
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:208
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:253
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:248
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:249
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:241
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:278
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:249
@@ -7501,16 +7510,16 @@ msgstr "Scegliere il numero di colonne della Galleria"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:306
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:393
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:498
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:419
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:515
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:782
 msgid "Image Link"
 msgstr "Link Immagine"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:307
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:394
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:499
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:420
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:516
 msgid ""
 "By default images link to a larger image version in a lightbox. You can "
 "change this here. A custom link can be added when editing the images in the "
@@ -7523,13 +7532,13 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:314
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:400
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:505
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:426
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:522
 msgid "Lightbox linking active"
 msgstr "Link attivo Lightbox"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:315
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:507
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:524
 msgid "Use custom link (fallback is image link)"
 msgstr "Utilizzare il link personalizzato (il fallback è il link all'immagine)"
 
@@ -7545,28 +7554,28 @@ msgstr "Aprire le immagini in una nuova scheda del browser"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:318
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:402
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:508
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:428
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:525
 msgid "No, don't add a link to the images at all"
 msgstr "No, non aggiungere un link alle immagini"
 
 # @ LayerSlider
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:323
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:407
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:513
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:433
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:530
 msgid "Custom link destination"
 msgstr "Destinazione link personalizzata"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:324
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:408
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:514
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:434
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:531
 msgid "Select where an existing custom link should be opened."
 msgstr "Seleziona dove aprire un collegamento personalizzato esistente."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:331
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:415
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:521
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:441
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:538
 #: config-templatebuilder/avia-shortcodes/team/team.php:578
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2707
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2720
@@ -7575,21 +7584,21 @@ msgstr "Aprire nella stessa finestra"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:332
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:416
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:522
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:442
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:539
 msgid "Open in a new window"
 msgstr "Apri in una nuova finestra"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:337
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:421
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:527
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:447
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:544
 msgid "Lightbox image description text"
 msgstr "Testo di descrizione dell'immagine lightbox"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:338
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:422
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:528
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:448
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:545
 msgid ""
 "Select which text defined in the media gallery is displayed below the "
 "lightbox image."
@@ -7599,27 +7608,27 @@ msgstr ""
 
 # @ LayerSlider
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:345
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:429
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:535
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:455
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:552
 msgid "No text"
 msgstr "Nessun testo"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:346
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:430
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:536
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:456
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:553
 msgid "Image title"
 msgstr "Titolo dell&rsquo;immagine"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:347
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:431
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:537
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:457
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:554
 msgid "Image description (or image title if empty)"
 msgstr "Descrizione dell'immagine (o titolo dell'immagine se vuoto)"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:348
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:432
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:538
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:458
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:555
 msgid "Image caption (or image title if empty)"
 msgstr "Didascalia immagine (e titolo dell'immagine se vuoto)"
 
@@ -7663,11 +7672,11 @@ msgid "Creates a horizontal scrollable gallery"
 msgstr "Crea una galleria scrollabile orizzontale"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:210
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:215
 msgid "Initial Active Image"
 msgstr "Immagine Attiva Iniziale"
 
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:211
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:216
 msgid ""
 "Enter the number of the image that should be focused initially. Leave empty "
 "for none, if invalid first image will be taken, if image number does not "
@@ -7677,19 +7686,24 @@ msgstr ""
 "Lasciare vuoto per nessuna, se non valida verrà presa la prima immagine, se "
 "il numero di immagine non esiste, l'ultima immagine."
 
-# @ avia_framework
+# @ LayerSlider
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:228
+msgid "Gallery Images"
+msgstr "Galleria Immagini"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:254
 msgid "Gallery Height"
 msgstr "Altezza Galleria"
 
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:229
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:255
 msgid "Set the gallery height in relation to the gallery container width"
 msgstr ""
 "Imposta l'altezza della galleria in relazione alla larghezza del contenitore "
 "della galleria"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:238
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:264
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:272
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:233
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2765
@@ -7698,52 +7712,52 @@ msgid "Image Size"
 msgstr "Dimensione dell'immagine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:239
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:265
 msgid "Choose size for each image"
 msgstr "Scegli la dimensione per ogni immagine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:248
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:274
 msgid "Gap between images"
 msgstr "Divario tra le immagini"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:249
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:275
 msgid "Select the gap between the images"
 msgstr "Seleziona lo spazio tra le immagini"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:255
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:462
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:339
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:281
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:478
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:356
 msgid "No Gap"
 msgstr "Nessun divario"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:256
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:463
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:340
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:282
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:479
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:357
 msgid "1 Pixel Gap"
 msgstr "Divario 1 Pixel"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:257
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:464
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:341
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:283
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:480
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:358
 msgid "Large Gap"
 msgstr "Grande divario"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:262
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:288
 msgid "Active Image Style"
 msgstr "Stile immagine attiva"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:263
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:289
 msgid "How do you want to display the active image"
 msgstr "Come si desidera visualizzare l'immagine attiva"
 
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:269
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:295
 #: config-templatebuilder/avia-shortcodes/image/image.php:477
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:817
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2861
@@ -7751,22 +7765,22 @@ msgid "No effect"
 msgstr "Nessun effetto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:270
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:296
 msgid "Enlarge image"
 msgstr "Ingrandisci Immagine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:292
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:318
 msgid "Gallery Navigation Arrows Styling"
 msgstr "Stile frecce di navigazione galleria"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:320
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:346
 msgid "Lightbox Link Arrows Color"
 msgstr "Colore delle frecce di collegamento della Lightbox"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:321
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:347
 msgid ""
 "Select a custom color for the lightbox link arrow. Enter no value if you "
 "want to use the default color."
@@ -7776,12 +7790,12 @@ msgstr ""
 "predefinito."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:331
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:357
 msgid "Lightbox Link Arrows Background Color"
 msgstr "Colore di sfondo delle frecce di collegamento della Lightbox"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:332
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:358
 msgid ""
 "Select a custom background color for the lightbox link arrow. Enter no value "
 "if you want to use the default color."
@@ -7791,17 +7805,17 @@ msgstr ""
 "utilizzare il colore predefinito."
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:372
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:398
 msgid "Gallery Image Rotation"
 msgstr "Rotazione dell'immagine della galleria"
 
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:401
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:506
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:427
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:523
 msgid "Use custom link (fallback is no link)"
 msgstr "Utilizzare il link personalizzato (il fallback non è un link)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:705
+#: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:749
 msgid "Click to show details"
 msgstr "Clicca per mostrare i dettagli"
 
@@ -8126,7 +8140,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:497
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:650
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1067
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1070
 msgid "Location"
 msgstr "Posizione"
 
@@ -9057,7 +9071,7 @@ msgstr "Da sopra a sotto"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:421
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:654
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:657
 msgid "Bottom to top"
 msgstr "Da sotto a sopra"
 
@@ -9189,7 +9203,7 @@ msgstr "Selezionare un&rsquo;icona qui sotto"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:194
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1122
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1125
 msgid "Position"
 msgstr "Posizione"
 
@@ -9598,6 +9612,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:384
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2951
 msgid "Text Color"
 msgstr "Colore del testo"
 
@@ -9637,7 +9652,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:431
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:345
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1151
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1154
 msgid "Margin"
 msgstr "Margine"
 
@@ -9698,7 +9713,7 @@ msgstr "Selezionare un'icona per l'inserimento dell'icona del cerchio"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:605
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:186
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:349
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:350
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:174
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:309
 #: framework/php/legacy/class-framework-widgets.php:3057
@@ -9955,8 +9970,8 @@ msgstr "Colori icona"
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1148
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1187
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:391
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:558
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:434
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:574
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:451
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:342
 #: config-templatebuilder/avia-shortcodes/search/search.php:550
 #: config-templatebuilder/avia-shortcodes/search/search.php:594
@@ -10001,10 +10016,10 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:395
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:396
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:210
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:351
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:352
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:353
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:354
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:355
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:356
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:357
 msgid "Use default"
 msgstr "Usa predefinito"
 
@@ -12334,7 +12349,7 @@ msgstr "Colore e visualizzazione"
 #, php-format
 msgid "Select the width of the map in % of the container containing the map."
 msgstr ""
-"Selezionare la larghezza della mappa in % del contenitore che la contiene"
+"Selezionare la larghezza della mappa in % del contenitore che la contiene."
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:455
 msgid "Select the height of the map in pixel."
@@ -12848,8 +12863,8 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:379
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:523
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:399
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:539
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:416
 msgid "Display Pagination"
 msgstr "Visualizza Impaginazione"
 
@@ -13088,44 +13103,44 @@ msgid "Display a fullwidth masonry/grid with blog entries"
 msgstr "Visualizzare masonry/griglia a schermo intero con accessi al blog"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:326
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:327
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:287
 msgid "Sortable?"
 msgstr "Ordinabile?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:327
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:328
 msgid "Should sorting options based on the taxonomies above be displayed?"
 msgstr ""
 "Dovrebbe l'ordinamento essere visualizzato secondo le opzioni basate sulle "
 "tassonomie?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:333
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:334
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:294
 msgid "Yes, display sort options"
 msgstr "Sì, visualizzare le opzioni di ordinamento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:334
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:335
 msgid "Yes, display sort options and currently active taxonomy"
 msgstr ""
 "Sì, visualizzare le opzioni di ordinamento e tassonomia attualmente attive"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:335
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:336
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:296
 msgid "No, do not display sort options"
 msgstr "No, non visualizzare le opzioni di ordinamento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:340
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:341
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:301
 msgid "Order by"
 msgstr "Ordina per"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:341
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:342
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:302
 msgid ""
 "You can order the result by various attributes like creation date, title, "
@@ -13135,7 +13150,7 @@ msgstr ""
 "titolo, autore ecc"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:351
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:352
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:311
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:511
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:711
@@ -13143,75 +13158,94 @@ msgid "Author"
 msgstr "Autore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:352
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:353
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:312
 msgid "Name (Post Slug)"
 msgstr "Nome (Post Slug)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:353
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:354
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:313
 msgid "Last modified"
 msgstr "Ultima modifica"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:354
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:355
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:314
 msgid "Comment Count"
 msgstr "Conteggio dei Commenti"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:355
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:356
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:315
 msgid "Page Order"
 msgstr "Ordine Pagine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:360
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:361
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:320
 msgid "Display order"
 msgstr "Visualizza Ordine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:361
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:362
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:321
 msgid "Display the results either in ascending or descending order"
 msgstr "Visualizzare i risultati sia in ordine crescente o decrescente"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:368
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:369
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:327
 msgid "Ascending Order"
 msgstr "Ordine crescente -> A-Z"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:369
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:370
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:328
 msgid "Descending Order"
 msgstr "Ordine decrescente -> Z-A"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:379
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:380
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:337
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:336
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2722
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2719
 msgid "Sorting"
 msgstr "Ordinamento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:400
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:279
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:401
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:280
 msgid "Captions"
 msgstr "Didascalie"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:415
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:293
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:408
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:287
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2899
+msgid "Select to show the image copyright info added to the media library."
+msgstr ""
+"Selezionare per mostrare le informazioni sul copyright delle immagini "
+"aggiunte alla libreria multimediale."
+
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:409
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:288
+msgid ""
+"Due to layout restrictions &quot;Caption at bottom of image&quot; might hide "
+"this info. Please check the frontend."
+msgstr ""
+"A causa di limitazioni del layout, &quot;Didascalia in fondo "
+"all'immagine&quot; potrebbe nascondere questa informazione. Si prega di "
+"controllare il frontend."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:431
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:310
 msgid "Size Settings"
 msgstr "Impostazioni dimensione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:416
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:432
 msgid ""
 "Here you can select how the masonry should behave and handle all entries and "
 "the feature images of those entries"
@@ -13220,7 +13254,7 @@ msgstr ""
 "voci e le immagini di anteprima di tali voci"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:422
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:438
 msgid ""
 "Flexible Masonry: All entries get the same width but Images of each entry "
 "are displayed with their original height and width ratio"
@@ -13230,7 +13264,7 @@ msgstr ""
 "originale e rapporto di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:423
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:439
 msgid ""
 "Perfect Grid: Display a perfect grid where each element has exactly the same "
 "size. Images get cropped/stretched if they don't fit"
@@ -13240,7 +13274,7 @@ msgstr ""
 "se non si adattano"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:424
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:440
 msgid ""
 "Perfect Automatic Masonry: Display a grid where most elements get the same "
 "size, only elements with very wide images get twice the width and elements "
@@ -13255,7 +13289,7 @@ msgstr ""
 "rapporto di 16:9 o superiore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:425
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:441
 msgid ""
 "Perfect Manual Masonry: Manually control the height and width of entries by "
 "adding either a \"landscape\" or \"portrait\" tag when creating the entry. "
@@ -13269,66 +13303,66 @@ msgstr ""
 "saranno visualizzati extra large"
 
 # @ woothemes
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:430
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:307
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:446
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:324
 msgid "Orientation"
 msgstr "Orientamento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:431
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:308
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:447
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:325
 msgid "Set the orientation of the cropped preview images"
 msgstr "Imposta l&rsquo;orientamento delle immagini di anteprima ritagliate"
 
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:438
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:315
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:454
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:332
 msgid "Wide Landscape"
 msgstr "Panorama Ampio"
 
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:439
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:316
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:455
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:333
 msgid "Landscape"
 msgstr "Panorama"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:440
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:317
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:456
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:334
 #: functions.php:254
 msgid "Square"
 msgstr "Quadrato"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:441
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:318
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:457
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:335
 msgid "Portrait"
 msgstr "Ritratto"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:442
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:319
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:458
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:336
 msgid "High Portrait"
 msgstr "Ritratto alto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:455
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:332
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:471
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:349
 msgid "Gap between elements"
 msgstr "Divario tra gli elementi"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:456
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:333
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:472
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:350
 msgid "Select the gap between the elements"
 msgstr "Selezionare il divario tra gli elementi"
 
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:474
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:352
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:490
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:369
 msgid "Masonry Settings"
 msgstr "Impostazioni Masonry"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:516
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:392
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:532
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:409
 msgid ""
 "Should a pagination or load more option be displayed to view additional "
 "images?"
@@ -13337,26 +13371,26 @@ msgstr ""
 "immagini supplementari?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:524
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:400
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:540
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:417
 msgid "Display \"Load More\" Button"
 msgstr "Mostra \"Carica di pi&ugrave;\" (pulsante)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:525
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:401
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:541
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:418
 msgid "No option to view additional images"
 msgstr "Nessuna opzione per visualizzare altre immagini"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:593
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:469
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:609
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:486
 msgid "Masonry Images Animation"
 msgstr "Animazione di immagini masonry"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:594
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:470
+#: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:610
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:487
 msgid ""
 "Add a small animation to the masonry items when the user first scrolls to "
 "the masonry element. This is only to add some &quot;spice&quot; to the site "
@@ -13377,19 +13411,19 @@ msgid "Display a fullwidth masonry/grid gallery"
 msgstr "Visualizzare la galleria masonry/griglia a schermo intero"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:259
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:260
 msgid "Select Images"
 msgstr "Seleziona immagini"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:294
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:311
 msgid "Here you can select how the masonry should behave and handle the images"
 msgstr ""
 "Qui è possibile selezionare come masonry deve comportarsi e gestire le "
 "immagini"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:300
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:317
 msgid ""
 "Flexible Masonry: All images get the same width but are displayed with their "
 "original height and width ratio"
@@ -13398,7 +13432,7 @@ msgstr ""
 "saranno visualizzate con la loro altezza originale e rapporto di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:301
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:318
 msgid ""
 "Perfect Grid: Display a perfect grid where each image has exactly the same "
 "size. Images get cropped/stretched if they don't fit"
@@ -13408,7 +13442,7 @@ msgstr ""
 "se non si adattano"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:302
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:319
 msgid ""
 "Perfect Automatic Masonry: Display a grid where most images get the same "
 "size, only very wide images get twice the width and very high images get "
@@ -13423,12 +13457,12 @@ msgstr ""
 "superiore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:381
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:398
 msgid "Image Number"
 msgstr "Numero dell&rsquo;immagine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:382
+#: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:399
 msgid "How many images should be displayed per page?"
 msgstr "Quante immagini devono essere visualizzati per pagina?"
 
@@ -13608,7 +13642,7 @@ msgstr ""
 
 # @ LayerSlider
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:345
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:584
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:587
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:199
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:271
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2178
@@ -14194,11 +14228,11 @@ msgstr "Impostazioni griglia"
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:438
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:439
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:440
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:350
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:351
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:352
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:353
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:354
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:355
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:356
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:357
 msgid "1 column"
 msgstr "1 Colonna"
 
@@ -14207,11 +14241,11 @@ msgstr "1 Colonna"
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:438
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:439
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:440
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:350
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:351
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:352
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:353
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:354
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:355
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:356
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:357
 msgid "columns"
 msgstr "colonne"
 
@@ -15942,7 +15976,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:494
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:395
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:663
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:666
 msgid "Parallax"
 msgstr "Parallasse"
 
@@ -16726,7 +16760,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:366
-#: includes/admin/option_tabs/avia_header.php:395
+#: includes/admin/option_tabs/avia_header.php:397
 msgid "Extra Elements"
 msgstr "Elementi aggiuntivi"
 
@@ -17122,7 +17156,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:181
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:489
 #: includes/admin/option_tabs/avia_footer.php:167
-#: includes/admin/option_tabs/avia_header.php:407
+#: includes/admin/option_tabs/avia_header.php:409
 #: includes/admin/option_tabs/avia_layout.php:256
 #: includes/admin/register-admin-options.php:143
 msgid "Social Profiles"
@@ -17568,8 +17602,8 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:364
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:378
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1375
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1403
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1378
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1406
 msgid "No Padding"
 msgstr "Senza spazio"
 
@@ -19380,7 +19414,7 @@ msgstr "Salvare"
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:18
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:945
 #: config-templatebuilder/avia-template-builder/php/class-meta-box.php:222
-#: framework/php/class-form-generator.php:684
+#: framework/php/class-form-generator.php:747
 msgid "Close"
 msgstr "Chiudere"
 
@@ -19445,7 +19479,7 @@ msgid "Please check your API key"
 msgstr "Controlla la tua chiave API"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
-#: functions.php:707 includes/admin/option_tabs/avia_avia.php:35
+#: functions.php:720 includes/admin/option_tabs/avia_avia.php:35
 msgid "here"
 msgstr "qui"
 
@@ -19713,8 +19747,8 @@ msgstr ""
 
 # @ LayerSlider
 #: config-templatebuilder/avia-template-builder/config/meta.php:119
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:648
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1041
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:651
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1044
 msgid "Use default setting"
 msgstr "Utilizzare le impostazioni predefinite"
 
@@ -20013,25 +20047,25 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/config/meta.php:350
-#: includes/admin/option_tabs/avia_header.php:311
+#: includes/admin/option_tabs/avia_header.php:313
 msgid "Display title and breadcrumbs"
 msgstr "Visualizza titolo e breadcrumbs"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/config/meta.php:351
-#: includes/admin/option_tabs/avia_header.php:312
+#: includes/admin/option_tabs/avia_header.php:314
 msgid "Display only title"
 msgstr "Visualizza solo il titolo"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/config/meta.php:352
-#: includes/admin/option_tabs/avia_header.php:313
+#: includes/admin/option_tabs/avia_header.php:315
 msgid "Display only breadcrumbs"
 msgstr "Visualizza solo il breadcrumbs"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/config/meta.php:353
-#: includes/admin/option_tabs/avia_header.php:314
+#: includes/admin/option_tabs/avia_header.php:316
 msgid "Hide both"
 msgstr "Nascondere entrambi"
 
@@ -20183,20 +20217,20 @@ msgstr "Codice dei caratteri:"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:946
-#: framework/php/class-form-generator.php:685
+#: framework/php/class-form-generator.php:748
 msgid "Today"
 msgstr "Oggi"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:947
 #: config-templatebuilder/avia-template-builder/php/class-front-templates.php:32
-#: framework/php/class-form-generator.php:686
+#: framework/php/class-form-generator.php:749
 msgid "Next"
 msgstr "Succ"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:948
-#: framework/php/class-form-generator.php:687
+#: framework/php/class-form-generator.php:750
 msgid "Prev"
 msgstr "Prec"
 
@@ -20327,6 +20361,40 @@ msgstr "Aprire in una nuova finestra e utilizzare rel=\"nofollow sponsored\""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2714
 msgid "Open in new window and use rel=\"nofollow ugc\""
 msgstr "Aprire in una nuova finestra e utilizzare rel=\"nofollow ugc\""
+
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:34
+#: framework/php/base-classes/class-object-properties.php:32
+#, php-format
+msgid "Trying to read non existing property in class %s: %s"
+msgstr "Tentativo di leggere una proprietà non esistente nella classe %s: %s"
+
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:41
+#: framework/php/base-classes/class-object-properties.php:39
+#, php-format
+msgid ""
+"Trying to access protected property: %s::%s - will become unavailable in a "
+"future release. Check for a get method or a filter."
+msgstr ""
+"Si sta tentando di accedere a una proprietà protetta: %s::%s - diventerà non "
+"disponibile in una release futura. Verificare la presenza di un metodo get o "
+"di un filtro."
+
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:61
+#: framework/php/base-classes/class-object-properties.php:59
+#, php-format
+msgid "Trying to set non existing property in class %s: %s:"
+msgstr ""
+"Tentativo di impostare una proprietà non esistente nella classe %s: %s:"
+
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:74
+#: framework/php/base-classes/class-object-properties.php:72
+#, php-format
+msgid ""
+"Trying to set protected property: %s::%s - will become unavailable in a "
+"future release"
+msgstr ""
+"Tentativo di impostare la proprietà protetta: %s::%s - diventerà non "
+"disponibile in una release futura"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-base.php:185
 #, php-format
@@ -21147,7 +21215,7 @@ msgstr ""
 "della tenda&quot; verrà utilizzata per tutti."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1458
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1082
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1085
 msgid "Z-Index"
 msgstr "Z-Index"
 
@@ -21817,26 +21885,26 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:83
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:196
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:405
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:408
 msgid "Desktop"
 msgstr "Desktop"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:84
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:197
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:406
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:409
 msgid "Tablet Landscape"
 msgstr "Panorama del Tablet"
 
 # @ LayerSlider
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:85
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:198
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:407
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:410
 msgid "Tablet Portrait"
 msgstr "Ritratto del Tablet"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:86
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:199
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:408
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:411
 msgid "Mobile"
 msgstr "Dispositivo mobile"
 
@@ -21901,7 +21969,7 @@ msgid "Font Size for large screens (wider than 990px - Desktop)"
 msgstr ""
 "Dimensione dei caratteri per schermi grandi (più larghi di 990px - Desktop)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:252
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:255
 msgid ""
 "Enter size of the font, only use valid CSS units. Unit defaults to px if "
 "missing."
@@ -21910,16 +21978,16 @@ msgstr ""
 "L'unità è predefinita a px se manca."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:256
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:259
 msgid "Leave empty for default."
 msgstr "Lasciare vuoto per impostazione predefinita."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:260
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:263
 msgid "Leave empty to use default setting."
 msgstr "Lasciare vuoto per utilizzare l'impostazione predefinita."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:266
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:269
 msgid ""
 "Hiding this text on large screens by default is currently not supported and "
 "will be ignored."
@@ -21927,7 +21995,7 @@ msgstr ""
 "Nascondere questo testo su schermi grandi per impostazione predefinita non è "
 "attualmente supportato e verrà ignorato."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:271
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:274
 msgid ""
 "Hiding this text on large screens is currently not supported and will be "
 "ignored."
@@ -21935,23 +22003,23 @@ msgstr ""
 "Nascondere questo testo su schermi di grandi dimensioni non è attualmente "
 "supportato e verrà ignorato."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:275
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:278
 msgid "To hide text on this device enter &quot;hidden&quot;."
 msgstr ""
 "Per nascondere il testo su questo dispositivo, inserire &quot;nascosto&quot;."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:293
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:296
 msgid "Font size for the text in px"
 msgstr "Dimensione del carattere per il testo in px"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:332
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:335
 msgid "Set the column count for this element, based on the device screensize."
 msgstr ""
 "Imposta il numero di colonne per questo elemento, in base alle dimensioni "
 "dello schermo del dispositivo."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:333
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:336
 msgid ""
 "Please note that changing the default will overwrite any individual &quot;"
 "landscape&quot; width settings. Each item will have the same width"
@@ -21960,28 +22028,28 @@ msgstr ""
 "qualsiasi impostazione di larghezza individuale &quot;landscape&quot;. Ogni "
 "elemento avrà la stessa larghezza"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:336
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:339
 msgid "Element Columns"
 msgstr "Elemento Colonne"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:350
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:353
 msgid "Automatic, based on screen width"
 msgstr "Automatica, basata sulla larghezza dello schermo"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:395
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:398
 msgid "Column count - default, used for all screen sizes(no media query)"
 msgstr ""
 "Conteggio colonne - predefinito, utilizzato per tutte le dimensioni dello "
 "schermo (senza media query)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:396
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:399
 msgid "Column count for large screens (wider than 990px - eg: Desktop)"
 msgstr ""
 "Conteggio delle colonne per schermi grandi (più larghi di 990px - es. "
 "Desktop)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:397
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:400
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2497
 msgid ""
 "Column count for medium sized screens (between 768px and 989px - eg: Tablet "
@@ -21990,7 +22058,7 @@ msgstr ""
 "Numero di colonne per schermi di medie dimensioni (tra 768px e 989px - ad "
 "es. Tablet Landscape)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:398
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:401
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2506
 msgid ""
 "Column count for small screens (between 480px and 767px - eg: Tablet "
@@ -21999,7 +22067,7 @@ msgstr ""
 "Numero di colonne per schermi piccoli (tra 480px e 767px - ad esempio: "
 "Tablet Portrait)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:399
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:402
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2515
 msgid ""
 "Column count for very small screens (smaller than 479px - eg: Smartphone "
@@ -22009,46 +22077,46 @@ msgstr ""
 "es .: Smartphone Portrait)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:437
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:440
 msgid "How many columns do you want to use."
 msgstr "Quante colonne si desidera utilizzare."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:440
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:443
 msgid "Responsive behaviour is handled by default from theme."
 msgstr ""
 "Il comportamento reattivo è gestito per impostazione predefinita dal tema."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:505
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:508
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:226
 msgid "Element Visibility"
 msgstr "Visibilità elemento"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:506
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:509
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:220
 msgid "Set the visibility for this element, based on the device screensize."
 msgstr ""
 "Imposta la visibilità per questo elemento, in base alle dimensioni dello "
 "schermo del dispositivo."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:534
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:537
 msgid "Hide on large screens (wider than 990px - eg: Desktop)"
 msgstr ""
 "Nascondi su schermi di grandi dimensioni (oltre 990px - ad esempio: Desktop)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:544
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:547
 msgid ""
 "Hide on medium sized screens (between 768px and 989px - eg: Tablet Landscape)"
 msgstr ""
 "Nascondi su schermi di medie dimensioni (tra 768px e 989px - ad es. Tablet "
 "Landscape)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:554
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:557
 msgid "Hide on small screens (between 480px and 767px - eg: Tablet Portrait)"
 msgstr ""
 "Nascondi su schermi piccoli (tra 480px e 767px - ad esempio: Tablet Portrait)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:564
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:567
 msgid ""
 "Hide on very small screens (smaller than 479px - eg: Smartphone Portrait)"
 msgstr ""
@@ -22056,21 +22124,21 @@ msgstr ""
 "Portrait)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:602
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:605
 msgid "Parallax Rules"
 msgstr "Regole parallasse"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:655
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:658
 msgid "Left to right"
 msgstr "Da sinistra a destra"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:656
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:659
 msgid "Right to left"
 msgstr "Da destra a sinistra"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:659
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:662
 msgid ""
 "Select a parallax effect for the element when scrolling the page. Parallax "
 "is supported in modern browsers supporting transform and ignored in older."
@@ -22079,16 +22147,16 @@ msgstr ""
 "della pagina. Il parallasse è supportato nei browser moderni che supportano "
 "la trasformazione e ignorato in quelli più vecchi."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:660
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:663
 msgid "Do not forget to set z-index in &quot;Position Tab&quot;."
 msgstr "Non dimenticare di impostare lo z-index in &quot;Position Tab&quot;."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:684
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:687
 msgid "Parallax Speed"
 msgstr "Velocità parallasse"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:685
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:688
 msgid ""
 "Select the speed the element is moved different to content when the page is "
 "scrolled. A positiv value will move it faster, a negative will slow it down."
@@ -22097,61 +22165,61 @@ msgstr ""
 "contenuto quando la pagina viene fatta scorrere. Un valore positivo lo "
 "sposterà più velocemente, uno negativo lo rallenterà."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:691
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:694
 msgid "Default (= 50%)"
 msgstr "Predefinito (= 50%)"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:720
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:723
 msgid "Transform Rules"
 msgstr "Regole per la trasformazione"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:740
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:758
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:743
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:761
 msgid "X-Axis"
 msgstr "Asse X"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:741
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:759
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:744
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:762
 msgid "Y-Axis"
 msgstr "Asse Y"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:742
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:760
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:745
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:763
 msgid "Z-Axis"
 msgstr "Asse Z"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:743
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:746
 msgid "Rotation Angle"
 msgstr "Angolo di rotazione"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:747
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:750
 msgid "Scale X-Axis"
 msgstr "Scala Asse X"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:748
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:751
 msgid "Scale Y-Axis"
 msgstr "Scala Asse Y"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:749
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:752
 msgid "Scale Z-Axis"
 msgstr "Scala Asse Z"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:753
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:756
 msgid "X-Axis distortion Angle"
 msgstr "Angolo di distorsione dell'asse X"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:754
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:757
 msgid "Y-Axis distortion Angle"
 msgstr "Angolo di distorsione dell'asse Y"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:800
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:803
 msgid "Perspective"
 msgstr "Prospettiva"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:801
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:804
 msgid ""
 "Enter a valid value (including a CSS unit like px, em, vw,..) to set a "
 "perspective, used to apply a perspective transform (to the children of the "
@@ -22164,7 +22232,7 @@ msgstr ""
 "sintassi. Lasciare vuoto per utilizzare l'impostazione predefinita o "
 "ereditare il desktop."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:820
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:823
 msgid ""
 "Enter valid values to rotate the element. Leave all empty for no rotation or "
 "to inherit desktop setting."
@@ -22172,22 +22240,22 @@ msgstr ""
 "Inserire valori validi per ruotare l'elemento. Lasciare tutto vuoto per non "
 "ruotare o per ereditare l'impostazione del desktop."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:821
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:824
 msgid "Valid values x,y,z: 0-1, Angle: e.g. 45deg"
 msgstr "Valori validi x,y,z: 0-1, Angolo: ad es. 45deg"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:822
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:825
 msgid "Unset values default to rotate3d( 0, 0, 1, 0 )."
 msgstr ""
 "I valori non impostati hanno come impostazione predefinita la "
 "rotazione3d( 0, 0, 1, 0 )."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:825
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:828
 msgid "Rotation"
 msgstr "Rotazione"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:847
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:850
 msgid ""
 "Enter valid values to scale the element. Leave all empty for no scale or to "
 "inherit desktop setting."
@@ -22195,16 +22263,16 @@ msgstr ""
 "Inserire valori validi per scalare l'elemento. Lasciare tutto vuoto per non "
 "scalare o per ereditare l'impostazione del desktop."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:848
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:851
 msgid "Unset values default to scale3d( 1, 1, 1 )."
 msgstr "I valori non impostati sono predefiniti a scale3d( 1, 1, 1 )."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:851
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:854
 msgid "Scaling"
 msgstr "Scalare"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:873
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:876
 msgid ""
 "Enter valid values to skew the element. Leave all empty for no skew or to "
 "inherit desktop setting."
@@ -22212,19 +22280,19 @@ msgstr ""
 "Inserire valori validi per inclinare l'elemento. Lasciare tutto vuoto per "
 "non inclinare l'elemento o per ereditare l'impostazione del desktop."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:874
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:877
 msgid "Valid values Angle: e.g. 45deg"
 msgstr "Valori validi Angolo: ad es. 45deg"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:875
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:878
 msgid "Unset values default to skew( 0, 0 )."
 msgstr "I valori non impostati sono predefiniti su skew( 0, 0 )."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:878
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:881
 msgid "Skewing"
 msgstr "Skewing"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:901
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:904
 msgid ""
 "Enter valid values to translate coordinates of the element. Leave all empty "
 "for no translation or to inherit desktop setting."
@@ -22232,43 +22300,43 @@ msgstr ""
 "Inserire valori validi per tradurre le coordinate dell'elemento. Lasciare "
 "tutto vuoto per non tradurre o per ereditare l'impostazione del desktop."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:902
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:905
 msgid "Unset values default to translate3d( 0, 0, 0 )."
 msgstr "I valori non impostati sono predefiniti a translate3d( 0, 0, 0 )."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:905
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:908
 msgid "Translate Coordinates"
 msgstr "Traslare le coordinate"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:946
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:949
 msgid "Transformations"
 msgstr "Trasformazioni"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:963
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:966
 msgid "Position Rules"
 msgstr "Regole di posizionamento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1000
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1003
 msgid "Relative"
 msgstr "Relativo"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1001
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1004
 msgid "Absolute"
 msgstr "Assoluto"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1037
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1040
 msgid "Use theme default"
 msgstr "Usa il tema predefinito"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1044
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1047
 msgid "Select a css position for the element."
 msgstr "Selezionare una posizione css per l'elemento."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1045
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1048
 msgid ""
 "Be aware that the result of position is very much depending on the CSS rules "
 "of the surrounding containers. Check the CSS and HTML layout if it is not as "
@@ -22279,11 +22347,11 @@ msgstr ""
 "risultato non è quello atteso."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1048
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1051
 msgid "Element Position"
 msgstr "Posizione elemento"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1068
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1071
 msgid ""
 "Select the location for the element. Leave not needed values empty and make "
 "sure to use correct combinations and css units. Defaults to px. Do not "
@@ -22295,7 +22363,7 @@ msgstr ""
 "l'aspetto reattivo."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1083
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1086
 msgid ""
 "Set the z-index for this element. Leave empty to use default or inherit "
 "desktop setting."
@@ -22304,7 +22372,7 @@ msgstr ""
 "l'impostazione predefinita o ereditare il desktop."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1140
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1143
 msgid ""
 "Set your custom margin.  Valid CSS units are accepted, eg: 30px, 5&percnt;. "
 "px is used as default unit."
@@ -22313,7 +22381,7 @@ msgstr ""
 "esempio: 30px, 5&percnt;. px è usato come unità predefinita."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1141
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1144
 msgid ""
 "Set your custom padding. Valid CSS units are accepted, eg: 30px, 5&percnt;. "
 "px is used as default unit."
@@ -22322,22 +22390,22 @@ msgstr ""
 "esempio: 30px, 5&percnt;. px è usato come unità predefinita."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1143
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1146
 msgid "Leave empty for theme default settings."
 msgstr "Lasciare vuoto per utilizzare le impostazioni predefinite del tema."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1144
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1147
 msgid "Leave empty to use default settings."
 msgstr "Lasciare vuoto per utilizzare le impostazioni predefinite."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1344
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1347
 msgid "Slideshow Section Top And Bottom Margin"
 msgstr "Margine superiore e inferiore della sezione Slideshow"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1345
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1348
 msgid ""
 "Set a custom top or bottom margin. Both pixel and &percnt; based values are "
 "accepted. eg: 30px, 5&percnt;. Leave empty for default or inherit desktop "
@@ -22348,22 +22416,22 @@ msgstr ""
 "per l'impostazione predefinita o ereditare il desktop."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1351
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1354
 msgid "Margin Top"
 msgstr "Margine superiore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1352
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1355
 msgid "Margin Bottom"
 msgstr "Margine inferiore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1367
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1370
 msgid "Slide Title Tabs Padding"
 msgstr "Padding del titolo delle schede della diapositiva"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1368
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1371
 msgid ""
 "Define the slide title tabs top padding (only works if no icon is displayed "
 "at the top of the slide title)"
@@ -22373,32 +22441,32 @@ msgstr ""
 "del titolo della diapositiva)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1374
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1377
 msgid "Default Padding (10px)"
 msgstr "Spazio predefinito (10px)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1376
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1379
 msgid "Small Padding (0)"
 msgstr "Spazio piccolo (0)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1377
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1380
 msgid "Large Padding (20px)"
 msgstr "Spazio grande (20px)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1378
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1407
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1381
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1410
 msgid "Custom Padding"
 msgstr "Spazio personalizzato"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1383
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1386
 msgid "Custom Slide Title Tabs Padding"
 msgstr "Padding personalizzato delle schede del titolo della diapositiva"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1384
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1413
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1387
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1416
 msgid ""
 "Set a custom padding. Both pixel and &percnt; based values are accepted. eg: "
 "30px, 5&percnt;. Leave empty for default or inherit desktop setting."
@@ -22408,58 +22476,58 @@ msgstr ""
 "predefinita o ereditare il desktop."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1391
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1420
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1394
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1423
 msgid "Padding Top "
 msgstr "Padding superiore "
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1396
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1399
 msgid "Slides Content Padding"
 msgstr "Padding del contenuto delle diapositive"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1397
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1400
 msgid "Define the slide sections top and bottom padding"
 msgstr ""
 "Definire il padding superiore e inferiore delle sezioni della diapositiva"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1402
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1405
 msgid "Default Padding (50px 50px)"
 msgstr "Padding predefinito (50px 50px)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1404
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1407
 msgid "Small Padding (20px 20px)"
 msgstr "Padding piccolo (20px 20px)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1405
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1408
 msgid "Large Padding (70px 70px)"
 msgstr "Padding grande (70px 70px)"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1406
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1409
 msgid "Huge Padding (130px 130px)"
 msgstr "Padding ampio  (130px 130px)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1412
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1415
 msgid "Custom Slides Content Padding"
 msgstr "Padding del contenuto delle diapositive personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1421
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1424
 msgid "Padding Right"
 msgstr "Padding destro"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1422
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1425
 msgid "Padding Bottom"
 msgstr "Spazio inferiore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1423
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1426
 msgid "Padding Left"
 msgstr "Padding sinistro"
 
@@ -24639,6 +24707,58 @@ msgid "Adjust to content width"
 msgstr "Regolare la larghezza del contenuto"
 
 # @ avia_framework
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2912
+msgid "Image Copyright Info"
+msgstr "Info copyright immagine"
+
+# @ avia_framework
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2920
+msgid "No copyright info"
+msgstr "Nessuna Info copyright"
+
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2921
+msgid "Show on left bottom of image"
+msgstr "Mostra in basso a sinistra dell'immagine"
+
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2922
+msgid "Show on right bottom of image"
+msgstr "Mostra in basso a destra dell'immagine"
+
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2927
+msgid "Copyright Text Font Sizes"
+msgstr "Dimensioni dei caratteri del testo del copyright"
+
+# @ avia_framework
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2928
+msgid "Select a custom font size for the copyright text."
+msgstr ""
+"Selezionare una dimensione di carattere personalizzata per il testo del "
+"copyright."
+
+# @ avia_framework
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2952
+msgid ""
+"Select a custom color for the copyright text. Leave empty to use theme "
+"default."
+msgstr ""
+"Selezionare un colore personalizzato per il testo del copyright. Lasciare "
+"vuoto per utilizzare il colore predefinito del tema."
+
+# @ avia_framework
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2963
+msgid ""
+"Select a custom color for the copyright background. Leave empty for no "
+"background."
+msgstr ""
+"Selezionare un colore personalizzato per lo sfondo del copyright. Lasciare "
+"vuoto per non avere uno sfondo."
+
+# @ avia_framework
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2984
+msgid "Image Copyright"
+msgstr "Copyright immagine"
+
+# @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:70
 msgid "No templates saved yet"
 msgstr "Nessun modello salvato"
@@ -24968,7 +25088,7 @@ msgstr "Editor di default di Wordpress abilitato"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2905
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2528
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2525
 msgid "Advanced Layout Editor"
 msgstr "Editor avanzato di Layout"
 
@@ -25240,11 +25360,11 @@ msgstr "(SVG personalizzato)"
 msgid "No divider"
 msgstr "Nessun divisore"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:373
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:370
 msgid "Miscellaneous"
 msgstr "Varie"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1146
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1143
 msgid ""
 "It seems you are currently adding some HTML markup or other special "
 "characters. Once all HTML tags are closed the preview will be available "
@@ -25257,82 +25377,82 @@ msgstr ""
 "caratteri speciali e prova a rimuoverli."
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1147
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1144
 msgid "Element Preview"
 msgstr "Anteprima Elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1147
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1144
 msgid "Set preview background:"
 msgstr "Impostare anteprima dello sfondo:"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1147
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1144
 msgid "Scaled to:"
 msgstr "Ridimensionato a:"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1815
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1812
 msgid "Permanent Line Break"
 msgstr "Interruzione di linea permanente"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1821
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1818
 msgid "Line Break"
 msgstr "Interruzione di riga"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1830
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1827
 msgid "Insert Theme Shortcode"
 msgstr "Inserisci shortcode del tema"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2529
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2526
 msgid "Default Editor"
 msgstr "Editor standard"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2712
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2729
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2709
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2726
 msgid "By name (ascending)"
 msgstr "Per nome (crescente)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2713
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2732
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2710
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2729
 msgid "By name (descending)"
 msgstr "Per nome (discendente)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2714
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2735
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2711
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2732
 msgid "By usage"
 msgstr "Per uso"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2726
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2723
 msgid "Sort shortcode buttons by theme default sorting"
 msgstr "Ordina i pulsanti di scelta rapida per tema di ordinamento predefinito"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2729
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2726
 msgid "Sort shortcode buttons by name ascending"
 msgstr "Ordina i tasti di scelta rapida per nome ascendente"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2732
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2729
 msgid "Sort shortcode buttons by name descending"
 msgstr "Ordina i tasti di scelta rapida per nome decrescente"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2735
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2732
 msgid "Sort shortcode buttons by usage"
 msgstr "Ordina i pulsanti di scelta rapida in base all&rsquo;uso"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2744
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2741
 msgid "Information"
 msgstr "Informazioni"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2805
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2802
 msgid "Disabled - No checks are done on update"
 msgstr "Disabilitato - Nessun controllo sull'aggiornamento"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2806
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2803
 msgid "Check enabled on update - checks the structure only"
 msgstr "Verifica abilitata su aggiornamento - controlla solo la struttura"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2807
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2804
 msgid ""
 "Auto Repair Function enabled - Repairs errors in shortcode structure during "
 "update"
@@ -25341,7 +25461,7 @@ msgstr ""
 "struttura dello shortcode durante l'aggiornamento"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2811
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2808
 msgid "Show Parser Info"
 msgstr "Mostra Info Analisi"
 
@@ -26756,7 +26876,7 @@ msgid "404 Not Found"
 msgstr "Errore 404"
 
 # @ avia_framework
-#: framework/php/class-form-generator.php:399
+#: framework/php/class-form-generator.php:462
 msgid ""
 "Form could not be submitted - an error occurred. Please reload page and try "
 "again."
@@ -26765,7 +26885,7 @@ msgstr ""
 "prega di ricaricare la pagina e riprovare."
 
 # @ avia_framework
-#: framework/php/class-form-generator.php:417
+#: framework/php/class-form-generator.php:480
 msgid ""
 "Sorry, but the form could not be submitted - an error was found in your "
 "input. Please reload the page and try again."
@@ -26774,7 +26894,7 @@ msgstr ""
 "trovato un errore nel vostro input. Si prega di ricaricare la pagina e "
 "riprovare."
 
-#: framework/php/class-form-generator.php:432
+#: framework/php/class-form-generator.php:495
 msgid ""
 "This contact form is deactivated because you refused to accept Google "
 "reCaptcha service which is necessary to validate any messages sent by the "
@@ -26785,45 +26905,45 @@ msgstr ""
 "messaggi inviati dal modulo."
 
 # @ avia_framework
-#: framework/php/class-form-generator.php:496
+#: framework/php/class-form-generator.php:559
 msgid "Sending"
 msgstr "Invio"
 
 # @ avia_framework
-#: framework/php/class-form-generator.php:572
-#: framework/php/class-form-generator.php:629
-#: framework/php/class-form-generator.php:758
-#: framework/php/class-form-generator.php:797
-#: framework/php/class-form-generator.php:882
-#: framework/php/class-form-generator.php:1031
+#: framework/php/class-form-generator.php:635
+#: framework/php/class-form-generator.php:692
+#: framework/php/class-form-generator.php:821
+#: framework/php/class-form-generator.php:860
+#: framework/php/class-form-generator.php:945
+#: framework/php/class-form-generator.php:1094
 msgid "required"
 msgstr "richiesto"
 
-#: framework/php/class-form-generator.php:998
+#: framework/php/class-form-generator.php:1061
 msgid "A non functional image only preview for checkbox of Google reCAPTCHA"
 msgstr ""
 "Un&rsquo;anteprima non funzionale dell'immagine solo per la casella di "
 "controllo di Google reCAPTCHA"
 
-#: framework/php/class-form-generator.php:999
+#: framework/php/class-form-generator.php:1062
 msgid "Checkbox for Google reCAPTCHA"
 msgstr "Casella di controllo per Google reCAPTCHA"
 
-#: framework/php/class-form-generator.php:1370
-#: framework/php/class-form-generator.php:1371
-#: framework/php/class-form-generator.php:1372
-#: framework/php/class-form-generator.php:1420
-#: framework/php/class-form-generator.php:1450
-#: framework/php/class-form-generator.php:1470
+#: framework/php/class-form-generator.php:1433
+#: framework/php/class-form-generator.php:1434
+#: framework/php/class-form-generator.php:1435
+#: framework/php/class-form-generator.php:1483
+#: framework/php/class-form-generator.php:1513
+#: framework/php/class-form-generator.php:1533
 msgid "Allows stack modifications"
 msgstr "Consente di modificare la pila"
 
-#: framework/php/class-form-generator.php:1449
+#: framework/php/class-form-generator.php:1512
 msgid "Inconsistent usage of filter name."
 msgstr "Utilizzo incoerente del nome del filtro."
 
 # @ avia_framework
-#: framework/php/class-form-generator.php:1461
+#: framework/php/class-form-generator.php:1524
 msgid "Your Message:"
 msgstr "Il tuo messaggio:"
 
@@ -26887,7 +27007,7 @@ msgstr ""
 "Maps si è verificato un errore di connessione - si prega di riconvalidare la "
 "chiave."
 
-#: framework/php/class-gmaps.php:623 framework/php/class-grecaptcha.php:1010
+#: framework/php/class-gmaps.php:623 framework/php/class-grecaptcha.php:1028
 msgid ""
 "If you ever change your API key or the URL restrictions of the key please "
 "verify the key here again, to test if it works properly"
@@ -26905,7 +27025,7 @@ msgstr ""
 "Google <a href=\"https://policies.google.com/privacy\">Privacy Policy</a> e "
 "<a href=\"https://policies.google.com/terms\">Termini di servizio</a>."
 
-#: framework/php/class-grecaptcha.php:242
+#: framework/php/class-grecaptcha.php:251
 msgid ""
 "Sorry, a problem occurred trying to communicate with Google reCAPTCHA API. "
 "You are currently not able to submit the contact form. Please try again "
@@ -26916,25 +27036,25 @@ msgstr ""
 "contatto. Per favore riprovare più tardi - ricaricate la pagina e "
 "controllate anche la vostra connessione internet."
 
-#: framework/php/class-grecaptcha.php:243
+#: framework/php/class-grecaptcha.php:252
 msgid "Initial setting failed. Sitekey 2 and/or sitekey 3 missing in frontend."
 msgstr ""
 "L&rsquo;impostazione iniziale non è riuscita. Sitekey 2 e/o Sitekey 3 "
 "mancanti nel frontend."
 
-#: framework/php/class-grecaptcha.php:244
+#: framework/php/class-grecaptcha.php:253
 msgid "Timeout occurred connecting to V3 API on initial pageload"
 msgstr ""
 "Il timeout si è verificato collegandosi all'API V3 al momento del "
 "caricamento iniziale della pagina"
 
-#: framework/php/class-grecaptcha.php:245
+#: framework/php/class-grecaptcha.php:254
 msgid "Timeout occurred connecting to V3 API on verifying submit"
 msgstr ""
 "Si è verificato un timeout di connessione alla V3 API al momento della "
 "verifica dell'invio"
 
-#: framework/php/class-grecaptcha.php:246
+#: framework/php/class-grecaptcha.php:255
 msgid ""
 "Timeout occurred connecting to V2 API on verifying you as human. Please try "
 "again and check your internet connection. It might be necessary to reload "
@@ -26944,12 +27064,12 @@ msgstr ""
 "come umano. Si prega di provare di nuovo e controllare la connessione a "
 "internet. Potrebbe essere necessario ricaricare la pagina."
 
-#: framework/php/class-grecaptcha.php:247
+#: framework/php/class-grecaptcha.php:256
 msgid "Verify...."
 msgstr "Verificare...."
 
 # @ avia_framework
-#: framework/php/class-grecaptcha.php:248
+#: framework/php/class-grecaptcha.php:257
 msgid ""
 "Could not connect to the internet. Please reload the page and try again."
 msgstr ""
@@ -26957,27 +27077,27 @@ msgstr ""
 "riprovare."
 
 # @ avia_framework
-#: framework/php/class-grecaptcha.php:249
+#: framework/php/class-grecaptcha.php:258
 msgid "Please validate that you are a human first"
 msgstr "Per favore, convalida che sei prima di tutto un essere umano"
 
-#: framework/php/class-grecaptcha.php:250
+#: framework/php/class-grecaptcha.php:259
 msgid "Before submitting we validate that you are a human first."
 msgstr "Prima di inoltrare convalidare prima che sei un essere umano."
 
-#: framework/php/class-grecaptcha.php:251
+#: framework/php/class-grecaptcha.php:260
 msgid "Missing internal token on valid submit - unable to proceed."
 msgstr "Token interno mancante su valido inoltro - incapace di procedere."
 
-#: framework/php/class-grecaptcha.php:252
+#: framework/php/class-grecaptcha.php:261
 msgid "Invalid reCAPTCHA version found."
 msgstr "Trovata non valida la versione  di reCAPTCHA."
 
-#: framework/php/class-grecaptcha.php:253
+#: framework/php/class-grecaptcha.php:262
 msgid "Google reCAPTCHA API could not be loaded."
 msgstr "Google reCAPTCHA API non ha potuto essere caricato."
 
-#: framework/php/class-grecaptcha.php:299
+#: framework/php/class-grecaptcha.php:317
 msgid ""
 "Google reCAPTCHA API could not be loaded. We are not able to verify keys. "
 "Check your internet connection and try again."
@@ -26985,16 +27105,16 @@ msgstr ""
 "Google reCAPTCHA API non ha potuto essere caricato. Non siamo in grado di "
 "verificare le chiavi. Controlla la tua connessione internet e riprova."
 
-#: framework/php/class-grecaptcha.php:300
+#: framework/php/class-grecaptcha.php:318
 msgid "Please select Version 2 or 3 for reCAPTCHA"
 msgstr "Selezionare la versione 2 o 3 per reCAPTCHA"
 
-#: framework/php/class-grecaptcha.php:301
+#: framework/php/class-grecaptcha.php:319
 msgid "You have to enter a site key and a secret key to verify it."
 msgstr ""
 "Devi inserire una chiave del sito e una chiave segreta per verificarlo."
 
-#: framework/php/class-grecaptcha.php:302
+#: framework/php/class-grecaptcha.php:320
 msgid ""
 "A network timeout problem occurred. Could be caused by an invalid V3 "
 "sitekey. Please recheck the key and try again."
@@ -27002,44 +27122,44 @@ msgstr ""
 "Si è verificato un problema di timeout di rete. Potrebbe essere causato da "
 "una sitekey V3 non valida. Si prega di ricontrollare la chiave e riprovare."
 
-#: framework/php/class-grecaptcha.php:583
+#: framework/php/class-grecaptcha.php:601
 #, php-format
 msgid "Unable to communicate with gRECAPTCHA: <br /><br />%s"
 msgstr "Impossibile comunicare con gRECAPTCHA: <br /><br /><br />%s"
 
-#: framework/php/class-grecaptcha.php:592
+#: framework/php/class-grecaptcha.php:610
 #: framework/php/legacy/class-framework-widgets.php:3252
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:721
 msgid "Unknown error code"
 msgstr "Codice di errore sconosciuto"
 
-#: framework/php/class-grecaptcha.php:594
+#: framework/php/class-grecaptcha.php:612
 #, php-format
 msgid "gRECAPTCHA returned error %d (= %s)."
 msgstr "gRECAPTCHA restituito errore %d (= %s)."
 
-#: framework/php/class-grecaptcha.php:613
+#: framework/php/class-grecaptcha.php:631
 msgid "The secret parameter is missing."
 msgstr "Manca il parametro segreto."
 
-#: framework/php/class-grecaptcha.php:616
+#: framework/php/class-grecaptcha.php:634
 msgid "The secret parameter is invalid or malformed."
 msgstr "Il parametro segreto non è valido o malformato."
 
-#: framework/php/class-grecaptcha.php:619
+#: framework/php/class-grecaptcha.php:637
 msgid "The response parameter is missing."
 msgstr "Manca il parametro response."
 
-#: framework/php/class-grecaptcha.php:622
+#: framework/php/class-grecaptcha.php:640
 msgid "The response parameter is invalid or malformed."
 msgstr "La risposta del parametro non è valido o malformato."
 
 # @ LayerSlider
-#: framework/php/class-grecaptcha.php:625
+#: framework/php/class-grecaptcha.php:643
 msgid "The request is invalid or malformed."
 msgstr "La richiesta non è valida o malformata."
 
-#: framework/php/class-grecaptcha.php:628
+#: framework/php/class-grecaptcha.php:646
 msgid ""
 "The response is no longer valid: either is too old or has been used "
 "previously."
@@ -27047,72 +27167,72 @@ msgstr ""
 "La risposta non è più valida: o è troppo vecchia o è stata usata in "
 "precedenza."
 
-#: framework/php/class-grecaptcha.php:631
+#: framework/php/class-grecaptcha.php:649
 #, php-format
 msgid "%s - unknown error code"
 msgstr "%s - codice di errore sconosciuto"
 
 # @ avia_framework
-#: framework/php/class-grecaptcha.php:688
+#: framework/php/class-grecaptcha.php:706
 msgid ""
 "Sorry, but the verification failed. Please reload the page and try again."
 msgstr ""
 "Mi dispiace, ma la verifica è fallita. Si prega di ricaricare la pagina e "
 "riprovare."
 
-#: framework/php/class-grecaptcha.php:695
+#: framework/php/class-grecaptcha.php:713
 msgid "API check returned false."
 msgstr "Controllo API restituito falso."
 
-#: framework/php/class-grecaptcha.php:709
+#: framework/php/class-grecaptcha.php:727
 msgid "Invalid V3 response. Actions:"
 msgstr "Risposta V3 non valida. Azioni:"
 
-#: framework/php/class-grecaptcha.php:720
+#: framework/php/class-grecaptcha.php:738
 #, php-format
 msgid "Score requested %s - returned %s"
 msgstr "Punteggio richiesto %s - restituito %s"
 
 # @ avia_framework
-#: framework/php/class-grecaptcha.php:800
+#: framework/php/class-grecaptcha.php:818
 msgid "Form could not be submitted. Please reload page and try again."
 msgstr ""
 "Non è stato possibile inviare il modulo. Si prega di ricaricare la pagina e "
 "riprovare."
 
-#: framework/php/class-grecaptcha.php:804
+#: framework/php/class-grecaptcha.php:822
 msgid "Invalid form for reCAPTCHA sent."
 msgstr "Modulo non valido per l&rsquo;invio di reCAPTCHA."
 
-#: framework/php/class-grecaptcha.php:807
+#: framework/php/class-grecaptcha.php:825
 msgid "Name for token field was missing."
 msgstr "Mancava il nome nel campo token."
 
-#: framework/php/class-grecaptcha.php:816
+#: framework/php/class-grecaptcha.php:834
 msgid "Token to validate form already expired."
 msgstr "Token per convalidare il modulo già scaduto."
 
-#: framework/php/class-grecaptcha.php:819
+#: framework/php/class-grecaptcha.php:837
 msgid "Transient to verify form was missing or expired."
 msgstr "Transitorio per verificare che il modulo fosse mancante o scaduto."
 
-#: framework/php/class-grecaptcha.php:828
+#: framework/php/class-grecaptcha.php:846
 msgid "Token to validate form is not valid."
 msgstr "Il Token per convalidare il modulo non è valido."
 
-#: framework/php/class-grecaptcha.php:831
+#: framework/php/class-grecaptcha.php:849
 msgid ""
 "reCAPTCHA version in transient differs from selected version in element."
 msgstr ""
 "la versione di reCAPTCHA in transitorio differisce dalla versione "
 "selezionata per elemento."
 
-#: framework/php/class-grecaptcha.php:859
+#: framework/php/class-grecaptcha.php:877
 msgid "Could not connect and verify these API Keys with Google reCAPTCHA."
 msgstr ""
 "Impossibile connettersi e verificare queste chiavi API con Google reCAPTCHA."
 
-#: framework/php/class-grecaptcha.php:903
+#: framework/php/class-grecaptcha.php:921
 msgid ""
 "We were able to properly connect and verify your API keys with Google "
 "reCAPTCHA"
@@ -27120,11 +27240,11 @@ msgstr ""
 "Siamo stati in grado di collegare e verificare correttamente le vostre "
 "chiavi API con Google reCAPTCHA"
 
-#: framework/php/class-grecaptcha.php:934
+#: framework/php/class-grecaptcha.php:952
 msgid "Error on connecting to Google reCAPTCHA - please retry."
 msgstr "Errore durante la connessione a Google reCAPTCHA - riprovare."
 
-#: framework/php/class-grecaptcha.php:987
+#: framework/php/class-grecaptcha.php:1005
 msgid ""
 "A connection error occurred last time we tried verify your keys with Google "
 "reCAPTCHA - please revalidate the keys."
@@ -27133,16 +27253,16 @@ msgstr ""
 "reCAPTCHA si è verificato un errore di connessione - si prega di "
 "riconvalidare le chiavi."
 
-#: framework/php/class-grecaptcha.php:991
+#: framework/php/class-grecaptcha.php:1009
 msgid "Please verify the keys"
 msgstr "Si prega di verificare le chiavi"
 
-#: framework/php/class-grecaptcha.php:995
+#: framework/php/class-grecaptcha.php:1013
 msgid "Please verify the keys - the last verified keys are different."
 msgstr ""
 "Si prega di verificare le chiavi - le ultime chiavi verificate sono diverse."
 
-#: framework/php/class-grecaptcha.php:1004
+#: framework/php/class-grecaptcha.php:1022
 msgid ""
 "Last time we checked we were able to connected to Google reCAPTCHA with your "
 "API keys"
@@ -27735,17 +27855,17 @@ msgstr "ID Allegato: %d"
 msgid "Original source: %s"
 msgstr "Sorgente originale: %s"
 
-#: framework/php/function-set-avia-backend.php:1208
+#: framework/php/function-set-avia-backend.php:1210
 #, php-format
 msgid "Unable to create folder %s."
 msgstr "Impossibile creare la cartella %s."
 
-#: framework/php/function-set-avia-backend.php:1215
+#: framework/php/function-set-avia-backend.php:1217
 #, php-format
 msgid "Unable to delete file %s."
 msgstr "Impossibile eliminare il file %s."
 
-#: framework/php/function-set-avia-backend.php:1221
+#: framework/php/function-set-avia-backend.php:1223
 #, php-format
 msgid "Unable to rename/move file %s to %s"
 msgstr "Impossibile rinominare/spostare il file %s in %s"
@@ -29685,7 +29805,7 @@ msgid "Enfold update was successful! "
 msgstr "L'aggiornamento di Enfold ha avuto successo! "
 
 # @ avia_framework
-#: functions.php:704 includes/admin/option_tabs/avia_customizer.php:28
+#: functions.php:717 includes/admin/option_tabs/avia_customizer.php:28
 #: includes/admin/register-admin-options.php:87
 #: includes/admin/register-backend-advanced-styles.php:273
 #: includes/admin/register-backend-advanced-styles.php:302
@@ -29697,19 +29817,19 @@ msgid "Main Menu"
 msgstr "Menu principale"
 
 # @ avia_framework
-#: functions.php:707
+#: functions.php:720
 msgid "Secondary Menu"
 msgstr "Menu Secondario"
 
 # @ avia_framework
-#: functions.php:707
+#: functions.php:720
 msgid ""
 "Will be displayed if you selected a header layout that supports a submenu"
 msgstr ""
 "Verrà visualizzato se si seleziona un header layout che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:708
+#: functions.php:721
 msgid ""
 "Secondary Menu - will be displayed if you selected a header layout that "
 "supports a submenu"
@@ -29718,12 +29838,12 @@ msgstr ""
 "intestazione che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:711
+#: functions.php:724
 msgid "Footer Menu <br/><small>(no dropdowns)</small>"
 msgstr "Footer Menu <br/><small>(nessun menu a discesa)</ small>"
 
 # @ avia_framework
-#: functions.php:712
+#: functions.php:725
 msgid "Footer Menu (no dropdowns)"
 msgstr "Footer Menu (nessun menù a discesa)"
 
@@ -29800,7 +29920,7 @@ msgstr ""
 "(a meno che tu non aggiunga l'ID dell'allegato)."
 
 #: includes/admin/option_tabs/avia_avia.php:49
-#: includes/admin/option_tabs/avia_header.php:506
+#: includes/admin/option_tabs/avia_header.php:508
 msgid "Since 4.8.6.4 (in beta) - support for svg files"
 msgstr "Dalla versione 4.8.6.4 (in versione beta) - supporto per i file svg"
 
@@ -29832,7 +29952,7 @@ msgstr ""
 # @ avia_framework
 #: includes/admin/option_tabs/avia_avia.php:59
 #: includes/admin/option_tabs/avia_avia.php:112
-#: includes/admin/option_tabs/avia_header.php:515
+#: includes/admin/option_tabs/avia_header.php:517
 msgid "Use Image as logo"
 msgstr "Usa immagine come logo"
 
@@ -32163,58 +32283,58 @@ msgid "A rough layout preview of the header area"
 msgstr "Un'anteprima approssimativa del layout dell'area dell'intestazione"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:216
+#: includes/admin/option_tabs/avia_header.php:218
 msgid "Header Layout"
 msgstr "Layout dell'intestazione"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:225
+#: includes/admin/option_tabs/avia_header.php:227
 msgid "Menu And Logo Position"
 msgstr "Posizione Menu e Logo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:226
+#: includes/admin/option_tabs/avia_header.php:228
 msgid "You can choose various different logo and main menu positions here"
 msgstr ""
 "È possibile scegliere diverse posizioni per il logo e il menu principale qui"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:235
+#: includes/admin/option_tabs/avia_header.php:237
 msgid "Logo left, Menu right"
 msgstr "Logo a sinistra, menu a destra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:236
+#: includes/admin/option_tabs/avia_header.php:238
 msgid "Logo right, Menu Left"
 msgstr "Logo a destra, menu a sinistra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:237
+#: includes/admin/option_tabs/avia_header.php:239
 msgid "Logo left, Menu below"
 msgstr "Logo a sinistra, Menu sotto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:238
+#: includes/admin/option_tabs/avia_header.php:240
 msgid "Logo right, Menu below"
 msgstr "Logo a destra, Menu sotto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:239
+#: includes/admin/option_tabs/avia_header.php:241
 msgid "Logo center, Menu below"
 msgstr "Logo al centro, Menu sotto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:240
+#: includes/admin/option_tabs/avia_header.php:242
 msgid "Logo center, Menu above"
 msgstr "Logo al centro, Menu sopra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:246
+#: includes/admin/option_tabs/avia_header.php:248
 msgid "Header Size"
 msgstr "Dimensione Titolo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:247
+#: includes/admin/option_tabs/avia_header.php:249
 msgid ""
 "Choose a predefined header size. You can also apply a custom height to the "
 "header"
@@ -32223,27 +32343,27 @@ msgstr ""
 "un'altezza personalizzata all'intestazione"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:256
+#: includes/admin/option_tabs/avia_header.php:258
 msgid "slim"
 msgstr "sottile"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:257
+#: includes/admin/option_tabs/avia_header.php:259
 msgid "large"
 msgstr "grande"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:258
+#: includes/admin/option_tabs/avia_header.php:260
 msgid "custom pixel value"
 msgstr "valore del pixel personalizzato"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:271
+#: includes/admin/option_tabs/avia_header.php:273
 msgid "Header Custom Height"
 msgstr "Altezza Testata personalizzata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:272
+#: includes/admin/option_tabs/avia_header.php:274
 msgid ""
 "Choose a custom height in pixels (wont be reflected in the preview above, "
 "only on your actual page)"
@@ -32251,34 +32371,34 @@ msgstr ""
 "Scegli un&rsquo;altezza personalizzata in pixel (non si rifletterà "
 "nell&rsquo;anteprima sopra, solo sulla tua pagina attuale)"
 
-#: includes/admin/option_tabs/avia_header.php:285
+#: includes/admin/option_tabs/avia_header.php:287
 msgid "Header Style"
 msgstr "Stile Header"
 
-#: includes/admin/option_tabs/avia_header.php:286
+#: includes/admin/option_tabs/avia_header.php:288
 msgid "Choose which header style you want to use"
 msgstr "Scegliere quale stile si desidera utilizzare per l&rsquo;intestazione"
 
-#: includes/admin/option_tabs/avia_header.php:294
+#: includes/admin/option_tabs/avia_header.php:296
 msgid "Default (with borders, active menu indicator and slightly transparent)"
 msgstr ""
 "Default (con bordi, indicatore di menu attivo e leggermente trasparente)"
 
-#: includes/admin/option_tabs/avia_header.php:295
+#: includes/admin/option_tabs/avia_header.php:297
 msgid "Minimal (no borders, indicators or transparency)"
 msgstr "Minimal (senza bordi, indicatore e trasparenza)"
 
-#: includes/admin/option_tabs/avia_header.php:296
+#: includes/admin/option_tabs/avia_header.php:298
 msgid "Minimal with drop shadow (no borders, indicators or transparency)"
 msgstr "Minimal con ombra riflessa (senza bordi, indicatori o trasparenza)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:302
+#: includes/admin/option_tabs/avia_header.php:304
 msgid "Header Title and Breadcrumbs"
 msgstr "Titolo testata e breadcrumbs"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:303
+#: includes/admin/option_tabs/avia_header.php:305
 msgid ""
 "Choose if and how you want to display the Title and Breadcrumb of your page. "
 "This option can be overwritten when writing/editing a page"
@@ -32288,17 +32408,17 @@ msgstr ""
 "modifica di una pagina"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:332
+#: includes/admin/option_tabs/avia_header.php:334
 msgid "Header Behavior"
 msgstr "Comportamento della testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:341
+#: includes/admin/option_tabs/avia_header.php:343
 msgid "Sticky Header"
 msgstr "Titolo in evidenza"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:342
+#: includes/admin/option_tabs/avia_header.php:344
 msgid ""
 "If checked the header will stick to the top of your site if user scrolls "
 "down (ignored on smartphones)"
@@ -32308,12 +32428,12 @@ msgstr ""
 "smartphone)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:351
+#: includes/admin/option_tabs/avia_header.php:353
 msgid "Shrinking Header"
 msgstr "Restringimento testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:352
+#: includes/admin/option_tabs/avia_header.php:354
 msgid ""
 "If checked the sticky header will shrink once the user scrolls down (ignored "
 "on smartphones + tablets)"
@@ -32321,11 +32441,11 @@ msgstr ""
 "Se selezionato l&rsquo;intestazione si ridurrà una volta che l&rsquo;utente "
 "scorre verso il basso (ignorato su smartphone + tablet)"
 
-#: includes/admin/option_tabs/avia_header.php:362
+#: includes/admin/option_tabs/avia_header.php:364
 msgid "Unstick Topbar"
 msgstr "Sbloccare la barra superiore"
 
-#: includes/admin/option_tabs/avia_header.php:363
+#: includes/admin/option_tabs/avia_header.php:365
 msgid ""
 "If checked the small top bar above the header with social icons, secondary "
 "menu and extra information will no longer stick to the top"
@@ -32335,14 +32455,14 @@ msgstr ""
 "in alto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:374
+#: includes/admin/option_tabs/avia_header.php:376
 msgid "Let Logo And Menu Position Adapt To Browser Window"
 msgstr ""
 "Lasciare che il logo e la posizione del menu si adattino alla finestra del "
 "browser"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:375
+#: includes/admin/option_tabs/avia_header.php:377
 msgid ""
 "If checked the elements in your header will always be placed at the browser "
 "window edge, instead of matching the content width"
@@ -32352,12 +32472,12 @@ msgstr ""
 "contenuto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:404
+#: includes/admin/option_tabs/avia_header.php:406
 msgid "Header Social Icons"
 msgstr "Icone Sociali Nella Testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:405
+#: includes/admin/option_tabs/avia_header.php:407
 msgid ""
 "Choose if and where to display social icons. You can define the icons at"
 msgstr ""
@@ -32365,59 +32485,59 @@ msgstr ""
 "le icone in"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:417
+#: includes/admin/option_tabs/avia_header.php:419
 msgid "No social Icons"
 msgstr "Nessuna icona sociale"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:418
-#: includes/admin/option_tabs/avia_header.php:455
+#: includes/admin/option_tabs/avia_header.php:420
+#: includes/admin/option_tabs/avia_header.php:457
 msgid "Display in top bar at the left"
 msgstr "Mostra nella barra superiore a sinistra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:419
-#: includes/admin/option_tabs/avia_header.php:456
+#: includes/admin/option_tabs/avia_header.php:421
+#: includes/admin/option_tabs/avia_header.php:458
 msgid "Display in top bar at the right"
 msgstr "Mostra nella barra superiore a destra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:420
+#: includes/admin/option_tabs/avia_header.php:422
 msgid "Display in main header area"
 msgstr "Mostra nella principale area della testa"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:426
+#: includes/admin/option_tabs/avia_header.php:428
 msgid "Header Secondary Menu"
 msgstr "Menu secondario nella testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:427
+#: includes/admin/option_tabs/avia_header.php:429
 msgid "Choose if you want to display a secondary menu and where to display it"
 msgstr "Scegli se vuoi visualizzare un menu secondario e dove visualizzarlo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:436
+#: includes/admin/option_tabs/avia_header.php:438
 msgid "No Secondary Menu"
 msgstr "Nessun menu secondario"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:437
+#: includes/admin/option_tabs/avia_header.php:439
 msgid "Secondary Menu in top bar at the left"
 msgstr "Menu Secondario nella barra superiore a sinistra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:438
+#: includes/admin/option_tabs/avia_header.php:440
 msgid "Secondary Menu in top bar at the right"
 msgstr "Menu Secondario nella barra superiore a destra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:444
+#: includes/admin/option_tabs/avia_header.php:446
 msgid "Header Phone Number/Extra Info"
 msgstr "Testata numero di telefono/Extra Info"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:445
+#: includes/admin/option_tabs/avia_header.php:447
 msgid ""
 "Choose if you want to display an additional phone number or some extra info "
 "in your header"
@@ -32426,33 +32546,33 @@ msgstr ""
 "qualche informazione in più nella testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:454
+#: includes/admin/option_tabs/avia_header.php:456
 msgid "No Phone Number/Extra Info"
 msgstr "Nessun numero di telefono/Extra Info"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:462
+#: includes/admin/option_tabs/avia_header.php:464
 msgid "Phone Number Or Small Info Text"
 msgstr "Numero di telefono o piccolo testo informativo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:463
+#: includes/admin/option_tabs/avia_header.php:465
 msgid "Add the text that should be displayed in your header here"
 msgstr ""
 "Aggiungere il testo che dovrebbe essere visualizzato nella intestazione qui"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:485
+#: includes/admin/option_tabs/avia_header.php:487
 msgid "Transparency Options"
 msgstr "Opzioni di trasparenza"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:496
+#: includes/admin/option_tabs/avia_header.php:498
 msgid "What Is Header Transparency"
 msgstr "Cos'è la trasparenza delle intestazioni"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:497
+#: includes/admin/option_tabs/avia_header.php:499
 msgid ""
 "When creating/editing a page you can select to have the header be "
 "transparent and display the content (usually a fullwidth slideshow or a "
@@ -32466,12 +32586,12 @@ msgstr ""
 "che può essere impostato qui."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:497
+#: includes/admin/option_tabs/avia_header.php:499
 msgid "(Show example Screenshot)"
 msgstr "(Visualizza esempio Screenshot)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:504
+#: includes/admin/option_tabs/avia_header.php:506
 msgid ""
 "Upload a logo image, or enter the URL or ID of an image if its already "
 "uploaded. (Leave empty to use the default logo)"
@@ -32479,7 +32599,7 @@ msgstr ""
 "Carica una immagine del logo, o immettere la URL o ID di una immagine se già "
 "caricata. (Lasciare vuoto per usare il logo predefinito)"
 
-#: includes/admin/option_tabs/avia_header.php:507
+#: includes/admin/option_tabs/avia_header.php:509
 msgid ""
 "Same rules as described at &quot;Theme Options -&gt; Logo&quot;. If you want "
 "to mix svg and other image formats for the logos you might need to add "
@@ -32490,17 +32610,17 @@ msgstr ""
 "aggiungere css personalizzati."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:511
+#: includes/admin/option_tabs/avia_header.php:513
 msgid "Transparency Logo"
 msgstr "Trasparenza Logo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:520
+#: includes/admin/option_tabs/avia_header.php:522
 msgid "Transparency Menu Color"
 msgstr "Trasparenza colore menu"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:521
+#: includes/admin/option_tabs/avia_header.php:523
 msgid ""
 "Menu color for transparent header (Leave empty to use the default color)"
 msgstr ""
@@ -32508,12 +32628,12 @@ msgstr ""
 "colore predefinito)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:530
+#: includes/admin/option_tabs/avia_header.php:532
 msgid "Transparency Menu Color On Hover"
 msgstr "Trasparenza colore menu hover"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:531
+#: includes/admin/option_tabs/avia_header.php:533
 msgid ""
 "Menu color for transparent header on hover (Leave empty to use the default "
 "color)"
