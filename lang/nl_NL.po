@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 15:00+0200\n"
-"PO-Revision-Date: 2023-01-03 10:17+0000\n"
+"PO-Revision-Date: 2023-01-17 10:18+0000\n"
 "Last-Translator: Roger Hoen\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -292,7 +292,7 @@ msgstr "%s revisies"
 msgid "&laquo; All Events"
 msgstr "&laquo; Alle evenementen"
 
-#: comments.php:80 comments.php:135
+#: comments.php:79 comments.php:130
 msgid "&laquo; Older Comments"
 msgstr "&laquo; Oudere reacties"
 
@@ -575,7 +575,7 @@ msgstr "1 kolom"
 msgid "1 Column layout"
 msgstr "1-koloms lay-out"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:328
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:327
 msgid "1 Columns"
 msgstr "1 kolom"
 
@@ -630,7 +630,7 @@ msgstr "2"
 msgid "2 cells"
 msgstr "2 cellen"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:329
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:328
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:305
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:280
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:298
@@ -688,7 +688,7 @@ msgstr "3"
 msgid "3 cells"
 msgstr "3 cellen"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:330
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:329
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:306
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:281
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:299
@@ -733,7 +733,7 @@ msgstr "4"
 msgid "4 cells"
 msgstr "4 cellen"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:331
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:330
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:307
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:282
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:300
@@ -784,7 +784,7 @@ msgstr "5"
 msgid "5 cells"
 msgstr "5 cellen"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:332
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:331
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:308
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:283
 msgid "5 Columns"
@@ -1109,7 +1109,7 @@ msgstr "Een globale voorstelling van het hoofdmenu"
 msgid "A rough preview of the frontend."
 msgstr "Een globale voorstelling van de frontend"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:360
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:373
 #: includes/admin/option_tabs/avia_google.php:148
 msgid ""
 "A score of 1.0 is very likely a good interaction, 0.0 is very likely a bot. "
@@ -1647,7 +1647,7 @@ msgstr "Codeblok uitvoeren"
 msgid "Add custom css class"
 msgstr "Aangepaste CSS-klasse toevoegen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:694
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:707
 msgid "Add Description"
 msgstr "Beschrijving toevoegen"
 
@@ -2095,7 +2095,7 @@ msgstr "Alleen beheerders"
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:106
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:109
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:133
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:120
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:119
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:175
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:456
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:155
@@ -2955,11 +2955,11 @@ msgstr "Archief van:"
 msgid "Archives"
 msgstr "Archieven"
 
-#: template-archives.php:203
+#: template-archives.php:199
 msgid "Archives by Month:"
 msgstr "Archieven op maand:"
 
-#: template-archives.php:188
+#: template-archives.php:184
 msgid "Archives by Subject:"
 msgstr "Archieven op onderwerp:"
 
@@ -3245,23 +3245,23 @@ msgstr "Automatisch, gebaseerd op schermbreedte"
 msgid "Autoplay"
 msgstr "Automatisch afspelen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:440
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:453
 msgid "Autorespond Text"
 msgstr "Tekst automatisch antwoord "
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:449
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:462
 msgid "Autorespond Text After Form Labels"
 msgstr "Automatisch-antwoordtekst na formulier labels"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:411
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:424
 msgid "Autoresponder from email address"
 msgstr "Autoresponder 'Van' e-mailadres"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:420
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:433
 msgid "Autoresponder reply to email address"
 msgstr "E-mailadres van de autoresponder reply to"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:430
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:443
 msgid "Autoresponder Subject"
 msgstr "Onderwerp van automatisch antwoord "
 
@@ -3297,7 +3297,7 @@ msgstr ""
 msgid "Available Lists"
 msgstr "Beschikbare lijsten"
 
-#: template-archives.php:174
+#: template-archives.php:170
 msgid "Available Pages"
 msgstr "Beschikbare pagina's"
 
@@ -3317,7 +3317,7 @@ msgstr "Gemiddelde beoordeling"
 msgid "Avia Layout Builder"
 msgstr "Geavanceerde lay-out bewerker"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:463
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:476
 msgid "Backend"
 msgstr "Achterkant"
 
@@ -3723,7 +3723,7 @@ msgstr "Blok-editor"
 msgid "Block square"
 msgstr "Blok vierkant"
 
-#: index.php:12 single.php:12
+#: index.php:11 single.php:12
 msgid "Blog - Latest News"
 msgstr "Blog - laatste nieuws"
 
@@ -3773,7 +3773,7 @@ msgstr "Datum van blogbericht"
 msgid "Blog Post Tags"
 msgstr "Tags van blogbericht"
 
-#: template-archives.php:57 includes/loop-index.php:12
+#: template-archives.php:54 includes/loop-index.php:12
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:26
 msgid "Blog Posts"
 msgstr "Berichten"
@@ -4464,10 +4464,12 @@ msgstr "Rij knop element "
 msgid "Button Size"
 msgstr "Knopgrootte"
 
+#: functions-enfold.php:2129
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:467
 msgid "Button Style (Bordered)"
 msgstr "Knop-stijl (omkaderd)"
 
+#: functions-enfold.php:2128
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:466
 msgid "Button Style (Colored)"
 msgstr "Knop-stijl (gekleurd)"
@@ -4530,6 +4532,7 @@ msgstr "Knoppen"
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1409
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1411
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1096
 #: framework/php/legacy/class-framework-widgets.php:1825
 #: framework/php/widgets/widget-classes/class-avia-combo.php:505
 msgid "by"
@@ -4839,7 +4842,7 @@ msgstr "Catalogus"
 msgid "Catalogue Item"
 msgstr "Catalogus element"
 
-#: template-archives.php:183 includes/admin/register-portfolio.php:147
+#: template-archives.php:179 includes/admin/register-portfolio.php:147
 #: includes/admin/register-widget-area.php:124
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:512
 msgid "Categories"
@@ -4933,7 +4936,7 @@ msgstr "Tekst in midden-kolom "
 msgid "Center without Frame"
 msgstr "Gecentreerd zonder Kader"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:494
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:507
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:413
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:751
 #: includes/admin/option_tabs/avia_blog.php:396
@@ -5179,7 +5182,7 @@ msgstr "Wijzig de stijl van uw widget links"
 msgid "Change the styling of your widget title"
 msgstr "Wijzig de stijl van uw widget titel"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:748
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:761
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:583
 msgid ""
 "Change the width of your elements and let them appear beside each other "
@@ -5440,7 +5443,7 @@ msgstr ""
 "je slideshow afbeelding/video. De bediening van de videospeler is niet "
 "toegankelijk wanneer deze optie is ingeschakeld. "
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:675
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:688
 msgid "Check if you want to enable multiple answers"
 msgstr "Selecteer als u meerdere antwoorden wilt toestaan"
 
@@ -5460,7 +5463,7 @@ msgid ""
 "replaces theme support &quot;avia_rel_nofollow_for_links&quot;)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:478
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:491
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:444
 msgid ""
 "Check if you want to hide form labels above the form elements. The form will "
@@ -5552,7 +5555,7 @@ msgstr "Vink aan als u de video wilt dempen"
 msgid "Check if you want to mute the video."
 msgstr "Vink aan als u de video wilt dempen."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:685
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:698
 msgid "Check if you want to preselect the checkbox"
 msgstr "Vink aan als u het vinkvakje van tevoren wilt aanvinken"
 
@@ -6144,7 +6147,7 @@ msgid "Choose image size for Portfolio Grid Images"
 msgstr "Kies de omvang van portfolio-raster afbeeldingen"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:413
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:365
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:364
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:436
 msgid "Choose image size for Preview Image"
 msgstr "Kies grootte van voorbeeldafbeelding"
@@ -6319,7 +6322,7 @@ msgstr ""
 "Afbeeldingsformaat in raster handmatig bepalen (kies grootte thumbnail)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:407
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:359
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:358
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:430
 msgid "Choose the preview image size manually (select thumbnail size)"
 msgstr "Afmeting voorbeeldafbeelding zelf bepalen (kies formaat thumbnail)"
@@ -6950,8 +6953,8 @@ msgstr "Kolom sjabloon"
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:512
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:390
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:475
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:321
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:342
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:320
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:341
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:298
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:317
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:273
@@ -6987,7 +6990,7 @@ msgstr "Combo widget"
 
 #: includes/loop-author.php:159 includes/loop-index.php:463
 #: includes/loop-search.php:89
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1033
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1128
 msgid "Comment"
 msgstr "Reactie"
 
@@ -7000,13 +7003,13 @@ msgstr "Aantal reacties"
 #: includes/loop-index.php:462 includes/loop-index.php:464
 #: includes/loop-search.php:88 includes/loop-search.php:90
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:26
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1033
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1128
 #: framework/php/legacy/class-framework-widgets.php:1547
 #: framework/php/widgets/widget-classes/class-avia-combo.php:188
 msgid "Comments"
 msgstr "Reacties"
 
-#: comments.php:206
+#: comments.php:199
 msgid "Comments are closed."
 msgstr "Reacties zijn gesloten."
 
@@ -7023,7 +7026,7 @@ msgstr "Reageren is uitgeschakeld"
 msgid "Comments Off"
 msgstr "Commentaren uitgeschakeld"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:353
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:366
 msgid "Compact"
 msgstr "Compact"
 
@@ -7053,7 +7056,7 @@ msgstr ""
 msgid "Contact Form"
 msgstr "Contactformulier"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:315
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:328
 msgid "Contact Form Captcha"
 msgstr "Contactformulier Captcha"
 
@@ -7110,7 +7113,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:631
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:76
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:78
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:562
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:575
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:105
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:512
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:157
@@ -7151,8 +7154,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:71
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:88
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:106
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:76
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:306
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:75
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:305
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:135
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:440
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:111
@@ -7259,7 +7262,7 @@ msgstr "Inhoud kleur"
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:25
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:36
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:72
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:30
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:29
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:88
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:66
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:24
@@ -8166,7 +8169,7 @@ msgstr "Aangepaste hover achtergrondkleur"
 msgid "Custom Hover Font Color"
 msgstr "Aangepaste hover tekstkleur"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:647
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:660
 msgid "Custom HTML: Add a Description"
 msgstr "Aangepaste HTML: Beschrijving"
 
@@ -8342,7 +8345,7 @@ msgstr "Aangepast widget gebied"
 msgid "Customize"
 msgstr "Aanpassen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:339
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:352
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:487
 msgid "Dark"
 msgstr "Donker"
@@ -8351,7 +8354,7 @@ msgstr "Donker"
 msgid "Dark Transparent"
 msgstr "Donker transparant"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:508
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:521
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:438
 msgid "Dark transparent"
 msgstr "Donker transparant"
@@ -8419,7 +8422,7 @@ msgstr "Deactiveer maar laat plug-inbestanden in themamap staan"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:338
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:392
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:260
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:259
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:269
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:243
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:261
@@ -8450,9 +8453,9 @@ msgstr "Deeplink tekst"
 #: includes/admin/register-admin-option-values.php:73
 #: includes/admin/register-admin-option-values.php:146
 #: includes/admin/register-backend-advanced-styles.php:524
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:365
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:493
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:378
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:506
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:519
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:358
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:398
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:449
@@ -8663,6 +8666,7 @@ msgstr ""
 msgid "Default Size"
 msgstr "Standaard grootte"
 
+#: functions-enfold.php:2127
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:203
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:465
 msgid "Default Style"
@@ -8681,8 +8685,8 @@ msgstr "Standaard met slagschaduw"
 msgid "Default without buttons"
 msgstr "Standaard zonder knoppen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:384
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:412
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:397
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:425
 msgid "Default:"
 msgstr "Standaard:"
 
@@ -9519,7 +9523,7 @@ msgstr ""
 "Toon een diavoorstelling van uitgelichte afbeeldingen van verschillende "
 "berichten"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:35
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:34
 msgid "Display a Slideshow of Post Entries"
 msgstr "Toon een diavoorstelling van berichten"
 
@@ -9646,7 +9650,7 @@ msgstr "Toon items van aangepaste taxonomie/type"
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:233
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:264
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:229
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:201
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:200
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:258
 msgid "Display Entries from:"
 msgstr "Toon artikelen van:"
@@ -9674,6 +9678,10 @@ msgstr "Samenvatting en titel onder de preview-afbeelding tonen?"
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:366
 msgid "Display Excerpt?"
 msgstr "Samenvatting tonen?"
+
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:285
+msgid "Display fields with error"
+msgstr ""
 
 #: includes/admin/option_tabs/avia_shop.php:22
 msgid ""
@@ -9724,7 +9732,7 @@ msgid ""
 msgstr ""
 "Toon afbeeldingen als een galerij, als een diavoorstelling, of in een lijst"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:732
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:745
 msgid "Display in frontend only"
 msgstr "Toon enkel in frontend"
 
@@ -10155,7 +10163,7 @@ msgstr "Slepen niet toestaan"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:338
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:392
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:260
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:259
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:269
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:243
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:261
@@ -10426,7 +10434,7 @@ msgstr "Wilt u de logo's tonen als een raster of als een diavoorstelling?"
 msgid "documentation"
 msgstr "documentatie"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:322
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:335
 msgid "Don't display Captcha"
 msgstr "Toon geen Captcha"
 
@@ -10600,7 +10608,7 @@ msgstr "E-mail"
 msgid "E-Mail could not be accessed (needed for your information only)"
 msgstr "E-mail was niet toegankelijk (alleen nodig voor uw informatie)"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:402
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:415
 msgid "E-Mail Subject"
 msgstr "E-mail onderwerp"
 
@@ -11055,8 +11063,8 @@ msgstr ""
 msgid "Elegant"
 msgstr "Elegant"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:794
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:799
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:807
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:812
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1586
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1595
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:732
@@ -11400,7 +11408,7 @@ msgstr ""
 "Voer een aangepaste naam in voor dit element. Minimaal 4 tekens en beperkt "
 "tot 30 tekens. Toegestane tekens zijn spatie, a-zA-Z0-9-_/"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:431
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:444
 msgid ""
 "Enter a custom subject text to the autoresponder email. Leave blank to use a "
 "default message."
@@ -11453,7 +11461,7 @@ msgstr "Voer een labeltekst in voor de knop"
 msgid "Enter a link title"
 msgstr "Voer een linktitel in"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:441
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:454
 msgid ""
 "Enter a message that will be sent to the users email address once he has "
 "submitted the form."
@@ -11589,7 +11597,7 @@ msgstr "Geef adres in, haal vervolgens coördinaten op"
 msgid "Enter an additional description"
 msgstr "Voeg aanvullende omschrijving toe"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:450
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:463
 msgid "Enter an additional message that will be added after the form labels."
 msgstr ""
 "Voer een extra bericht in dat wordt toegevoegd na de labels van het "
@@ -11629,7 +11637,7 @@ msgstr ""
 "is ingeschakeld kan de gebruiker de zichtbare toggles filteren met behulp "
 "van deze tags"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:623
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:636
 msgid ""
 "Enter any number of options that the visitor can choose from. Separate these "
 "Options with a comma."
@@ -11671,7 +11679,7 @@ msgstr ""
 "Voer een of meer attribute-waarden in, die moeten worden toegepast op het "
 "wrapper-element. Laat leeg als er geen attributes nodig zijn."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:384
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:397
 msgid ""
 "Enter one or more Email addresses (separated by comma) where mails should be "
 "delivered to."
@@ -11679,7 +11687,7 @@ msgstr ""
 "Vul een of meerdere mailadressen in (gescheiden door komma's) waarheen de "
 "mails te verzenden."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:421
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:434
 msgid ""
 "Enter one or more reply to Email addresses (separated by comma) for the "
 "autoresponder mail. Leave blank if not needed."
@@ -11832,7 +11840,7 @@ msgstr ""
 msgid "Enter the font size in px, em or &percnt;"
 msgstr "Voer lettergrootte in in px, em of &percnt;"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:412
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:425
 msgid "Enter the from email address for the autoresponder."
 msgstr "Vul het 'Van' e-mailadres in voor de autoresponder."
 
@@ -12147,7 +12155,7 @@ msgstr "Vul hier uw beschrijving in"
 msgid "Enter your feed url:"
 msgstr "Voer uw feed URL in:"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:394
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:407
 #, php-format
 msgid ""
 "Enter your from address for the form - if left blank it will default to user "
@@ -12160,7 +12168,7 @@ msgstr ""
 msgid "Enter your password to view comments"
 msgstr "Voer uw wachtwoord in om commentaren te bekijken"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:221
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:220
 msgid "Entries"
 msgstr "Inzendingen"
 
@@ -12173,7 +12181,7 @@ msgid "Entry based Slider"
 msgstr "Diavoorstelling van items, artikelen"
 
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:208
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:244
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:243
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:253
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:314
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:320
@@ -12381,7 +12389,7 @@ msgstr "Evenementen"
 msgid "Events Countdown"
 msgstr "Evenementen Countdown"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:625
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:638
 msgid "Example: Option 1, Option 2, Option 3"
 msgstr "Voorbeeld: Optie 1, Optie 2, Optie 3"
 
@@ -12395,7 +12403,7 @@ msgstr "Samenvatting"
 msgid "Excerpt (= Tooltip)"
 msgstr "Samenvatting (= tooltip)"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:295
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:294
 msgid "Excerpt and Read More Link"
 msgstr "Samenvatting en lees meer link"
 
@@ -12609,7 +12617,7 @@ msgstr "Uitgelicht Groot"
 msgid "Featured Thin"
 msgstr "Uitgelicht Subtiel"
 
-#: comments.php:180
+#: comments.php:174
 msgid "Feel free to contribute!"
 msgstr "Draag gerust bij!"
 
@@ -12721,7 +12729,7 @@ msgstr "Filter de aangepaste element shortcode knoppen voor bewerking"
 msgid "Filter was replaced by theme option"
 msgstr "Filter werd vervangen door thema optie"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:274
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:273
 msgid "Filters"
 msgstr "Filters"
 
@@ -13216,7 +13224,7 @@ msgstr "Volledige breedte forceren"
 msgid "Force same size for all big preview images?"
 msgstr "Alle preview-afbeeldingen dezelfde grootte maken?"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:499
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:512
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:430
 msgid "Form Color Scheme"
 msgstr "Kleurenschema formulier"
@@ -13247,45 +13255,45 @@ msgstr ""
 msgid "Form Element hidden"
 msgstr "Formulier Element verborgen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:654
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:667
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:564
 msgid "Form Element Label"
 msgstr "Label Formulier Element"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:664
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:677
 msgid "Form Element Options"
 msgstr "Opties Formulier Element"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:635
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:648
 msgid "Form Element Type"
 msgstr "Type Formulier Element"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:703
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:716
 msgid "Form Element Validation"
 msgstr "Validatie Formulier Element"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:747
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:760
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:582
 msgid "Form Element Width"
 msgstr "Breedte Formulier Element"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:645
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:658
 msgid "Form Element: Checkbox"
 msgstr "Formulier-Element: Checkbox"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:646
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:659
 msgid "Form Element: Datepicker"
 msgstr "Formulier-Element: Datumkiezer"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:644
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:657
 msgid "Form Element: Select Element"
 msgstr "Formulier-Element: Selectieknop"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:643
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:656
 msgid "Form Element: Text Area"
 msgstr "Formulier-Element: Tekstblok"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:642
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:655
 msgid "Form Element: Text Input"
 msgstr "Formulier-Element: Tekstregel"
 
@@ -13317,7 +13325,7 @@ msgstr "Kader breedte"
 msgid "Front Page"
 msgstr "Voorpagina"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:306
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:319
 msgid "Frontend"
 msgstr "Voorkant"
 
@@ -13373,7 +13381,7 @@ msgstr "Diavoorstelling volledig-scherm"
 msgid "Fullscreen Slider Item"
 msgstr "Volledig scherm diavoorstelling element"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:755
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:768
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:588
 msgid "Fullwidth"
 msgstr "Volledige breedte"
@@ -14045,7 +14053,7 @@ msgstr "Modern, zonder lijn (links)"
 msgid "Heading Style Modern (right)"
 msgstr "Modern, zonder lijn (rechts)"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:536
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:549
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:486
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:624
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:526
@@ -14073,7 +14081,7 @@ msgstr "Titel tagtype (standaard van het thema is &lt;%s&gt;)"
 msgid "Heading Text"
 msgstr "Koptekst"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:765
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:778
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:186
 msgid "Heading Type"
 msgstr "Soort kop"
@@ -14625,7 +14633,7 @@ msgstr "Verberg lege Cellen"
 msgid "Hide featured products"
 msgstr "Verberg uitgelichte producten"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:477
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:490
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:443
 msgid "Hide Form Labels"
 msgstr "Verberg formulierlabels"
@@ -14950,7 +14958,7 @@ msgstr "Hoeveel kolommen wilt u gebruiken"
 msgid "How many columns should be displayed in your footer"
 msgstr "Hoeveel kolommen moeten er getoond worden in uw footer"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:322
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:321
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:299
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:274
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:291
@@ -14988,7 +14996,7 @@ msgid "How many items should be displayed per page?"
 msgstr "Hoeveel items moeten er worden getoond per pagina?"
 
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:209
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:245
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:244
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:254
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:315
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:321
@@ -15452,7 +15460,7 @@ msgstr ""
 msgid "If left empty 16:9 will be used"
 msgstr "Bij niets invullen wordt 16:9 gebruikt"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:441
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:454
 msgid "If left empty no auto-response will be sent."
 msgstr "Wanneer leeggelaten zal er geen automatisch bericht worden verstuurd."
 
@@ -16706,7 +16714,7 @@ msgstr "Omkeren"
 msgid "is available!"
 msgstr "is beschikbaar!"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:712
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:725
 msgid "Is not empty"
 msgstr "Is niet leeg"
 
@@ -16906,7 +16914,7 @@ msgstr "Kriesi"
 msgid "Label Text"
 msgstr "Knoptekst"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:486
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:499
 msgid "Label/Send Button alignment"
 msgstr "Uitlijning van labels/verzendknop"
 
@@ -17214,7 +17222,7 @@ msgstr "Lees meer over aangepaste elementen in de"
 msgid "Learn more about our privacy policy"
 msgstr "Lees meer over ons privacy beleid"
 
-#: comments.php:179
+#: comments.php:173
 msgid "Leave a Reply"
 msgstr "Plaats een Reactie"
 
@@ -17395,7 +17403,7 @@ msgid "Letter Spacing"
 msgstr "Letterspatiëring"
 
 #: includes/admin/register-admin-option-values.php:23
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:338
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:351
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:486
 msgid "Light"
 msgstr "Licht"
@@ -17404,7 +17412,7 @@ msgstr "Licht"
 msgid "Light Transparent"
 msgstr "Licht Transparant"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:507
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:520
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:437
 msgid "Light transparent"
 msgstr "Licht transparant"
@@ -17950,9 +17958,6 @@ msgid "Main Menu"
 msgstr "Hoofdmenu"
 
 #: includes/admin/register-backend-advanced-styles.php:452
-msgid "Main Menu (Icon )"
-msgstr "Hoofdmenu (Pictogram)"
-
 #: includes/admin/option_tabs/avia_customizer.php:29
 msgid "Main Menu (Icon)"
 msgstr "Hoofdmenu (Icoon)"
@@ -18341,6 +18346,10 @@ msgstr "Stijl van menu overlay"
 msgid "Menu Position"
 msgstr "Positie van menu"
 
+#: functions-enfold.php:2125
+msgid "Menu Style"
+msgstr ""
+
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:440
 msgid "Menu Text"
 msgstr "Menutekst"
@@ -18693,7 +18702,7 @@ msgstr "Wijzig de kleur van het kader door de body achtergrond te wijzigen in"
 msgid "Month"
 msgstr "Maand"
 
-#: template-archives.php:198
+#: template-archives.php:194
 msgid "Monthly"
 msgstr "Maandelijks"
 
@@ -18789,7 +18798,7 @@ msgstr ""
 "Bericht met meerdere auteurs (toont naast het artikel de auteur-Gravatar en "
 "erboven de uitgelichte afbeeldingen)"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:674
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:687
 msgid "Multiple answers"
 msgstr "Meerdere antwoorden"
 
@@ -18887,7 +18896,7 @@ msgstr "Navigatie besturing kleuren"
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:295
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:330
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:334
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:402
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:401
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:347
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:328
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:392
@@ -18962,7 +18971,7 @@ msgid "New ALB Custom Element"
 msgstr "Nieuw ALB aangepast element"
 
 #: framework/php/class-form-generator.php:1175
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:403
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:416
 msgid "New Message"
 msgstr "Nieuw bericht"
 
@@ -18983,7 +18992,7 @@ msgstr "Nieuw venster (_blank)"
 msgid "New window or tab"
 msgstr "Nieuw window of tab"
 
-#: comments.php:83 comments.php:138
+#: comments.php:82 comments.php:133
 msgid "Newer Comments &raquo;"
 msgstr "Nieuwe reacties &raquo;"
 
@@ -19031,6 +19040,7 @@ msgstr "Volgende update: %s"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:803
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:843
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:883
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:292
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:257
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:355
 #: config-templatebuilder/avia-shortcodes/image/image.php:235
@@ -19465,7 +19475,7 @@ msgstr "Geen tijd meer beschikbaar"
 msgid "No Title and no excerpt"
 msgstr "Geen titel of samenvatting"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:296
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:295
 msgid "No Title, no Excerpt"
 msgstr "Geen titel, geen samenvatting"
 
@@ -19484,7 +19494,7 @@ msgstr ""
 "Er zijn geen updates beschikbaar. U maakt al gebruik van de laatste versie! "
 "(%s)"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:711
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:724
 msgid "No Validation"
 msgstr "Geen validatie"
 
@@ -19574,7 +19584,7 @@ msgid "none"
 msgstr "geen"
 
 #: includes/admin/register-admin-option-values.php:21
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:352
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:365
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:263
 msgid "Normal"
 msgstr "Normaal"
@@ -19619,7 +19629,7 @@ msgstr "Noot"
 msgid "Note:"
 msgstr "Let op:"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:627
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:640
 msgid ""
 "Note: If you want to use a comma in the option text you have to write 2 "
 "comma."
@@ -19628,7 +19638,7 @@ msgstr ""
 "gebruiken."
 
 #: includes/error404.php:5 includes/loop-author.php:255
-#: includes/loop-index.php:613 includes/loop-page.php:90
+#: includes/loop-index.php:635 includes/loop-page.php:90
 #: includes/loop-portfolio-single.php:83 includes/loop-search.php:218
 msgid "Nothing Found"
 msgstr "Niets gevonden"
@@ -19770,7 +19780,7 @@ msgstr "Getallen kleur"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:332
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:385
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:254
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:253
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:263
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:237
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:255
@@ -19786,6 +19796,11 @@ msgstr "Offset X-as"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:534
 msgid "Offset Y-axis"
 msgstr "Offset Y-as"
+
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:286
+msgid ""
+"On error, show a message box containing the labels of the invalid fields"
+msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:503
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:359
@@ -19862,7 +19877,7 @@ msgstr ""
 msgid "Only display on hover"
 msgstr "Toon enkel bij muis-over"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:294
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:293
 msgid "Only Excerpt"
 msgstr "Enkel samenvatting"
 
@@ -19915,7 +19930,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:284
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:354
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:292
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:291
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:257
 msgid "Only Title"
 msgstr "Alleen titel"
@@ -20218,11 +20233,11 @@ msgstr "OSM markering item"
 msgid "Other cookies"
 msgstr "Andere cookies"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:649
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:662
 msgid "Other Element: Empty Line"
 msgstr "Ander element: lege regel"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:648
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:661
 msgid "Other Element: Seperator Headline"
 msgstr "Ander element: Scheidingslijn"
 
@@ -20397,11 +20412,11 @@ msgstr "Pagina overgangen"
 msgid "Page/Post ID"
 msgstr "Pagina/Post ID"
 
-#: template-archives.php:169 includes/admin/register-widget-area.php:135
+#: template-archives.php:165 includes/admin/register-widget-area.php:135
 msgid "Pages"
 msgstr "Pagina's"
 
-#: template-builder.php:108 includes/loop-index.php:555
+#: template-builder.php:108 includes/loop-index.php:577
 #: includes/loop-portfolio-single.php:40
 msgid "Pages:"
 msgstr "Pagina's:"
@@ -20834,7 +20849,7 @@ msgid "Please note: Images within the tooltip are currently not supported"
 msgstr ""
 "Let op: afbeeldingen binnen de tooltip worden momenteel niet ondersteund"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:962
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:981
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:764
 msgid "Please prove that you are human by solving the equation"
 msgstr ""
@@ -20943,7 +20958,7 @@ msgstr "Populariteit"
 msgid "Popularity (sales)"
 msgstr "Populariteit (verkopen)"
 
-#: functions.php:262 template-archives.php:155
+#: functions.php:262 template-archives.php:154
 msgid "Portfolio"
 msgstr "Portfolio"
 
@@ -21059,7 +21074,7 @@ msgstr "Metagegevens"
 msgid "Post Number"
 msgstr "Aantal items"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:29
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:28
 msgid "Post Slider"
 msgstr "Diavoorstelling van berichten"
 
@@ -21099,6 +21114,11 @@ msgstr "Postcode"
 msgid "Postcode:"
 msgstr "Postcode:"
 
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1092
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:155
 msgid "Predefined Separators"
 msgstr "Voorgedefinieerde verdelers"
@@ -21116,7 +21136,7 @@ msgstr "Statische tekst vooraf"
 msgid "Preprocessing Shortcodes In Header"
 msgstr "Shortcodes in header verwerken"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:684
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:697
 msgid "Preselect checkbox"
 msgstr "Selectievakje vooraf selecteren"
 
@@ -21147,7 +21167,7 @@ msgstr "Vorige"
 msgid "Preview"
 msgstr "Voorbeeld"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:379
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:378
 msgid "Preview Image"
 msgstr "Voorbeeld afbeelding"
 
@@ -21157,7 +21177,7 @@ msgid "Preview image for: %s"
 msgstr "Voorbeeldafbeelding voor: %s"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:398
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:351
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:350
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:422
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:451
 msgid "Preview Image Size"
@@ -21192,7 +21212,7 @@ msgstr "Rij prijsstelling"
 msgid "Primary Color"
 msgstr "Primaire kleur"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:733
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:746
 msgid "Print in e-mail only"
 msgstr "Alleen afdrukken in e-mail"
 
@@ -21462,19 +21482,19 @@ msgid "Random"
 msgstr "Willekeurig"
 
 #: includes/loop-index.php:133 includes/loop-index.php:134
-#: includes/loop-index.php:525 includes/loop-index.php:541
+#: includes/loop-index.php:547 includes/loop-index.php:563
 #: includes/loop-page.php:34 includes/loop-portfolio-single.php:34
 #: framework/php/function-set-avia-frontend.php:1846
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:830
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:850
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1224
 msgid "Read more"
 msgstr "Lees meer"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:330
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:343
 msgid "reCAPTCHA V2 theme color"
 msgstr "reCAPTCHA V2 thema kleur"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:344
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:357
 msgid "reCAPTCHA V2 theme size"
 msgstr "reCAPTCHA V2 thema omvang"
 
@@ -21561,7 +21581,7 @@ msgstr "Reddit link"
 msgid "Reddit Profile Link"
 msgstr "Reddit profiellink"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:285
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:298
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:406
 msgid "Redirect"
 msgstr "Redirect"
@@ -21747,11 +21767,11 @@ msgstr ""
 msgid "Repeat"
 msgstr "Herhaal"
 
-#: comments.php:53
+#: comments.php:52
 msgid "replies"
 msgstr "antwoorden"
 
-#: comments.php:54
+#: comments.php:55
 msgid "reply"
 msgstr "antwoord"
 
@@ -22464,7 +22484,7 @@ msgstr "Stijl van de bovenrand"
 msgid "Section Top Shadow"
 msgstr "Sectie Top Schaduw"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:374
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:387
 msgid "Security"
 msgstr "Beveiliging"
 
@@ -23443,7 +23463,7 @@ msgstr "Selecteer hier de tekstkleur voor de overlay"
 msgid "Select a font or icon color for the button"
 msgstr "Selecteer een tekst- of icoonkleur voor de knop"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:500
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:513
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:431
 msgid "Select a form color scheme here"
 msgstr "Formulier kleurenschema kiezen"
@@ -23541,7 +23561,7 @@ msgid ""
 msgstr ""
 "Kies hier een schaduwkleur voor dit element. Leeg laten voor standaard kleur"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:345
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:358
 msgid "Select a size for this contact form widget"
 msgstr "Selecteer een grootte voor dit contactformulier widget"
 
@@ -23560,7 +23580,7 @@ msgstr ""
 msgid "Select a style"
 msgstr "Selecteer een stijl"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:331
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:344
 msgid "Select a theme color for this contact form widget"
 msgstr "Selecteer een thema kleur voor dit contactformulier widget"
 
@@ -23706,7 +23726,7 @@ msgid "Select custom image size"
 msgstr "Kies aangepaste omvang afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:412
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:364
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:363
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:435
 msgid "Select custom preview image size"
 msgstr "Kies aangepaste grootte voorbeeldafbeeldingen"
@@ -23808,7 +23828,7 @@ msgstr ""
 "tussen de cellen en de horizontale randen wordt toegewezen. Meerdere lijnen "
 "worden ondersteund."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:487
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:500
 msgid "Select how to align the form labels and the send button"
 msgstr "Selecteer hoe de formulierlabels en de verzendknop uitgelijnd worden"
 
@@ -24158,7 +24178,7 @@ msgstr "Kies een voorgedefinieerd patroon"
 msgid "Select Score For Human"
 msgstr "Selecteer score voor mens"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:358
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:371
 msgid "Select score for human"
 msgstr "Selecteer score voor mens"
 
@@ -24973,7 +24993,7 @@ msgstr "Selecteer video"
 msgid "Select what content you want to display."
 msgstr "Selecteer welke inhoud u wilt tonen"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:284
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:283
 msgid "Select what information you want to display"
 msgstr "Selecteer welke informatie u wilt weergeven"
 
@@ -25022,7 +25042,7 @@ msgstr "Selecteer waarnaar deze kolom moet linken"
 msgid "Select where to display the tooltip in relation to the hotspot"
 msgstr "Kies waar het tekstkadertje te tonen t.o.v. de hotspot"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:724
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:737
 msgid "Select where you want to use the element"
 msgstr "Selecteer waar u het element wilt gebruiken"
 
@@ -25030,7 +25050,7 @@ msgstr "Selecteer waar u het element wilt gebruiken"
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:226
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:257
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:222
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:194
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:193
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:222
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:205
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:211
@@ -25049,7 +25069,7 @@ msgstr ""
 "selecteren. Als er geen zijn geselecteerd, worden alle gebeurtenissen "
 "weergegeven."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:766
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:779
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:187
 msgid "Select which kind of heading you want to display."
 msgstr "Selecteer welke soort kop u wilt tonen"
@@ -25194,7 +25214,7 @@ msgid "Send an E-Mail to: "
 msgstr "Stuur een E-mail naar:"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:214
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:837
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:851
 msgid "Send us mail"
 msgstr "Mail ons"
 
@@ -25203,7 +25223,7 @@ msgid "Sending"
 msgstr "Verzenden"
 
 #: framework/php/class-form-generator.php:1175
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:403
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:416
 msgid "sent by contact form at"
 msgstr "Verstuurd via contactformulier op"
 
@@ -25414,7 +25434,7 @@ msgid "Set Cell Size"
 msgstr "Celformaat instellen"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:415
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:294
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:307
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:414
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:416
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:826
@@ -25546,7 +25566,7 @@ msgid "Set the image size of the Portfolio Grid images"
 msgstr "Stel het afbeeldingsformaat van portfolio-raster afbeeldingen in"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:399
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:352
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:351
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:423
 msgid "Set the image size of the preview images"
 msgstr "Stel de grootte in van voorbeeldafbeeldingen"
@@ -25679,7 +25699,7 @@ msgstr ""
 "Afmeting voorbeeldafbeelding automatisch aangepast aan lay-out of "
 "kolombreedte"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:358
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:357
 msgid "Set the preview image size automatically based on column width"
 msgstr "Laat grootte van preview-afbeelding bepalen door kolombreedte"
 
@@ -26487,7 +26507,7 @@ msgid "Single Color"
 msgstr "Enkele kleur"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:416
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:295
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:308
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:415
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:117
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:419
@@ -26633,7 +26653,7 @@ msgid "Slide Caption"
 msgstr "Dia bijschrift"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:591
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:283
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:282
 msgid "Slide Content"
 msgstr "Dia inhoud"
 
@@ -26669,7 +26689,7 @@ msgid "Slider"
 msgstr "Diavoorstelling"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:522
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:443
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:442
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:400
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:395
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:546
@@ -27066,7 +27086,7 @@ msgstr ""
 "te zien."
 
 #: functions-enfold.php:361 includes/loop-author.php:258
-#: includes/loop-index.php:617
+#: includes/loop-index.php:639
 msgid "Sorry, no posts matched your criteria"
 msgstr "Uw zoekopdracht leverde helaas geen artikelen op"
 
@@ -27437,7 +27457,7 @@ msgstr "Stijl"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:651
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:259
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:100
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:578
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:591
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:122
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:172
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:163
@@ -27476,7 +27496,7 @@ msgstr "Stijl"
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:83
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:86
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:111
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:98
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:97
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:152
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:132
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:123
@@ -27546,7 +27566,7 @@ msgid "Subject"
 msgstr "Onderwerp"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:257
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:823
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:836
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:665
 msgid "Submit"
 msgstr "Verzenden"
@@ -27782,8 +27802,10 @@ msgstr "Tag cloud"
 msgid "Tags"
 msgstr "Tags"
 
-#: includes/loop-index.php:569 includes/loop-portfolio-single.php:50
+#: includes/loop-index.php:526 includes/loop-index.php:591
+#: includes/loop-portfolio-single.php:50
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1470
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1155
 msgid "Tags:"
 msgstr "Tags:"
 
@@ -28068,7 +28090,7 @@ msgstr ""
 msgid "Thank you for subscribing to our newsletter!"
 msgstr "Bedankt voor het abonneren op onze nieuwsbrief!"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:876
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:890
 msgid "Thank you for your Message!"
 msgstr "Bedankt voor uw bericht!"
 
@@ -28076,11 +28098,11 @@ msgstr "Bedankt voor uw bericht!"
 msgid "The 'Default Font' can't be deleted."
 msgstr "Het 'Standaard lettertype' kan niet worden verwijderd."
 
-#: template-archives.php:65
+#: template-archives.php:62
 msgid "The 20 latest Blog Posts"
 msgstr "De 20 meest recente blog posts"
 
-#: template-archives.php:101
+#: template-archives.php:99
 msgid "The 8 latest Portfolio Entries"
 msgstr "De 8 meest recente portfolio items"
 
@@ -28350,7 +28372,7 @@ msgstr ""
 "als u een bepaald aantal berichten wilt verwijderen, omdat u deze al met een "
 "ander element opvraagt."
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:255
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:254
 msgid ""
 "The offset determines where the query begins pulling posts. Useful if you "
 "want to remove a certain number of posts because you already query them with "
@@ -29019,7 +29041,7 @@ msgstr ""
 "Deze pagina is ingesteld als de standaard WooCommerce Shop Overview en kan "
 "daarom de Enfold Geavanceerde Layout Editor niet ondersteunen"
 
-#: comments.php:20
+#: comments.php:19
 msgid ""
 "This post is password protected. Enter the password to view any comments."
 msgstr ""
@@ -29203,7 +29225,7 @@ msgstr "Titel 3"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:282
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:353
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:290
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:289
 msgid "Title and Excerpt"
 msgstr "Titel en samenvatting"
 
@@ -29211,7 +29233,7 @@ msgstr "Titel en samenvatting"
 msgid "Title and Excerpt + Read More Link"
 msgstr "Titel, samenvatting en Lees meer-link"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:293
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:292
 msgid "Title and Read More Link"
 msgstr "Titel en Lees meer link"
 
@@ -29278,7 +29300,7 @@ msgstr "Titel tekstkleur"
 msgid "Title will be changed to:"
 msgstr "Titel zal worden veranderd in:"
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:291
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:290
 msgid "Title, Excerpt and Read More Link"
 msgstr "Titel, samenvatting en Lees meer link"
 
@@ -29457,7 +29479,7 @@ msgstr ""
 "Om gebruik te maken van de cookie-logica zonder een berichtenbalk te tonen, "
 "gelieve onze documentatie te raadplegen:"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:286
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:299
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:407
 msgid "To which page do you want the user send to?"
 msgstr "Naar welke pagina wilt u de gebruiker sturen?"
@@ -29670,7 +29692,7 @@ msgstr "Boven-Rechts-Radiaal"
 msgid "Touch Zoom"
 msgstr "Zoom via aanraken"
 
-#: comments.php:114
+#: comments.php:113
 msgid "Trackbacks &amp; Pingbacks"
 msgstr "Trackbacks &amp; Pingbacks"
 
@@ -30253,7 +30275,7 @@ msgstr "Gebruik de blok-editor"
 msgid "Use Block Editor Default Styles"
 msgstr "Gebruik blok-editor standaardstijlen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:731
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:744
 msgid "Use both frontend and e-mail"
 msgstr "Gebruik zowel frontend als e-mail"
 
@@ -30663,7 +30685,7 @@ msgstr "Gebruik Enfold standaard instellingen"
 msgid "Use Enfold default settings (recommended)"
 msgstr "Gebruik Enfold standaardinstellingen (aanbevolen)"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:323
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:336
 msgid "Use Enfold Numeric Captcha"
 msgstr "Gebruik Enfold numerieke captcha"
 
@@ -30685,11 +30707,11 @@ msgstr "Toon overal het bijschrift van de eerste dia"
 msgid "Use Google Maps"
 msgstr "Google Maps inschakelen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:324
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:337
 msgid "Use Google reCAPTCHA V2 if activated"
 msgstr "Gebruik Google reCAPTCHA V2 indien geactiveerd"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:325
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:338
 msgid "Use Google reCAPTCHA V3 if activated (fallback is V2)"
 msgstr "Gebruik Google reCAPTCHA V3 indien geactiveerd (V2 is reserve)"
 
@@ -30853,7 +30875,7 @@ msgstr "Gebruik thema standaard (3 kolommen)"
 msgid "Use theme setting for responsive images"
 msgstr "Gebruik thema-instellingen voor responsieve afbeeldingen"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:723
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:736
 msgid "Use This Element"
 msgstr "Gebruik dit element"
 
@@ -31010,27 +31032,27 @@ msgstr ""
 "Geldige sleepgebieden worden gemarkeerd. Volledige-breedte elementen en "
 "content-secties kunnen niet in ander element worden geplaatst."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:713
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:726
 msgid "Valid E-Mail address"
 msgstr "Geldig e-mailadres"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:714
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:727
 msgid "Valid E-Mail address with German Umlaut"
 msgstr "Geldig e-mailadres met Duitse Umlaut"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:715
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:728
 msgid "Valid E-Mail address, extended characterset"
 msgstr "Geldig e-mailadres, uitgebreide tekenset"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:717
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:730
 msgid "Valid Number"
 msgstr "Geldig nummer"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:716
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:729
 msgid "Valid Phone Number"
 msgstr "Geldig telefoonnummer"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:718
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:731
 #| msgid "Valid Positiv Number including 0"
 msgid "Valid Positive Number including 0"
 msgstr "Geldig positief getal inclusief 0"
@@ -31248,7 +31270,7 @@ msgstr ""
 msgid "Wait for user interaction to load the video"
 msgstr "Wacht op gebruikersinteractie om de video te laden"
 
-#: comments.php:180
+#: comments.php:174
 msgid "Want to join the discussion?"
 msgstr "Meepraten?"
 
@@ -31707,7 +31729,7 @@ msgstr ""
 "\n"
 "Weet u zeker dat u wilt doorgaan?"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:630
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:643
 msgid ""
 "When selecting &quot;Valid E-Mail address with German Umlaut&quot; or &quot;"
 "Valid E-Mail address, extended characterset&quot; keep in mind, that not all "
@@ -31855,7 +31877,7 @@ msgstr "Welke categorieën moeten worden gebruikt voor het portfolio?"
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:225
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:256
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:221
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:193
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:192
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:221
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:204
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:210
@@ -32223,6 +32245,7 @@ msgstr "Yelp delen link"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:802
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:842
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:884
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:293
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:256
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:356
 #: config-templatebuilder/avia-shortcodes/image/image.php:250
@@ -32511,7 +32534,7 @@ msgstr ""
 msgid "You can create new menus in "
 msgstr "U kunt nieuwe menu's creëren in "
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:403
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:416
 msgid ""
 "You can define a custom Email Subject for your form here. If left empty the "
 "subject will be"
@@ -32784,11 +32807,11 @@ msgstr "Uw reactie is in afwachting op moderatie."
 msgid "Your E-Mail: "
 msgstr "Uw E-mail:&nbsp;"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:383
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:396
 msgid "Your email address"
 msgstr "Uw e-mailadres"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:393
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:406
 msgid "Your from address"
 msgstr "Uw 'van' adres"
 
@@ -32802,7 +32825,7 @@ msgstr ""
 "account op het &quot;Configure&quot; tabblad van de plugin."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:279
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:836
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:850
 msgid "Your message has been sent!"
 msgstr "Uw bericht is verstuurd!"
 

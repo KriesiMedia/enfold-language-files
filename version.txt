@@ -1,3 +1,7 @@
+2023-01-17
+- Croatian language files hr (version 5.4-dev-1, provided by NUIT d.o.o. - info@nuit.hr)
+- sync all language files (5.4-dev-2)
+
 2023-01-03
 - Croatian language files hr (version 5.4-dev-0, provided by NUIT d.o.o. - info@nuit.hr)
 - sync all language files (5.4-dev-1)
