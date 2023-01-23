@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 15:00+0200\n"
-"PO-Revision-Date: 2023-01-17 10:18+0000\n"
+"PO-Revision-Date: 2023-01-22 07:31+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5462,6 +5462,10 @@ msgid ""
 "links (nofollow, sponsored, ugc) in ALB elements (since 4.8.6.3 this option "
 "replaces theme support &quot;avia_rel_nofollow_for_links&quot;)"
 msgstr ""
+"Vink aan als u extra opties wilt om het rel attribuut van links te "
+"specificeren (nofollow, gesponsord, ugc) in ALB-elementen (sinds 4.8.6.3 "
+"vervangt deze optie thema-ondersteuning &quot;"
+"avia_rel_nofollow_for_links&quot;)"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:491
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:444
@@ -7459,7 +7463,7 @@ msgstr "Copyright"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2998
 msgid "Copyright Background Color"
-msgstr ""
+msgstr "Copyright achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:228
 msgid "Copyright Info"
@@ -7467,11 +7471,11 @@ msgstr "Auteursrechtinformatie"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2987
 msgid "Copyright Text Color"
-msgstr ""
+msgstr "Copyright tekstkleur"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2963
 msgid "Copyright Text Font Sizes"
-msgstr ""
+msgstr "Copyright tekst lettergroottes"
 
 #: framework/php/legacy/class-framework-widgets.php:3981
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:1444
@@ -8151,7 +8155,7 @@ msgstr "Aangepast lettertype weergavegedrag"
 
 #: includes/admin/option_tabs/avia_performance.php:164
 msgid "Custom Font Loading Source"
-msgstr ""
+msgstr "Aangepaste lettertype laden bron"
 
 #: includes/admin/option_tabs/avia_upload.php:211
 msgid "Custom Font Manager"
@@ -9681,7 +9685,7 @@ msgstr "Samenvatting tonen?"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:285
 msgid "Display fields with error"
-msgstr ""
+msgstr "Toon velden met fout"
 
 #: includes/admin/option_tabs/avia_shop.php:22
 msgid ""
@@ -10588,6 +10592,8 @@ msgid ""
 "Due to layout restrictions &quot;Caption at bottom of image&quot; might hide "
 "this info. Please check the frontend."
 msgstr ""
+"Wegens lay-outbeperkingen kan &quot;Bijschrift onderaan de afbeelding&quot; "
+"deze informatie verbergen. Controleer de weergave"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:1747
 #: config-templatebuilder/avia-shortcodes/section/section.php:1173
@@ -11358,6 +11364,8 @@ msgid ""
 "Enfold will supress output of default @font-face rules in dynamic_avia css "
 "file to avoid double loading."
 msgstr ""
+"Enfold onderdrukt uitvoer van standaard @font-face regels in dynamic_avia "
+"css bestand om dubbel laden te voorkomen."
 
 #: config-wpml/class-avia-wpml.php:633
 msgid "Enfold WPML Language Flags"
@@ -13446,7 +13454,7 @@ msgstr "Galerij afbeelding rotatie"
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:229
 msgid "Gallery Images"
-msgstr ""
+msgstr "Galerij afbeeldingen"
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:319
 msgid "Gallery Navigation Arrows Styling"
@@ -15841,11 +15849,11 @@ msgstr "Afbeeldingsbijschrift (of titel van afbeelding indien leeg)"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2940
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3021
 msgid "Image Copyright"
-msgstr ""
+msgstr "Afbeelding copyright"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2914
 msgid "Image Copyright Info"
-msgstr ""
+msgstr "Afbeelding copyright info"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:347
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:470
@@ -17700,11 +17708,11 @@ msgstr "Lijsten"
 
 #: includes/admin/option_tabs/avia_performance.php:174
 msgid "Load from CDN server"
-msgstr ""
+msgstr "Laadt van CDN server"
 
 #: includes/admin/option_tabs/avia_performance.php:173
 msgid "Load from local server"
-msgstr ""
+msgstr "Laadt van lokake server"
 
 #: includes/admin/option_tabs/avia_performance.php:407
 #| msgid "Load Google fonts in footer"
@@ -18348,7 +18356,7 @@ msgstr "Positie van menu"
 
 #: functions-enfold.php:2125
 msgid "Menu Style"
-msgstr ""
+msgstr "Menustijl"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:440
 msgid "Menu Text"
@@ -19162,7 +19170,7 @@ msgstr "Geen besturing, gebruikersinteractie uitschakelen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2922
 msgid "No copyright info"
-msgstr ""
+msgstr "Geen copyright info"
 
 #: includes/admin/option_tabs/avia_avia.php:172
 msgid "No custom 404 page selected"
@@ -19801,6 +19809,7 @@ msgstr "Offset Y-as"
 msgid ""
 "On error, show a message box containing the labels of the invalid fields"
 msgstr ""
+"Toont bij een fout een berichtvenster met de labels van de ongeldige velden"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:503
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:359
@@ -21117,7 +21126,7 @@ msgstr "Postcode:"
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1092
 #, php-format
 msgid "Posts by %s"
-msgstr ""
+msgstr "Berichten door %s"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:155
 msgid "Predefined Separators"
@@ -22831,12 +22840,16 @@ msgid ""
 "Select a custom color for the copyright background. Leave empty for no "
 "background."
 msgstr ""
+"Selecteer een aangepaste kleur voor de achtergrond van het copyright. Laat "
+"leeg voor geen achtergrond."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2988
 msgid ""
 "Select a custom color for the copyright text. Leave empty to use theme "
 "default."
 msgstr ""
+"Selecteer een aangepaste kleur voor de copyright tekst. Laat leeg om de "
+"standaardkleur van het thema te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:484
 msgid ""
@@ -23193,7 +23206,7 @@ msgstr "Selecteer een aangepaste lettergrootte voor de inhoud."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2964
 msgid "Select a custom font size for the copyright text."
-msgstr ""
+msgstr "Selecteer een aangepaste lettergrootte voor de copyright tekst."
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:353
 msgid "Select a custom font size for the dates."
@@ -23615,7 +23628,6 @@ msgstr "Kies een element om aan te passen"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:610
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:717
-#, fuzzy
 #| msgid "Select an existing or upload a new background image"
 msgid "Select an existing or upload a new background image."
 msgstr "Selecteer een bestaande of upload een nieuwe achtergrondafbeelding"
@@ -24913,6 +24925,8 @@ msgstr "Vink aan om de feed header te tonen"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2901
 msgid "Select to show the image copyright info added to the media library."
 msgstr ""
+"Selecteer om de copyright info van de afbeelding te tonen die is toegevoegd "
+"aan de mediabibliotheek."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:731
 msgid "Select to show the Likes & Comments"
@@ -26220,7 +26234,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2923
 msgid "Show on left bottom of image"
-msgstr ""
+msgstr "Toon linksonder in afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:314
 msgid "Show On Mouse Hover - Hide On Click"
@@ -26228,7 +26242,7 @@ msgstr "Toon bij muis-over - Verbergen bij klik"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2924
 msgid "Show on right bottom of image"
-msgstr ""
+msgstr "Toon rechtsonder in afbeelding"
 
 #: functions-enfold.php:2073
 msgid "Show on single entry"
@@ -27324,6 +27338,8 @@ msgid ""
 "Starting with 5.4 you can decide to load your custom fonts from a CDN server."
 " In this case you must include your own @font-face rules in head."
 msgstr ""
+"Vanaf 5.4 kunt u besluiten om uw aangepaste lettertypen van een CDN-server "
+"te laden. In dat geval moet u uw eigen @font-face regels opnemen in head."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2271
 msgid "State"
@@ -29843,12 +29859,15 @@ msgid ""
 "Trying to access protected/private property: %s::%s - will become "
 "unavailable in a future release. Check for a get method or a filter."
 msgstr ""
+"Probeert toegang te krijgen tot beschermde/privé-eigenschap: %s::%s - zal in "
+"een toekomstige release niet meer beschikbaar zijn. Controleer of er een get "
+"methode is of probeer een filter."
 
 #: framework/php/base-classes/class-object-properties.php:41
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:43
 #, php-format
 msgid "Trying to read non existing property in class %s: %s"
-msgstr ""
+msgstr "Probeert niet bestaande eigenschap in klasse %s te lezen: %s"
 
 #: framework/php/base-classes/class-object-properties.php:75
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:77
@@ -29857,6 +29876,8 @@ msgid ""
 "Trying to set non existing property in class %s: %s - please consider to "
 "define all properties before using"
 msgstr ""
+"Probeert niet bestaande eigenschap in klasse %s in te stellen: %s - overweeg "
+"om alle eigenschappen te definiëren alvorens te gebruiken"
 
 #: framework/php/base-classes/class-object-properties.php:89
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:91
@@ -29865,6 +29886,9 @@ msgid ""
 "Trying to set protected/private property: %s::%s - will become unavailable "
 "in a future release. Check for a set method or a filter."
 msgstr ""
+"Probeert beschermde/privé-eigenschap in te stellen: %s::%s - zal in een "
+"toekomstige release niet meer beschikbaar zijn. Controleer of er een set "
+"methode is of probeer een filter."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:307
 msgid "Tumblr link"
