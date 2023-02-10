@@ -1,3 +1,8 @@
+
+2023-02-10
+- Italian language files it_IT (version 5.4, provided by BigBatT - info@luigicircello.it)
+- French language files fr_FR (version 5.4 provided by comkapi - Patrick)
+
 2023-01-23
 - Dutch language files nl_NL (version 5.4-dev-2 provided by EZWebdesign - Roger Hoen )
 
