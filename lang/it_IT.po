@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Enfold v5.4-dev-2\n"
+"Project-Id-Version: Enfold v5.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-18 11:57+0100\n"
-"PO-Revision-Date: 2023-01-18 12:01+0100\n"
+"POT-Creation-Date: 2023-01-26 15:57+0100\n"
+"PO-Revision-Date: 2023-01-26 16:01+0100\n"
 "Last-Translator: Luigi Circello <luigi.circello@hotmail.it>\n"
 "Language-Team: BigBatT (info@luigicircello.it\n"
 "Language: it_IT\n"
@@ -900,7 +900,7 @@ msgid "Image Resolution:"
 msgstr "Risoluzione immagine:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:283
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:381
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:384
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:534
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:550
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:371
@@ -2658,34 +2658,50 @@ msgid "Displays Posts from your Blog"
 msgstr "Visualizza gli articoli del tuo blog"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:204
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:201
+msgid "Should the full entry be displayed or just a small excerpt?"
+msgstr "Vuoi mostrare l'articolo completo o solo un piccolo riassunto?"
+
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:202
+#, php-format
+msgid ""
+"Pages/Posts/.. built with ALB will only display &quot;Excerpt With Read More "
+"Link&quot; to avoid a possible breaking of layout. Use %s this filter %s to "
+"change it."
+msgstr ""
+"Le pagine/post/.. costruite con ALB mostreranno solo &quot;Estratto con "
+"collegamento Leggi tutto&quot; per evitare una possibile rottura del layout. "
+"Utilizzare %s questo filtro %s per modificarlo."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:207
 msgid "Do you want to display blog posts?"
 msgstr "Vuoi visualizzare gli articoli del blog?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:205
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:208
 msgid "Do you want to display blog posts or entries from a custom taxonomy?"
 msgstr ""
 "Vuoi visualizzare gli articoli del blog o le voci di una tassonomia "
 "personalizzata?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:211
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:214
 msgid "Display blog posts"
 msgstr "Visualizza gli articoli del blog"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:212
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:215
 msgid "Display entries from a custom taxonomy"
 msgstr "Visualizzare le voci da una tassonomia personalizzata"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:216
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:219
 msgid "Which categories should be used for the blog?"
 msgstr "Quali categorie dovrebbero essere utilizzate per il blog?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:217
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:220
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:207
 msgid ""
 "You can select multiple categories here. The Page will then show posts from "
@@ -2695,7 +2711,7 @@ msgstr ""
 "messaggi provenienti solo da queste categorie."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:227
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:230
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:252
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:196
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:225
@@ -2711,7 +2727,7 @@ msgid "Which Entries?"
 msgstr "Quali Voci?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:228
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:231
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:226
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:257
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:222
@@ -2726,7 +2742,7 @@ msgstr ""
 "Selezionare quali voci devono essere visualizzate selezionando una tassonomia"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:236
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:239
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:233
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:264
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:229
@@ -2736,18 +2752,18 @@ msgid "Display Entries from:"
 msgstr "Mostrare voci da:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:240
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:243
 msgid "Blog Style"
 msgstr "Stile Blog"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:241
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:244
 #: includes/admin/option_tabs/avia_blog.php:93
 msgid "Choose the default blog layout here."
 msgstr "Scegliere qui il layout predefinito del blog."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:247
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:250
 #: includes/admin/option_tabs/avia_blog.php:100
 #: includes/admin/option_tabs/avia_blog.php:157
 msgid ""
@@ -2758,7 +2774,7 @@ msgstr ""
 "alle immagini di anteprima)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:248
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:251
 #: includes/admin/option_tabs/avia_blog.php:101
 msgid ""
 "Single Author, small preview Pic (no author picture is displayed, feature "
@@ -2768,7 +2784,7 @@ msgstr ""
 "e l'immagine di anteprima è piccola)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:249
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:252
 #: includes/admin/option_tabs/avia_blog.php:102
 msgid ""
 "Single Author, big preview Pic (no author picture is displayed, feature "
@@ -2778,77 +2794,72 @@ msgstr ""
 "e l'immagine di anteprima è grande)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:250
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:253
 #: includes/admin/option_tabs/avia_blog.php:103
 msgid "Grid Layout"
 msgstr "Disposizione a Griglia"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:251
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:254
 #: includes/admin/option_tabs/avia_blog.php:104
 msgid "List Layout - Simple (Title and meta information only)"
 msgstr "Disposizione lista - Semplice (Solo titolo e info meta)"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:252
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:255
 #: includes/admin/option_tabs/avia_blog.php:105
 msgid "List Layout - Compact (Title and icon only)"
 msgstr "Disposizione lista -  Compatta (Solo titolo e icona)"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:253
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:256
 #: includes/admin/option_tabs/avia_blog.php:106
 msgid "List Layout - Excerpt (Title, meta information and excerpt only)"
 msgstr "Disposizione lista - Riassunto (Solo titolo, info meta ed estratto)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:259
-msgid "Blog Content length"
-msgstr "Lunghezza contenuto del blog"
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:262
+msgid "Blog Content Length"
+msgstr "Lunghezza dei contenuti del blog"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:260
-msgid "Should the full entry be displayed or just a small excerpt?"
-msgstr "Vuoi mostrare l'articolo completo o solo un piccolo riassunto?"
-
-# @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:267
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:270
 msgid "Full Content"
 msgstr "Contenuto completo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:268
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:271
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:346
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:366
 msgid "Excerpt"
 msgstr "Riassunto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:269
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:272
 msgid "Excerpt With Read More Link"
 msgstr "Riassunto con link Continua a leggere"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:274
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:277
 msgid "Define Blog Grid layout"
 msgstr "Definire la disposizione della griglia del blog"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:275
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:278
 msgid "Do you want to display a read more link?"
 msgstr "Vuoi visualizzare un link Continua a leggere?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:282
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:285
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:353
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:289
 msgid "Title and Excerpt"
 msgstr "Titolo e riassunto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:283
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:286
 msgid "Title and Excerpt + Read More Link"
 msgstr "Titolo e riassunto + link Continua a leggere"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:284
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:287
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:354
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:291
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:257
@@ -2856,29 +2867,29 @@ msgid "Only Title"
 msgstr "Solo titolo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:285
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:288
 msgid "Only Title + Read More Link"
 msgstr "Solo titolo + link Continua a leggere"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:286
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:289
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:355
 msgid "Only excerpt"
 msgstr "Solo riassunto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:287
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:290
 msgid "Only excerpt + Read More Link"
 msgstr "Solo riassunto + link Continua a leggere"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:288
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:291
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:356
 msgid "No Title and no excerpt"
 msgstr "Senza títolo e senza riassunto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:310
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:313
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:321
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:286
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:251
@@ -2891,7 +2902,7 @@ msgid "Select Entries"
 msgstr "Seleziona le voci"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:332
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:335
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:385
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:253
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:237
@@ -2903,7 +2914,7 @@ msgid "Offset Number"
 msgstr "Numero Offset"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:333
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:336
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:386
 msgid ""
 "The offset determines where the query begins pulling posts. Useful if you "
@@ -2915,7 +2926,7 @@ msgstr ""
 "query con un altro elemento blog o rivista."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:338
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:341
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:392
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:259
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:243
@@ -2927,7 +2938,7 @@ msgid "Deactivate offset"
 msgstr "Disattivare offset"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:338
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:341
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:392
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:259
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:243
@@ -2942,21 +2953,21 @@ msgstr ""
 "automaticamente)"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:342
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:345
 msgid "Conditional display"
 msgstr "Condizioni di visualizzazione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:343
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:346
 msgid "When should the element be displayed?"
 msgstr "Quando dovrebbe essere visualizzato l'elemento?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:349
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:352
 msgid "Always display the element"
 msgstr "Visualizza sempre l'elemento"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:350
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:353
 msgid ""
 "Remove element if the user navigated away from page 1 to page 2,3,4 etc "
 msgstr ""
@@ -2964,7 +2975,7 @@ msgstr ""
 "ecc. "
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:359
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:362
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:348
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:319
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:278
@@ -2977,30 +2988,30 @@ msgstr ""
 msgid "Filter"
 msgstr "Filtro"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:373
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:376
 msgid "Blog List Width"
 msgstr "Larghezza elenco Blog"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:374
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:377
 msgid "Define the width of the list"
 msgstr "Definire la larghezza della lista"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:382
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:385
 msgid "Force Fullwidth"
 msgstr "Forza Larghezza Piena"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:387
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:390
 msgid "Blog Grid Columns"
 msgstr "Colonne griglia blog"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:388
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:391
 msgid "How many columns do you want to display?"
 msgstr "Quante colonne si desidera visualizzare?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:398
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:401
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:350
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:422
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:451
@@ -3008,14 +3019,14 @@ msgid "Preview Image Size"
 msgstr "Dimensione anteprima immagine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:399
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:402
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:351
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:423
 msgid "Set the image size of the preview images"
 msgstr "Impostare le dimensioni delle immagini di anteprima"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:406
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:409
 msgid ""
 "Set the preview image size automatically based on column or layout width"
 msgstr ""
@@ -3023,7 +3034,7 @@ msgstr ""
 "colonna o larghezza del layout"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:407
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:410
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:358
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:430
 msgid "Choose the preview image size manually (select thumbnail size)"
@@ -3032,21 +3043,21 @@ msgstr ""
 "miniature)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:412
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:415
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:363
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:435
 msgid "Select custom preview image size"
 msgstr "Seleziona dimensione anteprima personalizzato dell'immagine"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:413
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:416
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:364
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:436
 msgid "Choose image size for Preview Image"
 msgstr "Scegliere la dimensione della immagine di Anteprima"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:427
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:430
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:305
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:611
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:357
@@ -3056,22 +3067,22 @@ msgid "Appearance"
 msgstr "Aspetto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:437
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:440
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:522
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:484
 msgid "Post Number"
 msgstr "Numero di articoli"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:438
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:441
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:523
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:485
 msgid "How many items should be displayed per page?"
 msgstr "Quanti elementi devono essere visualizzati per pagina?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:447
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:464
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:450
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:467
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:249
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:266
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:371
@@ -3089,7 +3100,7 @@ msgstr "Quanti elementi devono essere visualizzati per pagina?"
 msgid "Pagination"
 msgstr "Impaginazione"
 
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:448
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:451
 msgid ""
 "Should a pagination be displayed? Pagination might not work as expected when "
 "there is more than one blog posts element on a page, a post or on the blog "
@@ -3100,7 +3111,7 @@ msgstr ""
 "in una pagina, un post o nella pagina del Blog."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:454
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:457
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:501
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:332
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:229
@@ -3109,7 +3120,7 @@ msgid "yes"
 msgstr "si"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/blog/blog.php:455
+#: config-templatebuilder/avia-shortcodes/blog/blog.php:458
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:502
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:333
 #: config-templatebuilder/avia-shortcodes/product_list/product_list.php:230
