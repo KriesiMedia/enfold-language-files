@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 15:00+0200\n"
-"PO-Revision-Date: 2023-02-10 09:22+0000\n"
+"PO-Revision-Date: 2023-02-13 07:10+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.3; wp-6.0.3\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:599
@@ -3728,7 +3728,6 @@ msgid "Blog - Latest News"
 msgstr "Blog - laatste nieuws"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:262
-#, fuzzy
 #| msgid "Blog Content length"
 msgid "Blog Content Length"
 msgstr "Lengte blog inhoud"
@@ -12475,7 +12474,7 @@ msgstr "Exporteer Thema Instellingen-Bestand"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:507
 msgid "Extended selectbox"
-msgstr ""
+msgstr "Uitgebreid selectievakje"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:373
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:371
@@ -15458,6 +15457,10 @@ msgid ""
 "users to perform an &quot;AJAX&quot; Search.<br>Available only when General "
 "Layout > Logo And Main Menu > Top Header option is selected."
 msgstr ""
+"Indien ingeschakeld zal een zoek icoontje worden toegevoegd aan het "
+"hoofdmenu, waarmee de gebruikers een &quot;AJAX&quot; zoekopdracht kunnen "
+"uitvoeren.<br>Alleen beschikbaar wanneer Algemene Opmaak > Logo en hoofdmenu "
+"> Bovenaanzicht optie is geselecteerd."
 
 #: includes/admin/option_tabs/avia_layout.php:290
 msgid ""
@@ -20438,6 +20441,9 @@ msgid ""
 "Link&quot; to avoid a possible breaking of layout. Use %s this filter %s to "
 "change it."
 msgstr ""
+"Pagina's/Berichten/.. gebouwd met ALB zullen alleen &quot;Samenvatting met "
+"lees meer link&quot; tonen om een mogelijke breuk in de lay-out te voorkomen."
+" Gebruik %s deze filter %s om dit te veranderen."
 
 #: template-builder.php:108 includes/loop-index.php:577
 #: includes/loop-portfolio-single.php:40
@@ -21328,7 +21334,7 @@ msgstr "Product diavoorstelling"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:562
 msgid "Products"
-msgstr ""
+msgstr "Producten"
 
 #: config-woocommerce/config-356.php:1368 config-woocommerce/config.php:1922
 msgid "Products per page"
@@ -21337,7 +21343,7 @@ msgstr "Producten per pagina"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:512
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:526
 msgid "Products To Display"
-msgstr ""
+msgstr "Producten om weer te geven"
 
 #: forum.php:18 config-bbpress/config.php:160
 msgid "Profile for User:"
@@ -23809,7 +23815,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:506
 msgid "Select from categories only"
-msgstr ""
+msgstr "Selecteer alleen uit categorieën"
 
 #: framework/php/legacy/class-framework-widgets.php:4125
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:191
@@ -25079,7 +25085,7 @@ msgstr "Selecteer waarnaar deze kolom moet linken"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:500
 msgid "Select where to choose the entries from"
-msgstr ""
+msgstr "Selecteer waar de vermeldingen vandaan moeten komen"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:481
 msgid "Select where to display the tooltip in relation to the hotspot"
@@ -25179,6 +25185,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:527
 msgid "Select which products should be displayed by selecting a taxonomy"
 msgstr ""
+"Selecteer welke producten moeten worden weergegeven door een taxonomie te "
+"selecteren"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:305
 msgid ""
@@ -25244,7 +25252,7 @@ msgstr "Selecteer..."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:499
 msgid "Selectbox For Entries"
-msgstr ""
+msgstr "Selectievak voor invoer"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2806
 msgid "Selected size from media libary."
