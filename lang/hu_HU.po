@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-05 18:28+0200\n"
 "PO-Revision-Date: 2023-03-16 11:47+0000\n"
-"Last-Translator: \n"
+"Last-Translator: Földesi Mihály (foldesistudio.hu)\n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
 "MIME-Version: 1.0\n"
@@ -24,12 +24,12 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:599
 #, php-format
 msgid " *** Error:  Term %d missing"
-msgstr ""
+msgstr "*** Hiba: Term %d hiányzik"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:559
 #, php-format
 msgid " *** Error: Post %d missing"
-msgstr ""
+msgstr "*** Hiba: Bejegyzés %d hiányzik"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1272
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3107
@@ -127,7 +127,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_google.php:103
 msgid " Check API Key"
-msgstr ""
+msgstr "API-kulcs ellenőrzése"
 
 #: includes/admin/option_tabs/avia_google.php:316
 msgid " Check reCAPTCHA API Keys V3"
@@ -2865,7 +2865,7 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:344
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:470
 msgid "Ascending"
-msgstr ""
+msgstr "Növekvő"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:370
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:327
@@ -2913,7 +2913,7 @@ msgstr "Csatolmány"
 #: framework/php/function-set-avia-ajax.php:1434
 #, php-format
 msgid "Attachment ID: %d"
-msgstr ""
+msgstr "Csatolmány azonosító: %d"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:651
 msgid "Attachment image for: "
@@ -3135,7 +3135,7 @@ msgstr ""
 
 #: config-woocommerce/config.php:1906
 msgid "Average rating"
-msgstr ""
+msgstr "Átlagos értékelés"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:9
 msgid "Avia Layout Builder"
@@ -3143,7 +3143,7 @@ msgstr "Avia Elrendezés Építő"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:475
 msgid "Backend"
-msgstr ""
+msgstr "Motorháztető alatt"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:714
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:784
@@ -7374,7 +7374,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/search/search.php:273
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1612
 msgid "Custom"
-msgstr ""
+msgstr "Egyedi"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:446
 msgid "Custom +/- Icon Color"
@@ -8893,12 +8893,12 @@ msgstr ""
 #: includes/admin/register-backend-advanced-styles.php:111
 #: includes/admin/register-backend-advanced-styles.php:132
 msgid "Display"
-msgstr ""
+msgstr "Megjelenített termék:"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:541
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:418
 msgid "Display \"Load More\" Button"
-msgstr ""
+msgstr "Töltődés gomb megjelenése"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:60
 msgid ""
@@ -16811,29 +16811,29 @@ msgstr "Kijelentkezés"
 
 #: config-woocommerce/config.php:2720
 msgid "Login / Register"
-msgstr ""
+msgstr "Bejelentkezés / Regisztráció"
 
 #: config-woocommerce/config.php:2721
 msgid "Login / Register Page Link"
-msgstr ""
+msgstr "Bejelentkezés / Regisztráció oldala"
 
 #: framework/php/legacy/class-framework-widgets.php:521
 #: includes/admin/option_tabs/avia_avia.php:55
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:391
 msgid "Logo"
-msgstr ""
+msgstr "Embléma"
 
 #: includes/admin/option_tabs/avia_layout.php:178
 msgid "Logo And Main Menu"
-msgstr ""
+msgstr "Embléma és főmenü"
 
 #: includes/admin/option_tabs/avia_header.php:242
 msgid "Logo center, Menu above"
-msgstr ""
+msgstr "Embléma középen, menü felette"
 
 #: includes/admin/option_tabs/avia_header.php:241
 msgid "Logo center, Menu below"
-msgstr "Logó középen, menü alatta"
+msgstr "Embléma középen, menü alatta"
 
 #: includes/admin/option_tabs/avia_avia.php:44
 msgid ""
@@ -16844,27 +16844,27 @@ msgstr ""
 #: framework/php/legacy/class-framework-widgets.php:333
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:180
 msgid "Logo image"
-msgstr ""
+msgstr "Embléma képe"
 
 #: includes/admin/option_tabs/avia_header.php:239
 msgid "Logo left, Menu below"
-msgstr "Logó balra, menü alatta"
+msgstr "Embléma balra, menü alatta"
 
 #: includes/admin/option_tabs/avia_header.php:237
 msgid "Logo left, Menu right"
-msgstr "Logó balra, menü jobbra"
+msgstr "Embléma balra, menü jobbra"
 
 #: includes/admin/option_tabs/avia_header.php:240
 msgid "Logo right, Menu below"
-msgstr "Logó jobbra, menü alatta"
+msgstr "Embléma jobbra, menü alatta"
 
 #: includes/admin/option_tabs/avia_header.php:238
 msgid "Logo right, Menu Left"
-msgstr "Logó jobbra, menü balra"
+msgstr "Embléma jobbra, menü balra"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:278
 msgid "Logo Slider Or Logo Grid Layout"
-msgstr ""
+msgstr "Embléma lapozó vagy Embléma rács kinézet"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2337
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:107
@@ -19850,11 +19850,11 @@ msgstr ""
 
 #: functions-enfold.php:362
 msgid "Please try another search term"
-msgstr "Kérem próbáljon másik keresést"
+msgstr "Kérem próbáljon másik keresést!"
 
 #: framework/php/class-grecaptcha.php:258
 msgid "Please validate that you are a human first"
-msgstr ""
+msgstr "Kérjük, igazolja, hogy Ön is ember"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:524
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-mailchimp.php:472
@@ -19916,7 +19916,7 @@ msgstr "Népszerű"
 #: framework/php/legacy/class-framework-widgets.php:1612
 #: framework/php/widgets/widget-classes/class-avia-combo.php:49
 msgid "Popular posts"
-msgstr ""
+msgstr "Népszerű bejegyzések"
 
 #: config-woocommerce/config-356.php:1363
 msgid "Popularity"
@@ -19924,7 +19924,7 @@ msgstr "Népszerűség"
 
 #: config-woocommerce/config.php:1905
 msgid "Popularity (sales)"
-msgstr ""
+msgstr "Népszerűség (eladás)"
 
 #: functions.php:262 template-archives.php:154
 msgid "Portfolio"
@@ -19937,11 +19937,11 @@ msgstr "Új hozzáadása"
 
 #: includes/admin/register-portfolio.php:60
 msgid "Portfolio Categories"
-msgstr ""
+msgstr "Portfólió kategória"
 
 #: includes/admin/register-portfolio.php:61
 msgid "Portfolio Category"
-msgstr ""
+msgstr "Portfólió kategória"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:35
 msgid "Portfolio Grid"
@@ -19949,7 +19949,7 @@ msgstr "Portfolió Rács"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:394
 msgid "Portfolio Grid Image Size"
-msgstr "Portfolió Rács Kép Méret"
+msgstr "Portfolió Rács Képméret"
 
 #: functions.php:281
 msgid "Portfolio small"
@@ -19957,11 +19957,11 @@ msgstr ""
 
 #: includes/admin/register-portfolio.php:31
 msgid "portfolio-item"
-msgstr ""
+msgstr "portfolio-elem"
 
 #: includes/admin/register-portfolio.php:32
 msgid "portfolio_entries"
-msgstr ""
+msgstr "portfolio-bejegyzesek"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:458
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:336
@@ -20043,7 +20043,7 @@ msgstr "Bejegyzés Szám"
 
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:28
 msgid "Post Slider"
-msgstr "Bejegyzés Slider"
+msgstr "Bejegyzés Lapozó"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1606
 msgid "Post status of elements is currently not available"
@@ -20223,11 +20223,11 @@ msgstr ""
 
 #: config-woocommerce/config.php:1909
 msgid "Product ID"
-msgstr ""
+msgstr "Termékazonosító"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:545
 msgid "Product Images"
-msgstr ""
+msgstr "Termékkép"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_info.php:27
 msgid "Product Info"
@@ -20259,24 +20259,24 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_review.php:44
 msgid "Product Reviews"
-msgstr ""
+msgstr Termékéértékelés""
 
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:62
 msgid "Product Slider"
-msgstr ""
+msgstr "Terméklapozó"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:562
 msgid "Products"
-msgstr ""
+msgstr "Termékek"
 
 #: config-woocommerce/config-356.php:1368 config-woocommerce/config.php:1922
 msgid "Products per page"
-msgstr ""
+msgstr "termékek oldalanként"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:512
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:526
 msgid "Products To Display"
-msgstr ""
+msgstr "Termékek megjelenítéshez"
 
 #: forum.php:18 config-bbpress/config.php:160
 msgid "Profile for User:"
@@ -20288,7 +20288,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:83
 msgid "Profiles"
-msgstr ""
+msgstr "Profilok"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:333
 msgid "Progress Bar Animation enabled?"
@@ -20439,7 +20439,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:352
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:310
 msgid "Random"
-msgstr ""
+msgstr "Véletlenszerű"
 
 #: includes/loop-index.php:133 includes/loop-index.php:134
 #: includes/loop-index.php:547 includes/loop-index.php:563
@@ -20448,7 +20448,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:850
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1224
 msgid "Read more"
-msgstr ""
+msgstr "Olvass tovább"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:342
 msgid "reCAPTCHA V2 Theme Color"
@@ -20641,11 +20641,11 @@ msgstr ""
 
 #: config-woocommerce/config.php:1907
 msgid "Relevance"
-msgstr ""
+msgstr "Relevancia"
 
 #: includes/helper-privacy.php:1763
 msgid "Reloading the page"
-msgstr ""
+msgstr "Oldal újratöltése"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:295
 msgid "rem"
@@ -20653,11 +20653,11 @@ msgstr ""
 
 #: framework/php/legacy/class-update-notifier.php:174
 msgid "Remind Me Later"
-msgstr ""
+msgstr "Később emlékzetess"
 
 #: framework/php/class-megamenu.php:661
 msgid "Remove"
-msgstr ""
+msgstr "Eltávolítás"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2752
 msgid "Remove Animation"
@@ -25607,13 +25607,13 @@ msgstr ""
 #: functions-enfold.php:361 includes/loop-author.php:258
 #: includes/loop-index.php:639
 msgid "Sorry, no posts matched your criteria"
-msgstr "Elnézést, nincs a feltételeknek megfelelő bejegyzés"
+msgstr "Elnézést, de nincs a releváns találat."
 
 #: includes/loop-search.php:220
 msgid "Sorry, no posts matched your criteria. Please try another search"
 msgstr ""
 "Elnézést, nincs a feltételeknek megfelelő bejegyzés. Kérem próbáljon másik "
-"keresést"
+"keresést!"
 
 #: includes/error404.php:7
 msgid ""
@@ -25624,68 +25624,68 @@ msgstr ""
 
 #: includes/class-avia-custom-pages.php:348
 msgid "Sorry, we are currently updating our site - please try again later."
-msgstr ""
+msgstr "Sajnáljuk, jelenleg frissítjük oldalunkat - kérjük, próbálja meg később újra."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:170
 msgid "Sorry, you have not enough rights to perform requested action."
-msgstr ""
+msgstr "Sajnálom, de nincs elég jogosultsága a kért művelet végrehajtásához."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:256
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:366
 msgid "Sort alphabetically"
-msgstr ""
+msgstr "Rendezés ábécé szerint"
 
 #: config-woocommerce/config-356.php:1392 config-woocommerce/config.php:1982
 msgid "Sort by"
-msgstr ""
+msgstr "Rendezési kritérium:"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:262
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:372
 msgid "Sort by average rating"
-msgstr ""
+msgstr "Rendezés átlagos értékelés szerint"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:261
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:371
 msgid "Sort by menu order and name"
-msgstr ""
+msgstr "Rendezés menüsorrend és név szerint"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:257
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:367
 msgid "Sort by most recent"
-msgstr ""
+msgstr "Legújabb szerinti rendezés"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:259
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:369
 msgid "Sort by popularity"
-msgstr ""
+msgstr "Rendezés népszerűség szerint"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:258
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:368
 msgid "Sort by price"
-msgstr ""
+msgstr "Rendezés ár szerint"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:264
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:374
 msgid "Sort by Product ID"
-msgstr ""
+msgstr "Rendezés termék azonosító szerint"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:263
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:373
 msgid "Sort by relevance"
-msgstr ""
+msgstr "Rendezés relevancia szerint"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:301
 msgid "Sort Order"
-msgstr ""
+msgstr "Rendezési sorrend"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:200
 msgid "Sort Order:"
-msgstr ""
+msgstr "Rendezési sorrend:"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:260
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:370
 msgid "Sort randomly"
-msgstr ""
+msgstr "Véletlenszerűen elrendzés"
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2753
 msgid "Sort shortcode buttons by name ascending"
@@ -25706,18 +25706,18 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:328
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:287
 msgid "Sortable?"
-msgstr ""
+msgstr "Redndezhető?"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:381
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:337
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:336
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2746
 msgid "Sorting"
-msgstr ""
+msgstr "Rendezés"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:344
 msgid "Sorting Active"
-msgstr ""
+msgstr "Rendzés aktív"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:435
 msgid "Soundcloud Link"
@@ -25749,11 +25749,11 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:293
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:426
 msgid "Spacing"
-msgstr ""
+msgstr "Térköz"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:341
 msgid "Spacing:"
-msgstr ""
+msgstr "Térköz:"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1338
 msgid "Special Advanced Animations"
@@ -30921,15 +30921,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:393
 msgid "Zoom"
-msgstr ""
+msgstr "Nagyítás"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:313
 msgid "Zoom Control"
-msgstr ""
+msgstr "Nagyítás vezérlése"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1374
 msgid "Zoom in"
-msgstr ""
+msgstr "Nagyítás"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:279
 msgid "Zoom Level"
@@ -30938,7 +30938,7 @@ msgstr "Nagyítás mértéke"
 #: framework/php/legacy/class-framework-widgets.php:2322
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:530
 msgid "Zoom Level:"
-msgstr ""
+msgstr "Nagyítás:"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:216
 msgid "€ 100,-"
