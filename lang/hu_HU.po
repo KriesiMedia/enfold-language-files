@@ -20259,7 +20259,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_review.php:44
 msgid "Product Reviews"
-msgstr Termékéértékelés""
+msgstr "Termékéértékelés"
 
 #: config-templatebuilder/avia-shortcodes/productslider/productslider.php:62
 msgid "Product Slider"
