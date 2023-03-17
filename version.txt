@@ -1,4 +1,7 @@
 
+2023-03-17
+- Hungarian language files hu_HU (5.5-dev-4 provided by Földesi Stúdió - Földesi Mihály )
+
 2023-03-16
 - sync all language files (5.4-dev-5)
 
