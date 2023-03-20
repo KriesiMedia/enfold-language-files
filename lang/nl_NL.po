@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 15:00+0200\n"
-"PO-Revision-Date: 2023-03-16 11:49+0000\n"
+"PO-Revision-Date: 2023-03-18 08:22+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:599
@@ -1592,6 +1592,9 @@ msgid ""
 "Add a small animation to the image when the user first scrolls to the image "
 "position. This is to add some &quot;spice&quot; to the site."
 msgstr ""
+"Voeg een kleine animatie toe aan de afbeelding wanneer de gebruiker voor het "
+"eerst naar de afbeeldingspositie scrolt. Dit is om wat &quot;pit&quot; aan "
+"de site toe te voegen."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:555
 msgid ""
@@ -1599,6 +1602,9 @@ msgid ""
 "lottie image position. This is only to add some &quot;spice&quot; to the "
 "site."
 msgstr ""
+"Voeg een kleine animatie toe aan de Lottie afbeelding wanneer de gebruiker "
+"voor het eerst naar de Lottie afbeelding scrollt. Dit is alleen om wat &quot;"
+"pit&quot; aan de site toe te voegen."
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:623
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:500
@@ -1840,6 +1846,8 @@ msgid ""
 "Add the width of the animation, e.g. 180px, 50&percnt;. Leave empty for "
 "default. Both CSS units are allowed, px is default."
 msgstr ""
+"Voeg de breedte van de animatie toe, bijv. 180px, 50&percnt;. Laat leeg voor "
+"standaard. Beide CSS eenheden zijn toegestaan, px is standaard."
 
 #: config-gutenberg/class-avia-gutenberg.php:1405
 msgid "Add title"
@@ -2228,7 +2236,7 @@ msgstr "Advertentie gebied"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:297
 msgid "After"
-msgstr ""
+msgstr "Na"
 
 #: includes/admin/option_tabs/avia_element_templates.php:191
 msgid ""
@@ -2240,7 +2248,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:293
 msgid "After Button Text"
-msgstr ""
+msgstr "Na button tekst"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2084
 msgid ""
@@ -2254,7 +2262,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:239
 msgid "After Image"
-msgstr ""
+msgstr "Na-afbeelding"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:145
 msgid "Ajax Portfolio Preview Settings"
@@ -2631,7 +2639,7 @@ msgstr "Toon altijd vastgemaakt aan het hoofdmenu"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:276
 msgid "Always display buttons"
-msgstr ""
+msgstr "Toon knoppen altijd"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:527
 msgid "Always display caption"
@@ -2809,7 +2817,7 @@ msgstr "Animatie geactiveerd"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:476
 msgid "Animation Alignment"
-msgstr ""
+msgstr "Animatie uitlijning"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:322
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:521
@@ -2824,15 +2832,15 @@ msgstr "Duur van de animatie"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:450
 msgid "Animation Height"
-msgstr ""
+msgstr "Animatie hoogte"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:202
 msgid "Animation Position"
-msgstr ""
+msgstr "Animatie positie"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:441
 msgid "Animation Width"
-msgstr ""
+msgstr "Animatie breedte"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:173
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:251
@@ -3058,11 +3066,11 @@ msgstr "Pijlvormig opsommingsteken"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:458
 msgid "Arrows Color"
-msgstr ""
+msgstr "Kleur van pijlen"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:353
 msgid "Arrows only"
-msgstr ""
+msgstr "Alleen pijlen"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:413
 msgid "Artists Name"
@@ -3328,7 +3336,7 @@ msgstr "Automatisch afspelen"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:329
 msgid "Autoplay Animation"
-msgstr ""
+msgstr "Animatie automatisch afspelen"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:452
 msgid "Autorespond Text"
@@ -3339,16 +3347,14 @@ msgid "Autorespond Text After Form Labels"
 msgstr "Automatisch-antwoordtekst na formulier labels"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:423
-#, fuzzy
 #| msgid "Autoresponder from email address"
 msgid "Autoresponder From E-Mail Address"
 msgstr "Autoresponder 'Van' e-mailadres"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:432
-#, fuzzy
 #| msgid "Autoresponder reply to email address"
 msgid "Autoresponder Reply To E-Mail Address"
-msgstr "E-mailadres van de autoresponder reply to"
+msgstr "E-mailadres van de autoresponder 'Antwoord naar'"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:442
 msgid "Autoresponder Subject"
@@ -3550,12 +3556,12 @@ msgstr "Achtergrond kleurverloop richting"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:578
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:631
 msgid "Background Gradient Direction Bottom Card"
-msgstr ""
+msgstr "Achtergrond kleurverloop richting onderkant kaart"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:566
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:619
 msgid "Background Gradient Direction Top Card"
-msgstr ""
+msgstr "Achtergrond kleurverloop richting bovenkant kaart"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:513
 #: config-templatebuilder/avia-shortcodes/section/section.php:609
@@ -3627,7 +3633,7 @@ msgstr "Achtergrondvideo"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:387
 msgid "Backwards"
-msgstr ""
+msgstr "Achteruit"
 
 #: config-woocommerce/admin-options.php:370
 msgid "Banner Color Overlay (leave empty for no overlay)"
@@ -3715,15 +3721,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:287
 msgid "Before"
-msgstr ""
+msgstr "Voor"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:283
 msgid "Before Button Text"
-msgstr ""
+msgstr "Voor knop tekst"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:227
 msgid "Before Image"
-msgstr ""
+msgstr "Voor-afbeelding"
 
 #: framework/php/class-grecaptcha.php:259
 msgid "Before submitting we validate that you are a human first."
@@ -3731,7 +3737,7 @@ msgstr "Voor verzending controleren we eerst of u een mens bent."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:45
 msgid "Before-After Images"
-msgstr ""
+msgstr "Voor-na afbeeldingen"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:380
 msgid "Behance Link"
@@ -4142,12 +4148,12 @@ msgstr "Onder"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:553
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:606
 msgid "Bottom Card Background Color"
-msgstr ""
+msgstr "Onderkant kaart achtergrondkleur"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:532
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:585
 msgid "Bottom Card Numbers Color"
-msgstr ""
+msgstr "Onderkant kaart kleur van nummers"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:649
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1824
@@ -4255,7 +4261,7 @@ msgstr "Beneden-Rechts-Radiaal"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:400
 msgid "Bounce"
-msgstr ""
+msgstr "Stuiteren"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:705
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:822
@@ -4476,7 +4482,7 @@ msgstr "Knop animatie"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:269
 msgid "Button Appearance"
-msgstr ""
+msgstr "Verschijning van knop"
 
 #: includes/admin/register-backend-advanced-styles.php:813
 #: includes/admin/register-backend-advanced-styles.php:831
@@ -4609,7 +4615,7 @@ msgstr "Knopgrootte"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:519
 msgid "Button Style"
-msgstr ""
+msgstr "Knopstijl"
 
 #: functions-enfold.php:2129
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:467
@@ -5101,7 +5107,7 @@ msgstr "Aanpassen"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:314
 msgid "Change big preview image on hover (= default behaviour)"
-msgstr ""
+msgstr "Grote voorbeeldafbeelding bij zweven veranderen (= standaard gedrag)"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:381
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:382
@@ -5716,7 +5722,7 @@ msgstr "Vink aan als u de video wilt dempen."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:697
 msgid "Check if you want to preselect the checkbox"
-msgstr "Vink aan als u het vinkvakje van tevoren wilt aanvinken"
+msgstr "Vink aan als het vinkvakje standaard aangevinkt moet zijn"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:903
 msgid ""
@@ -6043,7 +6049,6 @@ msgid "Choose a custom sidebar for this entry"
 msgstr "Kies een specifieke sidebar bij dit artikel"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:357
-#, fuzzy
 #| msgid "Choose a default border styling for your Box here"
 msgid "Choose a default border styling for your box here"
 msgstr "Kies hier een standaard randstijl voor uw kader"
@@ -6061,7 +6066,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:283
 msgid "Choose A Lottie Animation"
-msgstr ""
+msgstr "Kies een Lottie animatie"
 
 #: includes/admin/option_tabs/avia_styling.php:16
 msgid ""
@@ -6128,7 +6133,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:477
 msgid "Choose how to align your animation"
-msgstr ""
+msgstr "Selecteer hoe u de animatie wilt uitlijnen"
 
 #: includes/admin/option_tabs/avia_menu.php:247
 msgid "Choose how to display the submenu items of the icon menu"
@@ -6417,10 +6422,9 @@ msgid ""
 msgstr "Kies de categorieën die u wilt weergeven (u kunt meerdere selecteren):"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:284
-#, fuzzy
 #| msgid "Choose the color for your Box here"
 msgid "Choose the color for your box here"
-msgstr "Kies hier een kleur voor uw venster "
+msgstr "Kies hier de kleur voor uw kader "
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:303
 msgid "Choose the coloring of the progress bar here"
@@ -6507,10 +6511,9 @@ msgid "Choose the size of the image that loads into the slideshow."
 msgstr "Kies de afbeeldingsgrootte voor in de diavoorstelling."
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:257
-#, fuzzy
 #| msgid "Choose the size of your Box here"
 msgid "Choose the size of your box here"
-msgstr "Kies hier de grootte van uw Venster"
+msgstr "Kies hier de grootte van uw kader"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:570
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:332
@@ -6655,7 +6658,7 @@ msgstr "Cirkel randkleur"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:349
 msgid "Circle border only"
-msgstr ""
+msgstr "Enkel cirkel rand"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:317
 msgid "Circle Border Style"
@@ -6667,7 +6670,7 @@ msgstr "Cirkel kleur"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:350
 msgid "Circle filled"
-msgstr ""
+msgstr "Cirkel gevuld"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:595
 msgid "Circle Icon"
@@ -7712,12 +7715,12 @@ msgstr "werden niet gevonden door Google; voor a.u.b. handmatig toe"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:358
 msgid "Countdown"
-msgstr ""
+msgstr "Aftellen"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:328
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:338
 msgid "Countdown Appearance"
-msgstr ""
+msgstr "Verschijning van aftellen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2331
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:73
@@ -8048,11 +8051,11 @@ msgstr "Aangepaste Alt-attribuut"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:657
 msgid "Custom Alt Attribute After Image"
-msgstr ""
+msgstr "Aangepast alt attribuut na-afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:639
 msgid "Custom Alt Attribute Before Image"
-msgstr ""
+msgstr "Aangepast alt attribuut vantevoren-afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:664
 msgid "Custom Arrow Color"
@@ -8186,7 +8189,7 @@ msgstr "Aangepaste kleuren"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:515
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:568
 msgid "Custom colors"
-msgstr ""
+msgstr "Aangepaste kleuren"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:450
 msgid "Custom Content Box Background Color"
@@ -8521,11 +8524,11 @@ msgstr "Aangepast titelattribuut"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:648
 msgid "Custom Title Attribute After Image"
-msgstr ""
+msgstr "Aangepast titel attribuut na-afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:630
 msgid "Custom Title Attribute Before Image"
-msgstr ""
+msgstr "Aangepast titel-attribuut vantevoren-afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:282
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:555
@@ -8803,7 +8806,7 @@ msgstr "Standaard cookie gedrag"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:513
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:566
 msgid "Default dark"
-msgstr ""
+msgstr "Standaard donker"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1771
 msgid "Default display (at the bottom of the elements image)"
@@ -8847,7 +8850,7 @@ msgstr "Standaard lay-out - ingesteld in"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:514
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:567
 msgid "Default light"
-msgstr ""
+msgstr "Standaard licht"
 
 #: includes/admin/option_tabs/avia_styling.php:630
 msgid "default or valid CSS"
@@ -9080,6 +9083,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:632
 msgid "Define the gradient direction for background of the bottom card"
 msgstr ""
+"Bepaal de richting van het kleurverloop voor de achtergrond van de onderste "
+"kaart"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:592
 msgid "Define the gradient direction for background of the element"
@@ -9090,6 +9095,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:620
 msgid "Define the gradient direction for background of the top card"
 msgstr ""
+"Bepaal de richting van het kleurverloop voor de achtergrond van de bovenste "
+"kaart"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:282
 msgid "Define the position of the tab buttons"
@@ -9449,7 +9456,7 @@ msgstr "Afmetingen"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:295
 msgid "Direct Link"
-msgstr ""
+msgstr "Directe koppeling"
 
 #: framework/php/legacy/class-framework-widgets.php:557
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:427
@@ -9575,7 +9582,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_blog.php:159
 msgid "Disable swipe navigation"
-msgstr ""
+msgstr "Swipe-navigatie uitschakelen"
 
 #: includes/admin/option_tabs/avia_performance.php:218
 msgid "Disable Template Builder Elements"
@@ -9921,7 +9928,6 @@ msgid "Display Excerpt?"
 msgstr "Samenvatting tonen?"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:300
-#, fuzzy
 #| msgid "Display fields with error"
 msgid "Display Fields With Error"
 msgstr "Toon velden met fout"
@@ -10477,7 +10483,7 @@ msgstr "Sta niet toe dat video's ingesloten kunnen worden"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:315
 msgid "Do not change big preview image"
-msgstr ""
+msgstr "Grote voorbeeldafbeelding niet veranderen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:280
 msgid "Do not close with click on map"
@@ -10710,11 +10716,11 @@ msgstr "Gestreept"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:366
 msgid "Dotted lines, dashed circle"
-msgstr ""
+msgstr "Puntjes lijnen, gestreepte cirkel"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:367
 msgid "Dotted lines, dotted circle"
-msgstr ""
+msgstr "Puntjes lijnen, cirkel met punten"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:141
 msgid "Double"
@@ -10798,27 +10804,27 @@ msgstr "concept"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:391
 msgid "Drag Line"
-msgstr ""
+msgstr "Sleeplijn"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:372
 msgid "Drag Line Arrows Behaviour"
-msgstr ""
+msgstr "Sleeplijn gedrag van pijlen"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:509
 msgid "Drag Line Colors"
-msgstr ""
+msgstr "Sleeplijn kleuren"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:319
 msgid "Drag Line Direction"
-msgstr ""
+msgstr "Sleeplijn richting"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:342
 msgid "Drag Line Layout"
-msgstr ""
+msgstr "Sleeplijn lay-out"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:358
 msgid "Drag Line Styling"
-msgstr ""
+msgstr "Sleeplijn stijl"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:622
 msgid "Draggable"
@@ -11208,6 +11214,9 @@ msgid ""
 "library. Supported filetype extensions are &quot;.lottie&quot; and &quot;."
 "json&quot;."
 msgstr ""
+"Upload een nieuwe of kies een bestaande Lottie animatie uit je "
+"mediabibliotheek. Ondersteunde bestandstype extensies zijn &quot;."
+"lottie&quot; en &quot;.json&quot;."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:509
 msgid ""
@@ -11552,7 +11561,7 @@ msgstr "Soepel scrollen inschakelen"
 
 #: includes/admin/option_tabs/avia_blog.php:160
 msgid "Enable swipe navigation"
-msgstr ""
+msgstr "Swipe-navigatie inschakelen"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:341
 msgid "Enabled"
@@ -11707,7 +11716,6 @@ msgstr ""
 "tot 30 tekens. Toegestane tekens zijn spatie, a-zA-Z0-9-_/"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:443
-#, fuzzy
 #| msgid ""
 #| "Enter a custom subject text to the autoresponder email. Leave blank to "
 #| "use a default message."
@@ -11753,6 +11761,8 @@ msgid ""
 "Enter a hardcoded link to a lottie animation. If not empty this will "
 "override any selection from media library."
 msgstr ""
+"Voer een directe koppeling in naar een Lottie animatie. Indien niet leeg zal "
+"dit elke selectie uit de mediabibliotheek overschrijven."
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:229
 msgid ""
@@ -11806,10 +11816,13 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:294
 msgid "Enter a text that is displayed in the button for the after image."
 msgstr ""
+"Voer een tekst in die wordt weergegeven in de knop voor de na-afbeelding."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:284
 msgid "Enter a text that is displayed in the button for the before image."
 msgstr ""
+"Voer een tekst in die wordt weergegeven in de knop voor de vantevoren-"
+"afbeelding."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:534
 msgid "Enter a text that should be displayed after the metadata info"
@@ -11996,7 +12009,6 @@ msgstr ""
 "wrapper-element. Laat leeg als er geen attributes nodig zijn."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:396
-#, fuzzy
 #| msgid ""
 #| "Enter one or more Email addresses (separated by comma) where mails should "
 #| "be delivered to."
@@ -12008,7 +12020,6 @@ msgstr ""
 "mails te verzenden."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:433
-#, fuzzy
 #| msgid ""
 #| "Enter one or more reply to Email addresses (separated by comma) for the "
 #| "autoresponder mail. Leave blank if not needed."
@@ -12165,10 +12176,9 @@ msgid "Enter the font size in px, em or &percnt;"
 msgstr "Voer lettergrootte in in px, em of &percnt;"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:424
-#, fuzzy
 #| msgid "Enter the from email address for the autoresponder."
 msgid "Enter the from E-Mail address for the autoresponder."
-msgstr "Vul het 'Van' e-mailadres in voor de autoresponder."
+msgstr "Vul het 'Van' e-mailadres in voor het automatisch antwoord."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:985
 msgid "Enter the grid item sub-title here"
@@ -12324,6 +12334,8 @@ msgstr "Vul het nummer in van de tabkaart die initieel geopend moet zijn."
 msgid ""
 "Enter the number of times to loop the animation. Leave empty for endless."
 msgstr ""
+"Voer het aantal keren in dat de animatie in een lus moet worden gezet. Laat "
+"leeg voor eindeloos."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:58
 msgid "Enter the postalcode (Zip code) for the city, e.g. 12454"
@@ -12374,7 +12386,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:254
 msgid "Enter the submit buttons label text here"
-msgstr "Vul hier de label tekst in voor verzendknoppen"
+msgstr "Vul hier het label in van de knop 'Verzenden'"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:391
 msgid "Enter the tab title here (Better keep it short)"
@@ -12779,7 +12791,7 @@ msgstr "Uitbreiding schaal"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:380
 msgid "Expand slightly "
-msgstr ""
+msgstr "Ietwat uibreiden"
 
 #: framework/php/class-htmlhelper.php:2202
 msgid "Export Demo Settings File"
@@ -13155,7 +13167,7 @@ msgstr "Omdraaien"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:503
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:556
 msgid "Flip Animation Colors"
-msgstr ""
+msgstr "Kleuren van omkeer-animatie"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1371
 msgid "Flip in X"
@@ -13168,7 +13180,7 @@ msgstr "Omdraaien in Y"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:336
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:346
 msgid "Flip numbers"
-msgstr ""
+msgstr "Omkeer-getallen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1543
 msgid "Flower"
@@ -13662,7 +13674,7 @@ msgstr "Forums"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:386
 msgid "Forward"
-msgstr ""
+msgstr "Vooruit"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:315
 msgid ""
@@ -14056,7 +14068,7 @@ msgstr "Kleurverloop kleur 3"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:516
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:569
 msgid "Gradient colors"
-msgstr ""
+msgstr "Kleurverloop kleuren"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:409
 msgid "Grayscale"
@@ -14064,7 +14076,7 @@ msgstr "Grijswaarden"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:587
 msgid "Grayscale Animation On Hover"
-msgstr ""
+msgstr "Grijswaarden animatie bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:481
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:569
@@ -15336,7 +15348,6 @@ msgid "How many columns should be displayed?"
 msgstr "Hoeveel kolommen moeten er worden getoond?"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:233
-#, fuzzy
 #| msgid ""
 #| "How many days until the Cookie expires and the message is displayed again?"
 #| " The Cookie expires automatically if either the title, text or message "
@@ -16779,7 +16790,7 @@ msgstr "Initiële actieve afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:332
 msgid "Initial Drag Start Point"
-msgstr ""
+msgstr "Initieel slepen startpunt"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:253
 msgid "Initial Map Position"
@@ -16870,15 +16881,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:287
 msgid "Insert A Lottie Animation"
-msgstr ""
+msgstr "Een Lottie animatie invoegen"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:246
 msgid "Insert After Image"
-msgstr ""
+msgstr "Na-afbeelding invoegen"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:288
 msgid "Insert Animation"
-msgstr ""
+msgstr "Animatie invoegen"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:265
 msgid "Insert Audio Files"
@@ -16886,7 +16897,7 @@ msgstr "Audiobestanden invoegen"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:231
 msgid "Insert Before Image"
-msgstr ""
+msgstr "Vantevoren-afbeelding invoegen"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:400
 msgid "Insert Fallback Image"
@@ -16959,7 +16970,7 @@ msgstr "Zip-bestand invoegen"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:62
 msgid "Inserts a single lottie animation of your choice"
-msgstr ""
+msgstr "Voegt een enkele Lottie animatie naar keuze in"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:30
 msgid "Inserts an image of your choice"
@@ -17298,6 +17309,7 @@ msgstr "Globale lay-outopties gesynchroniseerd houden"
 #: includes/admin/option_tabs/avia_blog.php:146
 msgid "Keep in mind, that it requires a server request to load the new page."
 msgstr ""
+"Vergeet niet dat er een serververzoek nodig is om de nieuwe pagina te laden."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1515
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1804
@@ -17327,7 +17339,6 @@ msgid "Label Text"
 msgstr "Knoptekst"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:498
-#, fuzzy
 #| msgid "Label/Send Button alignment"
 msgid "Label/Send Button Alignment"
 msgstr "Uitlijning van labels/verzendknop"
@@ -17592,7 +17603,7 @@ msgstr "Lazy loading"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:623
 msgid "Lazy Loading Of Animation"
-msgstr ""
+msgstr "Lazy-loading van animatie"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2722
 msgid "Lazy Loading Of Images"
@@ -17894,7 +17905,7 @@ msgstr "Lijngrafiek"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:481
 msgid "Line Color"
-msgstr ""
+msgstr "Lijnkleur"
 
 #: includes/admin/register-backend-advanced-styles.php:35
 #: includes/admin/register-backend-advanced-styles.php:57
@@ -17936,7 +17947,7 @@ msgstr "Lineaire gradiënt overlay"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:365
 msgid "Lines"
-msgstr ""
+msgstr "Lijnen"
 
 #: includes/admin/option_tabs/avia_blog.php:294
 msgid "Link"
@@ -18317,11 +18328,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:343
 msgid "Loop Animation"
-msgstr ""
+msgstr "Animatie lus"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:369
 msgid "Loop Count"
-msgstr ""
+msgstr "Lus aantal"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:285
 msgid "Loop playlist"
@@ -18340,11 +18351,11 @@ msgstr "Videospeler Loop"
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:56
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:309
 msgid "Lottie Animation"
-msgstr ""
+msgstr "Lottie animatie"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:610
 msgid "Lottie Animation Link"
-msgstr ""
+msgstr "Lottie animatie koppeling"
 
 #: includes/admin/register-admin-option-values.php:38
 msgid "Lowercase"
@@ -18844,7 +18855,7 @@ msgstr "Bericht als een gebruiker zich inschrijft"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:275
 msgid "Message Sent Label"
-msgstr ""
+msgstr "Bericht verzonden label"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:397
 msgid "Message Sent label"
@@ -19190,6 +19201,8 @@ msgid ""
 "More information and free ready to use animations can be found at %s "
 "LottieFiles Homepage %s"
 msgstr ""
+"Meer informatie en gratis kant-en-klare animaties zijn te vinden op %s "
+"LottieFiles Homepage %s"
 
 #: includes/admin/option_tabs/avia_google.php:34
 msgid "More information and more privacy settings you find here:"
@@ -19259,7 +19272,6 @@ msgstr ""
 "erboven de uitgelichte afbeeldingen)"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:686
-#, fuzzy
 #| msgid "Multiple answers"
 msgid "Multiple Answers"
 msgstr "Meerdere antwoorden"
@@ -19428,7 +19440,7 @@ msgstr "Neutraal (lichtgrijs)"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:278
 msgid "Never show buttons"
-msgstr ""
+msgstr "Knoppen nooit tonen"
 
 #: includes/admin/option_tabs/avia_layout.php:228
 msgid "Never Sticky"
@@ -19565,7 +19577,7 @@ msgstr "Geen animatie"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:379
 msgid "No animation"
-msgstr ""
+msgstr "Geen animatie"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:641
 msgid "No attachment image available"
@@ -19581,7 +19593,7 @@ msgstr "Automatisch herladen niet vereist"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:338
 msgid "No autoplay (controls needed or on hover)"
-msgstr ""
+msgstr "Niet automatisch afspelen (knoppen nodig of bij muis-over)"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:621
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:728
@@ -20263,12 +20275,12 @@ msgstr "Getallen kleur"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:335
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:345
 msgid "Numbers only"
-msgstr ""
+msgstr "Enkel getallen"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:464
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:506
 msgid "Numbers Only Colors"
-msgstr ""
+msgstr "Enkel getallen - kleuren"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:335
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:385
@@ -20757,15 +20769,15 @@ msgstr "Buitenkant"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:529
 msgid "Oval"
-msgstr ""
+msgstr "Ovaal"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:351
 msgid "Oval border only"
-msgstr ""
+msgstr "Ovaal alleen rand"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:352
 msgid "Oval filled"
-msgstr ""
+msgstr "Ovaal gevuld"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:616
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:970
@@ -21153,23 +21165,23 @@ msgstr "Normaal (standaard)"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:363
 msgid "Play always"
-msgstr ""
+msgstr "Altijd afspelen"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:356
 msgid "Play Animation On Hover"
-msgstr ""
+msgstr "Animatie afspelen bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:364
 msgid "Play on hover"
-msgstr ""
+msgstr "Afspelen bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:379
 msgid "Playback Direction"
-msgstr ""
+msgstr "Afspeelrichting"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:319
 msgid "Playback Speed"
-msgstr ""
+msgstr "Afspeelsnelheid"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:445
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:479
@@ -21178,7 +21190,7 @@ msgstr "Speler"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:405
 msgid "Player Controls"
-msgstr ""
+msgstr "Speler besturingselementen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:525
 msgid ""
@@ -21210,7 +21222,7 @@ msgstr "Afspeellijst Volgorde"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:392
 msgid "Playmode"
-msgstr ""
+msgstr "Afspeelmodus"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
 msgid "Please check your API key"
@@ -21689,7 +21701,6 @@ msgid "Preprocessing Shortcodes In Header"
 msgstr "Shortcodes in header verwerken"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:696
-#, fuzzy
 #| msgid "Preselect checkbox"
 msgid "Preselect Checkbox"
 msgstr "Selectievakje vooraf selecteren"
@@ -22054,13 +22065,11 @@ msgid "Read more"
 msgstr "Lees meer"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:342
-#, fuzzy
 #| msgid "reCAPTCHA V2 theme color"
 msgid "reCAPTCHA V2 Theme Color"
 msgstr "reCAPTCHA V2 thema kleur"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:356
-#, fuzzy
 #| msgid "reCAPTCHA V2 theme size"
 msgid "reCAPTCHA V2 Theme Size"
 msgstr "reCAPTCHA V2 thema omvang"
@@ -22281,7 +22290,7 @@ msgstr "Verwijder"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2752
 msgid "Remove Animation"
-msgstr ""
+msgstr "Verwijder animatie"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:275
 msgid ""
@@ -22438,12 +22447,12 @@ msgstr "Zoekresultaten container"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:337
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:347
 msgid "Retro flip clock"
-msgstr ""
+msgstr "Retro draaiend klok"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:338
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:348
 msgid "Retro flip clock bouncing"
-msgstr ""
+msgstr "Retro draaiende klok stuiterend"
 
 #: functions-enfold.php:787
 msgid "Return values handling has changed"
@@ -23101,6 +23110,8 @@ msgid ""
 "Select a background color for the circle or oval. Leave empty for theme "
 "default."
 msgstr ""
+"Selecteer een achtergrondkleur voor de cirkel of het ovaal. Laat leeg voor "
+"het standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:538
 msgid "Select a background color for the input"
@@ -23141,18 +23152,23 @@ msgstr "Kies de lay-out van de cel"
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:559
 msgid "Select a color for button background. Leave empty for theme default."
 msgstr ""
+"Selecteer een kleur voor de achtergrond van de knop. Laat leeg voor "
+"standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:547
 msgid "Select a color for button border. Leave empty for theme default."
 msgstr ""
+"Selecteer een kleur voor de rand van de knop. Laat leeg voor standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:535
 msgid "Select a color for button font. Leave empty for theme default."
 msgstr ""
+"Selecteer een kleur voor het lettertype van de knop. Laat leeg voor "
+"standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:459
 msgid "Select a color for the arrows. Leave empty for theme default."
-msgstr ""
+msgstr "Kies een kleur voor de pijlen. Laat leeg voor het standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:559
 msgid ""
@@ -23186,6 +23202,7 @@ msgstr "Kies hier een kleur voor de inhoud. Laat leeg voor thema-standaard."
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:482
 msgid "Select a color for the drag lines. Leave empty for theme default."
 msgstr ""
+"Kies een kleur voor de sleeplijnen. Laat leeg voor het standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:504
 msgid "Select a color for the excerpt here. Leave blank for theme default."
@@ -23219,6 +23236,8 @@ msgid ""
 "Select a color for the small shadow of the drag lines. Leave empty for theme "
 "default."
 msgstr ""
+"Kies een kleur voor de kleine schaduw van de sleeplijnen. Laat leeg voor het "
+"standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:494
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:523
@@ -23328,7 +23347,6 @@ msgstr ""
 "leeg om de standaardkleur te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:303
-#, fuzzy
 #| msgid "Select a custom background color for your Notification here"
 msgid "Select a custom background color for your notification here"
 msgstr "Selecteer hier een achtergrondkleur voor uw notificatie"
@@ -23524,6 +23542,8 @@ msgid ""
 "Select a custom color for your background of the bottom card here. Leave "
 "blank to use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor de achtergrond van de onderste kaart. "
+"Laat leeg om de standaard te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:544
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:597
@@ -23531,6 +23551,8 @@ msgid ""
 "Select a custom color for your background of the top card here. Leave blank "
 "to use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor de achtergrond van de bovenste kaart. "
+"Laat leeg om de standaard te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:505
 msgid ""
@@ -23584,6 +23606,8 @@ msgid ""
 "Select a custom color for your numbers of the bottom card here. Leave blank "
 "to use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor uw nummers van de onderste kaart. Laat "
+"leeg om de standaard te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:522
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:575
@@ -23591,6 +23615,8 @@ msgid ""
 "Select a custom color for your numbers of the top card here. Leave blank to "
 "use default."
 msgstr ""
+"Kies hier een aangepaste kleur voor uw nummers van de bovenste kaart. Laat "
+"leeg om de standaard te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:600
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:707
@@ -23738,7 +23764,6 @@ msgid "Select a custom font color for your Heading here"
 msgstr "Kies aangepaste tekstkleur voor de Heading"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:322
-#, fuzzy
 #| msgid "Select a custom font color for your Notification here"
 msgid "Select a custom font color for your notification here"
 msgstr "Selecteer hier een tekstkleur voor uw notificatie"
@@ -24242,24 +24267,32 @@ msgid ""
 "Select a value to grayscale the animation (filter grayscale()). The bigger, "
 "the stronger."
 msgstr ""
+"Kies een waarde om de animatie grijs te maken (filter grayscale()). Hoe "
+"groter, hoe sterker."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1488
 msgid ""
 "Select a value to grayscale the image (filter grayscale()). The bigger, the "
 "stronger."
 msgstr ""
+"Kies een waarde om de afbeelding grijs te maken (filter grayscale()). Hoe "
+"groter, hoe sterker."
 
 #: includes/admin/option_tabs/avia_header.php:374
 msgid ""
 "Select a value to shrink the header. The bigger the value the smaller the "
 "header will be (ignored on smartphones + tablets)"
 msgstr ""
+"Selecteer een waarde om de koptekst te verkleinen. Hoe groter de waarde, hoe "
+"kleiner de koptekst (genegeerd op smartphones + tablets)."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:578
 msgid ""
 "Select a value to smoothen the animation (filter blur()). The bigger, the "
 "stronger."
 msgstr ""
+"Kies een waarde om de animatie gladder te maken (filter blur()). Hoe groter, "
+"hoe sterker."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1777
 msgid ""
@@ -24313,7 +24346,7 @@ msgstr "Selecteer een icoon voor in de knop"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:208
 msgid "Select an icon for your button below"
-msgstr ""
+msgstr "Selecteer hieronder een pictogram voor uw knop"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:596
 msgid "Select an icon for your circle icon entry"
@@ -24368,7 +24401,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:320
 msgid "Select animation play speed"
-msgstr ""
+msgstr "Selecteer afspeelsnelheid animatie"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:899
 msgid "Select approx. length of one effect, larger value slows down"
@@ -24515,7 +24548,7 @@ msgstr "Selecteer hoe de formulierlabels en de verzendknop uitgelijnd worden"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:329
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:339
 msgid "Select how to display the countdown numbers"
-msgstr ""
+msgstr "Selecteer hoe de aftelcijfers moeten worden weergegeven"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:229
 msgid "Select how to display the icon beside your content"
@@ -24860,11 +24893,15 @@ msgstr "Selecteer bericht types..."
 msgid ""
 "Select predefined colors or use custom colors for &quot;Numbers only&quot;"
 msgstr ""
+"Kies voorgedefinieerde kleuren of gebruik aangepaste kleuren voor &quot;"
+"Enkel getallen&quot;"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:504
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:557
 msgid "Select predefined colors or use custom colors for flip animations"
 msgstr ""
+"Kies voorgedefinieerde kleuren of gebruik aangepaste kleuren voor flip-"
+"animaties"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:616
 msgid "Select predefined pattern"
@@ -24886,6 +24923,8 @@ msgid ""
 "Select styling for the navigation arrows. These can be used to scroll "
 "through the small thumbnails below."
 msgstr ""
+"Selecteer styling voor de navigatiepijlen. Deze kunnen worden gebruikt om "
+"door de kleine miniaturen eronder te bladeren."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1633
 msgid ""
@@ -24965,7 +25004,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:373
 msgid "Select the behaviour of the drag line arrows on hover"
-msgstr ""
+msgstr "Kies het gedrag van de sleeplijnpijlen bij hover"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:229
 msgid ""
@@ -25009,12 +25048,16 @@ msgid ""
 "Select the direction of playback. Backwards is not supported for all "
 "animations."
 msgstr ""
+"Selecteer de afspeelrichting. Achteruit wordt niet voor alle animaties "
+"ondersteund."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:320
 msgid ""
 "Select the direction of the drag line. Can be moved by dragging, swipe on "
 "touch devices, a click in image or with buttons."
 msgstr ""
+"Selecteer de richting van de sleeplijn. Kan worden verplaatst door slepen, "
+"vegen op aanraak-toestellen, een klik in beeld of met knoppen."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:357
 msgid "Select the distance between the cells in a row."
@@ -25086,14 +25129,16 @@ msgid ""
 "Select the initial visibility start point of the drag line for the before "
 "image on page load."
 msgstr ""
+"Selecteer het beginpunt van de sleeplijn voor de voorste afbeelding bij het "
+"laden van de pagina."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:520
 msgid "Select the layout of the buttons"
-msgstr ""
+msgstr "Selecteer de lay-out van de knoppen"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:343
 msgid "Select the layout of the drag line"
-msgstr ""
+msgstr "Selecteer de lay-out van de sleeplijn"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:728
 msgid "Select the left position of the icon anchor in pixel"
@@ -25212,6 +25257,8 @@ msgstr "Selecteer de ondoorzichtigheid van uw gekleurde banner overlay"
 msgid ""
 "Select the playmode. Bounce will play animation forward and then backwards."
 msgstr ""
+"Selecteer de afspeelmodus. Stuiteren speelt de animatie vooruit en dan "
+"achteruit."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:527
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:543
@@ -25289,7 +25336,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:359
 msgid "Select the styling of the drag line and circle"
-msgstr ""
+msgstr "Selecteer de vormgeving van de sleeplijn en de cirkel"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:369
 msgid "Select the styling of the toggles"
@@ -25473,6 +25520,8 @@ msgid ""
 "Select to change the big preview image to thumbnail when user hovers over "
 "small thumbnails below."
 msgstr ""
+"Selecteer om de grote voorbeeldafbeelding te veranderen in een miniatuur "
+"wanneer de gebruiker met de muis over de kleine miniaturen eronder gaat."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2708
 msgid ""
@@ -25489,6 +25538,11 @@ msgid ""
 "post type will disable it for that post by default).  Setting is also used "
 "for portfolio. Use filter avf_post_nav_settings to customize."
 msgstr ""
+"Selecteer om de berichtnavigatie die linkt naar het volgende/vorige bericht "
+"op enkele items uit te schakelen of in te schakelen (Volledige-breedte "
+"diavoorstellingen en hiërarchische berichttype zullen dit standaard "
+"uitschakelen voor dat bericht).  Instelling wordt ook gebruikt voor "
+"portfolio. Gebruik filter avf_post_nav_settings om aan te passen."
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:778
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:975
@@ -25575,6 +25629,10 @@ msgid ""
 "above). Use filter avf_post_nav_settings and avf_post_nav_swipe_support to "
 "customize."
 msgstr ""
+"Selecteer om veegondersteuning in te schakelen voor berichten en portfolio. "
+"Dit is een BETA-functie sinds 5.5 en kan problemen veroorzaken met "
+"diavoorstellingen (zie beperkingen hierboven). Gebruik filter "
+"avf_post_nav_settings en avf_post_nav_swipe_support om aan te passen."
 
 #: includes/admin/option_tabs/avia_cookie.php:830
 msgid ""
@@ -25612,13 +25670,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:344
 msgid "Select to loop animation"
-msgstr ""
+msgstr "Selecteer om animatie te lussen"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:357
 msgid ""
 "Select to play animation on hover only. This will stop autoplay looping "
 "after first hover."
 msgstr ""
+"Selecteer om animatie alleen af te spelen bij muis-over. Dit stopt het "
+"automatisch afspelen na de eerste muis-over."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:448
 msgid "Select to rotate the element clockwise"
@@ -25663,6 +25723,8 @@ msgstr "Vink aan om commentaren in de lightbox te tonen."
 msgid ""
 "Select to show player controls. Will be hidden, when a link is selected."
 msgstr ""
+"Selecteer om de bedieningselementen van de speler te tonen. Wordt verborgen "
+"wanneer een link is geselecteerd."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:463
 msgid "Select to show the bio in header."
@@ -25788,7 +25850,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:270
 msgid "Select when to display the before and after buttons"
-msgstr ""
+msgstr "Selecteer wanneer de knoppen voor en na moeten worden weergegeven"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:306
 msgid "Select when to display the tooltips"
@@ -25796,7 +25858,7 @@ msgstr "Selecteer wanneer de tooltips getoond moeten worden"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:330
 msgid "Select when to start play animation"
-msgstr ""
+msgstr "Selecteer wanneer de afspeelanimatie moet beginnen"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:409
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:447
@@ -25936,7 +25998,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:508
 msgid "Select your background color. Leave empty for transparent background"
-msgstr ""
+msgstr "Selecteer uw achtergrondkleur. Laat leeg voor transparante achtergrond"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:253
 msgid ""
@@ -26171,7 +26233,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:203
 msgid "Set a position for the animation."
-msgstr ""
+msgstr "Stel een positie in voor de animatie."
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:160
 msgid "Set a position for the button"
@@ -26630,7 +26692,7 @@ msgstr "Schaduw en element - bij permanente muis-over"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:492
 msgid "Shadow Line Color"
-msgstr ""
+msgstr "Kleur schaduwlijn"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:829
 msgid "Shadow only - on hover once"
@@ -27167,10 +27229,12 @@ msgid ""
 "Shows 2 overlayed images with a moveable divider to show difference between "
 "images."
 msgstr ""
+"Toont 2 overlappende beelden met een beweegbare scheidingslijn om het "
+"verschil tussen de beelden te tonen."
 
 #: includes/admin/option_tabs/avia_header.php:373
 msgid "Shrinking Amount"
-msgstr ""
+msgstr "Hoeveelheid krimp"
 
 #: includes/admin/option_tabs/avia_header.php:353
 msgid "Shrinking Header"
@@ -27358,7 +27422,7 @@ msgstr "Enkel-bericht stijl"
 
 #: includes/admin/option_tabs/avia_blog.php:150
 msgid "Single Post Swipe Support"
-msgstr ""
+msgstr "Swipe-ondersteuning voor enkel bericht"
 
 #: includes/admin/option_tabs/avia_blog.php:175
 msgid "Single post with big preview image (featured image)"
@@ -27684,7 +27748,7 @@ msgstr "Kleine padding (20px)"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:527
 msgid "Small rounded borders"
-msgstr ""
+msgstr "Kleine afgeronde randen"
 
 #: includes/admin/option_tabs/avia_menu.php:209
 msgid "Small separator"
@@ -27727,7 +27791,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:577
 msgid "Smoothen Animation On Hover"
-msgstr ""
+msgstr "Animatie vloeiender maken bij muis-over"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1389
 msgid "Smoothen Backside Background Image"
@@ -28140,11 +28204,11 @@ msgstr "Start ondoorzichtigheid"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:337
 msgid "Start when document is loaded"
-msgstr ""
+msgstr "Afspelen zodra pagina is geladen"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:336
 msgid "Start when it comes in viewport"
-msgstr ""
+msgstr "Afspelen zodra het in beeld komt"
 
 #: framework/php/auto-updates/auto-updates.php:325
 #, php-format
@@ -28412,7 +28476,7 @@ msgstr "Verzenden"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:262
 msgid "Submit Action"
-msgstr ""
+msgstr "Actie na verzenden"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:253
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:251
@@ -29456,7 +29520,7 @@ msgstr "Themakleur subtiel"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:512
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:565
 msgid "Theme Colors"
-msgstr ""
+msgstr "Themakleuren"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:515
 msgid "Theme colors"
@@ -29476,7 +29540,7 @@ msgstr "Thema standaard"
 
 #: includes/admin/option_tabs/avia_header.php:363
 msgid "Theme default (=50%)"
-msgstr ""
+msgstr "Thema standaard (=50%)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2805
 msgid "Theme default is:"
@@ -29806,13 +29870,11 @@ msgid "This is the color that is displayed behind your boxed content area"
 msgstr "Dit is de kleur die getoond wordt achter uw gekaderd inhoudsgebied"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:175
-#, fuzzy
 #| msgid "This is the small title at the top of your Notification."
 msgid "This is the small title at the top of your notification."
 msgstr "Dit is de kleine titel aan de bovenkant van uw notificatie"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:185
-#, fuzzy
 #| msgid "This is the text that appears in your Notification."
 msgid "This is the text that appears in your notification."
 msgstr "Dit is de tekst dat zal worden getoond in uw notificatie."
@@ -29937,6 +29999,9 @@ msgid ""
 "This will load animation file when element comes into viewport. This might "
 "cause the layout to shift down when the animation is displayed."
 msgstr ""
+"Dit laadt het animatiebestand wanneer het element in de viewport komt. "
+"Hierdoor kan de lay-out naar beneden verschuiven wanneer de animatie wordt "
+"weergegeven."
 
 #: includes/admin/option_tabs/avia_builder.php:77
 msgid ""
@@ -30466,12 +30531,12 @@ msgstr "Bovenkant &amp; onderkant marge"
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:543
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:596
 msgid "Top Card Background Color"
-msgstr ""
+msgstr "Achtergrondkleur topkaart"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:521
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:574
 msgid "Top Card Numbers Color"
-msgstr ""
+msgstr "Bovenste kaart kleur van nummers"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:646
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1821
@@ -32548,7 +32613,7 @@ msgstr "Wat gebeurt er als gebruiker op een productlink klikt?"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:263
 msgid "What should happen once the form gets sent"
-msgstr ""
+msgstr "Wat moet er gebeuren zodra het formulier is verzonden"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:385
 msgid "What should happen once the form gets sent?"
@@ -32744,6 +32809,8 @@ msgid ""
 "Where should your lottie animation link to. Selecting a link will hide the "
 "controls."
 msgstr ""
+"Waar moet je Lottie animatie naar linken. Het selecteren van een link zal de "
+"besturingselementen verbergen."
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:637
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:334
@@ -33427,7 +33494,6 @@ msgid "You can create new menus in "
 msgstr "U kunt nieuwe menu's creëren in "
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:415
-#, fuzzy
 #| msgid ""
 #| "You can define a custom Email Subject for your form here. If left empty "
 #| "the subject will be"
@@ -33701,7 +33767,6 @@ msgid "Your comment is awaiting moderation."
 msgstr "Uw reactie is in afwachting op moderatie."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:395
-#, fuzzy
 #| msgid "Your email address"
 msgid "Your E-Mail Address"
 msgstr "Uw e-mailadres"
@@ -33711,10 +33776,9 @@ msgid "Your E-Mail: "
 msgstr "Uw E-mail:&nbsp;"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:405
-#, fuzzy
 #| msgid "Your from address"
 msgid "Your From Address"
-msgstr "Uw 'van' adres"
+msgstr "Uw 'Van' adres"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:163
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:242
