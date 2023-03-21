@@ -1,5 +1,6 @@
 2023-03-21
 - Dutch language files nl_NL (version 5.5 provided by EZWebdesign - Roger Hoen )
+- Croatian language files hr (version 5.5, provided by NUIT d.o.o. - info@nuit.hr)
 
 2023-03-17
 - Hungarian language files hu_HU (5.5 provided by Földesi Stúdió - Földesi Mihály )
