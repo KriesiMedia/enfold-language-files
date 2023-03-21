@@ -1,9 +1,11 @@
+2023-03-21
+- Dutch language files nl_NL (version 5.5 provided by EZWebdesign - Roger Hoen )
 
 2023-03-17
-- Hungarian language files hu_HU (5.5-dev-4 provided by Földesi Stúdió - Földesi Mihály )
+- Hungarian language files hu_HU (5.5 provided by Földesi Stúdió - Földesi Mihály )
 
 2023-03-16
-- sync all language files (5.4-dev-5)
+- sync all language files (5.5)
 
 2023-02-10
 - Italian language files it_IT (version 5.4, provided by BigBatT - info@luigicircello.it)
