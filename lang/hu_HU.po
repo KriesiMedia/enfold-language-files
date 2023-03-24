@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-17 16:36+0200\n"
 "PO-Revision-Date: 2023-03-17 16:36+0200\n"
-"Last-Translator: \n"
+"Last-Translator: Földesi Mihály (foldesistudio.hu)\n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: 404.php:12
 msgid "Error 404 - page not found"
-msgstr "Hiba 404 - a lap nem található"
+msgstr "Hiba 404 - az oldal nem található"
 
 #: author.php:24
 msgid "Entries by"
@@ -4245,7 +4245,7 @@ msgstr ""
 #: config-layerslider/LayerSlider/assets/views/project-editor.php:2288
 #, fuzzy
 msgid "Icon Placement"
-msgstr "Tartalom Elemek"
+msgstr "Tartalmi elemek"
 
 #: config-layerslider/LayerSlider/assets/config/defaults.php:2129
 #: config-layerslider/LayerSlider/assets/config/defaults.php:4066
@@ -7053,7 +7053,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:716
 #: config-templatebuilder/avia-shortcodes/video/video.php:131
 msgid "Advanced"
-msgstr ""
+msgstr "Haladó"
 
 #: config-layerslider/LayerSlider/assets/templates/tmpl-embed-slider.php:134
 msgid ""
@@ -15136,7 +15136,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:878
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:645
 msgid "Load more"
-msgstr ""
+msgstr "Továbbiak betöltése"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:989
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
@@ -15197,7 +15197,7 @@ msgstr "Videó"
 #: config-templatebuilder/avia-shortcodes/video/video.php:27
 #: config-templatebuilder/avia-template-builder/config/meta.php:92
 msgid "Media Elements"
-msgstr ""
+msgstr "Média elemek"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:41
 #: config-templatebuilder/avia-shortcodes/video/video.php:33
@@ -15304,7 +15304,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:368
 #: config-templatebuilder/avia-shortcodes/video/video.php:115
 msgid "Styling"
-msgstr ""
+msgstr "Stílus"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:214
 #: config-templatebuilder/avia-shortcodes/video/video.php:217
@@ -15876,7 +15876,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:745
 msgid " ??? "
-msgstr ""
+msgstr "???"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:26
 #: includes/loop-index.php:12 template-archives.php:54
@@ -15927,7 +15927,7 @@ msgstr "Blog Bejegyzések"
 #: config-templatebuilder/avia-shortcodes/widgetarea/widgetarea.php:22
 #: config-templatebuilder/avia-template-builder/config/meta.php:92
 msgid "Content Elements"
-msgstr "Tartalom Elemek"
+msgstr "Tartalmi elemek"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:32
 msgid "Displays Posts from your Blog"
@@ -17468,7 +17468,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:47
 #: config-templatebuilder/avia-template-builder/config/meta.php:92
 msgid "Layout Elements"
-msgstr ""
+msgstr "Elrendezési elemek"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:151
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:95
@@ -24000,7 +24000,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:254
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:257
 msgid "Add multiple Images"
-msgstr ""
+msgstr "Több kép hozzáadása"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:278
 msgid "Logo Slider Or Logo Grid Layout"
@@ -32029,7 +32029,7 @@ msgstr "Sajnálom, de nincs elég jogosultsága a kért művelet végrehajtásá
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:175
 #: includes/admin/register-admin-options.php:127
 msgid "Custom Elements"
-msgstr ""
+msgstr "Egyedi elemek"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:424
 msgid ""
@@ -33447,7 +33447,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2072
 msgid "Customize"
-msgstr ""
+msgstr "Testreszabás"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2077
 msgid ""
@@ -36013,11 +36013,11 @@ msgstr ""
 
 #: framework/php/class-htmlhelper.php:2840
 msgid "Save all changes"
-msgstr ""
+msgstr "Minden mentése"
 
 #: framework/php/class-htmlhelper.php:2856
 msgid "Reset all options"
-msgstr ""
+msgstr "Gyáribeállítás visszállítása"
 
 #: framework/php/class-htmlhelper.php:3081
 msgid "Select an element to customize"
@@ -42188,16 +42188,16 @@ msgstr ""
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:47
 msgid "A (Lowest)"
-msgstr ""
+msgstr "A (legalacsonyabb)"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:48
 #, fuzzy
 msgid "AA (Midrange)"
-msgstr "Riasztás (narancssárga)"
+msgstr "AA (közepes)"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:49
 msgid "AAA (Highest)"
-msgstr ""
+msgstr "AAA (legamagasabb)"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:62
 msgid ""
@@ -42527,7 +42527,7 @@ msgstr ""
 
 #: includes/admin/register-admin-options.php:230
 msgid "Theme Extensions"
-msgstr ""
+msgstr "Téma bővítmények"
 
 #: includes/admin/register-admin-options.php:240
 msgid "OpenStreetMaps"
@@ -42535,7 +42535,7 @@ msgstr ""
 
 #: includes/admin/register-admin-options.php:248
 msgid "Accessibility"
-msgstr ""
+msgstr "Akadálymentesség"
 
 #: includes/admin/register-backend-advanced-styles.php:29
 msgid "Change the styling for the &lt;body&gt; tag."
