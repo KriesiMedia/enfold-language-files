@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.8.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-17 16:36+0200\n"
-"PO-Revision-Date: 2023-03-25 19:17+0000\n"
+"PO-Revision-Date: 2023-03-25 19:24+0000\n"
 "Last-Translator: Földesi Mihály (foldesistudio.hu)\n"
 "Language-Team: Magyar\n"
 "Language: hu-HU\n"
@@ -43287,7 +43287,7 @@ msgstr "Google szolgáltatások"
 
 #: includes/admin/register-admin-options.php:193
 msgid "Shop Options"
-msgstr ""
+msgstr "Webshop beállítások"
 
 #: includes/admin/register-admin-options.php:204
 msgid "Demo Import"
