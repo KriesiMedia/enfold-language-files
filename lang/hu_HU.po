@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.8.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-17 16:36+0200\n"
-"PO-Revision-Date: 2023-03-25 19:24+0000\n"
+"PO-Revision-Date: 2023-03-27 11:48+0000\n"
 "Last-Translator: Földesi Mihály (foldesistudio.hu)\n"
 "Language-Team: Magyar\n"
 "Language: hu-HU\n"
@@ -28332,7 +28332,7 @@ msgstr ""
 #: includes/admin/option_tabs/avia_layout.php:256 
 #: includes/admin/register-admin-options.php:143
 msgid "Social Profiles"
-msgstr "Közösségi Profilok"
+msgstr "Közösségi profilok"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:185
 msgid "Small title"
@@ -42215,7 +42215,7 @@ msgstr "jobb oldalsáv"
 #: includes/admin/option_tabs/avia_sidebars.php:58 
 #: includes/admin/option_tabs/avia_sidebars.php:75
 msgid "no sidebar"
-msgstr "nincs oldalsáv"
+msgstr "Nincsen oldalsáv"
 
 #: includes/admin/option_tabs/avia_sidebars.php:32
 #, fuzzy
