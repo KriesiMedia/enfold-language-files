@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.8.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-17 16:36+0200\n"
-"PO-Revision-Date: 2023-03-27 11:48+0000\n"
+"PO-Revision-Date: 2023-03-27 12:02+0000\n"
 "Last-Translator: Földesi Mihály (foldesistudio.hu)\n"
 "Language-Team: Magyar\n"
 "Language: hu-HU\n"
@@ -23294,7 +23294,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:287
 msgid "Before"
-msgstr ""
+msgstr "Előtte"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:293
 msgid "After Button Text"
@@ -23306,7 +23306,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:297
 msgid "After"
-msgstr ""
+msgstr "Utána"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:309 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:575 
