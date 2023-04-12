@@ -1,3 +1,6 @@
+2023-04-12
+- fixed translation error in de_DE files
+
 2023-04-11
 - sync all language files (5.6)
 
