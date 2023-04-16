@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.6.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-01 12:06+0200\n"
-"PO-Revision-Date: 2023-04-12 09:23+0000\n"
+"PO-Revision-Date: 2023-04-16 14:51+0000\n"
 "Last-Translator: Test test\n"
 "Language-Team: German (Austria)\n"
 "Language: de_AT\n"
@@ -21352,7 +21352,7 @@ msgstr ""
 #: framework/php/class-form-generator.php:764
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:948
 msgid "Prev"
-msgstr "Vorangegangen"
+msgstr "Vorher"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2909
 msgid "Preview"
