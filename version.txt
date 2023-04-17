@@ -1,5 +1,6 @@
 2023-04-17
 - Dutch language files nl_NL (version 5.6 provided by EZWebdesign - Roger Hoen )
+- Hungarian language files hu_HU (5.5 provided by Földesi Stúdió - Földesi Mihály )
 
 2023-04-16
 - fixed translation error in de_DE files
