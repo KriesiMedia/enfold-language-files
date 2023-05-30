@@ -1,5 +1,6 @@
 2023-05-30
 - Czech language files cs_CZ (version 5.6.2 provided by DemonioCZ - https://github.com/KriesiMedia/enfold-language-files/pull/50 )
+- fixed: Minor translation errors in German files
 
 2023-05-18
 - French language files fr_FR (version 5.6.2 provided by comkapi - Patrick)
