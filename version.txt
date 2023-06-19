@@ -1,3 +1,7 @@
+
+2023-06-19
+- Italian language files it_IT (version 5.6.3, provided by BigBatT - info@luigicircello.it)
+
 2023-05-30
 - Czech language files cs_CZ (version 5.6.2 provided by DemonioCZ - https://github.com/KriesiMedia/enfold-language-files/pull/50 )
 - fixed: Minor translation errors in German files
