@@ -1,3 +1,5 @@
+2023-07-13
+- sync all language files (5.6.4)
 
 2023-06-21
 - Dutch language files nl_NL (version 5.6.3 provided by EZWebdesign - Roger Hoen )
