@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2023-07-13 15:09+0000\n"
+"PO-Revision-Date: 2023-07-14 15:44+0000\n"
 "Last-Translator: \n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -236,7 +236,7 @@ msgstr ""
 #: config-gutenberg/class-avia-gutenberg-theme-integration.php:501
 #, php-format
 msgid "%d px"
-msgstr ""
+msgstr "%d px"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:519
 #, php-format
@@ -920,6 +920,11 @@ msgid ""
 "Group</a> - <a href='http://www.kriesi.at/newsletter'>Subscribe to our "
 "Newsletter</a>"
 msgstr ""
+"<strong>Een superflexibel en responsief zakelijk thema van Kriesi</strong> - "
+" Update notificaties zijn beschikbaar op Facebook en via onze nieuwsbrief: - "
+"<a href='http://www.facebook.com/pages/Kriesi/333648177216'>Word lid van de "
+"Facebook-groep</a> - <a href='http://www.kriesi.at/newsletter'>Abonneer u op "
+"onze nieuwsbrief</a>"
 
 #: includes/admin/option_tabs/avia_cookie.php:872
 msgid "[av_privacy_custom_cookie cookie_name=\"\"]"
@@ -2736,7 +2741,7 @@ msgstr "Een element voor %s %s"
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:212
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:548
 msgid "AND"
-msgstr ""
+msgstr "EN"
 
 #: includes/admin/option_tabs/avia_sidebars.php:156
 msgid ""
@@ -2870,7 +2875,7 @@ msgstr "Een privacybeleid-bericht toevoegen aan uw registratieformulieren?"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:533
 msgid "Append A Text"
-msgstr ""
+msgstr "Een tekst toevoegen"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:298
 msgid "Append a text"
@@ -2928,13 +2933,11 @@ msgid "Apply link to date and headline"
 msgstr "Link toepassen op datum en kop"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:932
-#, fuzzy
 #| msgid "Apply link to the date, icon and headline"
 msgid "Apply link to date, icon and headline"
 msgstr "Link toepassen op datum, icoon en kop"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:933
-#, fuzzy
 #| msgid "Apply link to the icon and date"
 msgid "Apply link to icon and date"
 msgstr "Link toepassen op icoon en datum"
@@ -2945,7 +2948,6 @@ msgstr "Link toepassen op icoon en kop"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:470
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:677
-#, fuzzy
 #| msgid "Yes, apply link to icon and title"
 msgid "Apply link to icon and title"
 msgstr "Ja, pas link toe op icoon en titel"
@@ -2965,14 +2967,13 @@ msgid "Apply link to image"
 msgstr "Link toepassen op afbeelding"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:469
-#, fuzzy
 #| msgid "No, apply link to the title"
 msgid "Apply link to the title"
-msgstr "Nee, de titel moet linken"
+msgstr "Koppeling toepassen op de titel"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:676
 msgid "Apply link to title only"
-msgstr ""
+msgstr "Link alleen op titel toepassen"
 
 #: framework/php/class-htmlhelper.php:2986
 msgid "Apply only to active state"
@@ -3786,7 +3787,7 @@ msgstr "Zwart"
 
 #. Name of the template
 msgid "Blank - No Header, no Footer"
-msgstr ""
+msgstr "Blanco - Geen koptekst, geen voettekst"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:241
 msgid "Blank Hotspot"
@@ -5464,11 +5465,11 @@ msgstr ""
 
 #: framework/php/class-gmaps.php:573
 msgid "Check if you typed the key correctly."
-msgstr ""
+msgstr "Controleer of je de sleutel correct hebt getypt."
 
 #: framework/php/class-grecaptcha.php:896
 msgid "Check if you typed the keys correctly."
-msgstr ""
+msgstr "Controleer of je de sleutels correct hebt getypt."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1171
 msgid "Check if you want an inverted divider image."
@@ -6397,7 +6398,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:257
 msgid "Choose the default blog layout here"
-msgstr ""
+msgstr "Kies hier de standaard bloglay-out"
 
 #: includes/admin/option_tabs/avia_blog.php:93
 msgid "Choose the default blog layout here."
@@ -6831,7 +6832,7 @@ msgstr "Dupliceer kolom"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2692
 msgid "Clone Custom Element"
-msgstr ""
+msgstr "Aangepast element klonen"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2079
 msgid "Clone Element"
@@ -6904,7 +6905,7 @@ msgstr "Codeblok gedrag"
 #: config-gutenberg/class-avia-gutenberg-theme-integration.php:479
 #, php-format
 msgid "col_%s"
-msgstr ""
+msgstr "col_%s"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:346
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:379
@@ -7168,7 +7169,6 @@ msgid "Conditional CSS Class"
 msgstr "Voorwaardelijke CSS Class"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:358
-#, fuzzy
 #| msgid "Conditional display"
 msgid "Conditional Display"
 msgstr "Voorwaardelijke weergave"
@@ -7471,7 +7471,7 @@ msgstr "Inhoud diavoorstelling element"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:207
 msgid "Content To Display"
-msgstr ""
+msgstr "Inhoud om weer te geven"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:473
 msgid "Content transition"
@@ -7677,7 +7677,7 @@ msgstr "Verschijning van aftellen"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:343
 msgid "Countdown Finished Message"
-msgstr ""
+msgstr "Aftellen voltooid bericht"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2335
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:73
@@ -7916,6 +7916,8 @@ msgstr "Creëer toggles of accordeons (kunnen gebruikt worden als FAQ) "
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:970
 msgid "Creating a copy of element template has failed. Please try again"
 msgstr ""
+"Het aanmaken van een kopie van een elementsjabloon is mislukt. Probeer het "
+"opnieuw"
 
 #: includes/admin/option_tabs/avia_performance.php:54
 msgid "CSS File Merging And Compression"
@@ -8945,7 +8947,6 @@ msgstr ""
 "verwijderen met behulp van JavaScript of PHP."
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:290
-#, fuzzy
 #| msgid "Define Blog Grid layout"
 msgid "Define Blog Grid Layout"
 msgstr "Bepaal lay-out Blograster "
@@ -9139,7 +9140,7 @@ msgstr "Verwijder Kolom"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2691
 msgid "Delete Custom Element"
-msgstr ""
+msgstr "Aangepast element verwijderen"
 
 #: framework/php/class-htmlhelper.php:2011
 msgid "Delete downloaded files"
@@ -10857,7 +10858,7 @@ msgstr "E-Mail naar:"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:310
 msgid "E-Mail:"
-msgstr ""
+msgstr "E-Mail:"
 
 #: includes/admin/option_tabs/avia_social.php:16
 msgid "e.g:"
@@ -10960,7 +10961,7 @@ msgstr "Bewerk elementen van contactformulier"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2690
 msgid "Edit Custom Element"
-msgstr ""
+msgstr "Aangepast element bewerken"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2392
 msgid "Edit Custom Elements"
@@ -11547,7 +11548,7 @@ msgstr "Einde aangepaste elementen bewerken"
 
 #. Name of the theme
 msgid "Enfold"
-msgstr ""
+msgstr "Enfold"
 
 #: config-gutenberg/class-avia-gutenberg.php:1211
 msgid "Enfold Actions"
@@ -11776,6 +11777,9 @@ msgid ""
 "Enter a small message that is displayed when countdown has finished and "
 "hides the numbers. Leave empty if numbers should display 0."
 msgstr ""
+"Voer een klein bericht in dat wordt weergegeven als het aftellen is "
+"afgelopen en dat de getallen verbergt. Laat leeg als de getallen 0 moeten "
+"zijn."
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:294
 msgid "Enter a text that is displayed in the button for the after image."
@@ -12648,7 +12652,7 @@ msgstr "Fouten konden niet worden gerepareerd."
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:652
 msgid "Errors found:"
-msgstr ""
+msgstr "Fouten gevonden:"
 
 #: framework/php/inc-avia-importer.php:239
 msgid ""
@@ -13517,7 +13521,7 @@ msgstr "Footer instellingen"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:474
 msgid "For admins only: Missing intagram user name !!"
-msgstr ""
+msgstr "Alleen voor beheerders: Ontbrekende Instagram gebruikersnaam !!!"
 
 #: includes/admin/option_tabs/avia_performance.php:523
 msgid "For advanced users:"
@@ -14346,7 +14350,7 @@ msgstr "Stijl van de header"
 #, fuzzy
 #| msgid "Header Text Link?"
 msgid "Header Text Link"
-msgstr "Koptekst Link?"
+msgstr "Koptekst Link"
 
 #: includes/admin/option_tabs/avia_header.php:306
 msgid "Header Title and Breadcrumbs"
@@ -14458,7 +14462,7 @@ msgstr "Koptekst"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:524
 msgid "Heading Text Link"
-msgstr ""
+msgstr "Link koptekst"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:777
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:186
@@ -15265,10 +15269,9 @@ msgid "Hotspot Color"
 msgstr "Kleur van Hotspot"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:617
-#, fuzzy
 #| msgid "Hotspot Link?"
 msgid "Hotspot Link"
-msgstr "Hotspot Link?"
+msgstr "Hotspot Link"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:333
 msgid "Hotspot on mobile devices"
@@ -15449,11 +15452,11 @@ msgstr ""
 
 #. URI of the theme
 msgid "http://www.kriesi.at/themes/enfold/"
-msgstr ""
+msgstr "http://www.kriesi.at/themes/enfold/"
 
 #. Author URI of the theme
 msgid "https://kriesi.at"
-msgstr ""
+msgstr "https://kriesi.at"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:382
 msgid "Huge Padding"
@@ -15852,6 +15855,8 @@ msgid ""
 "works by using the button above. If thats the case then one of your plugins "
 "is interfering."
 msgstr ""
+"Als dit niet helpt: deactiveer alle plugins en controleer dan of de API "
+"werkt met de knop hierboven. Als dat het geval is, stoort een van je plugins."
 
 #: framework/php/class-gmaps.php:579
 msgid ""
@@ -15859,6 +15864,9 @@ msgid ""
 "works by using the button above. If thats the case then one of your plugins "
 "is interfering. "
 msgstr ""
+"Als dit niet helpt: deactiveer alle plugins en controleer dan of de API "
+"werkt met de knop hierboven. Als dat het geval is, stoort een van je plugins."
+" "
 
 #: config-templatebuilder/avia-template-builder/php/class-media.php:132
 msgid "If provided, the image will link to this URL"
@@ -16054,6 +16062,10 @@ msgid ""
 "minutes for google to apply your changes and then check again if the key "
 "works here. If it does, you probably have a syntax error in your referrer url"
 msgstr ""
+"Als je de beperkingsinstelling van Google gebruikt, probeer die dan te "
+"verwijderen, wacht een paar minuten totdat Google je wijzigingen heeft "
+"toegepast en controleer dan opnieuw of de sleutel hier werkt. Als dat zo is, "
+"heb je waarschijnlijk een syntaxisfout in je referrer url"
 
 #: framework/php/class-grecaptcha.php:899
 msgid ""
@@ -16061,6 +16073,10 @@ msgid ""
 "minutes for google to apply your changes and then check again if the keys "
 "work here. If it does, you probably have a syntax error in your referrer url"
 msgstr ""
+"Als je de beperkingsinstelling van Google gebruikt, probeer die dan te "
+"verwijderen, wacht een paar minuten totdat Google je wijzigingen heeft "
+"toegepast en controleer dan opnieuw of de sleutels hier werken. Als dat zo "
+"is, heb je waarschijnlijk een syntaxisfout in je referrer url"
 
 #: includes/admin/option_tabs/avia_cookie.php:652
 msgid ""
@@ -16927,7 +16943,7 @@ msgstr "Voeg Thema shortcode in"
 
 #: framework/php/class-media.php:316
 msgid "Insert Video"
-msgstr ""
+msgstr "Video invoegen"
 
 #: includes/admin/option_tabs/avia_upload.php:197
 #: includes/admin/option_tabs/avia_upload.php:217
@@ -17048,6 +17064,8 @@ msgid ""
 "Invalid element template to duplicate has been supplied or template has been "
 "deleted."
 msgstr ""
+"Er is een ongeldige elementsjabloon voor dupliceren opgegeven of de sjabloon "
+"is verwijderd."
 
 #: framework/php/class-grecaptcha.php:835
 msgid "Invalid form for reCAPTCHA sent."
@@ -17281,7 +17299,7 @@ msgstr "Toetsenbord ondersteuning"
 
 #. Author of the theme
 msgid "Kriesi"
-msgstr ""
+msgstr "Kriesi"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:220
 msgid "Label Text"
@@ -17918,7 +17936,7 @@ msgstr "Link Afhandeling"
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:668
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:924
 msgid "Link Location"
-msgstr ""
+msgstr "Locatie van koppeling"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:126
 msgid "Link portfolio item to external URL"
@@ -18123,11 +18141,11 @@ msgstr "Laad alleen de gebruikte elementen (aanbevolen)"
 
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:90
 msgid "Load template at bottom:"
-msgstr "Laad sjabloon onderaan:"
+msgstr "Sabloon onderaan invoegen:"
 
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:91
 msgid "Load template at top:"
-msgstr "Laad sjabloon bovenaan:"
+msgstr "Sjabloon bovenaan invoegen:"
 
 #: functions-enfold.php:19
 msgid "Loading"
@@ -18389,7 +18407,7 @@ msgstr "Onderhoudsmodus"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:672
 msgid "Make a duplicate from this element template"
-msgstr ""
+msgstr "Maak een duplicaat van deze elementsjabloon"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:312
 msgid "Make entire table scrollable"
@@ -18735,7 +18753,7 @@ msgstr "Menu-items voor mobiele weergave"
 #, fuzzy
 #| msgid "Menu Link?"
 msgid "Menu Link"
-msgstr "Menu link?"
+msgstr "Menu link"
 
 #: includes/admin/register-backend-advanced-styles.php:451
 msgid "Menu Links in overlay/slide out"
@@ -19187,7 +19205,7 @@ msgstr "Verplaats"
 
 #: framework/php/class-megamenu.php:503
 msgid "Move down"
-msgstr ""
+msgstr "Naar beneden"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2581
 msgid "move down"
@@ -19203,7 +19221,7 @@ msgstr "Verplaats naar rechts"
 
 #: framework/php/class-megamenu.php:490
 msgid "Move up"
-msgstr ""
+msgstr "Naar boven"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2580
 msgid "move up"
@@ -19229,7 +19247,7 @@ msgstr "Meerdere antwoorden"
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:204
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:540
 msgid "Multiple Categories/Terms Relation"
-msgstr ""
+msgstr "Relatie meervoudige categorieën/termen"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:331
 msgid "Multiple toggles open allowed (Toggle Mode)"
@@ -19635,7 +19653,7 @@ msgstr "Geen effect"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:942
 msgid "No element template to duplicate has been supplied!"
-msgstr ""
+msgstr "Er is geen elementsjabloon geleverd om te dupliceren!"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2962
 msgid "No errors detected"
@@ -19683,7 +19701,7 @@ msgstr "Geen icoon of afbeelding"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:469
 msgid "No images available at the moment"
-msgstr ""
+msgstr "Momenteel geen afbeeldingen beschikbaar"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:3010
 msgid "No info available"
@@ -20391,7 +20409,7 @@ msgstr "Titel en Lees meer-link"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:400
 msgid "Only visible for admins:"
-msgstr ""
+msgstr "Alleen zichtbaar voor beheerders:"
 
 #: includes/admin/register-backend-advanced-styles.php:327
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:761
@@ -20442,7 +20460,7 @@ msgstr "Openen in Lightbox"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:451
 msgid "Open In New Window"
-msgstr ""
+msgstr "Open in nieuw venster"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:602
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2803
@@ -20625,10 +20643,9 @@ msgstr "Schakelaars in modale popup vensters"
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:254
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:211
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:547
-#, fuzzy
 #| msgid "or"
 msgid "OR"
-msgstr "van:"
+msgstr "OF"
 
 #: includes/admin/option_tabs/avia_styling.php:798
 msgid "or the Enfold Child theme."
@@ -21640,7 +21657,7 @@ msgstr "Voorgedefinieerde verdelers"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:524
 msgid "Prepend A Text"
-msgstr ""
+msgstr "Een tekst vooraf toevoegen"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:289
 msgid "Prepend a text"
@@ -25810,6 +25827,9 @@ msgid ""
 "Select to use an OR or AND relation. In AND an entry must be in all selected "
 "categories/terms to be displayed. Defaults to OR"
 msgstr ""
+"Selecteer om een OR- of AND-relatie te gebruiken. Bij AND moet een item in "
+"alle geselecteerde categorieën/termen voorkomen om te worden weergegeven. "
+"Standaard OR"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2091
 msgid ""
@@ -25911,7 +25931,7 @@ msgstr "Selecteer waarnaar deze kolom moet linken"
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:462
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:669
 msgid "Select where to apply the link"
-msgstr ""
+msgstr "Selecteer waar u de link wilt toepassen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:500
 msgid "Select where to choose the entries from"
@@ -26202,6 +26222,9 @@ msgid ""
 "Set a custom title attribute for the link (used as tooltip on hover by most "
 "browsers and by screen reader). Leave empty to use theme default."
 msgstr ""
+"Stel een aangepast titelattribuut in voor de link (gebruikt als tooltip bij "
+"zweven door de meeste browsers en door schermlezers). Laat leeg om de "
+"standaard van het thema te gebruiken."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1348
 msgid ""
@@ -29000,7 +29023,7 @@ msgstr "Tekst lettergrootte"
 #, fuzzy
 #| msgid "text in"
 msgid "Text Link"
-msgstr "Tekst uitlijning"
+msgstr "Tekst koppeling"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:387
 msgid "Text Link?"
@@ -30287,7 +30310,7 @@ msgstr "Titel lettergroottes"
 
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:636
 msgid "Title Link"
-msgstr ""
+msgstr "Titel koppeling"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1374
 msgid "Title Link?"
@@ -30744,7 +30767,7 @@ msgstr ""
 
 #: config-wpml/class-avia-wpml.php:813
 msgid "Translate Custom Element with WPML"
-msgstr ""
+msgstr "Vertaal aangepast element met WPML"
 
 #: config-wpml/class-avia-wpml.php:827
 msgid "Translate Element Template:"
@@ -30812,7 +30835,6 @@ msgid "Triangle Asymmetrical"
 msgstr "Driehoek asymmetrisch "
 
 #: framework/php/class-gmaps.php:570 framework/php/class-grecaptcha.php:893
-#, fuzzy
 #| msgid "Troubleshooting"
 msgid "Troubleshooting:"
 msgstr "Probleemoplossing:"
@@ -31251,7 +31273,6 @@ msgid "Use a custom set"
 msgstr "Gebruik een aangepaste set"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:556
-#, fuzzy
 #| msgid ""
 #| "Use a default generated link depending on the meta element (if a link "
 #| "exists), set a custom link or display only as text."
@@ -32260,7 +32281,7 @@ msgstr "VK profiellink"
 
 #: framework/php/class-breadcrumb-trail.php:390
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:434
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:479
@@ -32819,7 +32840,6 @@ msgid "Where should the button link to"
 msgstr "Naar welke link moet de knop verwijzen?"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:525
-#, fuzzy
 #| msgid "Where should the heading link to?"
 msgid "Where should the heading text link to?"
 msgstr "Wilt u een link maken van de koptekst?"
@@ -32865,7 +32885,7 @@ msgstr "Wilt u een link maken van de hotspot-link?"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:334
 msgid "Where should your icon link to?"
-msgstr ""
+msgstr "Waar moet je pictogram naartoe linken?"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:549
 msgid "Where should your image link to?"
@@ -32892,14 +32912,13 @@ msgid "Where to display the search results?"
 msgstr "Waar moeten de zoekresultaten worden getoond?"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:219
-#, fuzzy
 #| msgid "Which categories should be used for the blog?"
 msgid "Which Categories Should Be Used For The Blog"
 msgstr "Welke categorieën voor het blog te gebruiken"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:206
 msgid "Which Categories Should Be Used For The Portfolio"
-msgstr ""
+msgstr "Welke categorieën moeten worden gebruikt voor het portfolio"
 
 #: framework/php/widgets/legacy/class-avia-newsbox.php:306
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:364
@@ -32911,7 +32930,7 @@ msgstr "Welke categorieën moeten worden gebruikt voor het portfolio?"
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:221
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:192
 msgid "Which Entries Should Be Used"
-msgstr ""
+msgstr "Welke items moeten worden gebruikt"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:265
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:196
@@ -33703,7 +33722,6 @@ msgstr "U kunt hier meerdere categorieën selecteren"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:220
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:207
-#, fuzzy
 #| msgid ""
 #| "You can select multiple categories here. The Page will then show posts "
 #| "from only those categories."
