@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2023-07-14 15:44+0000\n"
+"PO-Revision-Date: 2023-07-24 10:04+0000\n"
 "Last-Translator: \n"
-"Language-Team: Nederlands\n"
+"Language-Team: Dutch\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:624
@@ -14347,7 +14347,6 @@ msgid "Header Style"
 msgstr "Stijl van de header"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:522
-#, fuzzy
 #| msgid "Header Text Link?"
 msgid "Header Text Link"
 msgstr "Koptekst Link"
@@ -18750,7 +18749,6 @@ msgid "Menu Items For Mobile"
 msgstr "Menu-items voor mobiele weergave"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:484
-#, fuzzy
 #| msgid "Menu Link?"
 msgid "Menu Link"
 msgstr "Menu link"
@@ -25285,7 +25283,6 @@ msgid "Select the position of the tooltip caret"
 msgstr "Kies de positie van de tooltip-kompas"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:242
-#, fuzzy
 #| msgid "Select the post to show metadata."
 msgid "Select the post to show metadata"
 msgstr "Selecteer het bericht om de metagegevens te tonen."
@@ -29020,7 +29017,6 @@ msgid "Text Font Size"
 msgstr "Tekst lettergrootte"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:605
-#, fuzzy
 #| msgid "text in"
 msgid "Text Link"
 msgstr "Tekst koppeling"
