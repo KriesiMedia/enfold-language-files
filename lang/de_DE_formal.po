@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Enfold v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-10 15:59+0200\n"
-"PO-Revision-Date: 2023-07-13 15:04+0000\n"
-"Last-Translator: Test test\n"
+"PO-Revision-Date: 2023-07-24 11:59+0000\n"
+"Last-Translator: \n"
 "Language-Team: German (Formal)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
 "Language: de_DE_formal\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -239,7 +239,7 @@ msgstr ""
 #: config-gutenberg/class-avia-gutenberg-theme-integration.php:501
 #, php-format
 msgid "%d px"
-msgstr ""
+msgstr "%d px"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:519
 #, php-format
@@ -249,7 +249,7 @@ msgstr "%d Warnung(en)"
 #: config-wpml/class-avia-wpml.php:881
 #, php-format
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #. %s: title of menu item which is invalid
 #: framework/php/class-megamenu.php:438
@@ -554,10 +554,9 @@ msgstr "1 Spalte"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:355
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:356
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:357
-#, fuzzy
 #| msgid "6 Columns"
 msgid "1 column"
-msgstr "6 Spalten"
+msgstr "1 Spalte"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:471
 msgid "1 Column layout"
@@ -627,7 +626,7 @@ msgstr "2 Spalten"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1261
 msgid "2 colums"
-msgstr ""
+msgstr "2 Spalten"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:317
 msgid "2 Milestones"
@@ -684,7 +683,7 @@ msgstr "3 Spalten"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1262
 msgid "3 colums"
-msgstr ""
+msgstr "3 Spalten"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:318
 msgid "3 Milestones"
@@ -729,7 +728,7 @@ msgstr "4 Spalten"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1263
 msgid "4 colums"
-msgstr ""
+msgstr "4 Spalten"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:319
 msgid "4 Milestones"
@@ -774,7 +773,7 @@ msgstr "5 Spalten"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1264
 msgid "5 colums"
-msgstr ""
+msgstr "5 Spalten"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:320
 msgid "5 Milestones"
@@ -803,11 +802,11 @@ msgstr "50px * 50px"
 
 #: includes/admin/option_tabs/avia_footer.php:147
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1265
 msgid "6 colums"
-msgstr ""
+msgstr "6 Spalten"
 
 #: includes/admin/option_tabs/avia_footer.php:104
 #, php-format
@@ -1090,13 +1089,13 @@ msgstr ""
 #: framework/php/widgets/widget-classes/class-avia-portfoliobox.php:28
 msgid "A Sidebar widget to display latest portfolio entries in your sidebar"
 msgstr ""
-"Ein Seitenleisten-Widget, um die neuesten Portfolioeinträge in deiner "
+"Ein Seitenleisten-Widget, um die neuesten Portfolioeinträge in Ihrer "
 "Seitenleiste anzuzeigen"
 
 #: framework/php/widgets/legacy/class-avia-newsbox.php:69
 msgid "A Sidebar widget to display latest post entries in your sidebar"
 msgstr ""
-"Ein Seitenleisten-Widget, um die letzten Beitragseinträge in deiner "
+"Ein Seitenleisten-Widget, um die letzten Beitragseinträge in Ihrer "
 "Seitenleiste anzuzeigen"
 
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:64
@@ -1133,7 +1132,6 @@ msgid "A Timeline Element Item"
 msgstr ""
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:36
-#, fuzzy
 msgid ""
 "A widget that displays a Facebook Likebox to a Facebook page of your choice"
 msgstr ""
@@ -1153,10 +1151,9 @@ msgstr ""
 "Kommentare und ein Tagcloud zeigt"
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:30
-#, fuzzy
 msgid "A widget to display a link to your Twitter profile and rss feed"
 msgstr ""
-"Ein Widget, um einen Link zu deinem Twitter-Profil anzuzeigen und rss feed"
+"Ein Widget, um einen Link zu Ihrem Twitter-Profil anzuzeigen und rss feed"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:48
 msgid "AA (Midrange)"
@@ -1478,8 +1475,8 @@ msgstr ""
 msgid ""
 "Add a short caption to the table so visitors know what the data is about"
 msgstr ""
-"Ergänze die Tabelle um eine Beschriftung und gib so Deinen Besuchern einen "
-"informativen Überblick des Inhalts."
+"Ergänzen Sie die Tabelle um eine Beschriftung und geben Sie so Ihren "
+"Besuchern einen informativen Überblick des Inhalts."
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1771
 msgid ""
@@ -1786,9 +1783,8 @@ msgid "Add unique timestamps (= default)"
 msgstr "Hinzufügen eindeutiger Zeitstempel (= Standard)"
 
 #: framework/php/class-sidebar-generator.php:110
-#, fuzzy
 msgid "Add Widget Area"
-msgstr "Widget Platzhalter"
+msgstr "Widget Bereich hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:256
 msgid "Add your caption text"
@@ -2092,7 +2088,6 @@ msgid "Advanced"
 msgstr "Erweitert"
 
 #: includes/admin/option_tabs/avia_menu.php:357
-#, fuzzy
 #| msgid "Advanced color and styling options"
 msgid "Advanced Color And Styling Options"
 msgstr "Erweiterte Farb- und Stylingoptionen"
@@ -2507,7 +2502,6 @@ msgid "Alternate"
 msgstr "Wechseln"
 
 #: includes/admin/option_tabs/avia_styling.php:198
-#, fuzzy
 #| msgid "Alternate Background color"
 msgid "Alternate Background Color"
 msgstr "Alternative Hintergrundfarbe"
@@ -2521,7 +2515,6 @@ msgid "Alternate Fade Image"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_menu.php:151
-#, fuzzy
 #| msgid "Alternate Menu for Mobile"
 msgid "Alternate Menu For Mobile"
 msgstr "Alternatives Menü für Mobilgeräte"
@@ -2810,10 +2803,9 @@ msgid "Append a text"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_menu.php:216
-#, fuzzy
 #| msgid "Append search icon to main menu"
 msgid "Append Search Icon To Main Menu"
-msgstr "Fügt Suchsymbol zum Menü hinzu"
+msgstr "Fügt Suchsymbol zum Hauptmenü hinzu"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:249
 msgid "Appended static text"
@@ -2835,10 +2827,9 @@ msgstr ""
 "scrollen."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:780
-#, fuzzy
 #| msgid "Apply a link or buttons to the slide?"
 msgid "Apply A Link Or Buttons To The Slide"
-msgstr "Link oder Schaltfläche zum Slide hinzufügen?"
+msgstr "Link oder Schaltfläche zum Slide hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1560
 msgid ""
@@ -2851,13 +2842,11 @@ msgid "Apply a link to the menu text?"
 msgstr "Link auf den Menütext anwenden?"
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:856
-#, fuzzy
 #| msgid "Apply a link to the slide?"
 msgid "Apply A Link To The Slide"
-msgstr "Link zum Slide hinzufügen?"
+msgstr "Link zum Slide hinzufügen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:388
-#, fuzzy
 msgid "Apply a link to the text?"
 msgstr "Link auf den Text anwenden?"
 
@@ -2866,13 +2855,11 @@ msgid "Apply link to date and headline"
 msgstr "Link zu Datum und Überschrift hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:932
-#, fuzzy
 #| msgid "Apply link to the date, icon and headline"
 msgid "Apply link to date, icon and headline"
 msgstr "Link zum Datum, Icon und Überschrift hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:933
-#, fuzzy
 #| msgid "Apply link to the icon and date"
 msgid "Apply link to icon and date"
 msgstr "Link zum Icon und Datum hinzufügen"
@@ -2883,10 +2870,9 @@ msgstr "Link zum Icon und zur Überschrift hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:470
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:677
-#, fuzzy
 #| msgid "Yes, apply link to icon and title"
 msgid "Apply link to icon and title"
-msgstr "Ja, füge Link dem Symbol und Titel hinzu"
+msgstr "Link zum Icon und Titel hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:471
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:678
@@ -2903,10 +2889,9 @@ msgid "Apply link to image"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:469
-#, fuzzy
 #| msgid "No, apply link to the title"
 msgid "Apply link to the title"
-msgstr "Nein, füge Link dem Titel hinzu"
+msgstr "Link zum Titel hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:676
 msgid "Apply link to title only"
@@ -5992,7 +5977,7 @@ msgstr "Wähle ein anderes Video (nur HTML 5)"
 #: config-templatebuilder/avia-shortcodes/image/image.php:412
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:428
 msgid "Choose here, how to align your image"
-msgstr "Wähle hier Deine Bildausrichtung"
+msgstr "Wählen Sie hier Ihre Bildausrichtung"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:397
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:396
@@ -6307,10 +6292,9 @@ msgstr ""
 "Wähle die Kategorien, die angezeigt werden sollen (Mehrfachauswahl möglich):"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:284
-#, fuzzy
 #| msgid "Choose the color for your Box here"
 msgid "Choose the color for your box here"
-msgstr "Wähle die Farbe deiner Box"
+msgstr "Wählen Sie die Farbe Ihrer Box"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:303
 msgid "Choose the coloring of the progress bar here"
@@ -6392,10 +6376,9 @@ msgid "Choose the size of the image that loads into the slideshow."
 msgstr "Wählen Sie die Größe des Bildes, das in die Diashow geladen wird."
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:257
-#, fuzzy
 #| msgid "Choose the size of your Box here"
 msgid "Choose the size of your box here"
-msgstr "Wähle die Größe deiner Box aus"
+msgstr "Wählen Sie die Größe Ihrer Box aus"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:571
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:332
@@ -6414,7 +6397,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:526
 msgid "Choose the style of your tooltip"
-msgstr "Wähle den Style deines Tooltips"
+msgstr "Wählen Siw den Style ihres Tooltips"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:250
 msgid "Choose the styling of the progress bar here"
@@ -7623,7 +7606,7 @@ msgstr "Element neu anlegen"
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:246
 msgid "Create a new Gallery by selecting existing or uploading new images"
 msgstr ""
-"Erstelle eine neue Galerie, indem Du bestehende Bilder aus der Medien-"
+"Erstelle eine neue Galerie, indem Sie bestehende Bilder aus der Medien-"
 "Bibliothek verwendest oder neue hochlädst"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:155
@@ -7631,7 +7614,7 @@ msgid ""
 "Create a new Preview Gallery or Slideshow by selecting existing or uploading "
 "new images"
 msgstr ""
-"Erstelle eine neue Vorschau-Galerie oder Slideshow, indem Du bestehende "
+"Erstelle eine neue Vorschau-Galerie oder Slideshow, indem Sie bestehende "
 "Bilder auswählest oder neue Bilder hochlädst."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2886
@@ -10238,7 +10221,7 @@ msgstr "Zeigt Beiträge aus Ihrem Blog"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:34
 msgid "Displays your latest Instagram feeds (Smash Balloon Plugin)"
-msgstr "Zeigt deine neuesten Instagram-Feeds an (Smash Balloon Plugin)"
+msgstr "Zeigt ihre neuesten Instagram-Feeds an (Smash Balloon Plugin)"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:78
 msgid "Displays your latest Instagram photos"
@@ -10515,12 +10498,12 @@ msgstr "Sollen Bilder von einem hellen Rahmen umgeben sein?"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:291
 msgid "Do you want to display a read more link?"
-msgstr "Möchtest Du einen \"Weiterlesen-Link:\" anzeigen?"
+msgstr "Möchten Sie einen \"Weiterlesen-Link:\" anzeigen?"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:208
 msgid "Do you want to display blog posts or entries from a custom taxonomy?"
 msgstr ""
-"Möchtest Du Blog-Beiträge oder Einträge aus einer benutzerdefinierten "
+"Möchten Sie Blog-Beiträge oder Einträge aus einer benutzerdefinierten "
 "Taxonomie anzeigen?"
 
 #: includes/admin/option_tabs/avia_footer.php:16
@@ -10542,7 +10525,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:279
 msgid "Do you want to use a grid or a slider to display the logos?"
 msgstr ""
-"Möchtest Du ein Raster oder Slider zur Darstellung der Logos verwenden?"
+"Möchten Sie ein Raster oder Slider zur Darstellung der Logos verwenden?"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3246
 msgid "documentation"
@@ -11133,8 +11116,9 @@ msgid ""
 "Either upload a new, or choose an existing image from your media library. "
 "Leave empty if you don't want to use a background image "
 msgstr ""
-"Lade ein neues, oder wähle ein vorhandenes Bild aus deiner Medienbibliothek. "
-"Lasse das Feld leer, falls Sie kein Hintergrund Bild verwenden möchten "
+"Lade ein neues, oder wählen Sie ein vorhandenes Bild aus Ihrer "
+"Medienbibliothek. Lassen Sie das Feld leer, falls Sie kein Hintergrund Bild "
+"verwenden möchten "
 
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:292
 msgid ""
@@ -11789,8 +11773,8 @@ msgid ""
 "Enter any number of options that the visitor can choose from. Separate these "
 "Options with a comma."
 msgstr ""
-"Gib eine beliebige Anzahl von Optionen an, die Deine Besucher wählen können. "
-"Trenne diese Optionen mit einem Komma."
+"Geben Sie eine beliebige Anzahl von Optionen an, die Ihre Besucher wählen "
+"können. Trennen Sie diese Optionen mit einem Komma."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:269
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:274
@@ -11813,9 +11797,8 @@ msgid ""
 msgstr ""
 
 #: framework/php/class-sidebar-generator.php:109
-#, fuzzy
 msgid "Enter Name of the new Widget Area here"
-msgstr "Gib hier Deinen Inhalt ein"
+msgstr "Geben Sie hier den Namen des neuen Widget Bereiches ein"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:171
 msgid ""
@@ -11827,7 +11810,6 @@ msgstr ""
 "erforderlich sind."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:396
-#, fuzzy
 #| msgid ""
 #| "Enter one or more Email addresses (separated by comma) where mails should "
 #| "be delivered to."
@@ -11835,7 +11817,7 @@ msgid ""
 "Enter one or more E-Mail addresses (separated by comma) where mails should "
 "be delivered to."
 msgstr ""
-"Geben Sie eine oder mehrere E-Mail-Adressen (durch Komma getrennt), wohin "
+"Geben Sie eine oder mehrere E-Mail-Adressen an (durch Komma getrennt), wohin "
 "die Mails gesendet werden soll."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:433
@@ -11871,7 +11853,7 @@ msgstr "Gib Inhalte für den Textblock ein"
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:748
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:778
 msgid "Enter some content here"
-msgstr "Gib hier Deinen Inhalt ein"
+msgstr "Geben Sie hier Ihren Inhalt ein"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1084
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1018
@@ -11983,7 +11965,6 @@ msgid "Enter the font size in px, em or &percnt;"
 msgstr "Geben Sie den Schriftgrad in px, em oder &percnt; ein"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:424
-#, fuzzy
 #| msgid "Enter the from email address for the autoresponder."
 msgid "Enter the from E-Mail address for the autoresponder."
 msgstr "Geben Sie die Absender-E-Mail-Adresse für den Autoresponder ein."
@@ -12159,7 +12140,6 @@ msgid "Enter the rotating text here (Better keep it short)"
 msgstr "Geben Sie hier den rotierenden Text ein (Besser halten Sie ihn kurz)"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:352
-#, fuzzy
 msgid "Enter the share link to Yelp for this button."
 msgstr "Geben Sie den Link zu Yelp für diese Schaltfläche ein."
 
@@ -12178,11 +12158,11 @@ msgstr "Gib die Button-Beschriftung hier ein"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:391
 msgid "Enter the tab title here (Better keep it short)"
-msgstr "Gib hier Deinen Titel ein (Möglichst kurz)"
+msgstr "Geben Sie hier den Titel ein (möglichst kurz)"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:682
 msgid "Enter the testimonial here"
-msgstr "Gib hier den Text für Deine Kunden-Empfehlung ein"
+msgstr "Geben Sie hier den Text für Ihre Kunden-Empfehlung ein"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:379
 msgid "Enter the text to display that user has to accept to load the map."
@@ -12210,12 +12190,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:769
 msgid "Enter the toggle title here (Better keep it short)"
-msgstr "Gib hier Deinen Titel ein (Möglichst kurz)"
+msgstr "Geben Sie hier den Toggle-Titel ein (möglichst kurz)"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:586
-#, fuzzy
 msgid "Enter the URL of the page you want to link to"
-msgstr "Gib hier die URL der Seite ein, zu der Du verlinken möchtest"
+msgstr "Geben Sie hier die URL der Seite ein, zu der Sie verlinken möchten"
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:421
 msgid ""
@@ -12231,8 +12210,8 @@ msgid ""
 "Enter the width in px or &percnt; (100&percnt; width will be used if you "
 "leave this field empty)"
 msgstr ""
-"Geben Sie die Breite in px oder Prouent ein. (100 Prozent ; breite wird "
-"verwendet, wenn du dieses Feld leer gelassen hast)"
+"Geben Sie die Breite in px oder Prozent ein. (100 Prozent Breite wird "
+"verwendet, wenn Sei dieses Feld leer gelassen haben)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1466
 msgid ""
@@ -12755,7 +12734,7 @@ msgstr "\"Featured\" dünn"
 
 #: comments.php:174
 msgid "Feel free to contribute!"
-msgstr "Hinterlasse uns Deinen Kommentar!"
+msgstr "Hinterlassen Sie uns Ihren Kommentar!"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:97
 msgid "Fetch coordinates"
@@ -12966,7 +12945,6 @@ msgid "Flower"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_menu.php:347
-#, fuzzy
 #| msgid "Flyout width"
 msgid "Flyout Width"
 msgstr "Flyout Breite"
@@ -13106,10 +13084,9 @@ msgid "Font Colors"
 msgstr "Schriftfarben"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:478
-#, fuzzy
 #| msgid "Font color?"
 msgid "Font colors"
-msgstr "Schriftfarbe?"
+msgstr "Schriftfarbe"
 
 #: includes/admin/register-backend-advanced-styles.php:37
 #: includes/admin/register-backend-advanced-styles.php:76
@@ -13133,7 +13110,6 @@ msgid "Font Family"
 msgstr "Schriftart"
 
 #: includes/admin/option_tabs/avia_styling.php:571
-#, fuzzy
 #| msgid "Font for your body text"
 msgid "Font For Your Body Text"
 msgstr "Schriftart für Ihren Body-Text"
@@ -14112,7 +14088,6 @@ msgid "Header Account Icon"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_header.php:336
-#, fuzzy
 msgid "Header Behavior"
 msgstr "Kopfzeile Verhalten"
 
@@ -14121,7 +14096,6 @@ msgid "Header Custom Height"
 msgstr "Benutzerdefinierte Kopfzeilenhöhe"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:380
-#, fuzzy
 msgid "Header is invisible and appears once the users scrolls down"
 msgstr ""
 "Kopfzeile ist unsichtbar und erscheint, sobald die Benutzer nach unten "
@@ -15156,7 +15130,7 @@ msgstr "Wieviele Spalten sollen dargestellt werden?"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:404
 msgid "How many columns do you want to display?"
-msgstr "Wie viele Spalten möchtest Du anzeigen?"
+msgstr "Wie viele Spalten möchten Sie anzeigen?"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:440
 #, fuzzy
@@ -15611,8 +15585,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:410
 msgid "If checked the first entry will stand out with big image"
 msgstr ""
-"Wenn diese Option aktiviert, dass der erste Eintrag wird zeichnen sich durch "
-"großes Bild"
+"Wenn aktiviert, wird der erste Eintrag durch ein großes Bild hervorgehoben"
 
 #: includes/admin/option_tabs/avia_header.php:346
 msgid ""
@@ -15840,9 +15813,9 @@ msgid ""
 "clicks on the portfolio item a preview element with those images and info "
 "will open."
 msgstr ""
-"Wenn Du Dein Portfolio als \"Ajax-Portfolio\" darstellen möchtest, wähle "
-"hier Miniaturbilder aus und schreibe dazu einige Textzeilen. Sobald ein User "
-"auf einen Portfolio-Eintrag klickt, wird ein Vorschau-Element mit den "
+"Wenn Sie Ihr Portfolio als \"Ajax-Portfolio\" darstellen möchten, wählen Sie "
+"hier Miniaturbilder aus und schreiben dazu einige Textzeilen. Sobald ein "
+"User auf einen Portfolio-Eintrag klickt, wird ein Vorschau-Element mit den "
 "Bildern und Informationen geöffnet."
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:219
@@ -16171,7 +16144,7 @@ msgstr ""
 
 #: framework/php/class-htmlhelper.php:1971
 msgid "Import dummy data"
-msgstr ""
+msgstr "Dummy Daten importieren"
 
 #: framework/php/class-htmlhelper.php:1958
 #, php-format
@@ -16920,7 +16893,7 @@ msgid ""
 "It is recommended to not delete the 'E-Mail' field if you want to use an "
 "auto responder."
 msgstr ""
-"Wenn Du einen Auto-Responder verwenden möchtest, wird empfohlen, das Feld "
+"Wenn Sie einen Auto-Responder verwenden möchten, wird empfohlen, das Feld "
 "\"E-Mail\" nicht zu löschen."
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:17
@@ -17676,7 +17649,6 @@ msgid "Line Height:"
 msgstr ""
 
 #: includes/admin/register-admin-option-values.php:53
-#, fuzzy
 msgid "Line Through"
 msgstr "Durchgestrichen"
 
@@ -17816,7 +17788,7 @@ msgstr "Linktext für den Link überhalb"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:636
 msgid "List Content goes here"
-msgstr "Gib hier Deinen gewünschten Textinhalt ein"
+msgstr "Geben Sie hier den Listen Textinhalt ein"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:215
 msgid "List Item 1"
@@ -17943,7 +17915,7 @@ msgid ""
 "cause a small flicker of text on page load"
 msgstr ""
 "Durch das Laden der Schriftarten in der Fußzeile wird das Rendern der Site "
-"beschleunigt, beim Laden der Seite wird jedoch ein kleiner Textflackern "
+"beschleunigt, beim Laden der Seite wird jedoch ein kleines Textflackern "
 "verursacht"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:497
@@ -19093,7 +19065,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:207
 msgid "Name of the person"
-msgstr "Gib hier den vollen Namen Deines Teammitglieds ein."
+msgstr "Geben Sie hier den vollen Namen Ihres Teammitglieds ein."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1554
 msgid "Navigation arrows"
@@ -19600,7 +19572,7 @@ msgstr "Keine Probleme"
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-product-slider.php:359
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-product-slider.php:223
 msgid "No products found which match your selection."
-msgstr "Keine Produkte gefunden, die deiner Auswahl entsprechen."
+msgstr "Keine Produkte gefunden, die Ihrer Auswahl entsprechen."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1847
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1656
@@ -20371,7 +20343,7 @@ msgid ""
 msgstr ""
 "Option, um nur das Vorschaubild eines Videoslide zu laden. Die tatsächlichen "
 "Videos werden nur abgerufen, sobald der Benutzer auf das Bild klickt (Durch "
-"Warten auf Benutzerinteraktion wird die anfängliche Seitenauslastung "
+"Warten auf Benutzerinteraktion wird das anfängliche Laden der Seite "
 "beschleunigt)"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:350
@@ -21463,8 +21435,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/config/meta.php:104
 msgid "Press TAB to navigate trough the various form fields of a popup window."
 msgstr ""
-"Drücke die Tab-Taste auf Deiner Tastatur um durch die einzelnen Formfelder "
-"eines Popup-Fensters zu navigieren."
+"Drücken Sie die Tab-Taste auf Ihrer Tastatur um durch die einzelnen "
+"Formfelder eines Popup-Fensters zu navigieren."
 
 #: framework/php/class-form-generator.php:764
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:948
@@ -21988,7 +21960,7 @@ msgid ""
 "Registered shortcode %s detected without closing ] at index %d. Fixed by "
 "closing Shortcode without attributes."
 msgstr ""
-"Registrierter Shortcode %s ohne schließene ] erkannt bei Index %d. Behoben, "
+"Registrierter Shortcode %s ohne schließende ] erkannt bei Index %d. Behoben, "
 "durch Schließen des Shortcode ohne Atribute."
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:751
@@ -23082,7 +23054,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:232
 msgid "Select a custom background color for your dropcap here"
-msgstr "Wähle einen individuellen Hintergrund für deinen Dropcap"
+msgstr "Wählen Sie einen individuellen Hintergrund für den Dropcap"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:345
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:365
@@ -23092,10 +23064,9 @@ msgid ""
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:303
-#, fuzzy
 #| msgid "Select a custom background color for your Notification here"
 msgid "Select a custom background color for your notification here"
-msgstr "Wähle eine Hintergrundfarbe für Deine Benachrichtigung aus"
+msgstr "Wählen Sie eine Hintergrundfarbe für Ihre Benachrichtigung aus"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:527
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:551
@@ -25058,7 +25029,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:512
 msgid "Select the width of the tooltip. Height is based on the content"
-msgstr "Bestimme die Breite deines Tooltips. Die Höhe ist abhängig vom Inhalt"
+msgstr "Bestimme Sie die Breite des Tooltips. Die Höhe ist abhängig vom Inhalt"
 
 #: includes/admin/option_tabs/avia_upload.php:62
 msgid "Select Theme Options Tabs For Import"
@@ -27110,7 +27081,6 @@ msgid "Slider Animation"
 msgstr "Slider-Animation"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1483
-#, fuzzy
 #| msgid "Slider autorotation duration"
 msgid "Slider Autorotation Duration"
 msgstr "Dauer der Slider-Auto-Rotation"
@@ -27505,8 +27475,8 @@ msgstr "Entschuldigung, aber kein Eintrag erfüllt Ihre Suchkriterien"
 #: includes/loop-search.php:220
 msgid "Sorry, no posts matched your criteria. Please try another search"
 msgstr ""
-"Entschuldigung, aber kein Eintrag erfüllt Deine Suchkriterien. Bitte starte "
-"eine neue Suche"
+"Entschuldigung, aber kein Eintrag erfüllt Ihre Suchkriterien. Bitte starten "
+"Sie eine neue Suche"
 
 #: includes/error404.php:7
 msgid ""
@@ -28463,7 +28433,7 @@ msgstr "Textlink?"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:577
 msgid "Text that appears if you place your mouse above the Icon"
-msgstr "Text der erscheint, wenn Du den Mauszeiger über das Symbol bewegst."
+msgstr "Text der erscheint, wenn Sie den Mauszeiger über das Symbol bewegen"
 
 #: includes/admin/register-backend-advanced-styles.php:150
 #: includes/admin/register-backend-advanced-styles.php:169
@@ -28547,7 +28517,7 @@ msgstr "Danke, dass Sie unseren Newsletter abonniert haben!"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:889
 msgid "Thank you for your Message!"
-msgstr "Vielen Dank für Deine Nachricht!"
+msgstr "Vielen Dank für Ihre Nachricht!"
 
 #: includes/admin/option_tabs/avia_upload.php:191
 msgid "The 'Default Font' can't be deleted."
@@ -28807,8 +28777,8 @@ msgid ""
 "another post slider element."
 msgstr ""
 "Der Offset bestimmt, ab wo die Abfrage damit beginnt Beiträge zu ziehen. "
-"Dies ist dann besonders nützlich, wenn Du z.B. eine bestimmte Anzahl von "
-"Einträgen entfernen möchtest, die bereits von einem anderen Blog-Element "
+"Dies ist dann besonders nützlich, wenn Sie z.B. eine bestimmte Anzahl von "
+"Einträgen entfernen möchten, die bereits von einem anderen Blog-Element "
 "abgefragt werden."
 
 #: config-templatebuilder/avia-shortcodes/product_grid/product_grid.php:223
@@ -28820,10 +28790,10 @@ msgid ""
 "sorting of the product grids match and do not allow the user to pick the "
 "sort order!"
 msgstr ""
-"Der Offset bestimmt, ab wo die Abfrage damit beginnt Beiträge zu ziehen. "
-"Dies ist dann besonders nützlich, wenn Du z.B. eine bestimmte Anzahl von "
-"Einträgen entfernen möchtest, die bereits von einem anderen Blog-Element "
-"abgefragt werden.  Achtung: Verwende diese Option nur, wenn die Produkt-"
+"Der Offset bestimmt, ab wo die Abfrage damit beginnt Produkte zu ziehen. "
+"Dies ist dann besonders nützlich, wenn Sie z.B. eine bestimmte Anzahl von "
+"Produkten entfernen möchten, die bereits von einem anderen Blog-Element "
+"abgefragt werden.  Achtung: Verwenden Sie diese Option nur, wenn die Produkt-"
 "Sortierung der Produkt-Grids auch zutreffen und Benutzer nicht die "
 "Möglichkeit haben, die Sortierreihenfolge auszuwählen!"
 
@@ -28834,10 +28804,10 @@ msgid ""
 "with another product slider. Attention: Use this option only if the product "
 "sorting of the product sliders match!"
 msgstr ""
-"Der Offset bestimmt, ab wo die Abfrage damit beginnt Beiträge zu ziehen. "
-"Dies ist dann besonders nützlich, wenn Du z.B. eine bestimmte Anzahl von "
-"Einträgen entfernen möchtest, die bereits von einem anderen Blog-Element "
-"abgefragt werden. Achtung: Verwende diese Option nur, wenn die Produkt-"
+"Der Offset bestimmt, ab wo die Abfrage damit beginnt Produkte zu ziehen. "
+"Dies ist dann besonders nützlich, wenn Sie z.B. eine bestimmte Anzahl von "
+"Produkten entfernen möchten, die bereits von einem anderen Blog-Element "
+"abgefragt werden. Achtung: Verwenden Sie diese Option nur, wenn die Produkt-"
 "Sortierung der Produkt-Slider zutrifft!"
 
 #: includes/admin/option_tabs/avia_seo.php:16
@@ -28895,8 +28865,8 @@ msgid ""
 "The section will use the color scheme you select. Color schemes are defined "
 "on your styling page"
 msgstr ""
-"Die Sektion verwendet das Farbschema, welches Du auf der Styling-Seite "
-"festgelegt hast"
+"Die Sektion verwendet das Farbschema, welches Sie auf der Styling-Seite "
+"festgelegt haben"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:706
 msgid "The size of the caption text. Any number."
@@ -28978,7 +28948,7 @@ msgid ""
 "The theme supports the creation of custom widget areas. Simply open your"
 msgstr ""
 "Das Theme unterstützt die Erstellung von benutzerdefinierten Widget-"
-"Bereichen. Öffne einfach deine"
+"Bereichen. Öffnen Sie einfach Ihre"
 
 #: framework/php/auto-updates/class-avia-envato-base-api.php:256
 msgid ""
@@ -29372,10 +29342,9 @@ msgstr ""
 "oberen Bereich der  Mitteilung."
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:185
-#, fuzzy
 #| msgid "This is the text that appears in your Notification."
 msgid "This is the text that appears in your notification."
-msgstr "Dies ist der Text, der in Deiner  Mitteilung angezeigt wird."
+msgstr "Dies ist der Text, der in Ihrer Mitteilung angezeigt wird."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:492
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:221
@@ -29506,7 +29475,7 @@ msgid ""
 msgstr ""
 "Dies sperrt die Elemente für alle Administratoren, einschließlich Sie, um "
 "versehentliches Ändern eines Seitenlayouts zu verhindern. Um ein "
-"Seitenlayout später zu ändern, musst du diese Option zuerst deaktivieren"
+"Seitenlayout später zu ändern, müssen Sie diese Option zuerst deaktivieren"
 
 #: includes/admin/option_tabs/avia_upload.php:190
 msgid "Those icons can then be used in your Layout Builder."
@@ -29833,8 +29802,8 @@ msgid ""
 "To sort and arrange your elements just drag them to a position of your "
 "choice and release them"
 msgstr ""
-"Zum Sortieren und Ordnen ziehe Deine Elemente mit gedrückter Maustaste "
-"einfach auf eine Stelle ihrer Wahl und lasse  anschließend die Maustaste los."
+"Zum Sortieren und Ordnen ziehen Sie die Elemente mit gedrückter Maustaste "
+"einfach auf eine Stelle ihrer Wahl und lassen anschließend die Maustaste los."
 " "
 
 #: config-wpml/class-avia-wpml.php:585
@@ -31929,7 +31898,7 @@ msgstr ""
 #: framework/php/class-gmaps.php:593
 msgid "We were able to properly connect to google maps with your API key"
 msgstr ""
-"Wir konnten uns mit deinem API-Schlüssel richtig mit Google Maps verbinden"
+"Wir konnten uns mit Ihrem API-Schlüssel richtig mit Google Maps verbinden"
 
 #: includes/admin/option_tabs/avia_performance.php:692
 msgid ""
@@ -32004,8 +31973,8 @@ msgid ""
 "Welcome Stranger! This is an example Text for your fantastic Promo Box! Feel "
 "Free to delete it and replace it with your own fancy Message!"
 msgstr ""
-"Hallo Fremder! Dies ist ein Beispieltext für Deine fantastische Promo-Box. "
-"Es steht Dir frei, diesen Text zu löschen oder durch Deinen eigenen Text zu "
+"Hallo Fremder! Dies ist ein Beispieltext für Ihre fantastische Promo-Box. Es "
+"steht Ihnen frei, diesen Text zu löschen oder durch ihren eigenen Text zu "
 "ersetzen."
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:535
@@ -32045,7 +32014,7 @@ msgstr "Was soll passieren, wenn das Formular abgeschickt wurde?"
 
 #: includes/admin/register-demo-import.php:117
 msgid "What you get:"
-msgstr "Was du bekommst:"
+msgstr "Was Sie bekommen:"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:252
 msgid "WhatsApp link"
@@ -32484,7 +32453,7 @@ msgstr "Arbeitsbeispiele Youtube & Vimeo:"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:534
 msgid "Working examples, in case you want to use an external service:"
-msgstr "Einige Beispiele, falls Du einen externen Service nutzen möchtest:"
+msgstr "Einige Beispiele, falls Sie einen externen Service nutzen möchten:"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:514
 msgid "Working examples:"

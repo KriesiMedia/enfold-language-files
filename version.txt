@@ -3,6 +3,7 @@
 
 - Italian language files it_IT (version 5.6.4, provided by BigBatT - info@luigicircello.it)
 - Croatian language files hr (version 5.6.4, provided by NUIT d.o.o. - info@nuit.hr )
+- Some fixes in de_DE_formal
 
 
 2023-07-13
