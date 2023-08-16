@@ -1,6 +1,6 @@
 
 2023-08-16
-- Italian language files it_IT (version 5.6.3, provided by BigBatT - info@luigicircello.it)
+- Italian language files it_IT (version 5.6.5, provided by BigBatT - info@luigicircello.it)
 
 2023-07-24
 - Italian language files it_IT (version 5.6.4, provided by BigBatT - info@luigicircello.it)
