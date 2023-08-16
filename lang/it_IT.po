@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v5.6.4\n"
+"Project-Id-Version: Italian Enfold Language v5.6.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-23 19:08+0200\n"
-"PO-Revision-Date: 2023-07-23 19:28+0200\n"
+"POT-Creation-Date: 2023-08-15 09:54+0200\n"
+"PO-Revision-Date: 2023-08-15 10:29+0200\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -382,6 +382,7 @@ msgstr "Titolo del widget:"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:514
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:114
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:557
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:80
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:67
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:79
 #: config-templatebuilder/avia-shortcodes/table/table.php:101
@@ -974,6 +975,7 @@ msgstr "Aggiungere una classe CSS al contenitore del feed"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:438
 #: config-templatebuilder/avia-shortcodes/search/search.php:97
 #: config-templatebuilder/avia-shortcodes/section/section.php:83
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:180
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:168
 #: config-templatebuilder/avia-template-builder/config/meta.php:49
 #: includes/admin/option_tabs/avia_layout.php:124
@@ -1772,6 +1774,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:536
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:135
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:579
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:210
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:96
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:99
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:190
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:95
@@ -1865,6 +1869,8 @@ msgstr "Stile"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:559
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:159
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:602
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:232
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:118
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:115
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:211
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:117
@@ -1899,6 +1905,7 @@ msgstr "Scegli un'immagine di anteprima/fallback"
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:669
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:626
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:667
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:195
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:194
 #: config-templatebuilder/avia-shortcodes/team/team.php:227
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:652
@@ -2530,6 +2537,7 @@ msgstr "Seleziona un colore di sfondo"
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:310
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:387
 #: config-templatebuilder/avia-shortcodes/section/section.php:451
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:294
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:293
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:524
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:422
@@ -2612,6 +2620,7 @@ msgstr "Colore del bordo personalizzato"
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:547
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:904
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:938
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:308
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:458
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:307
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:523
@@ -3889,6 +3898,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:519
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:549
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:351
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:572
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:490
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:578
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:595
@@ -4352,6 +4362,7 @@ msgstr "Selezionare la posizione dei titoli"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:551
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:404
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:220
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:237
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:236
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:302
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:54
@@ -4389,6 +4400,7 @@ msgstr "Sinistra"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:553
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:406
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:222
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:239
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:238
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:303
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:56
@@ -4972,6 +4984,8 @@ msgstr "Comportamento Codeblock"
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:52
 #: config-templatebuilder/avia-shortcodes/page_split.php:61
 #: config-templatebuilder/avia-shortcodes/section/section.php:49
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:120
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:46
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:111
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:47
 #: config-templatebuilder/avia-template-builder/config/meta.php:92
@@ -5094,6 +5108,7 @@ msgstr "Eguale altezza"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:396
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:231
 msgid "Vertical Alignment"
 msgstr "Allineamento Verticale"
 
@@ -5108,6 +5123,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:405
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:221
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:238
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:237
 msgid "Middle"
 msgstr "Medio"
@@ -5529,6 +5545,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:770
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:291
 #: config-templatebuilder/avia-shortcodes/section/section.php:485
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:317
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:316
 #: includes/admin/option_tabs/avia_styling.php:308
 #: includes/admin/option_tabs/avia_styling.php:448
@@ -5556,6 +5573,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:196
 #: config-templatebuilder/avia-shortcodes/section/section.php:489
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:401
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:201
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:321
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:200
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:320
 #: config-templatebuilder/avia-shortcodes/team/team.php:230
@@ -5582,6 +5601,8 @@ msgstr "Inserisci immagine"
 #: config-templatebuilder/avia-shortcodes/section/section.php:490
 #: config-templatebuilder/avia-shortcodes/section/section.php:647
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:402
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:202
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:322
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:201
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:321
 #: config-templatebuilder/avia-shortcodes/team/team.php:231
@@ -5697,6 +5718,7 @@ msgstr "Cancellare Colonna"
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:1039
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:480
 #: config-templatebuilder/avia-shortcodes/section/section.php:786
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:653
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:570
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2077
 msgid "Save Element as Template"
@@ -5710,6 +5732,7 @@ msgstr "Clonare colonna"
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:1046
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:437
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:477
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:650
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:567
 msgid "edit"
 msgstr "modifica"
@@ -6176,6 +6199,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:412
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:872
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:905
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:330
 #: config-templatebuilder/avia-shortcodes/table/table.php:243
 #: config-templatebuilder/avia-shortcodes/team/team.php:422
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:477
@@ -6770,6 +6794,7 @@ msgstr "Slider"
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:392
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:350
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:365
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:502
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:354
 msgid "Navigation Controls"
 msgstr "Controlli navigazione"
@@ -6784,6 +6809,7 @@ msgstr "Controlli navigazione"
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:413
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:372
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:387
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:522
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:377
 msgid "Navigation Control Colors"
 msgstr "Colore controlli navigazione"
@@ -6996,6 +7022,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:581
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:351
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:164
 msgid "Slide Title"
 msgstr "Titolo Slide"
 
@@ -7282,6 +7309,7 @@ msgstr "Scegli qui, come allineare il testo"
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:496
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:356
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:405
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:248
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:247
 msgid "Alignment"
 msgstr "Allineamento"
@@ -8697,12 +8725,14 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:301
 #: config-templatebuilder/avia-shortcodes/section/section.php:497
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:420
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:327
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:326
 msgid "Background Attachment"
 msgstr "Sfondo attaccamento"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:302
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:328
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:327
 msgid "Background can either scroll with the page or be fixed"
 msgstr "Lo sfondo può scorrere con la pagina o essere fisso"
@@ -8712,6 +8742,7 @@ msgstr "Lo sfondo può scorrere con la pagina o essere fisso"
 #: config-templatebuilder/avia-shortcodes/section/section.php:505
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:438
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:427
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:334
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:333
 #: includes/admin/option_tabs/avia_styling.php:380
 #: includes/admin/option_tabs/avia_styling.php:520
@@ -8722,6 +8753,7 @@ msgstr "Scorrere"
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:309
 #: config-templatebuilder/avia-shortcodes/section/section.php:506
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:428
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:335
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:334
 #: includes/admin/option_tabs/avia_styling.php:381
 #: includes/admin/option_tabs/avia_styling.php:521
@@ -8780,30 +8812,35 @@ msgstr "Definire un'altezza minima per la riga della griglia."
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:223
 #: config-templatebuilder/avia-shortcodes/section/section.php:228
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:371
 msgid "At least 100&percnt; of browser window height"
 msgstr "Almeno il 100&percnt; dell&rsquo;altezza della finestra del browser"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:224
 #: config-templatebuilder/avia-shortcodes/section/section.php:229
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:372
 msgid "At least 75&percnt; of browser window height"
 msgstr "Almeno il 75&percnt;  dell&rsquo;altezza della finestra del browser"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:225
 #: config-templatebuilder/avia-shortcodes/section/section.php:230
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:373
 msgid "At least 50&percnt; of browser window height"
 msgstr "Almeno il 50&percnt; dell&rsquo;altezza della finestra del browser"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:226
 #: config-templatebuilder/avia-shortcodes/section/section.php:231
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:374
 msgid "At least 25&percnt; of browser window height"
 msgstr "Almeno il 25&percnt; dell&rsquo;altezza della finestra del browser"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:227
 #: config-templatebuilder/avia-shortcodes/section/section.php:233
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:375
 msgid "Minimum custom height in &percnt; based on browser windows height"
 msgstr ""
 "Altezza personalizzata in &percnt; in base all&rsquo;altezza delle finestre "
@@ -8812,6 +8849,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:228
 #: config-templatebuilder/avia-shortcodes/section/section.php:232
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:376
 msgid "Minimum custom height in pixel"
 msgstr "Altezza personalizzata in pixel"
 
@@ -15110,6 +15148,7 @@ msgid "Hide on screens smaller than 767px"
 msgstr "Nascondi su schermi di dimensioni inferiori a 767px"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:407
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:216
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:734
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:215
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1542
@@ -15748,7 +15787,7 @@ msgstr "Anteprima immagine"
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:876
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1224
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3096
-#: framework/php/function-set-avia-frontend.php:1638
+#: framework/php/function-set-avia-frontend.php:1717
 #: includes/loop-index.php:133 includes/loop-index.php:134
 #: includes/loop-index.php:547 includes/loop-index.php:563
 #: includes/loop-page.php:34 includes/loop-portfolio-single.php:34
@@ -16852,6 +16891,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:239
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:381
 msgid "Section Minimum Custom Height In &percnt;"
 msgstr "Sezione Altezza minima personalizzata in &percnt;"
 
@@ -16868,11 +16908,13 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:250
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:391
 msgid "Section Minimum Custom Height In px"
 msgstr "Sezione Altezza minima personalizzata in px"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:251
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:392
 msgid "Define a minimum height for the section. Use a pixel value. eg: 500px"
 msgstr ""
 "Definire una altezza minima per la sezione. Utilizzare un valore di pixel. "
@@ -16880,6 +16922,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:265
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:404
 msgid "Section Height"
 msgstr "Sezione Altezza"
 
@@ -17047,6 +17090,7 @@ msgstr "Parallasse"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:526
 #: config-templatebuilder/avia-shortcodes/section/section.php:622
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:350
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:349
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:730
 #: includes/admin/option_tabs/avia_styling.php:287
@@ -17613,6 +17657,7 @@ msgstr "Scegliere l&rsquo;allineamento del Titolo e del Riassunto qui"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:422
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:341
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:320
 #: includes/admin/option_tabs/avia_menu.php:124
 msgid "General"
@@ -18166,6 +18211,476 @@ msgstr "Nessuna Revolution Slider trovato. Clicca qui per creare uno"
 #: config-templatebuilder/avia-shortcodes/slideshow_revolution/slideshow_revolution.php:98
 msgid "Edit Revolution Slider here"
 msgstr "Modifica Revolution Slider qui"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:118
+msgid "Slideshow Section"
+msgstr "Sezione slideshow"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:125
+msgid ""
+"Add a fullwidth section with slides that can contain columns and other "
+"elements"
+msgstr ""
+"Aggiungi una sezione a larghezza completa con schede che possono contenere "
+"colonne e altri elementi"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:185
+msgid "ELEMENT IN ACTIVE BETA since 5.6.5"
+msgstr "ELEMENTO IN BETA ATTIVA dalla 5.6.5"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:186
+msgid ""
+"Please check the frontend when using animations or elements such as the "
+"Lottie Animation in slide content. Slide transitions might break element "
+"behaviour."
+msgstr ""
+"Controllare il frontend quando si utilizzano animazioni o elementi come "
+"l'animazione Lottie nel contenuto delle diapositive. Le transizioni delle "
+"diapositive potrebbero interrompere il comportamento degli elementi."
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:302
+msgid "Slideshow Section Appearance"
+msgstr "Aspetto sezione slideshow"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:303
+msgid ""
+"Select the general appearance of the slideshow section. The tabs do not have "
+"any function."
+msgstr ""
+"Selezionare l'aspetto generale della sezione della presentazione. Le schede "
+"non hanno alcuna funzione."
+
+# @ LayerSlider
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:308
+msgid "Slides only"
+msgstr "Solo diapositive"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:309
+msgid "Slide title in tabs above slides"
+msgstr "Titolo della diapositiva nelle schede sopra le diapositive"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:314
+msgid "Initial Open Slide"
+msgstr "Diapositiva iniziale aperta"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:315
+msgid ""
+"Enter the number of the slide that should be shown initially (starting with "
+"1). If slide number does not exist the first slide is taken."
+msgstr ""
+"Inserire il numero della diapositiva che deve essere mostrata inizialmente "
+"(a partire da 1). Se il numero della diapositiva non esiste, viene presa la "
+"prima diapositiva."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:324
+msgid "Slideshow Container Width"
+msgstr "Larghezza Contenitore slideshow"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:325
+msgid ""
+"Select to strech container for slides fullwidth (remove any margin or "
+"padding)"
+msgstr ""
+"Selezionare il contenitore per le diapositive a larghezza piena (rimuovere "
+"qualsiasi margine o padding)"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:331
+msgid "Strech fullwidth"
+msgstr "Allargare alla massima larghezza"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:351
+msgid "Slides Height"
+msgstr "Altezza diapositive"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:353
+msgid ""
+"Define the size of the slides when switching between the slides. We "
+"recommend to use &quot;Same Height&quot;. Content alignment can be set for "
+"each slide when &quot;Same Height&quot; is selected."
+msgstr ""
+"Definire le dimensioni delle diapositive quando si passa da una all'altra. "
+"Si consiglia di utilizzare &quot;Stessa altezza&quot;. L'allineamento del "
+"contenuto può essere impostato per ogni diapositiva quando si seleziona "
+"&quot;Stessa altezza&quot;."
+
+# @ default
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:357
+msgid "Same height for all slides"
+msgstr "Stessa altezza per tutte le diapositive"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:358
+msgid "Auto adjust height to content"
+msgstr "Regolazione automatica dell'altezza in base al contenuto"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:363
+msgid "Slides Minimum Height"
+msgstr "Altezza minima diapositiva"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:365
+msgid "Define a minimum height for the slides."
+msgstr "Definire un'altezza minima per le diapositive"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:370
+msgid "No minimum height, use content within slides to define section height"
+msgstr ""
+"Nessuna altezza minima, utilizzare il contenuto delle diapositive per "
+"definire l'altezza delle sezioni."
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:382
+msgid ""
+"Define a minimum height for the section in &percnt; based on the browser "
+"windows height"
+msgstr ""
+"Definire un'altezza minima per la sezione in &percnt; basata sull'altezza "
+"delle finestre del browser"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:428
+msgid "Slide Title Tabs Bar Background Color"
+msgstr "Colore di sfondo della barra delle schede del titolo della diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:429
+msgid ""
+"Select a custom background color of the slide title tabs bar. Enter no value "
+"if you want to use the default color."
+msgstr ""
+"Selezionare un colore di sfondo personalizzato per la barra dei titoli delle "
+"diapositive. Non inserire alcun valore se si desidera utilizzare il colore "
+"predefinito."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:438
+msgid "Slide Title Tabs Font Color"
+msgstr "Colore carattere titolo scheda"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:439
+msgid ""
+"Select a custom text color for all slide titles. Enter no value if you want "
+"to use the default font color."
+msgstr ""
+"Selezionare un colore di testo personalizzato per tutti i titoli delle "
+"diapositive. Non inserire alcun valore se si desidera utilizzare il colore "
+"predefinito dei caratteri."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:448
+msgid "Active Slide Title Tabs Font Color"
+msgstr "Colore del carattere del titolo della scheda attiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:449
+msgid ""
+"Select a custom text color for the active slide title. Enter no value if you "
+"want to use the default font color."
+msgstr ""
+"Selezionare un colore di testo personalizzato per il titolo della "
+"diapositiva attiva. Non inserire alcun valore se si desidera utilizzare il "
+"colore predefinito del carattere."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:458
+msgid "Slide Title Tabs Font Color On Hover"
+msgstr ""
+"Colore del carattere del titolo della scheda attiva al passaggio del mouse"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:459
+msgid ""
+"Select a custom text color for all slide title on hover. Enter no value if "
+"you want to use the default font color."
+msgstr ""
+"Selezionare un colore di testo personalizzato per tutti i titoli delle "
+"diapositive al passaggio del mouse. Non inserire alcun valore se si desidera "
+"utilizzare il colore predefinito del carattere."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:468
+msgid "Active Slide Title Tabs Font Color On Hover"
+msgstr ""
+"Colore del carattere del titolo della scheda attiva al passaggio del mouse"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:469
+msgid ""
+"Select a custom text color for the active slide title on hover. Enter no "
+"value if you want to use the default font color."
+msgstr ""
+"Selezionare un colore di testo personalizzato per il titolo della "
+"diapositiva attiva al passaggio del mouse. Non inserire alcun valore se si "
+"desidera utilizzare il colore predefinito del carattere."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:483
+msgid "Slide Title Tabs Colors"
+msgstr "Colori delle schede del titolo della diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:537
+msgid "Slide Transition"
+msgstr "Transizione diapositiva"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:538
+msgid ""
+"Define a transition when switching between the slides. Fade forces &quot;"
+"Same Height&quot; for all slides. We recommend this setting in general. "
+"Slide Up/Down disables animations on elements in slides."
+msgstr ""
+"Definire una transizione quando si passa da una diapositiva all'altra. "
+"Dissolvenza forza &quot;Stessa altezza&quot; per tutte le diapositive. Si "
+"consiglia questa impostazione in generale. Slide Up/Down disabilita le "
+"animazioni sugli elementi delle diapositive."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:543
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1327
+msgid "Slide sidewards"
+msgstr "Far scorrere lateralmente"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:544
+msgid "Slide Up/Down"
+msgstr "Diapositiva su/giù"
+
+# @ LayerSlider
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:545
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1329
+msgid "Fade"
+msgstr "Dissolvenza"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:546
+msgid "No special effect"
+msgstr "Nessun effetto speciale"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:551
+#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1393
+msgid "Transition Speed"
+msgstr "Velocità transizione"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:552
+msgid ""
+"Selected speed in milliseconds for transition effect. Default for fade is "
+"800, else 400."
+msgstr ""
+"Velocità selezionata in millisecondi per l'effetto di transizione. "
+"L'impostazione predefinita per la dissolvenza è 800, altrimenti 400."
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:557
+msgid "Use Default (400/800 ms)"
+msgstr "Utilizzare il valore predefinito (400/800 ms)"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:645
+msgid "Delete Slideshow Section"
+msgstr "Elimina Sezione slideshow"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:646
+msgid "Show/Hide Slideshow Section"
+msgstr "Mostra/Nascondi la sezione Slideshow"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:650
+msgid "Edit Slideshow Section"
+msgstr "Modifica sezione slideshow"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:654
+msgid "Clone Slideshow Section"
+msgstr "Clonare sezione slideshow"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:654
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:571
+msgid "Clone Tab Section"
+msgstr "Clonare Sezione Scheda"
+
+# @ LayerSlider
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:668
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:973
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:480
+msgid "Slide"
+msgstr "Diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:676
+msgid "Add Slide"
+msgstr "Aggiungi diapositiva"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:682
+msgid "Slideshow Section content hidden. Click here to show it"
+msgstr ""
+"Slideshow Contenuto della sezione nascosto. Fare clic qui per mostrarlo"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:52
+msgid "Creates a single slide for the slideshow section element"
+msgstr "Crea una singola diapositiva per l'elemento di sezione slideshow"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:165
+msgid "Enter a title to display in the tabs above the slides"
+msgstr "Inserite un titolo da visualizzare nelle schede sopra le diapositive."
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:172
+msgid "Slide Tab Symbol"
+msgstr "Simbolo scheda diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:173
+msgid "Should an icon or image be displayed at the top of the slide tab title"
+msgstr ""
+"Si deve visualizzare un'icona o un'immagine nella parte superiore del titolo "
+"della scheda diapositiva"
+
+# @ LayerSlider
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:178
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:177
+msgid "No icon or image"
+msgstr "Nessuna icona o immagine"
+
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:179
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:178
+msgid "Display icon"
+msgstr "Mostra Icona"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:180
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:179
+msgid "Display image"
+msgstr "Visualizza imagine"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:185
+msgid "Slide Tab Icon"
+msgstr "Icona scheda diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:186
+msgid "Select an icon for your slide title tab"
+msgstr "Selezionare un'icona per il titolo della vostra scheda"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:194
+msgid "Slide Title Image"
+msgstr "Immagine del titolo della diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:208
+msgid "Slide Title Image Style"
+msgstr "Stile immagine titolo diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:214
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:213
+msgid "No special style"
+msgstr "Nessun stile speciale"
+
+# @ LayerSlider
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:215
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:214
+msgid "Rounded Borders"
+msgstr "Bordi Arrotondati"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:232
+msgid ""
+"Choose the vertical alignment of your slide content. (only applies if slides "
+"are set to same height)"
+msgstr ""
+"Scegliere l'allineamento verticale del contenuto della diapositiva. (si "
+"applica solo se le diapositive sono impostate alla stessa altezza)"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:258
+msgid "Active Slide Tab Font Color"
+msgstr "Colore del carattere della scheda attiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:259
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:277
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:258
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:276
+msgid ""
+"Select a custom font color for this tab when active. Leave empty for default "
+"color"
+msgstr ""
+"Seleziona un colore carattere personalizzato per questa scheda quando è "
+"attiva. Lascia vuoto per il colore predefinito"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:267
+msgid "Inactive Slide Tab Font Color"
+msgstr "Colore del carattere della scheda della diapositiva inattiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:268
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:286
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:267
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:285
+msgid ""
+"Select a custom font color for this tab when inactive. Leave empty for "
+"default color"
+msgstr ""
+"Seleziona un colore carattere personalizzato per questa scheda quando è "
+"inattiva. Lascia vuoto per il colore predefinito"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:276
+msgid "Active Slide Tab Font Color On Hover"
+msgstr "Colore del carattere della scheda attiva al passaggio del mouse"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:285
+msgid "Inactive Slide Tab Font Color On Hover"
+msgstr "Colore del carattere della scheda inattiva al passaggio del mouse"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:295
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:294
+msgid ""
+"Select a custom background color for this section here. Leave empty for "
+"default color"
+msgstr ""
+"Seleziona un colore di sfondo personalizzato per questa sezione qui. Lascia "
+"vuoto per il colore predefinito"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:318
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:317
+msgid ""
+"Either upload a new, or choose an existing image from your media library. "
+"Leave empty if you don't want to use a background image "
+msgstr ""
+"O caricare uno nuovo, o scegliere un&rsquo;immagine esistente dalla libreria "
+"multimediale. Lasciare vuoto se non si desidera utilizzare un&rsquo;immagine "
+"di sfondo "
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:385
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:411
+msgid "Edit Slide"
+msgstr "Modifica Slide"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:406
+msgid "Delete Slide"
+msgstr "Elimina diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:407
+msgid "Clone Slide"
+msgstr "Clonare diapositiva"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:23
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:194
@@ -18764,12 +19279,6 @@ msgstr "Transizione di contenuti"
 msgid "Define the transition between tab content"
 msgstr "Definire la transizione tra il contenuto della scheda"
 
-# @ LayerSlider
-# @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:480
-msgid "Slide"
-msgstr "Diapositiva"
-
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:562
 msgid "Delete Tab Section"
@@ -18784,11 +19293,6 @@ msgstr "Mostra/Nascondi Sezione Scheda"
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:567
 msgid "Edit Tab Section"
 msgstr "Modifica Sezione Scheda"
-
-# @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:571
-msgid "Clone Tab Section"
-msgstr "Clonare Sezione Scheda"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:584
@@ -18831,20 +19335,6 @@ msgstr ""
 "Mostrare un&rsquo;icona o un&rsquo;immagine nella parte superiore del titolo "
 "della scheda?"
 
-# @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:177
-msgid "No icon or image"
-msgstr "Nessuna icona o immagine"
-
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:178
-msgid "Display icon"
-msgstr "Mostra Icona"
-
-# @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:179
-msgid "Display image"
-msgstr "Visualizza imagine"
-
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:184
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:399
@@ -18870,16 +19360,6 @@ msgid "Tab Image Style"
 msgstr "Stile immagine scheda"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:213
-msgid "No special style"
-msgstr "Nessun stile speciale"
-
-# @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:214
-msgid "Rounded Borders"
-msgstr "Bordi Arrotondati"
-
-# @ avia_framework
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:230
 msgid "Vertical align"
 msgstr "Allineamento Verticale"
@@ -18894,53 +19374,14 @@ msgstr ""
 "applica solo se le schede sono impostate su altezza fissa)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:258
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:276
-msgid ""
-"Select a custom font color for this tab when active. Leave empty for default "
-"color"
-msgstr ""
-"Seleziona un colore carattere personalizzato per questa scheda quando è "
-"attiva. Lascia vuoto per il colore predefinito"
-
-# @ avia_framework
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:266
 msgid "Inactive Tab Font Color"
 msgstr "Colore del carattere nella scheda inattiva"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:267
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:285
-msgid ""
-"Select a custom font color for this tab when inactive. Leave empty for "
-"default color"
-msgstr ""
-"Seleziona un colore carattere personalizzato per questa scheda quando è "
-"inattiva. Lascia vuoto per il colore predefinito"
-
-# @ avia_framework
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:284
 msgid "Inactive Tab Font Color On Hover"
 msgstr "Colore del carattere della scheda inattiva al passaggio del mouse"
-
-# @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:294
-msgid ""
-"Select a custom background color for this section here. Leave empty for "
-"default color"
-msgstr ""
-"Seleziona un colore di sfondo personalizzato per questa sezione qui. Lascia "
-"vuoto per il colore predefinito"
-
-# @ avia_framework
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:317
-msgid ""
-"Either upload a new, or choose an existing image from your media library. "
-"Leave empty if you don't want to use a background image "
-msgstr ""
-"O caricare uno nuovo, o scegliere un&rsquo;immagine esistente dalla libreria "
-"multimediale. Lasciare vuoto se non si desidera utilizzare un&rsquo;immagine "
-"di sfondo "
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:383
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:409
@@ -25028,29 +25469,14 @@ msgid "Select the transition for your slideshow"
 msgstr "Scegliere la transizione per il vostro slideshow"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1327
-msgid "Slide sidewards"
-msgstr "Far scorrere lateralmente"
-
-# @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1328
 msgid "Slide up/down"
 msgstr "Scorrere sopra/sotto"
-
-# @ LayerSlider
-# @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1329
-msgid "Fade"
-msgstr "Dissolvenza"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1381
 msgid "Slideshow Transition"
 msgstr "Transizione slideshow"
-
-#: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1393
-msgid "Transition Speed"
-msgstr "Velocità transizione"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1394
 msgid "Selected speed in milliseconds for transition effect."
@@ -27291,7 +27717,7 @@ msgstr "Accedere"
 
 # @ avia_framework
 #: config-woocommerce/config-356.php:611 config-woocommerce/config.php:952
-#: framework/php/function-set-avia-frontend.php:1575
+#: framework/php/function-set-avia-frontend.php:1654
 msgid "Search results for:"
 msgstr "Cerca risultati per:"
 
@@ -28136,7 +28562,7 @@ msgstr "g a"
 #: framework/php/class-breadcrumb-trail.php:389
 #: framework/php/class-breadcrumb-trail.php:394
 #: framework/php/class-breadcrumb-trail.php:399
-#: framework/php/function-set-avia-frontend.php:1554
+#: framework/php/function-set-avia-frontend.php:1633
 msgid "Y"
 msgstr "Y"
 
@@ -28965,6 +29391,12 @@ msgstr "Immettere il nome del nuovo widget qui"
 msgid "Add Widget Area"
 msgstr "Aggiungi widget Area"
 
+# @ LayerSlider
+# @ avia_framework
+#: framework/php/class-svg-images.php:513
+msgid "SVG Image"
+msgstr "Immagine SVG"
+
 #: framework/php/font-management/class-avia-font-management-base.php:152
 msgid ""
 "Couldn't add/remove the font.<br/>The script returned the following error: "
@@ -29160,83 +29592,92 @@ msgid "Unable to rename/move file %s to %s"
 msgstr "Impossibile rinominare/spostare il file %s in %s"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1368
+#: framework/php/function-set-avia-frontend.php:744
+#: framework/php/function-set-avia-frontend.php:833
+#: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:404
+#: includes/admin/option_tabs/avia_avia.php:55
+#: includes/helper-main-menu.php:171
+msgid "Logo"
+msgstr "Logo"
+
+# @ avia_framework
+#: framework/php/function-set-avia-frontend.php:1447
 #, php-format
 msgid "Page %d of %d"
 msgstr "Pagina %d di %d"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1542
+#: framework/php/function-set-avia-frontend.php:1621
 msgid "Archive for category:"
 msgstr "Archivio per categoria:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1546
+#: framework/php/function-set-avia-frontend.php:1625
 msgid "Archive for date:"
 msgstr "Archivio per data:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1546
+#: framework/php/function-set-avia-frontend.php:1625
 msgid "F jS, Y"
 msgstr "F jS, Y"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1550
+#: framework/php/function-set-avia-frontend.php:1629
 msgid "Archive for month:"
 msgstr "Archivio per mese:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1550
+#: framework/php/function-set-avia-frontend.php:1629
 msgid "F, Y"
 msgstr "F, Y"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1554
+#: framework/php/function-set-avia-frontend.php:1633
 msgid "Archive for year:"
 msgstr "Archivio per anno:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1564
+#: framework/php/function-set-avia-frontend.php:1643
 msgid "search results for:"
 msgstr "risultati per la ricerca di:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1568
+#: framework/php/function-set-avia-frontend.php:1647
 msgid "search result for:"
 msgstr "risultati di ricerca per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1579
+#: framework/php/function-set-avia-frontend.php:1658
 msgid "To search the site please enter a valid term"
 msgstr "Per cercare nel sito si prega di inserire un termine valido"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1587
+#: framework/php/function-set-avia-frontend.php:1666
 msgid "Author Archive"
 msgstr "Archivio Autore"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1592
+#: framework/php/function-set-avia-frontend.php:1671
 msgid "for:"
 msgstr "di:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1597 tag.php:90 tag.php:157
+#: framework/php/function-set-avia-frontend.php:1676 tag.php:90 tag.php:157
 msgid "Tag Archive for:"
 msgstr "Tag Archivio per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1602
+#: framework/php/function-set-avia-frontend.php:1681
 msgid "Archive for:"
 msgstr "Archivio per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1606
+#: framework/php/function-set-avia-frontend.php:1685
 msgid "Archives"
 msgstr "Archivi"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1612
+#: framework/php/function-set-avia-frontend.php:1691
 #: includes/helper-conditional-megamenu.php:87
 msgid "Page"
 msgstr "Pagina"
@@ -29647,12 +30088,6 @@ msgstr "Carica un'immagine banner o inserisci l'URL"
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:400
 msgid "Use image as banner"
 msgstr "Usa l&rsquo;immagine come banner"
-
-# @ avia_framework
-#: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:404
-#: includes/admin/option_tabs/avia_avia.php:55
-msgid "Logo"
-msgstr "Logo"
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:405
 msgid "Upload a logo or enter the URL"
@@ -37779,7 +38214,7 @@ msgid "Conditional CSS Class"
 msgstr "Condizionale classe CSS"
 
 # @ avia_framework
-#: includes/helper-main-menu.php:212 includes/helper-main-menu.php:289
+#: includes/helper-main-menu.php:213 includes/helper-main-menu.php:290
 msgid "Select a page"
 msgstr "Seleziona una pagina"
 
@@ -40487,11 +40922,6 @@ msgstr "Archivio per mese:"
 
 # @ avia_framework
 #, fuzzy
-#~ msgid "Add Video"
-#~ msgstr "Vídeo"
-
-# @ avia_framework
-#, fuzzy
 #~ msgid "Add Media"
 #~ msgstr "Aggiungi Scheda"
 
@@ -41409,10 +41839,6 @@ msgstr "Archivio per mese:"
 #~ msgstr "Transizioni della pagina"
 
 #, fuzzy
-#~ msgid "Special Effects"
-#~ msgstr "Effetto scala di grigi"
-
-#, fuzzy
 #~ msgid "User Transitions"
 #~ msgstr "Transizioni della pagina"
 
@@ -42072,11 +42498,6 @@ msgstr "Archivio per mese:"
 #~ msgid "Slide Timing"
 #~ msgstr "Animazioni a scorrimento"
 
-# @ avia_framework
-#, fuzzy
-#~ msgid "Slide Transition"
-#~ msgstr "Transizione slideshow"
-
 #, fuzzy
 #~ msgid "Transition duration"
 #~ msgstr "Durata Animazione"
@@ -42643,11 +43064,6 @@ msgstr "Archivio per mese:"
 #, fuzzy
 #~ msgid "Scene Position"
 #~ msgstr "Posizione dell&rsquo;icona"
-
-# @ avia_framework
-#, fuzzy
-#~ msgid "Select Slide"
-#~ msgstr "Seleziona il video"
 
 # @ avia_framework
 #, fuzzy

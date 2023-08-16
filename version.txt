@@ -1,10 +1,11 @@
 
-2023-07-24
+2023-08-16
+- Italian language files it_IT (version 5.6.3, provided by BigBatT - info@luigicircello.it)
 
+2023-07-24
 - Italian language files it_IT (version 5.6.4, provided by BigBatT - info@luigicircello.it)
 - Croatian language files hr (version 5.6.4, provided by NUIT d.o.o. - info@nuit.hr )
 - Some fixes in de_DE_formal
-
 
 2023-07-13
 - sync all language files (5.6.4)
