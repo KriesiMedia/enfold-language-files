@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v5.6.5\n"
+"Project-Id-Version: Italian Enfold Language v5.6.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-15 09:54+0200\n"
-"PO-Revision-Date: 2023-08-15 10:29+0200\n"
+"POT-Creation-Date: 2023-08-30 14:01+0200\n"
+"PO-Revision-Date: 2023-08-30 14:02+0200\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -4600,7 +4600,7 @@ msgstr "Il più vicino"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:507
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:342
 #: config-templatebuilder/avia-template-builder/config/meta.php:194
-#: includes/admin/option_tabs/avia_avia.php:219
+#: includes/admin/option_tabs/avia_avia.php:296
 #: includes/admin/option_tabs/avia_element_templates.php:56
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:46
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:41
@@ -4962,15 +4962,15 @@ msgstr "Comportamento Codeblock"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:154
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2274
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2306
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2337
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2368
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2399
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2430
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2461
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2492
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2523
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2255
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2287
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2318
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2349
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2380
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2411
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2442
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2473
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2504
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:89
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:823
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:847
@@ -5000,15 +5000,15 @@ msgstr "Crea una singola colonna a larghezza completa"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:170
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2291
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2323
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2354
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2385
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2416
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2447
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2478
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2509
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2540
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2272
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2304
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2335
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2366
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2397
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2428
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2459
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2490
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2521
 msgid "Column Template"
 msgstr "Modello di colonna"
 
@@ -5737,61 +5737,61 @@ msgstr "Clonare colonna"
 msgid "edit"
 msgstr "modifica"
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1866
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1847
 #: config-templatebuilder/avia-shortcodes/section/section.php:1272
 msgid "Dummy Content to demonstrate &quot;Bring To Front&quot; option"
 msgstr "Contenuto fittizio per dimostrare l'opzione \"Porta in primo piano\""
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2279
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2260
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:829
 msgid "Creates a single column with 50&percnt; width"
 msgstr "Crea una singola colonna con il 50&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2311
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2292
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:852
 msgid "Creates a single column with 33&percnt; width"
 msgstr "Crea una singola colonna con il 33&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2342
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2323
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:875
 msgid "Creates a single column with 67&percnt; width"
 msgstr "Crea una singola colonna con il 67&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2372
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2353
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:897
 msgid "Creates a single column with 25&percnt; width"
 msgstr "Crea una singola colonna con il 25&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2403
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2384
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:920
 msgid "Creates a single column with 75&percnt; width"
 msgstr "Crea una singola colonna con il 75&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2435
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2416
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:944
 msgid "Creates a single column with 20&percnt; width"
 msgstr "Crea una singola colonna con il 20&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2466
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2447
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:967
 msgid "Creates a single column with 40&percnt; width"
 msgstr "Crea una singola colonna con il 40&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2497
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2478
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:990
 msgid "Creates a single column with 60&percnt; width"
 msgstr "Crea una singola colonna con il 60&percnt; di larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2528
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2509
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:1013
 msgid "Creates a single column with 80&percnt; width"
 msgstr "Crea una singola colonna con l'80&percnt; di larghezza"
@@ -15787,7 +15787,7 @@ msgstr "Anteprima immagine"
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:876
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1224
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3096
-#: framework/php/function-set-avia-frontend.php:1717
+#: framework/php/function-set-avia-frontend.php:1726
 #: includes/loop-index.php:133 includes/loop-index.php:134
 #: includes/loop-index.php:547 includes/loop-index.php:563
 #: includes/loop-page.php:34 includes/loop-portfolio-single.php:34
@@ -27717,7 +27717,7 @@ msgstr "Accedere"
 
 # @ avia_framework
 #: config-woocommerce/config-356.php:611 config-woocommerce/config.php:952
-#: framework/php/function-set-avia-frontend.php:1654
+#: framework/php/function-set-avia-frontend.php:1663
 msgid "Search results for:"
 msgstr "Cerca risultati per:"
 
@@ -28562,7 +28562,7 @@ msgstr "g a"
 #: framework/php/class-breadcrumb-trail.php:389
 #: framework/php/class-breadcrumb-trail.php:394
 #: framework/php/class-breadcrumb-trail.php:399
-#: framework/php/function-set-avia-frontend.php:1633
+#: framework/php/function-set-avia-frontend.php:1642
 msgid "Y"
 msgstr "Y"
 
@@ -29382,12 +29382,12 @@ msgid "Custom Widget Area"
 msgstr "Widget  Area personalizzato"
 
 # @ avia_framework
-#: framework/php/class-sidebar-generator.php:109
+#: framework/php/class-sidebar-generator.php:115
 msgid "Enter Name of the new Widget Area here"
 msgstr "Immettere il nome del nuovo widget qui"
 
 # @ avia_framework
-#: framework/php/class-sidebar-generator.php:110
+#: framework/php/class-sidebar-generator.php:116
 msgid "Add Widget Area"
 msgstr "Aggiungi widget Area"
 
@@ -29593,91 +29593,96 @@ msgstr "Impossibile rinominare/spostare il file %s in %s"
 
 # @ avia_framework
 #: framework/php/function-set-avia-frontend.php:744
-#: framework/php/function-set-avia-frontend.php:833
+#: framework/php/function-set-avia-frontend.php:842
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:404
 #: includes/admin/option_tabs/avia_avia.php:55
 #: includes/helper-main-menu.php:171
 msgid "Logo"
 msgstr "Logo"
 
+#: framework/php/function-set-avia-frontend.php:777
+#, php-format
+msgid "Logo for %s"
+msgstr "Logo per %s"
+
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1447
+#: framework/php/function-set-avia-frontend.php:1456
 #, php-format
 msgid "Page %d of %d"
 msgstr "Pagina %d di %d"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1621
+#: framework/php/function-set-avia-frontend.php:1630
 msgid "Archive for category:"
 msgstr "Archivio per categoria:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1625
+#: framework/php/function-set-avia-frontend.php:1634
 msgid "Archive for date:"
 msgstr "Archivio per data:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1625
+#: framework/php/function-set-avia-frontend.php:1634
 msgid "F jS, Y"
 msgstr "F jS, Y"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1629
+#: framework/php/function-set-avia-frontend.php:1638
 msgid "Archive for month:"
 msgstr "Archivio per mese:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1629
+#: framework/php/function-set-avia-frontend.php:1638
 msgid "F, Y"
 msgstr "F, Y"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1633
+#: framework/php/function-set-avia-frontend.php:1642
 msgid "Archive for year:"
 msgstr "Archivio per anno:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1643
+#: framework/php/function-set-avia-frontend.php:1652
 msgid "search results for:"
 msgstr "risultati per la ricerca di:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1647
+#: framework/php/function-set-avia-frontend.php:1656
 msgid "search result for:"
 msgstr "risultati di ricerca per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1658
+#: framework/php/function-set-avia-frontend.php:1667
 msgid "To search the site please enter a valid term"
 msgstr "Per cercare nel sito si prega di inserire un termine valido"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1666
+#: framework/php/function-set-avia-frontend.php:1675
 msgid "Author Archive"
 msgstr "Archivio Autore"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1671
+#: framework/php/function-set-avia-frontend.php:1680
 msgid "for:"
 msgstr "di:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1676 tag.php:90 tag.php:157
+#: framework/php/function-set-avia-frontend.php:1685 tag.php:90 tag.php:157
 msgid "Tag Archive for:"
 msgstr "Tag Archivio per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1681
+#: framework/php/function-set-avia-frontend.php:1690
 msgid "Archive for:"
 msgstr "Archivio per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1685
+#: framework/php/function-set-avia-frontend.php:1694
 msgid "Archives"
 msgstr "Archivi"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1691
+#: framework/php/function-set-avia-frontend.php:1700
 #: includes/helper-conditional-megamenu.php:87
 msgid "Page"
 msgstr "Pagina"
@@ -31206,7 +31211,7 @@ msgstr ""
 "(a meno che tu non aggiunga l'ID dell'allegato)."
 
 #: includes/admin/option_tabs/avia_avia.php:49
-#: includes/admin/option_tabs/avia_header.php:563
+#: includes/admin/option_tabs/avia_avia.php:95
 msgid "Since 4.8.6.4 (in beta) - support for svg files"
 msgstr "Dalla versione 4.8.6.4 (in versione beta) - supporto per i file svg"
 
@@ -31237,52 +31242,141 @@ msgstr ""
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_avia.php:59
-#: includes/admin/option_tabs/avia_avia.php:112
-#: includes/admin/option_tabs/avia_header.php:572
+#: includes/admin/option_tabs/avia_avia.php:104
+#: includes/admin/option_tabs/avia_avia.php:189
 msgid "Use Image as logo"
 msgstr "Usa immagine come logo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_avia.php:62
+#: includes/admin/option_tabs/avia_avia.php:65
+msgid "Transparency Logo Options"
+msgstr "Opzioni del logo per la trasparenza"
+
+#: includes/admin/option_tabs/avia_avia.php:66
+msgid "Contains options for transparency header."
+msgstr "Contiene le opzioni per la trasparenza dell'intestazione."
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:75
+msgid "Transparency Options"
+msgstr "Opzioni di trasparenza"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:85
+msgid "What Is Header Transparency"
+msgstr "Cos'è la trasparenza delle intestazioni"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:86
+msgid ""
+"When creating/editing a page you can select to have the header be "
+"transparent and display the content (usually a fullwidth slideshow or a "
+"fullwidth image) beneath. In those cases you will usually need a different "
+"Logo and Main Menu color which can be set here."
+msgstr ""
+"Durante la creazione/modifica di una pagina è possibile scegliere di avere "
+"l&rsquo;intestazione  trasparente e visualizzare il contenuto (di solito una "
+"presentazione fullwidth o un'immagine fullwidth) al di sotto. In questi casi "
+"di solito si ha bisogno di un diverso logo e il colore principale del menu "
+"che può essere impostato qui."
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:86
+msgid "(Show example Screenshot)"
+msgstr "(Visualizza esempio Screenshot)"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:93
+msgid ""
+"Upload a logo image, or enter the URL or ID of an image if its already "
+"uploaded. (Leave empty to use the default logo)"
+msgstr ""
+"Carica una immagine del logo, o immettere la URL o ID di una immagine se già "
+"caricata. (Lasciare vuoto per usare il logo predefinito)"
+
+#: includes/admin/option_tabs/avia_avia.php:96
+msgid ""
+"Same rules as described at &quot;Theme Options -&gt; Logo&quot;. If you want "
+"to mix svg and other image formats for the logos you might need to add "
+"custom css."
+msgstr ""
+"Stesse regole descritte in &quot;Opzioni tema -&gt; Logo&quot;. Se vuoi "
+"combinare svg e altri formati immagine per i loghi potresti aver bisogno di "
+"aggiungere css personalizzati."
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:100
+msgid "Transparency Logo"
+msgstr "Trasparenza Logo"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:109
+msgid "Transparency Menu Color"
+msgstr "Trasparenza colore menu"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:110
+msgid ""
+"Menu color for transparent header (Leave empty to use the default color)"
+msgstr ""
+"Colore Menu per la testata trasparente (Lasciare vuoto per utilizzare il "
+"colore predefinito)"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:119
+msgid "Transparency Menu Color On Hover"
+msgstr "Trasparenza colore menu hover"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:120
+msgid ""
+"Menu color for transparent header on hover (Leave empty to use the default "
+"color)"
+msgstr ""
+"Colore Menu per la testata trasparente (Lasciare vuoto per utilizzare il "
+"colore predefinito)"
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_avia.php:139
 msgid "Specify a favicon for your site."
 msgstr "Specificare una favicon per il sito."
 
-#: includes/admin/option_tabs/avia_avia.php:62
+#: includes/admin/option_tabs/avia_avia.php:139
 msgid "Accepted formats: .ico, .png, .gif"
 msgstr "I formati accettati sono: .ico, .png, .gif"
 
-#: includes/admin/option_tabs/avia_avia.php:63
+#: includes/admin/option_tabs/avia_avia.php:140
 msgid "What is a"
 msgstr "Che cos'è una"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_avia.php:63
+#: includes/admin/option_tabs/avia_avia.php:140
 msgid "favicon"
 msgstr "favicon"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_avia.php:67
+#: includes/admin/option_tabs/avia_avia.php:144
 msgid "Favicon"
 msgstr "Favicon"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_avia.php:71
+#: includes/admin/option_tabs/avia_avia.php:148
 msgid "Use Image as Favicon"
 msgstr "Usa immagine come Favicon"
 
-#: includes/admin/option_tabs/avia_avia.php:86
+#: includes/admin/option_tabs/avia_avia.php:163
 msgid "Page Preloading"
 msgstr "Pre-caricamento pagina"
 
-#: includes/admin/option_tabs/avia_avia.php:87
+#: includes/admin/option_tabs/avia_avia.php:164
 msgid "Show a preloader when opening a page on your site."
 msgstr "Mostra un preloader quando si apre una pagina del tuo sito."
 
-#: includes/admin/option_tabs/avia_avia.php:96
+#: includes/admin/option_tabs/avia_avia.php:173
 msgid "Page Transitions"
 msgstr "Transizioni della pagina"
 
-#: includes/admin/option_tabs/avia_avia.php:97
+#: includes/admin/option_tabs/avia_avia.php:174
 msgid ""
 "Smooth page transition when navigating from one page to the next. Please "
 "disable if this causes problems with plugins when navigating ajax or "
@@ -31292,21 +31386,21 @@ msgstr ""
 "di disattivare se questo causa problemi con i plugins durante la navigazione "
 "in ajax o altri contenuti creati in modo dinamico"
 
-#: includes/admin/option_tabs/avia_avia.php:107
+#: includes/admin/option_tabs/avia_avia.php:184
 msgid "Custom Logo for preloader"
 msgstr "Logo personalizzato per il preloader"
 
-#: includes/admin/option_tabs/avia_avia.php:108
+#: includes/admin/option_tabs/avia_avia.php:185
 msgid "Upload an optional logo image for your preloader page"
 msgstr "Carica un'immagine logo (facoltativa) per la tua pagina preloader"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_avia.php:134
+#: includes/admin/option_tabs/avia_avia.php:211
 msgid "Lightbox Modal Window"
 msgstr "Lightbox Modal Window"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_avia.php:135
+#: includes/admin/option_tabs/avia_avia.php:212
 msgid ""
 "Check to enable the default lightbox that opens once you click a link to an "
 "image. Uncheck only if you want to use your own modal window plugin"
@@ -31315,11 +31409,11 @@ msgstr ""
 "che si fa clic su una immagine. Deseleziona solo se si desidera utilizzare "
 "modalità finestra del proprio plugin"
 
-#: includes/admin/option_tabs/avia_avia.php:165
+#: includes/admin/option_tabs/avia_avia.php:242
 msgid "Custom Error 404 Page"
 msgstr "Errore Pagina 404 Personalizzata"
 
-#: includes/admin/option_tabs/avia_avia.php:166
+#: includes/admin/option_tabs/avia_avia.php:243
 msgid ""
 "Select if you want to use any of your pages as your custom Error 404 Page. "
 "This page will be excluded from page lists and search results. You must "
@@ -31330,23 +31424,23 @@ msgstr ""
 "risultati di ricerca. È necessario deselezionare la pagina per renderlo "
 "accessibile di nuovo pubblico."
 
-#: includes/admin/option_tabs/avia_avia.php:172
+#: includes/admin/option_tabs/avia_avia.php:249
 msgid "No custom 404 page selected"
 msgstr "Nessuna pagina 404 personalizzata selezionata"
 
-#: includes/admin/option_tabs/avia_avia.php:173
+#: includes/admin/option_tabs/avia_avia.php:250
 msgid "Display selected page without redirect"
 msgstr "Visualizzare la pagina selezionata senza reindirizzare"
 
-#: includes/admin/option_tabs/avia_avia.php:174
+#: includes/admin/option_tabs/avia_avia.php:251
 msgid "Redirect to selected page"
 msgstr "Reindirizza alla pagina selezionata"
 
-#: includes/admin/option_tabs/avia_avia.php:180
+#: includes/admin/option_tabs/avia_avia.php:257
 msgid "Select Your Custom Error 404 Page"
 msgstr "Selezionare la pagina 404 errore personalizzato"
 
-#: includes/admin/option_tabs/avia_avia.php:181
+#: includes/admin/option_tabs/avia_avia.php:258
 msgid ""
 "If you are using a caching plugin, make sure to exclude this page from "
 "caching."
@@ -31354,11 +31448,11 @@ msgstr ""
 "Se utilizzi un plug-in di memorizzazione nella cache, assicurati di "
 "escludere questa pagina dal caching."
 
-#: includes/admin/option_tabs/avia_avia.php:212
+#: includes/admin/option_tabs/avia_avia.php:289
 msgid "Maintenance Mode"
 msgstr "Modalità di Manutenzione"
 
-#: includes/admin/option_tabs/avia_avia.php:213
+#: includes/admin/option_tabs/avia_avia.php:290
 msgid ""
 "Check to enable maintenance mode and show or redirect all page requests to a "
 "maintenance page of your choice. This page will not be accessable and will "
@@ -31371,20 +31465,20 @@ msgstr ""
 "elenchi di pagine e dai risultati di ricerca. È necessario deselezionare la "
 "pagina per renderlo accessibile di nuovo pubblico."
 
-#: includes/admin/option_tabs/avia_avia.php:220
+#: includes/admin/option_tabs/avia_avia.php:297
 msgid "Enabled - Use selected page content without redirect"
 msgstr ""
 "Abilitato-utilizza il contenuto della pagina selezionata senza reindirizzare"
 
-#: includes/admin/option_tabs/avia_avia.php:221
+#: includes/admin/option_tabs/avia_avia.php:298
 msgid "Enabled - Redirect to selected page"
 msgstr "Abilitato-reindirizza alla pagina selezionata"
 
-#: includes/admin/option_tabs/avia_avia.php:227
+#: includes/admin/option_tabs/avia_avia.php:304
 msgid "Select Your Maintenance Mode Page"
 msgstr "Selezionare la pagina della modalità di manutenzione"
 
-#: includes/admin/option_tabs/avia_avia.php:228
+#: includes/admin/option_tabs/avia_avia.php:305
 msgid ""
 "Please note that logged in Administrators, Editors and Authors will still be "
 "able to access the site"
@@ -31392,11 +31486,11 @@ msgstr ""
 "Si prega di notare che gli amministratori, gli editori e gli autori "
 "registrati saranno comunque in grado di accedere al sito"
 
-#: includes/admin/option_tabs/avia_avia.php:262
+#: includes/admin/option_tabs/avia_avia.php:339
 msgid "Select Your Editor"
 msgstr "Seleziona il tuo editor"
 
-#: includes/admin/option_tabs/avia_avia.php:263
+#: includes/admin/option_tabs/avia_avia.php:340
 msgid ""
 "Choose if you want to enable and use the built in classic editor - no plugin "
 "is needed."
@@ -31404,19 +31498,19 @@ msgstr ""
 "Scegliere se si desidera attivare e utilizzare il  classico editor-Nessun "
 "plugin è necessario."
 
-#: includes/admin/option_tabs/avia_avia.php:270
+#: includes/admin/option_tabs/avia_avia.php:347
 msgid "Use Block Editor"
 msgstr "USA blocco editor"
 
-#: includes/admin/option_tabs/avia_avia.php:271
+#: includes/admin/option_tabs/avia_avia.php:348
 msgid "Use WP Classic Editor"
 msgstr "Utilizzare WP Classic editor"
 
-#: includes/admin/option_tabs/avia_avia.php:283
+#: includes/admin/option_tabs/avia_avia.php:360
 msgid "Disable Block Editor For Selected Post Types:"
 msgstr "Disattiva Editor blocchi per tipi di post selezionati:"
 
-#: includes/admin/option_tabs/avia_avia.php:284
+#: includes/admin/option_tabs/avia_avia.php:361
 msgid ""
 "Only the classic WP editor will be used for the selected post types. The "
 "links to WP block editor (Gutenberg) will not be available. You can change "
@@ -31428,12 +31522,12 @@ msgstr ""
 "possibile modificare questo comportamento per determinate pagine/post con "
 "filtro Enfold&rsquo;s filter &quot;avf_use_block_editor_for_post&quot;"
 
-#: includes/admin/option_tabs/avia_avia.php:290
+#: includes/admin/option_tabs/avia_avia.php:367
 msgid "Allow block editor for all possible post types (= default)..."
 msgstr ""
 "Consenti Editor blocchi per tutti i tipi di post possibili (= predefinito)..."
 
-#: includes/admin/option_tabs/avia_avia.php:291
+#: includes/admin/option_tabs/avia_avia.php:368
 msgid "Disable block editor for all listed post types..."
 msgstr "Disattiva Editor blocchi per tutti i tipi di post elencati..."
 
@@ -33988,86 +34082,6 @@ msgid ""
 msgstr ""
 "Selezionare un colore personalizzato per la barra di avanzamento della "
 "lettura. Lasciare vuoto per il colore predefinito del tema."
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:542
-msgid "Transparency Options"
-msgstr "Opzioni di trasparenza"
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:553
-msgid "What Is Header Transparency"
-msgstr "Cos'è la trasparenza delle intestazioni"
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:554
-msgid ""
-"When creating/editing a page you can select to have the header be "
-"transparent and display the content (usually a fullwidth slideshow or a "
-"fullwidth image) beneath. In those cases you will usually need a different "
-"Logo and Main Menu color which can be set here."
-msgstr ""
-"Durante la creazione/modifica di una pagina è possibile scegliere di avere "
-"l&rsquo;intestazione  trasparente e visualizzare il contenuto (di solito una "
-"presentazione fullwidth o un'immagine fullwidth) al di sotto. In questi casi "
-"di solito si ha bisogno di un diverso logo e il colore principale del menu "
-"che può essere impostato qui."
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:554
-msgid "(Show example Screenshot)"
-msgstr "(Visualizza esempio Screenshot)"
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:561
-msgid ""
-"Upload a logo image, or enter the URL or ID of an image if its already "
-"uploaded. (Leave empty to use the default logo)"
-msgstr ""
-"Carica una immagine del logo, o immettere la URL o ID di una immagine se già "
-"caricata. (Lasciare vuoto per usare il logo predefinito)"
-
-#: includes/admin/option_tabs/avia_header.php:564
-msgid ""
-"Same rules as described at &quot;Theme Options -&gt; Logo&quot;. If you want "
-"to mix svg and other image formats for the logos you might need to add "
-"custom css."
-msgstr ""
-"Stesse regole descritte in &quot;Opzioni tema -&gt; Logo&quot;. Se vuoi "
-"combinare svg e altri formati immagine per i loghi potresti aver bisogno di "
-"aggiungere css personalizzati."
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:568
-msgid "Transparency Logo"
-msgstr "Trasparenza Logo"
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:577
-msgid "Transparency Menu Color"
-msgstr "Trasparenza colore menu"
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:578
-msgid ""
-"Menu color for transparent header (Leave empty to use the default color)"
-msgstr ""
-"Colore Menu per la testata trasparente (Lasciare vuoto per utilizzare il "
-"colore predefinito)"
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:587
-msgid "Transparency Menu Color On Hover"
-msgstr "Trasparenza colore menu hover"
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:588
-msgid ""
-"Menu color for transparent header on hover (Leave empty to use the default "
-"color)"
-msgstr ""
-"Colore Menu per la testata trasparente (Lasciare vuoto per utilizzare il "
-"colore predefinito)"
 
 #: includes/admin/option_tabs/avia_layout.php:13
 msgid "A rough preview of the frontend."
