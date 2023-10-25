@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v5.6.6\n"
+"Project-Id-Version: Italian Enfold Language v5.6.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-30 14:01+0200\n"
-"PO-Revision-Date: 2023-08-30 14:02+0200\n"
+"POT-Creation-Date: 2023-10-24 23:09+0200\n"
+"PO-Revision-Date: 2023-10-24 23:41+0200\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -1360,7 +1360,7 @@ msgstr ""
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:767
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:974
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1017
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:528
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:559
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:583
 msgid "Lightbox"
 msgstr "Lightbox"
@@ -2657,7 +2657,7 @@ msgstr " ??? "
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:26
-#: includes/loop-index.php:12 template-archives.php:54
+#: includes/loop-index.php:12 template-archives.php:63
 msgid "Blog Posts"
 msgstr "Articoli"
 
@@ -2846,8 +2846,8 @@ msgstr "Scegliere qui il layout predefinito del blog"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:263
-#: includes/admin/option_tabs/avia_blog.php:100
-#: includes/admin/option_tabs/avia_blog.php:176
+#: includes/admin/option_tabs/avia_blog.php:103
+#: includes/admin/option_tabs/avia_blog.php:179
 msgid ""
 "Multi Author Blog (displays Gravatar of the article author beside the entry "
 "and feature images above)"
@@ -2857,7 +2857,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:264
-#: includes/admin/option_tabs/avia_blog.php:101
+#: includes/admin/option_tabs/avia_blog.php:104
 msgid ""
 "Single Author, small preview Pic (no author picture is displayed, feature "
 "image is small)"
@@ -2867,7 +2867,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:265
-#: includes/admin/option_tabs/avia_blog.php:102
+#: includes/admin/option_tabs/avia_blog.php:105
 msgid ""
 "Single Author, big preview Pic (no author picture is displayed, feature "
 "image is big)"
@@ -2877,22 +2877,22 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:266
-#: includes/admin/option_tabs/avia_blog.php:103
+#: includes/admin/option_tabs/avia_blog.php:106
 msgid "Grid Layout"
 msgstr "Disposizione a Griglia"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:267
-#: includes/admin/option_tabs/avia_blog.php:104
+#: includes/admin/option_tabs/avia_blog.php:107
 msgid "List Layout - Simple (Title and meta information only)"
 msgstr "Disposizione lista - Semplice (Solo titolo e info meta)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:268
-#: includes/admin/option_tabs/avia_blog.php:105
+#: includes/admin/option_tabs/avia_blog.php:108
 msgid "List Layout - Compact (Title and icon only)"
 msgstr "Disposizione lista -  Compatta (Solo titolo e icona)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:269
-#: includes/admin/option_tabs/avia_blog.php:106
+#: includes/admin/option_tabs/avia_blog.php:109
 msgid "List Layout - Excerpt (Title, meta information and excerpt only)"
 msgstr "Disposizione lista - Riassunto (Solo titolo, info meta ed estratto)"
 
@@ -4384,11 +4384,11 @@ msgstr "Alto"
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:485
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:254
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:346
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:750
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:761
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:287
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:57
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2670
-#: includes/admin/option_tabs/avia_blog.php:414
+#: includes/admin/option_tabs/avia_blog.php:417
 #: includes/admin/option_tabs/avia_sidebars.php:147
 #: includes/admin/register-admin-option-values.php:43
 msgid "Left"
@@ -4422,11 +4422,11 @@ msgstr "Sotto"
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:484
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:256
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:347
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:752
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:763
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:288
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:55
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2671
-#: includes/admin/option_tabs/avia_blog.php:416
+#: includes/admin/option_tabs/avia_blog.php:419
 #: includes/admin/option_tabs/avia_sidebars.php:146
 #: includes/admin/register-admin-option-values.php:45
 msgid "Right"
@@ -5965,7 +5965,7 @@ msgstr "Nome"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:232
-#: includes/admin/option_tabs/avia_blog.php:317
+#: includes/admin/option_tabs/avia_blog.php:320
 msgid "E-Mail"
 msgstr "E-Mail"
 
@@ -6398,8 +6398,8 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:506
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:413
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:751
-#: includes/admin/option_tabs/avia_blog.php:415
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:762
+#: includes/admin/option_tabs/avia_blog.php:418
 msgid "Centered"
 msgstr "Centrato"
 
@@ -7581,6 +7581,11 @@ msgstr "Qui è possibile impostare il colore di sfondo del tuo capolettera"
 msgid "Select a custom background color for your dropcap here"
 msgstr ""
 "Scegliere un colore di sfondo personalizzato per il vostro capolettara qui"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/email_spam.php:24
+msgid "E-Mail Spam Protect"
+msgstr "Protezione dallo spam e-mail"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:102
@@ -9142,8 +9147,8 @@ msgstr "Aggiungere il sottotitolo qui"
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:216
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:230
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:458
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:735
-#: includes/admin/option_tabs/avia_blog.php:398
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:746
+#: includes/admin/option_tabs/avia_blog.php:401
 msgid "Icon"
 msgstr "Icona"
 
@@ -11869,8 +11874,8 @@ msgstr "Dopo"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:309
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:575
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:733
-#: includes/admin/option_tabs/avia_blog.php:396
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:744
+#: includes/admin/option_tabs/avia_blog.php:399
 #: includes/admin/option_tabs/avia_cookie.php:393
 #: includes/admin/register-backend-advanced-styles.php:534
 msgid "Buttons"
@@ -14780,7 +14785,7 @@ msgid "Apply a link to the menu text?"
 msgstr "Applicare un link al testo del menu?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/menu/menu.php:768
+#: config-templatebuilder/avia-shortcodes/menu/menu.php:771
 #: functions-enfold.php:246 functions-enfold.php:250 functions-enfold.php:253
 msgid "Menu"
 msgstr "Menu"
@@ -15149,11 +15154,11 @@ msgstr "Nascondi su schermi di dimensioni inferiori a 767px"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:407
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:216
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:734
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:745
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:215
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1542
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1685
-#: includes/admin/option_tabs/avia_blog.php:397
+#: includes/admin/option_tabs/avia_blog.php:400
 msgid "Circle"
 msgstr "Cerchio"
 
@@ -15509,7 +15514,7 @@ msgstr ""
 #: config-woocommerce/admin-import.php:153
 #: config-woocommerce/admin-import.php:155
 #: includes/admin/register-portfolio.php:153
-#: includes/admin/register-widget-area.php:124 template-archives.php:179
+#: includes/admin/register-widget-area.php:124 template-archives.php:188
 msgid "Categories"
 msgstr "Categorie"
 
@@ -18707,7 +18712,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:175
-#: includes/admin/option_tabs/avia_blog.php:92
+#: includes/admin/option_tabs/avia_blog.php:95
 #: includes/admin/register-admin-options.php:135
 msgid "Blog Layout"
 msgstr "Layout Blog"
@@ -18715,13 +18720,13 @@ msgstr "Layout Blog"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:177
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:178
-#: includes/admin/option_tabs/avia_blog.php:211
-#: includes/admin/option_tabs/avia_blog.php:223
-#: includes/admin/option_tabs/avia_blog.php:234
-#: includes/admin/option_tabs/avia_blog.php:245
-#: includes/admin/option_tabs/avia_blog.php:257
-#: includes/admin/option_tabs/avia_blog.php:268
-#: includes/admin/option_tabs/avia_blog.php:293
+#: includes/admin/option_tabs/avia_blog.php:214
+#: includes/admin/option_tabs/avia_blog.php:226
+#: includes/admin/option_tabs/avia_blog.php:237
+#: includes/admin/option_tabs/avia_blog.php:248
+#: includes/admin/option_tabs/avia_blog.php:260
+#: includes/admin/option_tabs/avia_blog.php:271
+#: includes/admin/option_tabs/avia_blog.php:296
 msgid "Check to display"
 msgstr "Spuntare per visualizzare"
 
@@ -18734,7 +18739,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:181
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:489
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:500
 #: includes/admin/option_tabs/avia_footer.php:168
 #: includes/admin/option_tabs/avia_header.php:433
 #: includes/admin/option_tabs/avia_layout.php:254
@@ -18752,7 +18757,7 @@ msgstr "Un piccolo titolo sopra i pulsanti."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:189
-#: includes/helper-social-media.php:460
+#: includes/helper-social-media.php:468
 msgid "Share this entry"
 msgstr "Condividi questo articolo"
 
@@ -18812,105 +18817,110 @@ msgstr "Twitter link"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:252
+msgid "Square-X-Twitter link"
+msgstr "Collegamento Square-X-Twitter"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:263
 msgid "WhatsApp link"
 msgstr "Collegamento WhatsApp"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:263
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:274
 msgid "Pinterest link"
 msgstr "Pinterest link"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:274
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:285
 msgid "Reddit link"
 msgstr "Reddit link"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:285
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:296
 msgid "Telegram link"
 msgstr "Link Telegram"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:296
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:307
 msgid "LinkedIn link"
 msgstr "Linkedin link"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:307
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:318
 msgid "Tumblr link"
 msgstr "Tumblr link"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:318
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:329
 msgid "VK link"
 msgstr "VK link"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:329
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:340
 msgid "Email link"
 msgstr "Email link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:340
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:351
 msgid "Yelp"
 msgstr "Yelp"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:351
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:362
 msgid "Yelp Share Link"
 msgstr "Link di condivisione Yelp"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:352
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:363
 msgid "Enter the share link to Yelp for this button."
 msgstr "Inserire il link a Yelp per questo pulsante."
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:361
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:372
 msgid "Social Profile Buttons"
 msgstr "Pulsanti profilo sociale"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:362
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:373
 msgid "The following buttons currently only support links to a profile."
 msgstr ""
 "I seguenti pulsanti attualmente supportano solo i collegamenti a un profilo."
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:369
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:380
 msgid "500px Link"
 msgstr "500px Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:380
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:391
 msgid "Behance Link"
 msgstr "Behance Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:391
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:402
 msgid "Dribbble Link"
 msgstr "Dribbble Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:402
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:413
 msgid "Flickr Link"
 msgstr "Flickr Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:413
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:424
 msgid "Instagram Link"
 msgstr "Instagram Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:424
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:435
 msgid "Skype Link"
 msgstr "Skype Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:435
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:446
 msgid "Soundcloud Link"
 msgstr "Soundcloud Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:446
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:457
 msgid "Vimeo Link"
 msgstr "Vimeo Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:457
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:468
 msgid "Xing Link"
 msgstr "Xing Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:468
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:479
 msgid "YouTube Link"
 msgstr "YouTube Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:488
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:499
 msgid ""
 "Enter the link to your profile for this button. Leave empty to use link "
 "defined in "
@@ -18918,12 +18928,12 @@ msgstr ""
 "Inserisci il link al tuo profilo per questo pulsante. Lascia vuoto per usare "
 "il collegamento definito in "
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:495
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:503
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:506
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:514
 msgid "Social Profile Links"
 msgstr "Link al profilo sociale"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:496
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:507
 msgid ""
 "You selected to use the social share buttons used for your blog selected on "
 "theme options page . No options available here at the moment."
@@ -18932,131 +18942,131 @@ msgstr ""
 "il tuo blog selezionati nella pagina delle opzioni del tema. Nessuna opzione "
 "disponibile qui al momento."
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:504
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:515
 msgid ""
 "Enter links to your social profiles which will be used in this element only."
 msgstr ""
 "Inserisci i link ai tuoi profili sociali che saranno utilizzati solo in "
 "questo elemento."
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:511
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:522
 msgid "Facebook Profile Link"
 msgstr "Link profilo Facebook"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:521
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:532
 msgid "Twitter Profile Link"
 msgstr "Link profilo Twitter"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:531
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:542
 msgid "WhatsApp Profile Link"
 msgstr "Link profilo WhatApp"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:541
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:552
 msgid "Pinterest Profile Link"
 msgstr "Link profilo Pinterest"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:551
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:562
 msgid "Reddit Profile Link"
 msgstr "Link profilo Reddit"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:561
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:572
 msgid "LinkedIn Profile Link"
 msgstr "Link profilo Linkedin"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:571
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:582
 msgid "Tumblr Profile Link"
 msgstr "Link profilo Tumblr"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:581
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:592
 msgid "VK Profile Link"
 msgstr "Link profilo VK"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:591
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:602
 msgid "Email Profile Link"
 msgstr "Link profilo Email"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:601
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:612
 msgid "Yelp Profile Link"
 msgstr "Link profilo Yelp"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:611
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:622
 msgid "500px Profile Link"
 msgstr "Link profilo 500px"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:621
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:632
 msgid "Behance Profile Link"
 msgstr "Link profilo Behance"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:631
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:642
 msgid "Dribbble Profile Link"
 msgstr "Link profilo Dribble"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:641
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:652
 msgid "Flickr Profile Link"
 msgstr "Link profilo Flickr"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:651
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:662
 msgid "Instagram Profile Link"
 msgstr "Link profilo Instagram"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:661
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:672
 msgid "Skype Profile Link"
 msgstr "Link profilo Skype"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:671
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:682
 msgid "Soundcloud Profile Link"
 msgstr "Link profilo Soundcloud"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:681
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:692
 msgid "Vimeo Profile Link"
 msgstr "Link profilo Vimeo"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:691
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:702
 msgid "Xing Profile Link"
 msgstr "Link profilo Xing"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:701
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:712
 msgid "YouTube Profile Link"
 msgstr "Link profilo Youtube"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:722
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:733
 msgid "Button Bar Style"
 msgstr "Stile barra dei pulsanti"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:723
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:734
 msgid "Select how to display the social buttons bar"
 msgstr "Seleziona come visualizzare la barra dei pulsanti sociali"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:729
-#: includes/admin/option_tabs/avia_blog.php:392
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:740
+#: includes/admin/option_tabs/avia_blog.php:395
 msgid "Rectangular"
 msgstr "Rettangolare"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:730
-#: includes/admin/option_tabs/avia_blog.php:393
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:741
+#: includes/admin/option_tabs/avia_blog.php:396
 msgid "Rectangular minimal"
 msgstr "Rettangolare minimo"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:731
-#: includes/admin/option_tabs/avia_blog.php:394
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:742
+#: includes/admin/option_tabs/avia_blog.php:397
 msgid "Block square"
 msgstr "Blocco quadrato"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:732
-#: includes/admin/option_tabs/avia_blog.php:395
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:743
+#: includes/admin/option_tabs/avia_blog.php:398
 msgid "Rounded rectangular"
 msgstr "Rettangolare arrotondato"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:736
-#: includes/admin/option_tabs/avia_blog.php:399
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:747
+#: includes/admin/option_tabs/avia_blog.php:402
 msgid "Icon simple"
 msgstr "Icona semplice"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:742
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:753
 msgid "Button Bar Alignment"
 msgstr "Allineamento della barra dei pulsanti"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:743
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:754
 msgid "Select alignment of the social buttons bar"
 msgstr "Seleziona l'allineamento della barra dei pulsanti sociali"
 
@@ -20641,7 +20651,7 @@ msgstr "Seleziona lo stile dei pulsanti"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:377
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:179
-#: includes/admin/option_tabs/avia_blog.php:85
+#: includes/admin/option_tabs/avia_blog.php:88
 msgid "Elegant"
 msgstr "Elegante"
 
@@ -20981,7 +20991,7 @@ msgid "Please check your API key"
 msgstr "Controlla la tua chiave API"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
-#: functions.php:806 includes/admin/option_tabs/avia_avia.php:35
+#: functions.php:809 includes/admin/option_tabs/avia_avia.php:35
 msgid "here"
 msgstr "qui"
 
@@ -24710,8 +24720,8 @@ msgstr "Creare un nuovo elemento modello"
 msgid "Edit Element Template:"
 msgstr "Modifica elemento modello:"
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:150
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:186
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:151
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:187
 #: framework/php/font-management/class-avia-font-management-base.php:271
 #: framework/php/font-management/class-avia-font-management-base.php:338
 #: framework/php/function-set-avia-ajax.php:866
@@ -24723,34 +24733,34 @@ msgstr ""
 "L&rsquo;utilizzo di questa funzione è riservato ai Super amministratori. "
 "Sfortunatamente non hai i permessi necessari."
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:168
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:169
 msgid "Was not able to retrieve the Font name from your Uploaded Folder"
 msgstr ""
 "Non è stato possibile recuperare il nome del carattere dalla cartella "
 "caricata"
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:202
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:203
 msgid "Was not able to remove Font"
 msgstr "Non è stato possibile rimuovere il carattere"
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:228
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:229
 #: framework/php/font-management/class-avia-font-management-base.php:388
 #: framework/php/font-management/class-avia-font-management-base.php:481
 msgid "Wasn't able to create temp folder"
 msgstr "Non è stato possibile creare una cartella temporanea"
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:278
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:279
 #: framework/php/font-management/class-avia-font-management-base.php:610
 msgid "Unable to extract the file."
 msgstr "Impossibile estrarre il file."
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:294
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:295
 #: framework/php/font-management/class-avia-font-management-base.php:396
 #: framework/php/inc-avia-download-demo.php:59
 msgid "Wasn't able to work with Zip Archive"
 msgstr "Non è stato possibile eseguire Zip Archive"
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:315
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:316
 msgid ""
 "Found no SVG file with font information in your folder. Was not able to "
 "create the necessary config files"
@@ -24758,7 +24768,7 @@ msgstr ""
 "Non è stato trovato alcun file SVG con informazioni sui font nella cartella. "
 "Non è stato possibile creare i file di configurazione necessari"
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:417
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:418
 msgid "Was not able to write a config file"
 msgstr "Non è stato possibile scrivere un file di configurazione"
 
@@ -24773,85 +24783,85 @@ msgid "Read More"
 msgstr "Continua a leggere"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:523
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:633
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:554
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:664
 msgid "No link selected"
 msgstr "Nessun link selezionato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:541
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:572
 msgid "E-Mail to:"
 msgstr "E-mail a:"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:552
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:583
 #, php-format
 msgid "Error: Post Type %s has been removed"
 msgstr "Errore: Il tipo di post %s è stato rimosso"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:584
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:615
 #, php-format
 msgid " *** Error: Post %d missing"
 msgstr " *** Errore: Messaggio %d mancante"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:592
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:623
 #, php-format
 msgid "Error: Taxonomy %s has been removed"
 msgstr "Errore: La tassonomia %s è stata rimossa"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:624
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:655
 #, php-format
 msgid " *** Error:  Term %d missing"
 msgstr " *** Errore:  Termine %d mancante"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:666
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:697
 msgid "No attachment image available"
 msgstr "Nessuna immagine allegata disponibile"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:673
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:704
 msgid "No attachment image available for: "
 msgstr "Nessuna immagine allegata disponibile per: "
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:676
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:707
 msgid "Attachment image for: "
 msgstr "Immagine dell'allegato per: "
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:681
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:691
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:712
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:722
 msgid "Follow a manual added link"
 msgstr "Segui un collegamento aggiunto manuale"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:688
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:719
 msgid "Send an E-Mail to: "
 msgstr "Invia una e-mail a: "
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:699
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:711
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:730
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:742
 msgid "Wrong link - page does not exist"
 msgstr "Link errato - la pagina non esiste"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:702
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:733
 msgid "Link to: "
 msgstr "Link a: "
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:714
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:745
 #, php-format
 msgid "Link to %s in %s"
 msgstr "Link a %s in %s"
 
 # @ default
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:801
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:832
 msgid "Original Width"
 msgstr "Larghezza originale"
 
 # @ default
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:801
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:832
 msgid "Original Height"
 msgstr "Altezza originale"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:861
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:892
 msgid "Use size from media libary &quot;Attachment Display Settings&quot; "
 msgstr ""
 "Usa le dimensioni dalla libreria dei media &quot;Impostazioni di "
@@ -29345,34 +29355,34 @@ msgstr "Originale: %s"
 msgid "Remove"
 msgstr "Rimuovi"
 
-#: framework/php/class-responsive-images.php:1270
+#: framework/php/class-responsive-images.php:1333
 msgid "(cropped)"
 msgstr "(ritagliato)"
 
-#: framework/php/class-responsive-images.php:1303
-#: framework/php/class-responsive-images.php:1307
+#: framework/php/class-responsive-images.php:1366
+#: framework/php/class-responsive-images.php:1370
 msgid "Images keeping original aspect ratio"
 msgstr "Immagini che mantengono proporzioni originali"
 
-#: framework/php/class-responsive-images.php:1315
+#: framework/php/class-responsive-images.php:1378
 #, php-format
 msgid "Images aspect ratio: %d : %d"
 msgstr "Proporzioni immagini: %d : %d"
 
-#: framework/php/class-responsive-images.php:1345
+#: framework/php/class-responsive-images.php:1408
 msgid "added by theme"
 msgstr "aggiunto dal tema"
 
-#: framework/php/class-responsive-images.php:1349
+#: framework/php/class-responsive-images.php:1412
 msgid "added by a plugin"
 msgstr "aggiunto da un plugin"
 
 # @ avia_framework
-#: framework/php/class-responsive-images.php:1353
+#: framework/php/class-responsive-images.php:1416
 msgid "WP default size"
 msgstr "Dimensione predefinita WP"
 
-#: framework/php/class-responsive-images.php:1357
+#: framework/php/class-responsive-images.php:1420
 msgid "unknown"
 msgstr "sconosciuto"
 
@@ -29393,7 +29403,7 @@ msgstr "Aggiungi widget Area"
 
 # @ LayerSlider
 # @ avia_framework
-#: framework/php/class-svg-images.php:513
+#: framework/php/class-svg-images.php:521
 msgid "SVG Image"
 msgstr "Immagine SVG"
 
@@ -29667,7 +29677,7 @@ msgid "for:"
 msgstr "di:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1685 tag.php:90 tag.php:157
+#: framework/php/function-set-avia-frontend.php:1685 tag.php:99 tag.php:166
 msgid "Tag Archive for:"
 msgstr "Tag Archivio per:"
 
@@ -30981,7 +30991,7 @@ msgstr "Mostrare tutti i risultati"
 
 # @ avia_framework
 #: functions-enfold.php:653 includes/helper-post-format.php:83
-#: template-archives.php:69
+#: template-archives.php:78
 msgid "Permanent Link:"
 msgstr "Link Permanente:"
 
@@ -31063,7 +31073,7 @@ msgid "Featured Large"
 msgstr "In primo piano grande"
 
 # @ avia_framework
-#: functions.php:321 template-archives.php:154
+#: functions.php:321 template-archives.php:163
 msgid "Portfolio"
 msgstr "Portfolio"
 
@@ -31091,12 +31101,12 @@ msgstr "Widget"
 msgid "Portfolio small"
 msgstr "Portfolio piccolo"
 
-#: functions.php:500
+#: functions.php:503
 msgid "Enfold update was successful! "
 msgstr "L'aggiornamento di Enfold ha avuto successo! "
 
 # @ avia_framework
-#: functions.php:803 includes/admin/option_tabs/avia_customizer.php:28
+#: functions.php:806 includes/admin/option_tabs/avia_customizer.php:28
 #: includes/admin/register-admin-options.php:87
 #: includes/admin/register-backend-advanced-styles.php:273
 #: includes/admin/register-backend-advanced-styles.php:302
@@ -31108,19 +31118,19 @@ msgid "Main Menu"
 msgstr "Menu principale"
 
 # @ avia_framework
-#: functions.php:806
+#: functions.php:809
 msgid "Secondary Menu"
 msgstr "Menu Secondario"
 
 # @ avia_framework
-#: functions.php:806
+#: functions.php:809
 msgid ""
 "Will be displayed if you selected a header layout that supports a submenu"
 msgstr ""
 "Verrà visualizzato se si seleziona un header layout che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:807
+#: functions.php:810
 msgid ""
 "Secondary Menu - will be displayed if you selected a header layout that "
 "supports a submenu"
@@ -31129,12 +31139,12 @@ msgstr ""
 "intestazione che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:810
+#: functions.php:813
 msgid "Footer Menu <br/><small>(no dropdowns)</small>"
 msgstr "Footer Menu <br/><small>(nessun menu a discesa)</ small>"
 
 # @ avia_framework
-#: functions.php:811
+#: functions.php:814
 msgid "Footer Menu (no dropdowns)"
 msgstr "Footer Menu (nessun menù a discesa)"
 
@@ -31532,7 +31542,7 @@ msgid "Disable block editor for all listed post types..."
 msgstr "Disattiva Editor blocchi per tutti i tipi di post elencati..."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:36
+#: includes/admin/option_tabs/avia_blog.php:38
 msgid ""
 "Special: RSS (add RSS URL, leave blank if you want to use default WordPress "
 "RSS feed)"
@@ -31541,40 +31551,40 @@ msgstr ""
 "utilizzare WordPress feed RSS di default )"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:37
-#: includes/admin/option_tabs/avia_blog.php:59
+#: includes/admin/option_tabs/avia_blog.php:39
+#: includes/admin/option_tabs/avia_blog.php:62
 msgid "Special: Email Icon (add your own URL to link to a contact form)"
 msgstr ""
 "Speciale: Email Icon (aggiungere il proprio URL come link ad un modulo di "
 "contatto)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:76
+#: includes/admin/option_tabs/avia_blog.php:79
 msgid "Blog Styling"
 msgstr "Stile Blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:77
+#: includes/admin/option_tabs/avia_blog.php:80
 msgid "Choose the blog styling here."
 msgstr "Qui puoi scegliere lo stile del Blog."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:84
+#: includes/admin/option_tabs/avia_blog.php:87
 msgid "Default (Business)"
 msgstr "Default (Business)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:86
+#: includes/admin/option_tabs/avia_blog.php:89
 msgid "Modern Business"
 msgstr "Affari Moderni"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:93
+#: includes/admin/option_tabs/avia_blog.php:96
 msgid "Choose the default blog layout here."
 msgstr "Scegliere qui il layout predefinito del blog."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:93
+#: includes/admin/option_tabs/avia_blog.php:96
 msgid ""
 "You can either choose a predefined layout or build your own blog layout with "
 "the advanced layout editor"
@@ -31583,7 +31593,7 @@ msgstr ""
 "l&rsquo;editor di layout avanzato"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:107
+#: includes/admin/option_tabs/avia_blog.php:110
 msgid ""
 "Use the advance layout editor to build your own blog layout (simply edit the "
 "page you have chosen in Enfold->Theme Options as a blog page)"
@@ -31593,22 +31603,22 @@ msgstr ""
 "Opzioni tema come una pagina del blog)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:122
+#: includes/admin/option_tabs/avia_blog.php:125
 msgid "Single Post Options"
 msgstr "Opzioni Articolo singolo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:123
+#: includes/admin/option_tabs/avia_blog.php:126
 msgid "Here you can set options that affect your single blog post layout"
 msgstr ""
 "Qui è possibile impostare le opzioni che riguardano il layout del singolo "
 "post del blog"
 
-#: includes/admin/option_tabs/avia_blog.php:131
+#: includes/admin/option_tabs/avia_blog.php:134
 msgid "Single Post Navigation"
 msgstr "Navigazione a post singolo"
 
-#: includes/admin/option_tabs/avia_blog.php:132
+#: includes/admin/option_tabs/avia_blog.php:135
 msgid ""
 "Select to disable or enable the post navigation that links to the next/"
 "previous post on single entries (Fullwidth sliders and hierarchical post "
@@ -31621,19 +31631,19 @@ msgstr ""
 "L'impostazione è utilizzata anche per il portfolio. Usare il filtro "
 "avf_post_nav_settings per personalizzare."
 
-#: includes/admin/option_tabs/avia_blog.php:139
+#: includes/admin/option_tabs/avia_blog.php:142
 msgid "Enable post navigation"
 msgstr "Abilita navigazione tra i post"
 
-#: includes/admin/option_tabs/avia_blog.php:140
+#: includes/admin/option_tabs/avia_blog.php:143
 msgid "Disable post navigation"
 msgstr "Disabilita la navigazione post"
 
-#: includes/admin/option_tabs/avia_blog.php:141
+#: includes/admin/option_tabs/avia_blog.php:144
 msgid "Loop post navigation"
 msgstr "Navigazione post-loop"
 
-#: includes/admin/option_tabs/avia_blog.php:145
+#: includes/admin/option_tabs/avia_blog.php:148
 msgid ""
 "Select to enable swipe support for posts and portfolio. This is a BETA "
 "feature since 5.5 and might cause problems with sliders (see limitations "
@@ -31645,52 +31655,52 @@ msgstr ""
 "con i cursori (vedere le limitazioni sopra). Usare il filtro "
 "avf_post_nav_settings e avf_post_nav_swipe_support per personalizzare."
 
-#: includes/admin/option_tabs/avia_blog.php:146
+#: includes/admin/option_tabs/avia_blog.php:149
 msgid "Keep in mind, that it requires a server request to load the new page."
 msgstr ""
 "Tenere presente che è necessaria una richiesta al server per caricare la "
 "nuova pagina."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:150
+#: includes/admin/option_tabs/avia_blog.php:153
 msgid "Single Post Swipe Support"
 msgstr "Supporto per il passaggio di un singolo post"
 
-#: includes/admin/option_tabs/avia_blog.php:159
+#: includes/admin/option_tabs/avia_blog.php:162
 msgid "Disable swipe navigation"
 msgstr "Disabilita la navigazione a scorrimento"
 
-#: includes/admin/option_tabs/avia_blog.php:160
+#: includes/admin/option_tabs/avia_blog.php:163
 msgid "Enable swipe navigation"
 msgstr "Abilita la navigazione a scorrimento"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:166
+#: includes/admin/option_tabs/avia_blog.php:169
 msgid "Single Post Style"
 msgstr "Stile Articolo singolo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:167
+#: includes/admin/option_tabs/avia_blog.php:170
 msgid "Choose the single post style here."
 msgstr "Scegliere lo stile del post singolo qui."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:174
+#: includes/admin/option_tabs/avia_blog.php:177
 msgid "Single post with small preview image (featured image)"
 msgstr "Singolo post con piccola immagine di anteprima (immagine in evidenza)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:175
+#: includes/admin/option_tabs/avia_blog.php:178
 msgid "Single post with big preview image (featured image)"
 msgstr "Singolo post con grande anteprima immagine (immagine in evidenza)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:184
+#: includes/admin/option_tabs/avia_blog.php:187
 msgid "Related Entries"
 msgstr "Articoli correlati"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:185
+#: includes/admin/option_tabs/avia_blog.php:188
 msgid ""
 "Choose if and how you want to display your related entries. (Related entries "
 "are based on tags. If a post does not have any tags then no related entries "
@@ -31700,26 +31710,26 @@ msgstr ""
 "correlate sono basate sui tag. Se un post non ha tags allora nessuna voce "
 "correlata verrà mostrata)"
 
-#: includes/admin/option_tabs/avia_blog.php:192
+#: includes/admin/option_tabs/avia_blog.php:195
 msgid "Show thumbnails and display post title by tooltip"
 msgstr "Mostra le miniature e visualizza il titolo del post per tooltip"
 
-#: includes/admin/option_tabs/avia_blog.php:193
+#: includes/admin/option_tabs/avia_blog.php:196
 msgid "Show thumbnail and post title by default"
 msgstr "Mostra anteprima e titolo dell'articolo per impostazione predefinita"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:194
+#: includes/admin/option_tabs/avia_blog.php:197
 msgid "Disable related entries"
 msgstr "Disabilitare articoli correlati"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:200
+#: includes/admin/option_tabs/avia_blog.php:203
 msgid "Blog Meta Elements"
 msgstr "Elementi meta del blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:201
+#: includes/admin/option_tabs/avia_blog.php:204
 msgid ""
 "You can choose to show or hide some of the default blog meta elements here:"
 msgstr ""
@@ -31727,47 +31737,47 @@ msgstr ""
 "del blog qui:"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:210
+#: includes/admin/option_tabs/avia_blog.php:213
 msgid "Blog Post Author"
 msgstr "Articoli blog autore"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:222
+#: includes/admin/option_tabs/avia_blog.php:225
 msgid "Blog Post Comment Count"
 msgstr "Conteggio commenti Blog Post"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:233
+#: includes/admin/option_tabs/avia_blog.php:236
 msgid "Blog Post Category"
 msgstr "Categoria blog post"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:244
+#: includes/admin/option_tabs/avia_blog.php:247
 msgid "Blog Post Date"
 msgstr "Date blog post"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:256
+#: includes/admin/option_tabs/avia_blog.php:259
 msgid "Blog Post Allowed HTML Tags"
 msgstr "Sono ammessi html tags per i post del blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:267
+#: includes/admin/option_tabs/avia_blog.php:270
 msgid "Blog Post Tags"
 msgstr "Tags Articolo Blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:294
+#: includes/admin/option_tabs/avia_blog.php:297
 msgid "Link"
 msgstr "Link"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:300
+#: includes/admin/option_tabs/avia_blog.php:303
 msgid "Share Links At The Bottom Of Your Blog Post"
 msgstr "Condividi i link in fondo al tuo post sul blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:301
+#: includes/admin/option_tabs/avia_blog.php:304
 msgid ""
 "The theme allows you to display share links to various social networks at "
 "the bottom of your blog posts. Check which links you want to display:"
@@ -31776,7 +31786,7 @@ msgstr ""
 "network in fondo al post del tuo blog. Spuntare i collegamenti che si "
 "desiderano visualizzare:"
 
-#: includes/admin/option_tabs/avia_blog.php:342
+#: includes/admin/option_tabs/avia_blog.php:345
 #, php-format
 msgid ""
 "If you added Social Profile Links at %s Theme Options -&gt; Social Profiles "
@@ -31787,30 +31797,30 @@ msgstr ""
 "sociali %s il tema ti permette di mostrare questi link ai profili in fondo "
 "ai post del tuo blog."
 
-#: includes/admin/option_tabs/avia_blog.php:343
+#: includes/admin/option_tabs/avia_blog.php:346
 msgid "Be sure you added a link, otherwise your selection will be ignored."
 msgstr ""
 "Assicurati di aver aggiunto il collegamento, altrimenti la tua selezione "
 "sarà ignorata."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:347
+#: includes/admin/option_tabs/avia_blog.php:350
 msgid "Profile Links At The Bottom Of Your Blog Post"
 msgstr "Link al profilo in fondo al tuo post sul blog"
 
-#: includes/admin/option_tabs/avia_blog.php:384
+#: includes/admin/option_tabs/avia_blog.php:387
 msgid "Share Button Bar Style"
 msgstr "Stile della barra dei pulsanti di condivisione"
 
-#: includes/admin/option_tabs/avia_blog.php:385
+#: includes/admin/option_tabs/avia_blog.php:388
 msgid "Select how to display the share buttons bar"
 msgstr "Seleziona come visualizzare la barra dei pulsanti di condivisione"
 
-#: includes/admin/option_tabs/avia_blog.php:405
+#: includes/admin/option_tabs/avia_blog.php:408
 msgid "Share Button Bar Alignment"
 msgstr "Allineamento della barra dei pulsanti di condivisione"
 
-#: includes/admin/option_tabs/avia_blog.php:406
+#: includes/admin/option_tabs/avia_blog.php:409
 msgid "Select alignment of the share buttons bar"
 msgstr "Seleziona l'allineamento della barra dei pulsanti di condivisione"
 
@@ -38005,7 +38015,7 @@ msgid "Archive"
 msgstr "Archivio"
 
 # @ avia_framework
-#: includes/admin/register-widget-area.php:135 template-archives.php:165
+#: includes/admin/register-widget-area.php:135 template-archives.php:174
 msgid "Pages"
 msgstr "Pagine"
 
@@ -38660,44 +38670,54 @@ msgid "Stored Site Cookies"
 msgstr "Cookies del sito memorizzati"
 
 # @ avia_framework
-#: includes/helper-social-media.php:173
+#: includes/helper-social-media.php:174
 #, php-format
 msgid "Link to %s"
 msgstr "Collegamento a %s"
 
 # @ LayerSlider
-#: includes/helper-social-media.php:177
+#: includes/helper-social-media.php:178
 msgid " this site"
 msgstr " questo sito"
 
 # @ avia_framework
-#: includes/helper-social-media.php:366
+#: includes/helper-social-media.php:367
+msgid "Share on Twitter"
+msgstr "Condividi su Twitter"
+
+# @ avia_framework
+#: includes/helper-social-media.php:368
+msgid "Link to Twitter"
+msgstr "Collegamento a Twitter"
+
+# @ avia_framework
+#: includes/helper-social-media.php:374
 msgid "Share on WhatsApp"
 msgstr "Condividi su WhatsApp"
 
-#: includes/helper-social-media.php:367
+#: includes/helper-social-media.php:375
 msgid "Link to WhatsApp"
 msgstr "Collegamento a WhatsApp"
 
 # @ avia_framework
-#: includes/helper-social-media.php:400
+#: includes/helper-social-media.php:408
 msgid "Share by Mail"
 msgstr "Condividi attraverso Mail"
 
-#: includes/helper-social-media.php:408
+#: includes/helper-social-media.php:416
 msgid "Link to 500px"
 msgstr "Collegamento a 500px"
 
-#: includes/helper-social-media.php:545
+#: includes/helper-social-media.php:553
 msgid "Visit us on Yelp"
 msgstr "Venite a trovarci su Yelp"
 
-#: includes/helper-social-media.php:798
+#: includes/helper-social-media.php:806
 msgid "Link to"
 msgstr "Collegamento a"
 
 # @ avia_framework
-#: includes/helper-social-media.php:802
+#: includes/helper-social-media.php:810
 msgid "Share on"
 msgstr "Condividi su"
 
@@ -38808,49 +38828,49 @@ msgid "reset"
 msgstr "reimposta"
 
 # @ avia_framework
-#: search.php:31
+#: search.php:40
 msgid "New Search"
 msgstr "Nuova Ricerca"
 
 # @ avia_framework
-#: search.php:32
+#: search.php:41
 msgid "If you are not happy with the results below please do another search"
 msgstr ""
 "Se non siete soddisfatti dei risultati conseguiti per favore fare una nuova "
 "ricerca"
 
 # @ avia_framework
-#: template-archives.php:62
+#: template-archives.php:71
 msgid "The 20 latest Blog Posts"
 msgstr "Gli ultimi 20 articoli pubblicati"
 
 # @ avia_framework
-#: template-archives.php:76
+#: template-archives.php:85
 msgid "No Blog Posts found"
 msgstr "Nessun post trovato nel blog"
 
 # @ avia_framework
-#: template-archives.php:99
+#: template-archives.php:108
 msgid "The 8 latest Portfolio Entries"
 msgstr "Le ultime 8 Voci Portfolio"
 
 # @ avia_framework
-#: template-archives.php:170
+#: template-archives.php:179
 msgid "Available Pages"
 msgstr "Pagine disponibili"
 
 # @ avia_framework
-#: template-archives.php:184
+#: template-archives.php:193
 msgid "Archives by Subject:"
 msgstr "Archivio per argomento:"
 
 # @ avia_framework
-#: template-archives.php:194
+#: template-archives.php:203
 msgid "Monthly"
 msgstr "Mensile"
 
 # @ avia_framework
-#: template-archives.php:199
+#: template-archives.php:208
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
 
