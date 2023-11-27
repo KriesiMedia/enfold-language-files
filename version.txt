@@ -1,3 +1,7 @@
+
+2023-11-27
+ - French language files fr_FR (version 5.6.8 provided by comkapi - Patrick)
+
 2023-10-25
 - Italian language files it_IT (version 5.6.8, provided by BigBatT - info@luigicircello.it)
 
