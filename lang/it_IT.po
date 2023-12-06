@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v5.6.8\n"
+"Project-Id-Version: Italian Enfold Language v5.6.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-24 23:09+0200\n"
-"PO-Revision-Date: 2023-10-24 23:41+0200\n"
+"POT-Creation-Date: 2023-12-06 06:39+0100\n"
+"PO-Revision-Date: 2023-12-06 06:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -847,7 +847,7 @@ msgstr "Dal più recente al più datato"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:310
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:364
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:324
-#: config-woocommerce/config.php:1963
+#: config-woocommerce/config.php:1987
 msgid "Random"
 msgstr "Casuale"
 
@@ -1360,7 +1360,7 @@ msgstr ""
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:767
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:974
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1017
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:559
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:607
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:583
 msgid "Lightbox"
 msgstr "Lightbox"
@@ -4172,7 +4172,7 @@ msgstr "Pagina presentazione Tassonomia"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:446
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:451
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3035
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3056
 msgid "Item"
 msgstr "Elemento"
 
@@ -4600,7 +4600,7 @@ msgstr "Il più vicino"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:507
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:342
 #: config-templatebuilder/avia-template-builder/config/meta.php:194
-#: includes/admin/option_tabs/avia_avia.php:296
+#: includes/admin/option_tabs/avia_avia.php:301
 #: includes/admin/option_tabs/avia_element_templates.php:56
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:46
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:41
@@ -4696,7 +4696,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:460
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:544
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:648
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3290
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3311
 msgid "Tooltip"
 msgstr "Tooltip"
 
@@ -5959,7 +5959,7 @@ msgstr "Aggiungi/Modifica Elemento modulo Contatto"
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:227
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:267
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:663
-#: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:1957
+#: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:1981
 msgid "Name"
 msgstr "Nome"
 
@@ -6224,7 +6224,7 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2669
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2747
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2762
-#: config-woocommerce/admin-options.php:326 config-woocommerce/config.php:1955
+#: config-woocommerce/admin-options.php:326 config-woocommerce/config.php:1979
 #: framework/php/font-management/class-avia-type-fonts.php:953
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:205
 #: includes/admin/option_tabs/avia_menu.php:290
@@ -7166,7 +7166,7 @@ msgstr "Visualizza conto alla rovescia per una data specifica"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:648
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:362
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:322
-#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:1959
+#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:1983
 msgid "Date"
 msgstr "Data"
 
@@ -9603,7 +9603,7 @@ msgstr "Separatore personalizzato"
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:488
 #: config-templatebuilder/avia-shortcodes/search/search.php:273
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1612
-#: config-woocommerce/config.php:1956
+#: config-woocommerce/config.php:1980
 msgid "Custom"
 msgstr "Personalizzato"
 
@@ -14255,7 +14255,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:365
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:325
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:511
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:716
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:736
 msgid "Author"
 msgstr "Autore"
 
@@ -24173,14 +24173,14 @@ msgstr ""
 msgid "Custom Elements"
 msgstr "Elementi personalizzati"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:429
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:430
 msgid ""
 "Attention: It is not recommended to edit custom element templates here !"
 msgstr ""
 "Attenzione: non è consigliabile modificare modelli di elementi "
 "personalizzati qui !"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:430
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:431
 msgid ""
 "Not all features provided are supported here and this might break layout. "
 "Please edit your elements using the &quot;Edit Element&quot; button from an "
@@ -24191,13 +24191,13 @@ msgstr ""
 "pulsante &quot;Modifica elemento&quot; da una pagina avanzata del "
 "costruttore di layout."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:434
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:435
 msgid "Editing a custom element template is not allowed from this screen."
 msgstr ""
 "La modifica di un modello di elemento personalizzato non è consentita da "
 "questa schermata."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:435
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:436
 msgid ""
 "Please edit your elements using the &quot;Edit Element&quot; button from an "
 "advanced layout builder page."
@@ -24206,100 +24206,100 @@ msgstr ""
 "una pagina avanzata del costruttore di layout."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:487
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:488
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:489
 msgid " Elements"
 msgstr " Elementi"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:614
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:615
 msgid "Copy to a new draft"
 msgstr "Copia in una nuova bozza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:714
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:734
 msgid "ALB Element"
 msgstr "Elemento ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:715
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:735
 msgid "Excerpt (= Tooltip)"
 msgstr "Riassunto (= Tooltip)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:818
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:838
 msgid "Filter by Elements"
 msgstr "Filtra per elementi"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:820
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:840
 msgid "All ALB Elements"
 msgstr "Tutti gli elementi ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:845
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:865
 msgid "All users"
 msgstr "Tutti gli Utenti"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:957
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:977
 msgid "(Copy)"
 msgstr "(Copia)"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1043
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1064
 msgid "This element title already exists."
 msgstr "Questo titolo di elemento esiste già."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1048
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1069
 msgid "Title will be changed to:"
 msgstr "Il titolo sarà cambiato in:"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1101
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1122
 msgid "Custom Element could not be created/updated."
 msgstr "L'elemento personalizzato non può essere creato/aggiornato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1102
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1438
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1665
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1123
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1459
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1686
 msgid "Not enough information provided."
 msgstr "Non sono state fornite abbastanza informazioni."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1151
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1172
 msgid "Illegal shortcode."
 msgstr "Shortcode illegale."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1163
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1184
 msgid "Copy"
 msgstr "Copia"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1185
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1509
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1206
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1530
 #, php-format
 msgid "Item for: %s"
 msgstr "Voce per: %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1187
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1208
 #, php-format
 msgid "An item for %s %s"
 msgstr "Un elemento per %s %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1242
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1263
 msgid "Custom Element and stored Custom Element do not match."
 msgstr "L'elemento personalizzato e quello memorizzato non corrispondono."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1271
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1278
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3104
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3113
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1292
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1299
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3125
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3134
 #, php-format
 msgid " - Customize: %s"
 msgstr " - Personalizza: %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1277
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3112
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1298
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3133
 #, php-format
 msgid " - Customize Item: %s"
 msgstr " - Personalizza voce: %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1363
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1384
 msgid ""
 "Sorry, custom element icon section does not exist currently. Please save "
 "page content and reload page to see icon for the new element."
@@ -24308,12 +24308,12 @@ msgstr ""
 "attualmente. Salva il contenuto della pagina e ricaricala per vedere l'icona "
 "del nuovo elemento."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1368
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1389
 #, php-format
 msgid "Custom element &quot;%s&quot; successfully updated."
 msgstr "Elemento personalizzato &quot;%s&quot; aggiornato con successo."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1372
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1393
 #, php-format
 msgid ""
 "Custom element &quot;%s&quot; successfully created. Continue with setting "
@@ -24322,50 +24322,50 @@ msgstr ""
 "Elemento personalizzato &quot;%s&quot; creato con successo. Continua con "
 "l'impostazione delle opzioni per questo elemento."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1430
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1451
 msgid "Custom Element could not be updated."
 msgstr "L'elemento personalizzato non può essere aggiornato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1457
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1478
 msgid "Custom Element shortcode edited and stored shortcode do not match."
 msgstr ""
 "Lo shortcode dell'elemento personalizzato modificato e lo shortcode "
 "memorizzato non corrispondono."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1464
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1485
 msgid "Shortcode does no longer exist or has been deactivated."
 msgstr "Lo shortcode non esiste più o è stato disattivato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1511
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1532
 #, php-format
 msgid "An item for %s"
 msgstr "Una voce per %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1590
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1611
 msgid "Database error on saving."
 msgstr "Errore del database durante il salvataggio."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1606
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1627
 #, php-format
 msgid "Custom Element &quot;%s&quot; was updated."
 msgstr "L'elemento personalizzato &quot;%s&quot; è stato aggiornato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1655
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1676
 msgid "Unknown element name"
 msgstr "Nome elemento sconosciuto"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1660
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1681
 #, php-format
 msgid "Custom Element &quot;%s&quot; could not be deleted."
 msgstr "L'elemento personalizzato &quot;%s&quot; non può essere eliminato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1675
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1696
 msgid "Custom Element shortcode to delete and stored shortcode do not match."
 msgstr ""
 "Lo shortcode dell'elemento personalizzato da cancellare e lo shortcode "
 "memorizzato non corrispondono."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1682
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1703
 msgid ""
 "Custom subitem elements cannot be deleted when &quot;All subitems use the "
 "same custom element template&quot; is selected in theme options. This is the "
@@ -24375,119 +24375,119 @@ msgstr ""
 "&quot;Tutte le sotto-voci usano lo stesso modello personalizzato&quot; è "
 "selezionato nelle opzioni del tema. Questa è l'impostazione predefinita."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1699
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1720
 msgid "Custom element subitem settings have also been deleted."
 msgstr ""
 "Sono state eliminate anche le impostazioni delle sotto-voci degli elementi "
 "personalizzati."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1708
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1729
 msgid "Internal database error occured deleting the custom element."
 msgstr ""
 "Si è verificato un errore interno al database nell'eliminazione "
 "dell'elemento personalizzato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1713
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1734
 #, php-format
 msgid "Custom Element &quot;%s&quot; was deleted."
 msgstr "L'elemento personalizzato &quot;%s&quot; è stato cancellato."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1740
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1761
 msgid "ALB Custom Elements"
 msgstr "Elementi personalizzati ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1741
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1762
 msgid "ALB Custom Element"
 msgstr "Elemento personalizzato ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1742
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2391
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1763
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2412
 msgid "Add New Custom Element"
 msgstr "Aggiungi nuovo elemento personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1743
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1764
 msgid "Add New ALB Custom Element Template"
 msgstr "Aggiungere un nuovo modello di elemento personalizzato ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1744
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1765
 msgid "Edit ALB Custom Element Template"
 msgstr "Modifica del modello di elemento personalizzato ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1745
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1766
 msgid "New ALB Custom Element"
 msgstr "Nuovo elemento personalizzato ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1746
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1767
 msgid "View ALB Custom Element Template"
 msgstr "Visualizza il modello di elemento personalizzato ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1747
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1768
 msgid "Search ALB Custom Element Templates"
 msgstr "Cerca i modelli di elementi personalizzati ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1748
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1769
 msgid "No ALB Custom Element Template found"
 msgstr "Nessun modello di elemento personalizzato ALB trovato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1749
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1770
 msgid "No ALB Custom Element Templates found in Trash"
 msgstr "Nessun modello di elemento personalizzato ALB trovato nel cestino"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1783
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1804
 msgid "ALB Custom Element Template Categories"
 msgstr "Categorie di modelli di elementi personalizzati ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1784
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1805
 msgid "ALB Custom Element Template Category"
 msgstr "Categoria di modelli di elementi personalizzati ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2188
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2209
 msgid "Custom Element Shortcode (only used when editing a CET in modal popup):"
 msgstr ""
 "Shortcode dell'elemento personalizzato (usato solo quando si modifica un CET "
 "nel popup modale):"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2269
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2290
 msgid "ALB Elements:"
 msgstr "Elementi ALB:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2270
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2291
 msgid "Custom Elements:"
 msgstr "Elementi personalizzati:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2283
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2304
 msgid "Select default ALB Elements"
 msgstr "Selezionare gli elementi ALB predefiniti"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2286
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2307
 msgid "Select Custom Elements"
 msgstr "Seleziona gli elementi personalizzati"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2337
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2358
 msgid "Item for:"
 msgstr "Voce per:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2338
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2359
 #, php-format
 msgid "Single item for %s:"
 msgstr "Singola voce per %s:"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2386
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2407
 msgid ""
 "Click button, then hover over the elements to show edit action buttons for "
 "each element"
@@ -24495,78 +24495,78 @@ msgstr ""
 "Fare clic sul pulsante, poi passare il mouse sugli elementi per mostrare i "
 "pulsanti di azione di modifica per ogni elemento"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2390
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2411
 msgid "Editing of custom elements is not allowed on fullscreen mode."
 msgstr ""
 "La modifica degli elementi personalizzati non è consentita in modalità a "
 "schermo intero."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2392
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2413
 msgid "Edit Custom Elements"
 msgstr "Modifica elementi personalizzati"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2393
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2414
 msgid "End Edit Custom Elements"
 msgstr "Fine Modifica elementi personalizzati"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2395
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2416
 msgid "Filter the custom element shortcode buttons for editing"
 msgstr ""
 "Filtrare i pulsanti shortcode degli elementi personalizzati per la modifica"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2396
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2417
 msgid "Show all elements"
 msgstr "Mostra tutti gli elementi"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2397
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2418
 msgid "Base elements only"
 msgstr "Solo elementi base"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2398
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2419
 msgid "Item elements only"
 msgstr "Solo voci elemnti"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2453
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2474
 msgid "Create A New Custom Element Template"
 msgstr "Crea nuovo elemento modello personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2454
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2475
 msgid "Create Element"
 msgstr "Crea elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2455
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2476
 msgid "Update Custom Element Template Data"
 msgstr "Aggiorna dati elemento del modello personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2456
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2477
 msgid "Update Element"
 msgstr "Aggiorna elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2881
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2902
 msgid "Base element template"
 msgstr "Elemento base modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2882
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2903
 msgid "Item element template"
 msgstr "Voce elemento modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2886
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2907
 msgid "Create an editable template"
 msgstr "Creare un modello modificabile"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2887
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2908
 msgid ""
 "Select what template you want to create. If you create an item template any "
 "settings for base template you make here will be ignored."
@@ -24574,51 +24574,51 @@ msgstr ""
 "Seleziona quale modello vuoi creare. Se crei un modello di elemento, tutte "
 "le impostazioni per il modello di base che fai qui saranno ignorate."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2921
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2942
 msgid "this option"
 msgstr "questa opzione"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2941
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2962
 #, php-format
 msgid "Unlock %s"
 msgstr "Sblocca %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2942
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2963
 #, php-format
 msgid "Lock %s"
 msgstr "Blocca %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2951
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2972
 msgid "Do not allow to change this setting when using this template"
 msgstr ""
 "Non permettere di cambiare questa impostazione quando si usa questo modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3037
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3058
 msgid "Item:"
 msgstr "Elemento:"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3215
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3236
 #, php-format
 msgid "Item for %s: "
 msgstr "Voce per %s: "
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3216
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3237
 #, php-format
 msgid "Item for %s:"
 msgstr "Voce per %s:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3227
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3248
 msgid "Create a new element"
 msgstr "Creare un nuovo elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3228
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3249
 msgid "Select the base element for your new custom element."
 msgstr "Selezionare l'elemento di base per il nuovo elemento personalizzato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3243
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3264
 msgid ""
 "A custom element is a new element with predefined option values based on an "
 "existing element."
@@ -24626,7 +24626,7 @@ msgstr ""
 "Un elemento personalizzato è un nuovo elemento con valori di opzione "
 "predefiniti basati su un elemento esistente."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3244
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3265
 msgid ""
 "When creating a new custom element you can set default values for each "
 "option. You can also lock an option so it will no longer be possible to "
@@ -24638,7 +24638,7 @@ msgstr ""
 "sia più possibile cambiarla una volta aggiunta una nuova istanza del nuovo "
 "elemento personalizzato al canvas della pagina."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3245
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3266
 msgid ""
 "If you edit a locked value of a custom element, it will automatically change "
 "for all elements on your site."
@@ -24646,26 +24646,26 @@ msgstr ""
 "Se modifichi un valore bloccato di un elemento personalizzato, esso cambierà "
 "automaticamente per tutti gli elementi del tuo sito."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3246
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3267
 msgid "Learn more about custom elements in the"
 msgstr "Per saperne di più sugli elementi personalizzati nella sezione"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3246
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3267
 msgid "documentation"
 msgstr "documentazione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3249
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3270
 msgid "What is a custom element?"
 msgstr "Cos'è un elemento personalizzato?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3278
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3299
 msgid "Name of Element"
 msgstr "Nome elemento"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3279
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3300
 msgid ""
 "Enter a custom name for this element. At least 4 characters and limited to "
 "30 characters. Allowed characters are Whitespace, a-zA-Z0-9-_/"
@@ -24674,11 +24674,11 @@ msgstr ""
 "limitato a 30 caratteri. I caratteri consentiti sono Whitespace, a-zA-Z0-9-_/"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3285
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3306
 msgid "Add your Custom Element Name"
 msgstr "Aggiungi nome elemento personalizzato"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3291
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3312
 msgid ""
 "Enter a description text - will be displayed when you hover above the custom "
 "element icons in ALB or in selectboxes for custom elements"
@@ -24687,36 +24687,36 @@ msgstr ""
 "sopra le icone degli elementi personalizzati in ALB o nelle selectbox per "
 "gli elementi personalizzati"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3318
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3339
 msgid "No Custom Element used - all options available"
 msgstr ""
 "Nessun elemento personalizzato utilizzato - tutte le opzioni disponibili"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3322
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3343
 msgid "All theme options are available and can be changed"
 msgstr "Tutte le opzioni del tema sono disponibili e possono essere cambiate"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3435
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3456
 msgid "pending review"
 msgstr "in attesa di revisione"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3438
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3459
 msgid "draft"
 msgstr "bozza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3441
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3462
 msgid "trashed"
 msgstr "cestinati"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4166
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4187
 msgid "Create New Element Template"
 msgstr "Creare un nuovo elemento modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4195
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4216
 msgid "Edit Element Template:"
 msgstr "Modifica elemento modello:"
 
@@ -24783,85 +24783,85 @@ msgid "Read More"
 msgstr "Continua a leggere"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:554
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:664
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:602
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:712
 msgid "No link selected"
 msgstr "Nessun link selezionato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:572
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:620
 msgid "E-Mail to:"
 msgstr "E-mail a:"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:583
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:631
 #, php-format
 msgid "Error: Post Type %s has been removed"
 msgstr "Errore: Il tipo di post %s è stato rimosso"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:615
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:663
 #, php-format
 msgid " *** Error: Post %d missing"
 msgstr " *** Errore: Messaggio %d mancante"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:623
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:671
 #, php-format
 msgid "Error: Taxonomy %s has been removed"
 msgstr "Errore: La tassonomia %s è stata rimossa"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:655
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:703
 #, php-format
 msgid " *** Error:  Term %d missing"
 msgstr " *** Errore:  Termine %d mancante"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:697
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:745
 msgid "No attachment image available"
 msgstr "Nessuna immagine allegata disponibile"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:704
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:752
 msgid "No attachment image available for: "
 msgstr "Nessuna immagine allegata disponibile per: "
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:707
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:755
 msgid "Attachment image for: "
 msgstr "Immagine dell'allegato per: "
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:712
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:722
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:760
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:770
 msgid "Follow a manual added link"
 msgstr "Segui un collegamento aggiunto manuale"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:719
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:767
 msgid "Send an E-Mail to: "
 msgstr "Invia una e-mail a: "
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:730
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:742
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:778
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:790
 msgid "Wrong link - page does not exist"
 msgstr "Link errato - la pagina non esiste"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:733
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:781
 msgid "Link to: "
 msgstr "Link a: "
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:745
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:793
 #, php-format
 msgid "Link to %s in %s"
 msgstr "Link a %s in %s"
 
 # @ default
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:832
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:880
 msgid "Original Width"
 msgstr "Larghezza originale"
 
 # @ default
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:832
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:880
 msgid "Original Height"
 msgstr "Altezza originale"
 
-#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:892
+#: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:940
 msgid "Use size from media libary &quot;Attachment Display Settings&quot; "
 msgstr ""
 "Usa le dimensioni dalla libreria dei media &quot;Impostazioni di "
@@ -27485,7 +27485,7 @@ msgstr "Nuovo ordine"
 # @ avia_framework
 #: config-woocommerce/admin-import.php:288
 #: config-woocommerce/admin-import.php:289
-#: config-woocommerce/config-356.php:469 config-woocommerce/config.php:759
+#: config-woocommerce/config-356.php:469 config-woocommerce/config.php:783
 msgid "View Order"
 msgstr "Visualizza ordine"
 
@@ -27685,59 +27685,59 @@ msgstr ""
 "correttamente i tuoi prodotti"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:376 config-woocommerce/config.php:627
+#: config-woocommerce/config-356.php:376 config-woocommerce/config.php:651
 msgid "Select options"
 msgstr "Selezionare le opzioni"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:381 config-woocommerce/config.php:632
+#: config-woocommerce/config-356.php:381 config-woocommerce/config.php:656
 msgid "Show Details"
 msgstr "Mostra dettagli"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:465 config-woocommerce/config.php:755
-#: config-woocommerce/config.php:2770
+#: config-woocommerce/config-356.php:465 config-woocommerce/config.php:779
+#: config-woocommerce/config.php:2794
 msgid "My Account"
 msgstr "Il mio account"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:467 config-woocommerce/config.php:757
+#: config-woocommerce/config-356.php:467 config-woocommerce/config.php:781
 msgid "Change Password"
 msgstr "Cambia password"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:468 config-woocommerce/config.php:758
+#: config-woocommerce/config-356.php:468 config-woocommerce/config.php:782
 msgid "Edit Address"
 msgstr "Modifica indirizzo"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:472 config-woocommerce/config.php:762
+#: config-woocommerce/config-356.php:472 config-woocommerce/config.php:786
 msgid "Log Out"
 msgstr "Uscire"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:487 config-woocommerce/config.php:785
+#: config-woocommerce/config-356.php:487 config-woocommerce/config.php:809
 msgid "Register"
 msgstr "Registrarsi"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:490 config-woocommerce/config.php:788
+#: config-woocommerce/config-356.php:490 config-woocommerce/config.php:812
 msgid "Log In"
 msgstr "Accedere"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:611 config-woocommerce/config.php:952
+#: config-woocommerce/config-356.php:611 config-woocommerce/config.php:976
 #: framework/php/function-set-avia-frontend.php:1663
 msgid "Search results for:"
 msgstr "Cerca risultati per:"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:660 config-woocommerce/config.php:1015
+#: config-woocommerce/config-356.php:660 config-woocommerce/config.php:1039
 msgid "Tag"
 msgstr "Tag"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:740 config-woocommerce/config.php:1122
+#: config-woocommerce/config-356.php:740 config-woocommerce/config.php:1146
 msgid "Shop"
 msgstr "Negozio"
 
@@ -27747,7 +27747,7 @@ msgid "Default Order"
 msgstr "Ordine Predefinito"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1359 config-woocommerce/config.php:1958
+#: config-woocommerce/config-356.php:1359 config-woocommerce/config.php:1982
 msgid "Price"
 msgstr "Prezzo"
 
@@ -27757,39 +27757,39 @@ msgid "Popularity"
 msgstr "Popolarità"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1363 config-woocommerce/config.php:1974
+#: config-woocommerce/config-356.php:1363 config-woocommerce/config.php:1998
 msgid "Click to order products ascending"
 msgstr "Clicca per ordinare i prodotti in forma  ascendente"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1364 config-woocommerce/config.php:1975
+#: config-woocommerce/config-356.php:1364 config-woocommerce/config.php:1999
 msgid "Click to order products descending"
 msgstr "Clicca per ordinare i prodotti in forma discendente"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:1977
+#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:2001
 msgid "Products per page"
 msgstr "Prodotti per pagina"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1390 config-woocommerce/config.php:2037
+#: config-woocommerce/config-356.php:1390 config-woocommerce/config.php:2061
 msgid "Sort by"
 msgstr "Ordinare per"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2076
+#: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2100
 #: includes/admin/register-backend-advanced-styles.php:111
 #: includes/admin/register-backend-advanced-styles.php:132
 msgid "Display"
 msgstr "Mostrare"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1741 config-woocommerce/config.php:2619
+#: config-woocommerce/config-356.php:1741 config-woocommerce/config.php:2643
 msgid "(disabled)"
 msgstr "(disabilitato)"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2625
+#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2649
 msgid ""
 "This page is set as the default WooCommerce Shop Overview and therefore does "
 "not support the Enfold advanced layout editor"
@@ -27798,11 +27798,11 @@ msgstr ""
 "plugin e quindi non supporta l&rsquo;editor di layout avanzato di Enfold"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2625
+#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2649
 msgid "Learn more"
 msgstr "Scopri di più"
 
-#: config-woocommerce/config-356.php:1756 config-woocommerce/config.php:2632
+#: config-woocommerce/config-356.php:1756 config-woocommerce/config.php:2656
 msgid ""
 "Please note that the Advanced Layout Builder for products will not work with "
 "all WooCommerce Extensions"
@@ -27811,15 +27811,15 @@ msgstr ""
 "funziona per tutte le estensioni di WooCommerce"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1871 config-woocommerce/config.php:2829
+#: config-woocommerce/config-356.php:1871 config-woocommerce/config.php:2853
 msgid "was added to the cart"
 msgstr "è stato aggiunto al carrello"
 
-#: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:2834
+#: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:2858
 msgid "Shopping Cart"
 msgstr "Carrello"
 
-#: config-woocommerce/config-356.php:2350 config-woocommerce/config.php:3435
+#: config-woocommerce/config-356.php:2350 config-woocommerce/config.php:3459
 msgid ""
 "Attention! Pages built with the Enfold Advanced Template Builder will not be "
 "displayed at the bottom of the checkout page but only with a link."
@@ -27828,41 +27828,41 @@ msgstr ""
 "verranno visualizzate nella parte inferiore della pagina di check-out ma "
 "solo con un collegamento."
 
-#: config-woocommerce/config.php:527
+#: config-woocommerce/config.php:551
 msgid "Placeholder image"
 msgstr "Immagine segnaposto"
 
 # @ avia_framework
-#: config-woocommerce/config.php:1960
+#: config-woocommerce/config.php:1984
 msgid "Popularity (sales)"
 msgstr "I più venduti (vendite)"
 
 # @ LayerSlider
-#: config-woocommerce/config.php:1961
+#: config-woocommerce/config.php:1985
 msgid "Average rating"
 msgstr "Valutazione media"
 
 # @ LayerSlider
-#: config-woocommerce/config.php:1962
+#: config-woocommerce/config.php:1986
 msgid "Relevance"
 msgstr "Rilevanza"
 
 # @ woothemes
-#: config-woocommerce/config.php:1964
+#: config-woocommerce/config.php:1988
 msgid "Product ID"
 msgstr "ID Prodotto"
 
 # @ avia_framework
-#: config-woocommerce/config.php:2771
+#: config-woocommerce/config.php:2795
 msgid "Account Page Link"
 msgstr "Link alla pagina dell'account"
 
 # @ avia_framework
-#: config-woocommerce/config.php:2775
+#: config-woocommerce/config.php:2799
 msgid "Login / Register"
 msgstr "Accesso / Registrazione"
 
-#: config-woocommerce/config.php:2776
+#: config-woocommerce/config.php:2800
 msgid "Login / Register Page Link"
 msgstr "Collegamento alla pagina di accesso/registrazione"
 
@@ -31419,11 +31419,34 @@ msgstr ""
 "che si fa clic su una immagine. Deseleziona solo se si desidera utilizzare "
 "modalità finestra del proprio plugin"
 
-#: includes/admin/option_tabs/avia_avia.php:242
+#: includes/admin/option_tabs/avia_avia.php:228
+msgid ""
+"Info: If a page is selected and this option is deactivated, the selected "
+"page will show a message in the page list, that this option is inactive, so "
+"that editors are reminded that it is a &quot;special&quot; page and making "
+"changes might break intended site layout when reactivated."
+msgstr ""
+"Info: Se una pagina è selezionata e questa opzione è disattivata, la pagina "
+"selezionata mostrerà un messaggio nell'elenco delle pagine che indica che "
+"questa opzione è inattiva, in modo da ricordare agli editor che si tratta di "
+"una pagina &quot;speciale&quot; e che apportare modifiche potrebbe "
+"interrompere il layout del sito previsto quando viene riattivata."
+
+#: includes/admin/option_tabs/avia_avia.php:229
+msgid ""
+"To disable this message in the page list please change your page selection "
+"to &quot;Select Page&quot; so no page is selected and then disable this "
+"option."
+msgstr ""
+"Per disattivare questo messaggio nell'elenco delle pagine, modificare la "
+"selezione della pagina in &quot;Seleziona pagina&quot; in modo che non sia "
+"selezionata alcuna pagina e quindi disattivare questa opzione."
+
+#: includes/admin/option_tabs/avia_avia.php:247
 msgid "Custom Error 404 Page"
 msgstr "Errore Pagina 404 Personalizzata"
 
-#: includes/admin/option_tabs/avia_avia.php:243
+#: includes/admin/option_tabs/avia_avia.php:248
 msgid ""
 "Select if you want to use any of your pages as your custom Error 404 Page. "
 "This page will be excluded from page lists and search results. You must "
@@ -31434,23 +31457,23 @@ msgstr ""
 "risultati di ricerca. È necessario deselezionare la pagina per renderlo "
 "accessibile di nuovo pubblico."
 
-#: includes/admin/option_tabs/avia_avia.php:249
+#: includes/admin/option_tabs/avia_avia.php:254
 msgid "No custom 404 page selected"
 msgstr "Nessuna pagina 404 personalizzata selezionata"
 
-#: includes/admin/option_tabs/avia_avia.php:250
+#: includes/admin/option_tabs/avia_avia.php:255
 msgid "Display selected page without redirect"
 msgstr "Visualizzare la pagina selezionata senza reindirizzare"
 
-#: includes/admin/option_tabs/avia_avia.php:251
+#: includes/admin/option_tabs/avia_avia.php:256
 msgid "Redirect to selected page"
 msgstr "Reindirizza alla pagina selezionata"
 
-#: includes/admin/option_tabs/avia_avia.php:257
+#: includes/admin/option_tabs/avia_avia.php:262
 msgid "Select Your Custom Error 404 Page"
 msgstr "Selezionare la pagina 404 errore personalizzato"
 
-#: includes/admin/option_tabs/avia_avia.php:258
+#: includes/admin/option_tabs/avia_avia.php:263
 msgid ""
 "If you are using a caching plugin, make sure to exclude this page from "
 "caching."
@@ -31458,11 +31481,11 @@ msgstr ""
 "Se utilizzi un plug-in di memorizzazione nella cache, assicurati di "
 "escludere questa pagina dal caching."
 
-#: includes/admin/option_tabs/avia_avia.php:289
+#: includes/admin/option_tabs/avia_avia.php:294
 msgid "Maintenance Mode"
 msgstr "Modalità di Manutenzione"
 
-#: includes/admin/option_tabs/avia_avia.php:290
+#: includes/admin/option_tabs/avia_avia.php:295
 msgid ""
 "Check to enable maintenance mode and show or redirect all page requests to a "
 "maintenance page of your choice. This page will not be accessable and will "
@@ -31475,20 +31498,20 @@ msgstr ""
 "elenchi di pagine e dai risultati di ricerca. È necessario deselezionare la "
 "pagina per renderlo accessibile di nuovo pubblico."
 
-#: includes/admin/option_tabs/avia_avia.php:297
+#: includes/admin/option_tabs/avia_avia.php:302
 msgid "Enabled - Use selected page content without redirect"
 msgstr ""
 "Abilitato-utilizza il contenuto della pagina selezionata senza reindirizzare"
 
-#: includes/admin/option_tabs/avia_avia.php:298
+#: includes/admin/option_tabs/avia_avia.php:303
 msgid "Enabled - Redirect to selected page"
 msgstr "Abilitato-reindirizza alla pagina selezionata"
 
-#: includes/admin/option_tabs/avia_avia.php:304
+#: includes/admin/option_tabs/avia_avia.php:309
 msgid "Select Your Maintenance Mode Page"
 msgstr "Selezionare la pagina della modalità di manutenzione"
 
-#: includes/admin/option_tabs/avia_avia.php:305
+#: includes/admin/option_tabs/avia_avia.php:310
 msgid ""
 "Please note that logged in Administrators, Editors and Authors will still be "
 "able to access the site"
@@ -31496,11 +31519,11 @@ msgstr ""
 "Si prega di notare che gli amministratori, gli editori e gli autori "
 "registrati saranno comunque in grado di accedere al sito"
 
-#: includes/admin/option_tabs/avia_avia.php:339
+#: includes/admin/option_tabs/avia_avia.php:344
 msgid "Select Your Editor"
 msgstr "Seleziona il tuo editor"
 
-#: includes/admin/option_tabs/avia_avia.php:340
+#: includes/admin/option_tabs/avia_avia.php:345
 msgid ""
 "Choose if you want to enable and use the built in classic editor - no plugin "
 "is needed."
@@ -31508,19 +31531,19 @@ msgstr ""
 "Scegliere se si desidera attivare e utilizzare il  classico editor-Nessun "
 "plugin è necessario."
 
-#: includes/admin/option_tabs/avia_avia.php:347
+#: includes/admin/option_tabs/avia_avia.php:352
 msgid "Use Block Editor"
 msgstr "USA blocco editor"
 
-#: includes/admin/option_tabs/avia_avia.php:348
+#: includes/admin/option_tabs/avia_avia.php:353
 msgid "Use WP Classic Editor"
 msgstr "Utilizzare WP Classic editor"
 
-#: includes/admin/option_tabs/avia_avia.php:360
+#: includes/admin/option_tabs/avia_avia.php:365
 msgid "Disable Block Editor For Selected Post Types:"
 msgstr "Disattiva Editor blocchi per tipi di post selezionati:"
 
-#: includes/admin/option_tabs/avia_avia.php:361
+#: includes/admin/option_tabs/avia_avia.php:366
 msgid ""
 "Only the classic WP editor will be used for the selected post types. The "
 "links to WP block editor (Gutenberg) will not be available. You can change "
@@ -31532,12 +31555,12 @@ msgstr ""
 "possibile modificare questo comportamento per determinate pagine/post con "
 "filtro Enfold&rsquo;s filter &quot;avf_use_block_editor_for_post&quot;"
 
-#: includes/admin/option_tabs/avia_avia.php:367
+#: includes/admin/option_tabs/avia_avia.php:372
 msgid "Allow block editor for all possible post types (= default)..."
 msgstr ""
 "Consenti Editor blocchi per tutti i tipi di post possibili (= predefinito)..."
 
-#: includes/admin/option_tabs/avia_avia.php:368
+#: includes/admin/option_tabs/avia_avia.php:373
 msgid "Disable block editor for all listed post types..."
 msgstr "Disattiva Editor blocchi per tutti i tipi di post elencati..."
 
