@@ -1,3 +1,6 @@
+2024-01-18
+ - sync all language files (5.6.10)
+
 2023-12-06
  - Dutch language files nl_NL (version 5.6.9 provided by EZWebdesign - Roger Hoen )
  - Italian language files it_IT (version 5.6.9, provided by BigBatT - info@luigicircello.it)
