@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2024-01-18 11:53+0000\n"
+"PO-Revision-Date: 2024-01-18 20:39+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:703
@@ -5679,6 +5679,9 @@ msgid ""
 "Check if you want to limit selectable dates from current date to future "
 "dates only - first selection is used for all contact forms on the page."
 msgstr ""
+"Vink aan als je de selecteerbare datums wilt beperken van de huidige datum "
+"tot toekomstige datums - de eerste selectie wordt gebruikt voor alle "
+"contactformulieren op de pagina."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:623
 msgid ""
@@ -8643,7 +8646,7 @@ msgstr "Datumformaat"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:696
 msgid "Date Only In Future"
-msgstr ""
+msgstr "Enkel toekomstige datum"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:38
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:66
@@ -9982,7 +9985,7 @@ msgstr "Toon items van:"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:62
 msgid "Display entries in a magazine like fashion"
-msgstr "Toon items als een soort magazine"
+msgstr "Toon items zoals in een (mode-)tijdschrijft"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:277
 msgid "Display Event Title?"
@@ -10449,7 +10452,7 @@ msgstr "Toon meerdere knoppen naast elkaar"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:32
 msgid "Displays Posts from your Blog"
-msgstr "Toont artikelen van uw blog"
+msgstr "Toont berichten van uw website"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:34
 msgid "Displays your latest Instagram feeds (Smash Balloon Plugin)"
@@ -11179,7 +11182,7 @@ msgstr "Locatie bewerken"
 
 #: framework/php/class-megamenu.php:505 framework/php/class-megamenu.php:507
 msgid "Edit Menu Item"
-msgstr "Menu-item bewerken"
+msgstr "menu-item bewerken"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:259
 msgid "Edit Metadata Element"
@@ -13238,7 +13241,7 @@ msgstr "Vastgezet"
 
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:309
 msgid "Fixed (relative to the viewport)"
-msgstr ""
+msgstr "Vast (relatief ten opzichte van de viewport)"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:277
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:356
@@ -13774,49 +13777,49 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:564
 msgid "Form Element hidden"
-msgstr "Formulier Element verborgen"
+msgstr "Formulier-element verborgen"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:666
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:573
 msgid "Form Element Label"
-msgstr "Label Formulier Element"
+msgstr "Label formulier-element"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:676
 msgid "Form Element Options"
-msgstr "Opties Formulier Element"
+msgstr "Opties formulier-element"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:647
 msgid "Form Element Type"
-msgstr "Type Formulier Element"
+msgstr "Type formulier-element"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:725
 msgid "Form Element Validation"
-msgstr "Validatie Formulier Element"
+msgstr "Validatie formulier-element"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:769
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:591
 msgid "Form Element Width"
-msgstr "Breedte Formulier Element"
+msgstr "Breedte formulier-element"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:657
 msgid "Form Element: Checkbox"
-msgstr "Formulier-Element: Checkbox"
+msgstr "Formulier-element: keuzevakje"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:658
 msgid "Form Element: Datepicker"
-msgstr "Formulier-Element: Datumkiezer"
+msgstr "Formulier-element: datumkiezer"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:656
 msgid "Form Element: Select Element"
-msgstr "Formulier-Element: Selectieknop"
+msgstr "Formulier-element: selectievak"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:655
 msgid "Form Element: Text Area"
-msgstr "Formulier-Element: Tekstblok"
+msgstr "Formulier-element: tekstblok"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:654
 msgid "Form Element: Text Input"
-msgstr "Formulier-Element: Tekstregel"
+msgstr "Formulier-element: tekstregel"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:210
 msgid "Form Title"
@@ -16929,6 +16932,12 @@ msgid ""
 "&quot;special&quot; page and making changes might break intended site layout "
 "when reactivated."
 msgstr ""
+"Info: Als een voettekstpagina is geselecteerd en er is geen &quot;Pagina "
+"gebaseerde footer&quot; optie geselecteerd, dan zal de geselecteerde pagina "
+"een bericht tonen in de paginalijst dat deze optie inactief is, zodat "
+"redacteuren eraan herinnerd worden dat het een &quot;speciale&quot; pagina "
+"is en dat het maken van wijzigingen de beoogde lay-out van de site kan "
+"verbreken als deze opnieuw wordt geactiveerd."
 
 #: includes/admin/option_tabs/avia_avia.php:228
 msgid ""
@@ -18109,7 +18118,7 @@ msgstr "Doorhalen"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1585
 msgid "Linear gradient overlay"
-msgstr "Lineaire gradiënt overlay"
+msgstr "Lineair kleurverloop"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:365
 msgid "Lines"
@@ -18345,7 +18354,7 @@ msgstr "Laad alleen de gebruikte elementen (aanbevolen)"
 
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:90
 msgid "Load template at bottom:"
-msgstr "Sabloon onderaan invoegen:"
+msgstr "Sjabloon onderaan invoegen:"
 
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:91
 msgid "Load template at top:"
@@ -18375,7 +18384,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:310
 msgid "Local (relative to cell)"
-msgstr ""
+msgstr "Lokaal (ten opzichte van cel)"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:497
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:650
@@ -25270,7 +25279,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1739
 msgid "Select the 3rd opacity. 1 shows background, 0 hides it."
-msgstr "Selecteer de 3e opaciteit. 1 toont de achtergrond, 0 verbergt hem."
+msgstr ""
+"Selecteer de 3e doorzichtigheid. 1 toont de achtergrond, 0 verbergt hem."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:253
 msgid "Select the appearance of the icon grid."
@@ -25642,7 +25652,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1728
 msgid "Select the second opacity. 1 shows background, 0 hides it."
-msgstr "Selecteer de tweede opaciteit. 1 toont de achtergrond, 0 verbergt hem."
+msgstr ""
+"Selecteer de 2e doorzichtigheid. 1 toont de achtergrond, 0 verbergt hem."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1678
 msgid "Select the shape of the radial gradient."
@@ -27341,9 +27352,9 @@ msgid ""
 "Show a reading progress bar below header indicating vertical scroll position "
 "in document. Only available when top header and sticky header selected."
 msgstr ""
-"Toon een leesvoortgangsbalk onder de koptekst die de verticale scrollpositie "
-"in het document aangeeft. Alleen beschikbaar wanneer koptekst boven en "
-"plakkerige koptekst zijn geselecteerd."
+"Toon een leesvoortgangsbalk onder de header die de verticale scrollpositie "
+"in het document aangeeft. Alleen beschikbaar wanneer header bovenaan staat  "
+"en als vastgeplakte header (sticky) is ingesteld."
 
 #: includes/admin/option_tabs/avia_performance.php:90
 msgid "Show Advanced Options"
@@ -30834,6 +30845,9 @@ msgid ""
 "to &quot;Select Page&quot; so no page is selected and then disable \"Page "
 "Based Footer\" option."
 msgstr ""
+"Om deze melding in de paginalijst uit te schakelen, wijzigt u de "
+"paginaselectie in &quot;Selecteer pagina&quot; zodat er geen pagina is "
+"geselecteerd en schakelt u de 'Pagina gebaseerde footer' optie uit."
 
 #: includes/admin/option_tabs/avia_avia.php:229
 msgid ""
@@ -30843,7 +30857,7 @@ msgid ""
 msgstr ""
 "Om deze melding in de paginalijst uit te schakelen, wijzigt u uw "
 "paginaselectie in &quot;Selecteer pagina&quot; zodat er geen pagina is "
-"geselecteerd en schakelt u vervolgens deze optie uit."
+"geselecteerd en vervolgens schakelt u deze optie uit."
 
 #: framework/php/inc-avia-download-demo.php:23
 msgid "To few parameters provided - a download is not possible."
