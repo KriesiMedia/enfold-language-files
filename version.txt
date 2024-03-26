@@ -1,3 +1,6 @@
+2024-03-26
+- Italian language files it_IT (version 5.6.12, provided by BigBatT - info@luigicircello.it)
+
 2024-01-23
  - Italian language files it_IT (version 5.6.10, provided by BigBatT - info@luigicircello.it)
 
