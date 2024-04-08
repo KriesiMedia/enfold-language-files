@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2024-04-03 09:23+0000\n"
+"PO-Revision-Date: 2024-04-06 19:01+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Loco-Version: 2.6.7; wp-6.4.2\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:703
@@ -1167,11 +1167,9 @@ msgstr ""
 "opmerkingen en een tagcloud weergeeft"
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:30
-#, fuzzy
 #| msgid "A widget to display a link to your Twitter profile and rss feed"
 msgid "A widget to display a link to your X profile and rss feed"
-msgstr ""
-"Een widget om een link naar uw Twitter-profiel en RSS-feed weer te geven"
+msgstr "Een widget om een link naar uw X-profiel en RSS-feed weer te geven"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:48
 msgid "AA (Midrange)"
@@ -2437,7 +2435,7 @@ msgstr "Alle titels"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:826
 msgid "All iconfonts"
-msgstr ""
+msgstr "Alle icon lettertypes"
 
 #: config-wpml/class-avia-wpml.php:720
 msgid "All other options have to be set for each language separately."
@@ -3768,7 +3766,6 @@ msgid "Below 989px (Tablet Landscape)"
 msgstr "Onder 989px (tablet liggend)"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:250
-#, fuzzy
 #| msgid ""
 #| "Below each Team Member you can add Icons that link to destinations like "
 #| "Facebook page, Twitter account etc."
@@ -3777,7 +3774,7 @@ msgid ""
 "Facebook page, X account etc."
 msgstr ""
 "Onder elk teamlid kunt u iconen toevoegen die linken naar sociale media "
-"zoals Facebook, Twitter, etc."
+"zoals Facebook, X, etc."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:362
 msgid "below the menu"
@@ -4665,7 +4662,7 @@ msgstr "Knop tooltip"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:280
 msgid "Button Type"
-msgstr ""
+msgstr "Knoptype"
 
 #: includes/admin/register-backend-advanced-styles.php:534
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:309
@@ -5359,7 +5356,7 @@ msgstr "Wijzigingen zijn pas effectief zodra u de pagina herlaadt"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:922
 msgid "Charcode"
-msgstr ""
+msgstr "Charcode"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:775
 msgid "Charcode:"
@@ -6046,7 +6043,7 @@ msgid "Choose a default border styling for your box here"
 msgstr "Kies hier een standaard randstijl voor uw kader"
 
 #: includes/admin/option_tabs/avia_styling.php:568
-#, fuzzy, php-format
+#, php-format
 #| msgid ""
 #| "Choose a font for your body text. Upload your own fonts, use web safe "
 #| "fonts (faster rendering, but not mandatory installed on all devices) or "
@@ -6056,9 +6053,9 @@ msgid ""
 "(faster rendering, but not mandatory installed on all %1$s) or %2$s (more "
 "unique)."
 msgstr ""
-"Kies een lettertype voor je bodytekst. Upload uw eigen lettertypen, gebruik "
-"web safe fonts (snellere rendering, maar niet verplicht geïnstalleerd op "
-"alle toestellen) of %s (unieker)."
+"Kies een lettertype voor je bodytekst. Upload je eigen lettertypes, gebruik "
+"webveilige lettertypes (snellere rendering, maar niet verplicht "
+"geïnstalleerd op alle %1$s) of %2$s (unieker)."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:283
 msgid "Choose A Lottie Animation"
@@ -8001,7 +7998,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_performance.php:57
 msgid "CSS File Compression And Merging"
-msgstr ""
+msgstr "CSS bestandscompressie en samenvoegen"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:247
 msgid "Current post"
@@ -9505,7 +9502,7 @@ msgstr "Ontwikkelaars: Om uit te schakelen op ALB element niveau gebruik:"
 
 #: includes/admin/option_tabs/avia_styling.php:548
 msgid "devices"
-msgstr ""
+msgstr "apparaten"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:328
 msgid "Diagonal Border Box Style"
@@ -9567,6 +9564,8 @@ msgstr "Directe link naar Google Maps pagina:"
 #: includes/admin/option_tabs/avia_performance.php:83
 msgid "Disable - use unminified theme javascript files"
 msgstr ""
+"Uitschakelen - gebruik niet geminimaliseerde Javascriptbestanden van het "
+"thema"
 
 #: includes/admin/option_tabs/avia_performance.php:149
 msgid "Disable adding unique timestamps only"
@@ -9711,6 +9710,7 @@ msgstr "Uitgeschakeld - Er worden geen controles gedaan bij update"
 #: includes/admin/option_tabs/avia_performance.php:65
 msgid "Disabled - use unminified theme CSS files"
 msgstr ""
+"Uitschakelen - gebruik niet geminimaliseerde CSS bestanden van het thema"
 
 #: includes/helper-privacy.php:995 includes/helper-privacy.php:1033
 #: includes/helper-privacy.php:1075 includes/helper-privacy.php:1113
@@ -10877,7 +10877,7 @@ msgstr "Download video thumbnail"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:313
 msgid "Downloaded File Name"
-msgstr ""
+msgstr "Gedownloade bestandsnaam"
 
 #: framework/php/function-set-avia-ajax.php:722
 #, php-format
@@ -12243,7 +12243,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:821
 msgid "Enter string to filter icons"
-msgstr ""
+msgstr "Voer tekenreeks in om pictogrammen te filteren"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:546
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:598
@@ -12397,6 +12397,8 @@ msgid ""
 "Enter the name for the downloaded file on client device. Leave empty to use "
 "orginal file name."
 msgstr ""
+"Voer de naam in voor het gedownloade bestand op het clientapparaat. Leeg "
+"laten om de originele bestandsnaam te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:664
 msgid "Enter the Name of the Person to quote"
@@ -13157,7 +13159,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:288
 msgid "File download button"
-msgstr ""
+msgstr "Bestand downloaden-knop"
 
 #: framework/php/class-media.php:372
 msgid "File Size"
@@ -13210,7 +13212,7 @@ msgstr "Filter uitgebreid tot het filteren van afbeeldingen of video's"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:824
 msgid "Filter Icons By Font Family And/Or Name/Charactercode:"
-msgstr ""
+msgstr "Filter pictogrammen op lettertypefamilie en/of naam/charactercode:"
 
 #: functions-enfold.php:918
 msgid "Filter name has changed"
@@ -15640,6 +15642,8 @@ msgid ""
 "HTTP/2 is optimized for using minified files and compression of files is no "
 "longer recommended:"
 msgstr ""
+"HTTP/2 is geoptimaliseerd voor het gebruik van geminimaliseerde bestanden en "
+"compressie van bestanden wordt niet langer aanbevolen:"
 
 #. URI of the theme
 msgid "http://www.kriesi.at/themes/enfold/"
@@ -16832,7 +16836,6 @@ msgstr ""
 "beeldverhouding in te voeren. Meestal is dit 16:9 of 4:3."
 
 #: includes/admin/option_tabs/avia_performance.php:34
-#, fuzzy
 #| msgid ""
 #| "In order to increase the speed of your website you can activate file "
 #| "merging and compression for your CSS and Javascript files. This will "
@@ -16842,9 +16845,9 @@ msgid ""
 "activate file merging and compression for your CSS and Javascript files. "
 "This will reduce and optimize the amount of code loaded."
 msgstr ""
-"Om de snelheid van uw website te verhogen, kunt u het samenvoegen en "
-"comprimeren van bestanden voor uw CSS- en Javascript-bestanden activeren. "
-"Dit zal de hoeveelheid geladen code verminderen en optimaliseren."
+"Om de snelheid van uw website te verhogen, kunt u bestanden minimaliseren of "
+"CSS- en Javascript bestanden samenvoegen en comprimeren. Dit zal de "
+"hoeveelheid geladen code verminderen en optimaliseren."
 
 #: includes/admin/option_tabs/avia_cookie.php:224
 msgid ""
@@ -17484,7 +17487,7 @@ msgstr "j"
 
 #: includes/admin/option_tabs/avia_performance.php:75
 msgid "Javascript File Compression And Merging"
-msgstr ""
+msgstr "Javascript bestandscompressie en samenvoegen"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:217
 msgid "Job title of the person."
@@ -18172,7 +18175,7 @@ msgstr "Link instellingen"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:287
 msgid "Link button"
-msgstr ""
+msgstr "Snelkoppeling knop"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1559
 msgid "Link Grid Item"
@@ -18215,7 +18218,7 @@ msgstr "Link instellingen"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:328
 msgid "Link Settings Or File Download"
-msgstr ""
+msgstr "Snelkoppeling instellingen of bestand downloaden"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:588
 msgid "Link text"
@@ -18267,7 +18270,7 @@ msgstr "Link naar WhatsApp"
 
 #: includes/helper-social-media.php:368
 msgid "Link to X"
-msgstr ""
+msgstr "Snelkoppeling naar X"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:216
 msgid "Link to your profile"
@@ -19049,16 +19052,15 @@ msgid "Menu Text"
 msgstr "Menutekst"
 
 #: includes/admin/option_tabs/avia_performance.php:67
-#, fuzzy
 #| msgid "Enable - merge and compress all theme CSS files"
 msgid "Merge and compress all theme CSS files"
-msgstr "Inschakelen - CSS bestanden samenvoegen en comprimeren"
+msgstr "Inschakelen - CSS themabestanden samenvoegen en comprimeren"
 
 #: includes/admin/option_tabs/avia_performance.php:85
-#, fuzzy
 #| msgid "Enable - merge and compress all theme javascript files"
 msgid "Merge and compress all theme javascript files"
-msgstr "Inschakelen - Javascript bestanden samenvoegen en comprimeren"
+msgstr ""
+"Inschakelen - Javascript bestanden van thema samenvoegen en comprimeren"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:242
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:184
@@ -20596,7 +20598,7 @@ msgstr "Op tablets (bij een schermbreedte van 989px of lager)"
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:97
 msgid "on X"
-msgstr ""
+msgstr "op X"
 
 #: framework/php/auto-updates/auto-updates.php:463
 #, php-format
@@ -20713,7 +20715,7 @@ msgstr "Titel en Lees meer-link"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:508
 msgid "ONLY USE NON SENSITIVE FILES FROM PUBLIC DIRECTORIES !!!"
-msgstr ""
+msgstr "GEBRUIK ALLEEN NIET-GEVOELIGE BESTANDEN UIT OPENBARE MAPPEN!!!"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:400
 msgid "Only visible for admins:"
@@ -21634,7 +21636,7 @@ msgstr "Zorg dat uw velden correct zijn ingevuld"
 
 #: includes/admin/option_tabs/avia_performance.php:35
 msgid "Please note changes with HTTP/2:"
-msgstr ""
+msgstr "Let op de wijzigingen met HTTP/2:"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:336
 msgid ""
@@ -22084,6 +22086,11 @@ msgid ""
 "developing your website adding new CSS rules or Javascript functions - "
 "please do not use this setting in these cases."
 msgstr ""
+"Voorafgaand aan 5.7 was samenvoegen en comprimeren standaard ingeschakeld, "
+"wat soms problemen veroorzaakte in sommige serveromgevingen en ook wanneer u "
+"actief bezig bent met het ontwikkelen van uw website door nieuwe CSS-regels "
+"of Javascript-functies toe te voegen - gebruik deze instelling in deze "
+"gevallen alstublieft niet."
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:443
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:488
@@ -22383,7 +22390,7 @@ msgstr "Lees meer"
 
 #: includes/admin/option_tabs/avia_performance.php:36
 msgid "read more"
-msgstr ""
+msgstr "lees meer"
 
 #: framework/php/widgets/widget-classes/class-avia-combo.php:550
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:283
@@ -23056,6 +23063,7 @@ msgstr "RSS feed URL:"
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:26
 msgid "RSS Link and X Account"
 msgstr ""
+"RSS snelkoppeling en X account\n"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1242
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:970
@@ -24532,11 +24540,13 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:513
 msgid "Select A File For Download"
-msgstr ""
+msgstr "Selecteer een bestand om te downloaden"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:507
 msgid "Select a file from media library or enter an URL to a file."
 msgstr ""
+"Selecteer een bestand uit de mediabibliotheek of voer een URL naar een "
+"bestand in."
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:490
 msgid "Select a font color"
@@ -24871,7 +24881,7 @@ msgstr "Selecteer items"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:517
 msgid "Select File For Download"
-msgstr ""
+msgstr "Selecteer bestand om te downloaden"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:147
 msgid "Select filter for displaying:"
@@ -25218,12 +25228,18 @@ msgid ""
 "Select level of CSS file compression and merging. Minified files are "
 "recommended for best performance with HTTP/2."
 msgstr ""
+"Selecteer het niveau van CSS-bestandscompressie en -samenvoeging. "
+"Geminimaliseerde bestanden worden aanbevolen voor de beste prestaties met "
+"HTTP/2."
 
 #: includes/admin/option_tabs/avia_performance.php:76
 msgid ""
 "Select level of javascript file compression and merging. Minified files are "
 "recommended for best performance with HTTP/2."
 msgstr ""
+"Selecteer het niveau van Javascript bestandscompressie en -samenvoeging. "
+"Geminimaliseerde bestanden worden aanbevolen voor de beste prestaties met "
+"HTTP/2."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:259
 msgid "Select Media"
@@ -26274,6 +26290,8 @@ msgid ""
 "Select to use button as a normal link button - default behaviour - or for a "
 "file download"
 msgstr ""
+"Selecteer om de knop te gebruiken als een normale linkknop - standaardgedrag "
+"- of voor een bestandsdownload"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2124
 msgid ""
@@ -27217,7 +27235,7 @@ msgstr "Delen op WhatsApp"
 
 #: includes/helper-social-media.php:367
 msgid "Share on X"
-msgstr ""
+msgstr "Deel op X"
 
 #: includes/helper-social-media.php:468
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:189
@@ -29796,7 +29814,7 @@ msgstr ""
 "Alle feedback wordt op prijs gesteld om dit te verbeteren."
 
 #: includes/admin/option_tabs/avia_styling.php:551
-#, fuzzy, php-format
+#, php-format
 #| msgid ""
 #| "The heading font allows you to use a wide range of fonts for your "
 #| "headings. Upload your own fonts, use websave fonts (faster rendering, but "
@@ -29806,10 +29824,10 @@ msgid ""
 "Upload your own fonts, use web save fonts (faster rendering, but not "
 "mandatory installed on all %1$s) or %2$s (more unique)."
 msgstr ""
-"Met lettertype voor koppen kunt u een breed scala aan lettertypen voor uw "
-"koppen gebruiken. Upload uw eigen lettertypen, gebruik websave lettertypen "
-"(snellere rendering, maar niet verplicht geïnstalleerd op alle apparaten) of "
-"%s (unieker)."
+"Met lettertype voor kopteksten kun je een breed scala aan lettertypes "
+"gebruiken voor je kopteksten. Upload je eigen lettertypes, gebruik "
+"webveilige lettertypes (snellere rendering, maar niet verplicht "
+"geïnstalleerd op alle %1$s) of %2$s (unieker)."
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:252
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:345
@@ -30238,6 +30256,7 @@ msgstr "Thema updates"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:509
 msgid "There are no security checks if user is allowed to download the file."
 msgstr ""
+"Er zijn geen veiligheidscontroles of de gebruiker het bestand mag downloaden."
 
 #: framework/php/auto-updates/auto-updates.php:552
 msgid "There has been no check within the last month."
@@ -30255,6 +30274,7 @@ msgstr ""
 #: includes/admin/option_tabs/avia_performance.php:37
 msgid "Therefore since 5.7 by default minified files are selected."
 msgstr ""
+"Daarom worden sinds 5.7 standaard geminimaliseerde bestanden geselecteerd."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2743
 msgid ""
@@ -31626,7 +31646,7 @@ msgstr "Onbekende foutcode"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:922
 msgid "unknown iconname"
-msgstr ""
+msgstr "onbekende pictogramnaam"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2962
 #, php-format
@@ -32303,7 +32323,7 @@ msgstr "Gebruik bestaand menu"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:518
 msgid "Use File"
-msgstr ""
+msgstr "Gebruik bestand"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:447
 msgid "Use filters"
@@ -33192,7 +33212,7 @@ msgstr ""
 
 #: framework/php/font-management/class-avia-type-fonts.php:976
 msgid "Web Safe Fonts (* &gt;90% availability)"
-msgstr ""
+msgstr "Webveilige lettertypes (* >90% beschikbaarheid)"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:695
 msgid "Website Link"
@@ -33784,16 +33804,16 @@ msgstr "Zeer groot"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:241
 msgid "X link"
-msgstr ""
+msgstr "X snelkoppeling"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:532
 msgid "X Profile Link"
-msgstr ""
+msgstr "Snelkoppeling naar X-profiel"
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:129
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:169
 msgid "X Username:"
-msgstr ""
+msgstr "X gebruikersnaam:"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:526
 msgid "X-Alignment"

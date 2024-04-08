@@ -1,3 +1,8 @@
+2024_04_08
+- Italian language files it_IT (version 5.7, provided by BigBatT - info@luigicircello.it)
+- Dutch language files nl_NL (version 5.7 provided by EZWebdesign - Roger Hoen )
+- Croatian language files hr (version 5.7, provided by NUIT d.o.o. - info@nuit.hr )
+
 2024-04-03
  - sync all language files (5.7)
 
