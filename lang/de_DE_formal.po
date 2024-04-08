@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-10 15:59+0200\n"
-"PO-Revision-Date: 2024-04-03 09:20+0000\n"
+"PO-Revision-Date: 2024-04-08 14:27+0000\n"
 "Last-Translator: \n"
 "Language-Team: German (Formal)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Loco-Version: 2.6.7; wp-6.5\n"
 "Language: de_DE_formal\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -903,7 +903,7 @@ msgid ""
 "[av_privacy_custom_cookie cookie_name=\"\"]Your text "
 "here[/av_privacy_custom_cookie] "
 msgstr ""
-"[av_privacy_custom_cookie cookie_name = \"\"] Dein Text hier [/ "
+"[av_privacy_custom_cookie cookie_name = \"\"] Ihr Text hier [/ "
 "av_privacy_custom_cookie]"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:47
@@ -6839,7 +6839,7 @@ msgstr "Code-Block"
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:153
 msgid "Code Block Content. Add your own HTML/CSS/Javascript here"
 msgstr ""
-"Code Block Inhalt. Füge dein eigenes HTML / CSS / Javascript hier hinzu"
+"Code Block Inhalt. Fügen Sie ihr eigenes HTML / CSS / Javascript hier hinzu"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:162
 msgid "Code Wrapper Element"
@@ -17566,7 +17566,7 @@ msgstr "Erfahren Sie mehr über unsere Datenschutzbestimmungen"
 
 #: comments.php:173
 msgid "Leave a Reply"
-msgstr "Dein Kommentar"
+msgstr "Ihr Kommentar"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:278
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:289
@@ -18260,7 +18260,7 @@ msgid ""
 "might break your frontend layout."
 msgstr ""
 "Suche nach Problemen bezüglich der Shortcode-Struktur dieser Seite / Post, "
-"die dein Frontend-Layout beschädigen könnte."
+"die Ihr Frontend-Layout beschädigen könnte."
 
 #: config-events-calendar/config.php:257
 msgid ""
@@ -24327,7 +24327,7 @@ msgstr "Wählen Sie hier ein Symbol für das Element"
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:266
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:252
 msgid "Select an icon for your Button below"
-msgstr "Wähle unterhalb ein Symbol für dein Button"
+msgstr "Wählen Sie unterhalb ein Symbol für ihren Button"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:208
 msgid "Select an icon for your button below"
@@ -32998,7 +32998,7 @@ msgstr "Falscher Link - Seite existiert nicht"
 
 #: framework/php/auto-updates/class-avia-envato-base-api.php:517
 msgid "Wrong parameter $which for get_userdata:"
-msgstr "Falscher Parameter $ welcher für get_userdata:"
+msgstr "Falscher Parameter $which für get_userdata:"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:580
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:352
@@ -33307,11 +33307,12 @@ msgstr ""
 msgid ""
 "You can choose if you want a sticky sidebar that does not scroll with the "
 "content"
-msgstr "Bitte wählen, wenn eine fixierte Sidebar nicht mit dem Content scrollt"
+msgstr ""
+"Bitte wählen Sie, ob eine fixierte Sidebar nicht mit dem Content scrollt"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1796
 msgid "You can choose if you want to display title and/or excerpt"
-msgstr "Wähle, ob Titel und/oder Textauszug angezeigt werden sollen."
+msgstr "Wählen Sie, ob Titel und/oder Textauszug angezeigt werden sollen."
 
 #: includes/admin/option_tabs/avia_shop.php:16
 msgid "You can choose the appearance of the cart icon here"
@@ -33377,7 +33378,7 @@ msgstr "Hier können Sie zwischen verschiedenen Kopfzeilen-Designs wählen"
 msgid ""
 "You can choose whether to always display Title and Excerpt or only on hover"
 msgstr ""
-"Wähle, ob Titel und/oder Textauszug immer, oder nur bei Hover angezeigt "
+"Wählen Sie, ob Titel und/oder Textauszug immer, oder nur bei Hover angezeigt "
 "werden sollen."
 
 #: includes/admin/option_tabs/avia_cookie.php:394
@@ -33407,7 +33408,7 @@ msgid ""
 "You can either choose a predefined layout or build your own blog layout with "
 "the advanced layout editor"
 msgstr ""
-"Sie können entweder ein vordefiniertes Layout auswählen oder dein eigenes "
+"Sie können entweder ein vordefiniertes Layout auswählen oder ihr eigenes "
 "Blog-Layout mit dem Layout-Architekt erstellen"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:324
@@ -33535,7 +33536,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:453
 msgid "You can set when the gallery thumbnail animation starts"
-msgstr "Lege fest, wann die Animation der Galerie-Miniaturbilder starten soll"
+msgstr ""
+"Legen Sie fest, wann die Animation der Galerie-Miniaturbilder starten soll"
 
 #: includes/admin/option_tabs/avia_upload.php:188
 msgid "You can upload additional Iconfont Packages generated with"
@@ -33604,7 +33606,7 @@ msgstr ""
 
 #: includes/related-posts.php:84
 msgid "You might also like"
-msgstr "Das könnte Dich auch interessieren"
+msgstr "Das könnte Sie auch interessieren"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:490
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-mailchimp.php:423
