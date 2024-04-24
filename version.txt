@@ -1,5 +1,6 @@
 2024_04_24
 - added translation for Found errors in the following field(s): to german language files
+- added some fixes and translations for german language files
 
 2024_04_16
 - French language files fr_FR (version 5.7 provided by comkapi - Patrick)
