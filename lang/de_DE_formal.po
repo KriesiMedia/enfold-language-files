@@ -3,22 +3,22 @@ msgstr ""
 "Project-Id-Version: Enfold v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-24 17:31+0300\n"
-"PO-Revision-Date: 2024-04-24 17:34+0300\n"
+"PO-Revision-Date: 2024-04-24 15:46+0000\n"
 "Last-Translator: \n"
 "Language-Team: German (Formal)\n"
-"Language: de\n"
+"Language: de_DE_formal\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Loco https://localise.biz/\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: enfold/404.php:12
@@ -1416,9 +1416,9 @@ msgstr ""
 #: enfold/config-layerslider/LayerSlider/assets/classes/class.km.autoupdate.v3.php:201
 #, php-format
 msgid ""
-"License registration is required in order to receive updates for "
-"LayerSlider. %sPurchase a license%s or %sread the documentation%s to learn "
-"more. %sGot LayerSlider in a theme?%s"
+"License registration is required in order to receive updates for LayerSlider."
+" %sPurchase a license%s or %sread the documentation%s to learn more. %sGot "
+"LayerSlider in a theme?%s"
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/classes/class.ls.elementor.php:35
@@ -3635,9 +3635,9 @@ msgstr ""
 #: enfold/config-layerslider/LayerSlider/assets/config/defaults.php:1612
 msgid ""
 "Certain transformation and transition options cannot be updated on the fly "
-"when the browser size or device orientation changes. By enabling this "
-"option, LayerSlider will automatically detect such situations and will "
-"restart itself to preserve its appearance."
+"when the browser size or device orientation changes. By enabling this option,"
+" LayerSlider will automatically detect such situations and will restart "
+"itself to preserve its appearance."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/config/defaults.php:1618
@@ -7094,9 +7094,9 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-button-presets.php:418
 msgid ""
-"LayerSlider offers thousands of icons in a variety of different styles."
-"<br>You can freely color, resize, or change any aspect of your button and "
-"its icon once it’s inserted into the editor."
+"LayerSlider offers thousands of icons in a variety of different styles.<br>"
+"You can freely color, resize, or change any aspect of your button and its "
+"icon once it’s inserted into the editor."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-callback-events-modal.php:5
@@ -7262,8 +7262,8 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-callback-events-modal.php:393
 msgid ""
-"Fires when the slider has been removed from the DOM when using the "
-"<i>destroy</i> API method."
+"Fires when the slider has been removed from the DOM when using the <i>"
+"destroy</i> API method."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-canceled-activation-modal.php:3
@@ -7328,10 +7328,10 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-deregister-license-modal.php:11
 msgid ""
-"This might affect the appearance and functionality of your site and "
-"projects. Register a LayerSlider license key to restore them and continue to "
-"receive premium benefits, or purchase an additional license if you have "
-"multiple websites."
+"This might affect the appearance and functionality of your site and projects."
+" Register a LayerSlider license key to restore them and continue to receive "
+"premium benefits, or purchase an additional license if you have multiple "
+"websites."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-embed-slider.php:8
@@ -8385,8 +8385,8 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-plugin-settings.php:335
 msgid ""
-"Enable this option to ignore LayerSlider files by CloudFlare’s Rocket "
-"Loader, which can help overcoming potential issues."
+"Enable this option to ignore LayerSlider files by CloudFlare’s Rocket Loader,"
+" which can help overcoming potential issues."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-plugin-settings.php:339
@@ -9823,10 +9823,10 @@ msgstr ""
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:379
 msgid ""
 "Sets the initial layer scale on the selected axis before the layer starts "
-"animating in. Use the value 1 for the original size. The value 2 will "
-"double, while 0.5 will shrink the layer to half of its original size. A "
-"negative value flips the layer on the given axis. Layers animate from this "
-"value toward their appearance set under the <b>STYLE</b> menu."
+"animating in. Use the value 1 for the original size. The value 2 will double,"
+" while 0.5 will shrink the layer to half of its original size. A negative "
+"value flips the layer on the given axis. Layers animate from this value "
+"toward their appearance set under the <b>STYLE</b> menu."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:403
@@ -9989,12 +9989,12 @@ msgstr ""
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:785
 msgid ""
 "Choose a center point for scroll transition layers where they will be "
-"aligned perfectly according to their original position. <br><br> <b>Inherit</"
-"b>: Uses the global value set in Project Settings → Defaults. <br><br> "
-"<b>Top</b>: When the top edge of the slider is at the top of the viewport. "
-"<br><br> <b>Center</b>: When the center of the slider is at the center of "
-"the viewport. <br><br> <b>Bottom</b>: When the bottom edge of the slider is "
-"at the bottom of the viewport."
+"aligned perfectly according to their original position. <br><br> <b>"
+"Inherit</b>: Uses the global value set in Project Settings → Defaults. <br>"
+"<br> <b>Top</b>: When the top edge of the slider is at the top of the "
+"viewport. <br><br> <b>Center</b>: When the center of the slider is at the "
+"center of the viewport. <br><br> <b>Bottom</b>: When the bottom edge of the "
+"slider is at the bottom of the viewport."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:789
@@ -10128,9 +10128,9 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:991
 msgid ""
-"Useful when you want to position layers relative to the bottom. In this "
-"case, set the value of the top position to 100% and enter the distance from "
-"the bottom edge in this field as a negative value in pixels."
+"Useful when you want to position layers relative to the bottom. In this case,"
+" set the value of the top position to 100% and enter the distance from the "
+"bottom edge in this field as a negative value in pixels."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:996
@@ -10330,9 +10330,9 @@ msgstr ""
 msgid ""
 "The length of the scrollable area. Use larger values to keep the slider "
 "visible for longer, and play animations slower in case of a Scroll Scene. "
-"Supported units: <br><br> <b>px:</b> A fixed value specified in pixels. "
-"<br><br> <b>%</b> or <b>sh:</b> Percentage of the slider height. 1sh equals "
-"to 1% of the slider height. This value scales dinamically when the slider’s "
+"Supported units: <br><br> <b>px:</b> A fixed value specified in pixels. <br>"
+"<br> <b>%</b> or <b>sh:</b> Percentage of the slider height. 1sh equals to "
+"1% of the slider height. This value scales dinamically when the slider’s "
 "size changes. <b> <br><br> vh:</b> Percentage of the viewport (browser "
 "window) height. 1vh equals to 1% of the viewport height. This value scales "
 "dinamically when the browser window is resized."
@@ -10341,8 +10341,8 @@ msgstr ""
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:1155
 msgid ""
 "Creates empty space above and below your projects (i.e. margins). Supported "
-"units: <br><br> <b>px:</b> A fixed value specified in pixels. <br><br> <b>%</"
-"b> or <b>sh:</b> Percentage of the slider height. 1sh equals to 1% of the "
+"units: <br><br> <b>px:</b> A fixed value specified in pixels. <br><br> <b>"
+"%</b> or <b>sh:</b> Percentage of the slider height. 1sh equals to 1% of the "
 "slider height. This value scales dinamically when the slider’s size changes. "
 "<b> <br><br> vh:</b> Percentage of the viewport (browser window) height. 1vh "
 "equals to 1% of the viewport height. This value scales dinamically when the "
@@ -10358,13 +10358,13 @@ msgstr ""
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:1163
 msgid ""
 "The minimum distance between the slider and viewport edges when Performance "
-"Mode should activate as described on the right. Supported units: <br><br> "
-"<b>px:</b> A fixed value specified in pixels. <br><br> <b>%</b> or <b>sh:</"
-"b> Percentage of the slider height. 1sh equals to 1% of the slider height. "
-"This value scales dinamically when the slider’s size changes. <b> <br><br> "
-"vh:</b> Percentage of the viewport (browser window) height. 1vh equals to 1% "
-"of the viewport height. This value scales dinamically when the browser "
-"window is resized."
+"Mode should activate as described on the right. Supported units: <br><br> <b>"
+"px:</b> A fixed value specified in pixels. <br><br> <b>%</b> or <b>sh:</b> "
+"Percentage of the slider height. 1sh equals to 1% of the slider height. This "
+"value scales dinamically when the slider’s size changes. <b> <br><br> vh:</b>"
+" Percentage of the viewport (browser window) height. 1vh equals to 1% of the "
+"viewport height. This value scales dinamically when the browser window is "
+"resized."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:1169
@@ -10380,9 +10380,9 @@ msgstr ""
 msgid ""
 "The timeline position to animate to or the amount to play forward/backward. "
 "Supported units: <br><br> <b>%:</b> Percentage of the slide duration. 0% "
-"means the beginning, while 100% means the end of the slide timeline. "
-"<br><br> <b>ms:</b> A specific point or amount of time in milliseconds. A "
-"second is 1000 milliseconds."
+"means the beginning, while 100% means the end of the slide timeline. <br><br>"
+" <b>ms:</b> A specific point or amount of time in milliseconds. A second is "
+"1000 milliseconds."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/templates/tmpl-smart-help.php:1201
@@ -13158,9 +13158,9 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:4929
 msgid ""
-"Animates characters, words, or lines of text as they enter the scene. "
-"<br><br> Options specified here are the initial state of each fragment "
-"before they start animating toward the whole joint text."
+"Animates characters, words, or lines of text as they enter the scene. <br>"
+"<br> Options specified here are the initial state of each fragment before "
+"they start animating toward the whole joint text."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:5199
@@ -13207,9 +13207,9 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:5841
 msgid ""
-"Animates characters, words, or lines of text as they leave the scene. "
-"<br><br> Each fragment animate from the whole joint text toward the options "
-"you set here."
+"Animates characters, words, or lines of text as they leave the scene. <br>"
+"<br> Each fragment animate from the whole joint text toward the options you "
+"set here."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:6166
@@ -13468,8 +13468,8 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:8754
 msgid ""
-"Animates the slide timeline to the specified position or plays it forward/"
-"backward by the given amount."
+"Animates the slide timeline to the specified position or plays it "
+"forward/backward by the given amount."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:8784
@@ -13593,9 +13593,8 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:8959
 msgid ""
-"Calls a JavaScript function by its name. This is intended for web "
-"developers. The function must be present on page prior triggering this "
-"action."
+"Calls a JavaScript function by its name. This is intended for web developers."
+" The function must be present on page prior triggering this action."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/project-editor.php:8963
@@ -14168,8 +14167,8 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/skin-editor.php:112
 msgid ""
-"Modifying a skin with invalid code can break your projects’ appearance."
-"<br>Changes cannot be reverted after saving."
+"Modifying a skin with invalid code can break your projects’ appearance.<br>"
+"Changes cannot be reverted after saving."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/skin-editor.php:128
@@ -14272,11 +14271,11 @@ msgstr ""
 #, php-format
 msgid ""
 "Failed to connect to our update server. This could cause issues with license "
-"registration, serving updates, downloading templates and installable "
-"modules, and displaying certain information like the release log. It’s most "
-"likely a web server configuration issue. Please contact your server host and "
-"ask them to allow external connections to %srepository.kreaturamedia.com%s "
-"domain and have cURL and the necessary components installed."
+"registration, serving updates, downloading templates and installable modules,"
+" and displaying certain information like the release log. It’s most likely a "
+"web server configuration issue. Please contact your server host and ask them "
+"to allow external connections to %srepository.kreaturamedia.com%s domain and "
+"have cURL and the necessary components installed."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/system-status.php:169
@@ -14320,10 +14319,10 @@ msgid ""
 "Using LayerSlider from a non-standard install location or having a different "
 "directory name could lead issues in receiving and installing updates. "
 "Commonly, you see this issue when you’re using a theme-included version of "
-"LayerSlider. To fix this, please first search for an option to disable/"
-"unload the bundled version in your theme, then re-install a fresh copy. Your "
-"projects and settings are stored in the database, re-installing the plugin "
-"will not harm them."
+"LayerSlider. To fix this, please first search for an option to "
+"disable/unload the bundled version in your theme, then re-install a fresh "
+"copy. Your projects and settings are stored in the database, re-installing "
+"the plugin will not harm them."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/system-status.php:226
@@ -14336,9 +14335,9 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/system-status.php:233
 msgid ""
-"LayerSlider uses the uploads directory for image uploads, exporting/"
-"importing projects, and downloading modules. Make sure that your /wp-content/"
-"uploads/ directory exists and has write permission."
+"LayerSlider uses the uploads directory for image uploads, "
+"exporting/importing projects, and downloading modules. Make sure that your "
+"/wp-content/uploads/ directory exists and has write permission."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/system-status.php:258
@@ -14615,9 +14614,9 @@ msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/system-status.php:563
 msgid ""
-"Remove files and folders created by LayerSlider from the <i>/wp-content/"
-"uploads</i> directory. This will not affect your own uploads in the Media "
-"Library."
+"Remove files and folders created by LayerSlider from the <i>/wp-"
+"content/uploads</i> directory. This will not affect your own uploads in the "
+"Media Library."
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/system-status.php:564
@@ -14688,8 +14687,8 @@ msgstr ""
 #: enfold/config-layerslider/LayerSlider/assets/views/transition-builder.php:611
 #, php-format
 msgid ""
-"Before you can save your changes, you need to make your “/wp-content/"
-"uploads” folder writable. See the %sCodex%s"
+"Before you can save your changes, you need to make your “/wp-"
+"content/uploads” folder writable. See the %sCodex%s"
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/views/transition-builder.php:629
@@ -15304,9 +15303,9 @@ msgstr ""
 msgid ""
 "It seems there is a server issue that prevented LayerSlider from performing "
 "license registration. Please check %sSystem Status%s for potential errors, "
-"try to temporarily disable themes/plugins to rule out incompatibility "
-"issues, or contact your hosting provider to resolve server configuration "
-"problems. Your HTTP server thrown the following error: %%s"
+"try to temporarily disable themes/plugins to rule out incompatibility issues,"
+" or contact your hosting provider to resolve server configuration problems. "
+"Your HTTP server thrown the following error: %%s"
 msgstr ""
 
 #: enfold/config-layerslider/LayerSlider/assets/wp/scripts_l10n.php:130
@@ -21472,8 +21471,8 @@ msgstr "Karten-Höhe"
 
 #: enfold/config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:324
 msgid ""
-"You can either define a fixed height in pixel like '300px' or enter a width/"
-"height ratio like 16:9"
+"You can either define a fixed height in pixel like '300px' or enter a "
+"width/height ratio like 16:9"
 msgstr ""
 "Sie definieren eine feste Höhe in Pixel wie \"300px\" oder geben Sie eine "
 "Breite/Höhe-Verhältnis ein wie zB: 16:9"
@@ -21724,8 +21723,8 @@ msgid ""
 "Maps were disabled by the visitor on this site. Click to open the map in a "
 "new window."
 msgstr ""
-"Karten wurden vom Besucher auf dieser Webseite deaktiviert. Klicken Sie "
-"hier, um die Karte in einem neuen Fenster zu öffnen."
+"Karten wurden vom Besucher auf dieser Webseite deaktiviert. Klicken Sie hier,"
+" um die Karte in einem neuen Fenster zu öffnen."
 
 #: enfold/config-templatebuilder/avia-shortcodes/grid_row/cell.php:214
 msgid "Vertical Align"
@@ -22342,8 +22341,8 @@ msgstr "Überschrift Schriftgrößen"
 #: enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:363
 msgid "Select a custom font size for the headline in pixel or viewport width."
 msgstr ""
-"Wählen Sie eine benutzerdefinierte Schriftgröße für die Überschrift in "
-"Pixel- oder Ansichtsfensterbreite."
+"Wählen Sie eine benutzerdefinierte Schriftgröße für die Überschrift in Pixel-"
+" oder Ansichtsfensterbreite."
 
 #: enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:403
 msgid "Autorotation duration"
@@ -22497,8 +22496,8 @@ msgid ""
 "'200'"
 msgstr ""
 "Wie viel Leerraum brauchen Sie? Geben Sie einen Pixelwert ein. Positiver "
-"Wert erhöht den Leerraum, negativer Wert wird es reduzieren. ZB: '50', "
-"'-25', '200'"
+"Wert erhöht den Leerraum, negativer Wert wird es reduzieren. ZB: '50', '-25',"
+" '200'"
 
 #: enfold/config-templatebuilder/avia-shortcodes/hr/hr.php:240
 msgid "none"
@@ -23969,8 +23968,8 @@ msgstr "Copyright-Info"
 #: enfold/config-templatebuilder/avia-shortcodes/image/image.php:229
 msgid "Use the media manager to add/edit the copyright info."
 msgstr ""
-"Verwenden Sie den Medienmanager, um die Copyright-Informationen "
-"hinzuzufügen / zu bearbeiten."
+"Verwenden Sie den Medienmanager, um die Copyright-Informationen hinzuzufügen "
+"/ zu bearbeiten."
 
 #: enfold/config-templatebuilder/avia-shortcodes/image/image.php:236
 msgid "Yes, always display copyright info"
@@ -25343,8 +25342,8 @@ msgstr ""
 
 #: enfold/config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:410
 msgid ""
-"Select if you want to grayscale the map. 0% is unchanged, 100% complete "
-"gray. This feature is not supported by older browsers."
+"Select if you want to grayscale the map. 0% is unchanged, 100% complete gray."
+" This feature is not supported by older browsers."
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:418
@@ -26018,8 +26017,8 @@ msgid ""
 "Should a pagination be displayed to view additional entries? This disables "
 "&quot;Display Tabs for each category&quot;."
 msgstr ""
-"Sollte eine Paginierung angezeigt werden, um zusätzliche Einträge "
-"anzuzeigen? Dies deaktiviert &quot;Tabs für jede Kategorie anzeigen&quot;."
+"Sollte eine Paginierung angezeigt werden, um zusätzliche Einträge anzuzeigen?"
+" Dies deaktiviert &quot;Tabs für jede Kategorie anzeigen&quot;."
 
 #: enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.php:379
 #: enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:552
@@ -26812,9 +26811,9 @@ msgstr "Lebensdauer des Cookies"
 #: enfold/config-templatebuilder/avia-shortcodes/notification/notification.php:233
 #, fuzzy
 #| msgid ""
-#| "How many days until the Cookie expires and the message is displayed "
-#| "again? The Cookie expires automatically if either the title, text or "
-#| "message color is changed."
+#| "How many days until the Cookie expires and the message is displayed again?"
+#| " The Cookie expires automatically if either the title, text or message "
+#| "color is changed."
 msgid ""
 "How many days until the cookie expires and the message is displayed again? "
 "The cookie expires automatically if either the title, text or message color "
@@ -27400,8 +27399,8 @@ msgstr ""
 
 #: enfold/config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:556
 msgid ""
-"Use a default generated link depending on the meta element (if a link "
-"exists), set a custom link or display only as text"
+"Use a default generated link depending on the meta element (if a link exists)"
+", set a custom link or display only as text"
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1054
@@ -29371,8 +29370,8 @@ msgid ""
 "Stretch Video so it covers the whole slideshow (Video must be 16:9 for this "
 "option to work properly)"
 msgstr ""
-"Video strecken, damit es die ganze Diashow (Seitenverhältnis muss 16: 9 "
-"sein) ausfüllt."
+"Video strecken, damit es die ganze Diashow (Seitenverhältnis muss 16: 9 sein)"
+" ausfüllt."
 
 #: enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:764
 #: enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:798
@@ -30831,8 +30830,8 @@ msgstr ""
 
 #: enfold/config-templatebuilder/avia-shortcodes/team/team.php:289
 msgid ""
-"Select the scale behaviour of the team member image in surrounding "
-"container. Scaling keeps aspect ratio of selected image size."
+"Select the scale behaviour of the team member image in surrounding container."
+" Scaling keeps aspect ratio of selected image size."
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-shortcodes/team/team.php:297
@@ -31916,8 +31915,8 @@ msgstr ""
 
 #: enfold/config-templatebuilder/avia-template-builder/config/javascript_strings.php:56
 msgid ""
-"No results found. Please check your input, e.g. spelling of street, "
-"city, ...."
+"No results found. Please check your input, e.g. spelling of street, city, ..."
+"."
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-template-builder/config/javascript_strings.php:57
@@ -32014,8 +32013,8 @@ msgid ""
 "choice and release them"
 msgstr ""
 "Zum Sortieren und Ordnen ziehen Sie die Elemente mit gedrückter Maustaste "
-"einfach auf eine Stelle ihrer Wahl und lassen anschließend die Maustaste "
-"los. "
+"einfach auf eine Stelle ihrer Wahl und lassen anschließend die Maustaste los."
+" "
 
 #: enfold/config-templatebuilder/avia-template-builder/config/meta.php:99
 msgid ""
@@ -32438,10 +32437,10 @@ msgstr ""
 #: enfold/config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:539
 #, php-format
 msgid ""
-"Warning: Characters %s might break ALB backend or frontend. <a "
-"href=\"https://kriesi.at/documentation/enfold/intro-to-layout-builder/#using-"
-"special-characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read "
-"more</a> if you want to use them. You can use valid HTML markup."
+"Warning: Characters %s might break ALB backend or frontend. <a href=\"https:"
+"//kriesi.at/documentation/enfold/intro-to-layout-builder/#using-special-"
+"characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> if "
+"you want to use them. You can use valid HTML markup."
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:642
@@ -33258,8 +33257,8 @@ msgstr ""
 #: enfold/config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1466
 msgid ""
 "Enter the z-index for the curtain reveal of this element. Defaults to 100 if "
-"empty or not a number. Necessary when element is placed inside a column/"
-"section with a curtain reveal or is covered by some other element."
+"empty or not a number. Necessary when element is placed inside a "
+"column/section with a curtain reveal or is covered by some other element."
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1488
@@ -33778,17 +33777,16 @@ msgstr "WooCommerce Sidebar-Filter"
 msgid ""
 "Allow to filter products for this element using the 3 WooCommerce sidebar "
 "filters: Filter Products by Price, Rating, Attribute. These filters are only "
-"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -"
-"&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
-"You may also use a custom widget area for the sidebar."
+"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -&gt;"
+" Products -&gt; General -&gt; Shop Page) or on product category pages. You "
+"may also use a custom widget area for the sidebar."
 msgstr ""
 "Ermöglichen Sie das Filtern von Produkten für dieses Element mithilfe der 3 "
-"WooCommerce-Seitenleistenfilter: Filtern von Produkten nach Preis, "
-"Bewertung, Attribut. Diese Filter werden nur auf der ausgewählten "
-"WooCommerce-Shop-Seite (WooCommerce - -&gt; Einstellungen -&gt; Produkte -"
-"&gt; Allgemeine -&gt; Shop-Seite) oder auf Produktkategorieseiten angezeigt. "
-"Sie können auch einen benutzerdefinierten Widget-Bereich für die "
-"Seitenleiste verwenden."
+"WooCommerce-Seitenleistenfilter: Filtern von Produkten nach Preis, Bewertung,"
+" Attribut. Diese Filter werden nur auf der ausgewählten WooCommerce-Shop-"
+"Seite (WooCommerce - -&gt; Einstellungen -&gt; Produkte -&gt; Allgemeine -"
+"&gt; Shop-Seite) oder auf Produktkategorieseiten angezeigt. Sie können auch "
+"einen benutzerdefinierten Widget-Bereich für die Seitenleiste verwenden."
 
 #: enfold/config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:446
 msgid "Ignore filters"
@@ -35147,8 +35145,8 @@ msgstr ""
 #: enfold/config-templatebuilder/avia-template-builder/php/class-popup-templates.php:934
 msgid ""
 "Select if you want to open the link in a new window and set additional SEO "
-"options (needs to be activated in &quot;Theme Options -> Layout "
-"Builder&quot;)"
+"options (needs to be activated in &quot;Theme Options -> Layout Builder&quot;"
+")"
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-template-builder/php/class-popup-templates.php:466
@@ -35317,9 +35315,9 @@ msgid ""
 "or tablet"
 msgstr ""
 "Sie können einen Link zu einem Video auf youtube oder vimeo eingeben, das "
-"sich in einer lightbox öffnet, wenn der Benutzer auf das Fallbackbild "
-"klickt. Links zu selbst gehosteten Videos werden in einem neuen "
-"Browserfenster auf Ihrem Mobilgerät oder Tablet geöffnet"
+"sich in einer lightbox öffnet, wenn der Benutzer auf das Fallbackbild klickt."
+" Links zu selbst gehosteten Videos werden in einem neuen Browserfenster auf "
+"Ihrem Mobilgerät oder Tablet geöffnet"
 
 #: enfold/config-templatebuilder/avia-template-builder/php/class-popup-templates.php:723
 msgid ""
@@ -36076,8 +36074,8 @@ msgstr ""
 #: enfold/config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2590
 msgid ""
 "Enfold only provides CSS for theme default tags, so it might be necessary to "
-"add a custom CSS class below and adjust the CSS rules for this element and/"
-"or use responsive font size settings if available."
+"add a custom CSS class below and adjust the CSS rules for this element "
+"and/or use responsive font size settings if available."
 msgstr ""
 
 #: enfold/config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2659
@@ -37950,8 +37948,8 @@ msgstr "Update verfügbar!"
 #: enfold/framework/php/auto-updates/auto-updates.php:487
 #, php-format
 msgid ""
-"A new Version (%s) of your %s is available! You are using Version %s. <br/"
-">See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
+"A new Version (%s) of your %s is available! You are using Version %s. <br/>"
+"See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
 "changelog/' target='_blank' rel='noopener noreferrer'>change log</a>. Do you "
 "want to update?<br/><br/>"
 msgstr ""
@@ -38282,7 +38280,7 @@ msgstr "404 Nicht gefunden"
 
 #: enfold/framework/php/class-form-generator.php:257
 msgid "Found errors in the following field(s):"
-msgstr ""
+msgstr "Fehler wurden in folgenden Feld(ern) gefunden:"
 
 #: enfold/framework/php/class-form-generator.php:472
 msgid ""
@@ -38411,9 +38409,9 @@ msgstr ""
 
 #: enfold/framework/php/class-grecaptcha.php:192
 msgid ""
-"This site is protected by reCAPTCHA and the Google <a href=\"https://"
-"policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://"
-"policies.google.com/terms\">Terms of Service</a> apply."
+"This site is protected by reCAPTCHA and the Google <a href=\"https:"
+"//policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https:"
+"//policies.google.com/terms\">Terms of Service</a> apply."
 msgstr ""
 "Diese Webseite ist durch Google reCAPTCHA geschützt. Es gelten die <a "
 "href=\"https://policies.google.com/privacy\">Datenschutzrichtlinie</a> und "
@@ -38501,8 +38499,8 @@ msgstr ""
 
 #: enfold/framework/php/class-grecaptcha.php:333
 msgid ""
-"A network timeout problem occurred. Could be caused by an invalid V3 "
-"sitekey. Please recheck the key and try again."
+"A network timeout problem occurred. Could be caused by an invalid V3 sitekey."
+" Please recheck the key and try again."
 msgstr ""
 
 #: enfold/framework/php/class-grecaptcha.php:614
@@ -40220,8 +40218,8 @@ msgstr ""
 msgid ""
 "To make it easier for you to edit and save the imported content, you may "
 "want to reassign the author of the imported item to an existing user of this "
-"site. For example, you may want to import all the entries as <code>admin</"
-"code>s entries."
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
 msgstr ""
 
 #: enfold/framework/php/wordpress-importer/wordpress-importer.php:272
@@ -40932,10 +40930,10 @@ msgstr "Einzelne Beitragsnavigation"
 
 #: enfold/includes/admin/option_tabs/avia_blog.php:135
 msgid ""
-"Select to disable or enable the post navigation that links to the next/"
-"previous post on single entries (Fullwidth sliders and hierarchical post "
-"type will disable it for that post by default).  Setting is also used for "
-"portfolio. Use filter avf_post_nav_settings to customize."
+"Select to disable or enable the post navigation that links to the "
+"next/previous post on single entries (Fullwidth sliders and hierarchical "
+"post type will disable it for that post by default).  Setting is also used "
+"for portfolio. Use filter avf_post_nav_settings to customize."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_blog.php:142
@@ -41142,8 +41140,8 @@ msgstr "Layout Architekt auch für Administratoren sperren?"
 #: enfold/includes/admin/option_tabs/avia_builder.php:77
 msgid ""
 "This will lock the elements for all administrators including you, to prevent "
-"accidental changing of a page layout. In order to change a page layout "
-"later, you will need to uncheck this option first"
+"accidental changing of a page layout. In order to change a page layout later,"
+" you will need to uncheck this option first"
 msgstr ""
 "Dies sperrt die Elemente für alle Administratoren, einschließlich Sie, um "
 "versehentliches Ändern eines Seitenlayouts zu verhindern. Um ein "
@@ -41201,9 +41199,9 @@ msgstr ""
 msgid ""
 "Select to enable debug output and show ALB shortcodes in a text area below "
 "drag/drop canvas. Only recommended for experienced users and developers who "
-"need to get access to the generated shortcodes and know, what they are "
-"doing. Changes to this field might break the layout editor - so avoid making "
-"any changes there."
+"need to get access to the generated shortcodes and know, what they are doing."
+" Changes to this field might break the layout editor - so avoid making any "
+"changes there."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_builder.php:142
@@ -41528,10 +41526,10 @@ msgstr "Cookie Handhabung"
 
 #: enfold/includes/admin/option_tabs/avia_cookie.php:275
 msgid ""
-"Make sure you comply with the <a target='_blank' href='http://ec.europa.eu/"
-"ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU cookie "
-"law</a> by informing users that your site uses cookies. This can be done "
-"with a small notification bar or modal popup window"
+"Make sure you comply with the <a target='_blank' href='http://ec.europa."
+"eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU "
+"cookie law</a> by informing users that your site uses cookies. This can be "
+"done with a small notification bar or modal popup window"
 msgstr ""
 "Stellen Sie sicher, dass Sie das <a target='_blank' href='http://ec.europa."
 "eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU-"
@@ -42029,8 +42027,8 @@ msgstr ""
 msgid ""
 "Cookies must be in the same domain and you need to specify the name and the "
 "path (case sensitive) that is shown in the developer tools of your browser. "
-"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-cookies/"
-"#additional-custom-cookies\">Additional Custom Cookies</a> on our "
+"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-"
+"cookies/#additional-custom-cookies\">Additional Custom Cookies</a> on our "
 "documentation."
 msgstr ""
 "Cookies müssen sich in derselben Domain befinden und Sie müssen den Namen "
@@ -42052,8 +42050,8 @@ msgstr "[av_privacy_custom_cookie cookie_name=\"\"]"
 
 #: enfold/includes/admin/option_tabs/avia_cookie.php:874
 msgid ""
-"[av_privacy_custom_cookie cookie_name=\"\"]Your text here[/"
-"av_privacy_custom_cookie] "
+"[av_privacy_custom_cookie cookie_name=\"\"]Your text "
+"here[/av_privacy_custom_cookie] "
 msgstr ""
 "[av_privacy_custom_cookie cookie_name = \"\"] Dein Text hier [/ "
 "av_privacy_custom_cookie]"
@@ -42212,16 +42210,16 @@ msgstr ""
 #: enfold/includes/admin/option_tabs/avia_element_templates.php:22
 msgid ""
 "Changes to these custom element templates will be used in the elements based "
-"on these templates. Please check our <a href=\"https://kriesi.at/"
-"documentation/enfold/custom-element-templates/\" target=\"_blank\" "
+"on these templates. Please check our <a href=\"https://kriesi."
+"at/documentation/enfold/custom-element-templates/\" target=\"_blank\" "
 "rel=\"noopener noreferrer\">documentation</a> for more details."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_element_templates.php:23
 msgid ""
-"Advanced Users can have <a href=\"https://kriesi.at/documentation/enfold/"
-"custom-element-templates/#custom-elements-advanced-options\" "
-"target=\"_blank\" rel=\"noopener noreferrer\"> more options.</a>"
+"Advanced Users can have <a href=\"https://kriesi."
+"at/documentation/enfold/custom-element-templates/#custom-elements-advanced-"
+"options\" target=\"_blank\" rel=\"noopener noreferrer\"> more options.</a>"
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_element_templates.php:25
@@ -42702,11 +42700,11 @@ msgstr ""
 #: enfold/includes/admin/option_tabs/avia_google.php:146
 #, php-format
 msgid ""
-"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">API keys</a> for your site. "
-"Also check our <a href=\"%3$s\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">documentation.</a>"
+"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">API keys</a> for your site. Also check our <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">documentation."
+"</a>"
 msgstr ""
 "Informationen zu <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
 "noreferrer\"> Google reCAPTCHA </a>. Sie müssen <a href=\"%2$s\" "
@@ -43590,8 +43588,8 @@ msgstr "Erweiterte Farb- und Stylingoptionen"
 
 #: enfold/includes/admin/option_tabs/avia_menu.php:358
 msgid ""
-"You can edit more and advanced color and styling options for the overlay/"
-"slideout menu items in"
+"You can edit more and advanced color and styling options for the "
+"overlay/slideout menu items in"
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_menu.php:360
@@ -43909,8 +43907,8 @@ msgstr "Entferne query strings"
 
 #: enfold/includes/admin/option_tabs/avia_performance.php:178
 msgid ""
-"Starting with 5.4 you can decide to load your custom fonts from a CDN "
-"server. In this case you must include your own @font-face rules in head."
+"Starting with 5.4 you can decide to load your custom fonts from a CDN server."
+" In this case you must include your own @font-face rules in head."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_performance.php:179
@@ -44180,8 +44178,8 @@ msgid ""
 "problems with plugins. Only use if you know what you are doing ;-)"
 msgstr ""
 "Das Laden von jQuery in Ihre Fußzeile beschleunigt das Rendern der Seite, "
-"kann jedoch Probleme mit Plugins verursachen. Nur verwenden, wenn Sie "
-"wissen, was Sie tun ;-)"
+"kann jedoch Probleme mit Plugins verursachen. Nur verwenden, wenn Sie wissen,"
+" was Sie tun ;-)"
 
 #: enfold/includes/admin/option_tabs/avia_performance.php:426
 #, fuzzy
@@ -44242,8 +44240,8 @@ msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_performance.php:492
 msgid ""
-"Most of the ALB elements and posts should be supporting this feature since "
-"4.8.3. Please report in our support forum if you encounter problems."
+"Most of the ALB elements and posts should be supporting this feature since 4."
+"8.3. Please report in our support forum if you encounter problems."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_performance.php:496
@@ -44297,9 +44295,9 @@ msgid ""
 "We were not able to detect an active image optimization plugin. It is "
 "recommended to use one to speed up your site. Here are a few suggestions:"
 msgstr ""
-"Wir konnten kein aktives Bildoptimierungs-Plugin erkennen. Es wird "
-"empfohlen, eines zu verwenden, um Ihre Site zu beschleunigen. Hier sind ein "
-"paar Vorschläge:"
+"Wir konnten kein aktives Bildoptimierungs-Plugin erkennen. Es wird empfohlen,"
+" eines zu verwenden, um Ihre Site zu beschleunigen. Hier sind ein paar "
+"Vorschläge:"
 
 #: enfold/includes/admin/option_tabs/avia_performance.php:573
 msgid ""
@@ -44350,8 +44348,8 @@ msgstr ""
 msgid ""
 "We were able to detect a caching plugin. Great! Nothing left to do here ;)"
 msgstr ""
-"Wir konnten ein Caching-Plugin erkennen. Großartig! Nichts mehr zu tun "
-"hier ;)"
+"Wir konnten ein Caching-Plugin erkennen. Großartig! Nichts mehr zu tun hier ;"
+")"
 
 #: enfold/includes/admin/option_tabs/avia_performance.php:697
 msgid ""
@@ -45200,14 +45198,13 @@ msgstr "Importieren Sie Einstellungen aus Ihrem übergeordneten Theme"
 #: enfold/includes/admin/option_tabs/avia_upload.php:25
 msgid ""
 "We have detected that you are using a Child Theme. That's Great!. If you "
-"want to, we can import the settings of your Parent theme to your Child "
-"theme. Please be aware that this will overwrite your current child theme "
-"settings."
+"want to, we can import the settings of your Parent theme to your Child theme."
+" Please be aware that this will overwrite your current child theme settings."
 msgstr ""
-"Wir haben festgestellt, dass Sie ein Chil Theme verwenden. Das ist "
-"großartig!. Wenn Sie möchten, können wir die Einstellungen Ihres "
-"übergeordneten Themes auf Ihr Child-Theme importieren. Bitte beachten Sie, "
-"dass dies Ihre aktuellen Child-Theme überschreiben wird."
+"Wir haben festgestellt, dass Sie ein Chil Theme verwenden. Das ist großartig!"
+". Wenn Sie möchten, können wir die Einstellungen Ihres übergeordneten Themes "
+"auf Ihr Child-Theme importieren. Bitte beachten Sie, dass dies Ihre "
+"aktuellen Child-Theme überschreiben wird."
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:35
 msgid ""
@@ -45227,14 +45224,15 @@ msgstr "Wählen Sie die zu importierenden Themenoptionen"
 #: enfold/includes/admin/option_tabs/avia_upload.php:44
 msgid ""
 "Check if you do not want to import all settings from an exported theme "
-"settings file. Please read the <a href=\"https://kriesi.at/documentation/"
-"enfold/backup-theme-settings\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">documentation</a> for more information how to customize import."
+"settings file. Please read the <a href=\"https://kriesi."
+"at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">documentation</a> for more information how to "
+"customize import."
 msgstr ""
 "Überprüfen Sie, ob Sie nicht alle Einstellungen aus einer exportierten "
 "Designeinstellungsdatei importieren möchten. Weitere Informationen zum "
-"Anpassen des Imports finden Sie in der <a href=\"https://kriesi.at/"
-"documentation/enfold/backup-theme-settings\" target=\"_blank\" "
+"Anpassen des Imports finden Sie in der <a href=\"https://kriesi."
+"at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
 "rel=\"noopener noreferrer\"> Dokumentation </a> ."
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:52
@@ -45244,8 +45242,8 @@ msgstr "Behalten Sie schnellen CSS-Inhalt"
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:53
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling -"
-"> Quick CSS&quot;. In case you select single tabs to import below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
+" Quick CSS&quot;. In case you select single tabs to import below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -45301,8 +45299,8 @@ msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:93
 msgid ""
-"Select if you want to block reset of theme options and hide the reset "
-"button. You must select activate button before you can reset theme options."
+"Select if you want to block reset of theme options and hide the reset button."
+" You must select activate button before you can reset theme options."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:99
@@ -45332,8 +45330,8 @@ msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:124
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling -"
-"> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
+" Quick CSS&quot;. In case you select single tabs to reset below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -45447,12 +45445,12 @@ msgstr "Zip-Datei Einfügen"
 #: enfold/includes/admin/option_tabs/avia_upload.php:204
 #, fuzzy
 #| msgid ""
-#| "You can upload your custom Font zip files. Intended for <a href='https://"
-#| "fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google "
+#| "You can upload your custom Font zip files. Intended for <a href='https:"
+#| "//fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google "
 #| "Webkit Fonts</a>."
 msgid ""
-"You can upload your custom Font zip files. Intended for <a href=\"https://"
-"fonts.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google "
+"You can upload your custom Font zip files. Intended for <a href=\"https:"
+"//fonts.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google "
 "Webkit Fonts</a>."
 msgstr ""
 "Sie können Ihre benutzerdefinierten ZIP-Dateien für Schriftarten hochladen. "
@@ -45468,10 +45466,10 @@ msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:206
 msgid ""
-"Please read our <a href=\"https://kriesi.at/documentation/enfold/typography/"
-"#using-variable-fonts\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">documentation</a> how to create the zip files and a fallback "
-"szenario."
+"Please read our <a href=\"https://kriesi."
+"at/documentation/enfold/typography/#using-variable-fonts\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">documentation</a> how to create the zip files "
+"and a fallback szenario."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/avia_upload.php:211
@@ -45545,8 +45543,8 @@ msgstr ""
 
 #: enfold/includes/admin/option_tabs/extensions/avia_ext_accessibility.php:64
 msgid ""
-"THESE PLUGINS DO NOT GUARANTEE TO FULFILL ANY LEGAL RULES FOR "
-"ACCESSIBILITY !!!"
+"THESE PLUGINS DO NOT GUARANTEE TO FULFILL ANY LEGAL RULES FOR ACCESSIBILITY !"
+"!!"
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/extensions/avia_ext_accessibility.php:67
@@ -45655,9 +45653,9 @@ msgstr ""
 
 #: enfold/includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:17
 msgid ""
-"Here you find information about <a href=\"https://wiki.osmfoundation.org/"
-"wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">OpenStreetMap Privacy Policy</a>."
+"Here you find information about <a href=\"https://wiki.osmfoundation."
+"org/wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"OpenStreetMap Privacy Policy</a>."
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:18
@@ -45723,8 +45721,8 @@ msgstr ""
 
 #: enfold/includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:75
 msgid ""
-"Theme default location is:  .../themes/enfold/config-leaflet-maps/assets/"
-"leafletjs"
+"Theme default location is:  .../themes/enfold/config-leaflet-"
+"maps/assets/leafletjs"
 msgstr ""
 
 #: enfold/includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:79
@@ -46624,8 +46622,8 @@ msgstr "Interessante Links"
 #: enfold/includes/admin/register-widget-area.php:108
 msgid "Here are some interesting links for you! Enjoy your stay :)"
 msgstr ""
-"Hier finden Sie ein paar interessante Links! Viel Spaß auf unserer "
-"Webseite :)"
+"Hier finden Sie ein paar interessante Links! Viel Spaß auf unserer Webseite :"
+")"
 
 #: enfold/includes/admin/register-widget-area.php:113
 msgid "Archive"
@@ -46643,8 +46641,8 @@ msgstr ""
 
 #: enfold/includes/class-avia-custom-pages.php:441
 msgid ""
-"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode Enabled</"
-"span>"
+"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode "
+"Enabled</span>"
 msgstr ""
 "<span style = \"color: # ff33ff; Schriftgröße: fett;\"> Wartungsmodus "
 "aktiviert </ span>"
@@ -47082,11 +47080,11 @@ msgstr "Wie wir Cookies verwenden"
 msgid ""
 "We may request cookies to be set on your device. We use cookies to let us "
 "know when you visit our websites, how you interact with us, to enrich your "
-"user experience, and to customize your relationship with our website. "
-"<br><br>Click on the different category headings to find out more. You can "
-"also change some of your preferences. Note that blocking some types of "
-"cookies may impact your experience on our websites and the services we are "
-"able to offer."
+"user experience, and to customize your relationship with our website. <br>"
+"<br>Click on the different category headings to find out more. You can also "
+"change some of your preferences. Note that blocking some types of cookies "
+"may impact your experience on our websites and the services we are able to "
+"offer."
 msgstr ""
 "Wir können Cookies anfordern, die auf Ihrem Gerät eingestellt werden. Wir "
 "verwenden Cookies, um uns mitzuteilen, wenn Sie unsere Webseite besuchen, "
@@ -47462,11 +47460,3 @@ msgstr ""
 #: enfold/js/avia-snippet-cookieconsent.min.js:1
 msgid "reset"
 msgstr ""
-
-#~ msgid "%d px"
-#~ msgstr "%d px"
-
-#, fuzzy
-#~| msgid "Troubleshooting"
-#~ msgid "Troubleshooting:"
-#~ msgstr "Fehlerbehebung:"
