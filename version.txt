@@ -1,3 +1,6 @@
+2024_04_29
+- sync all language files (5.7.1)
+
 2024_04_24
 - added translation for Found errors in the following field(s): to german language files
 - added some fixes and translations for german language files

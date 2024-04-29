@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-17 16:40+0000\n"
-"PO-Revision-Date: 2024-04-03 09:23+0000\n"
+"PO-Revision-Date: 2024-04-29 13:25+0000\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -397,7 +397,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:302
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:280
-#: config-templatebuilder/avia-shortcodes/section/section.php:429
+#: config-templatebuilder/avia-shortcodes/section/section.php:497
 msgid "(Show Styling Page)"
 msgstr ""
 
@@ -435,55 +435,55 @@ msgid ".... possible 3rd party tabs"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:295
-#: config-templatebuilder/avia-shortcodes/section/section.php:598
+#: config-templatebuilder/avia-shortcodes/section/section.php:666
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:739
 msgid "0.1"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:296
-#: config-templatebuilder/avia-shortcodes/section/section.php:599
+#: config-templatebuilder/avia-shortcodes/section/section.php:667
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:740
 msgid "0.2"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:297
-#: config-templatebuilder/avia-shortcodes/section/section.php:600
+#: config-templatebuilder/avia-shortcodes/section/section.php:668
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:741
 msgid "0.3"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:298
-#: config-templatebuilder/avia-shortcodes/section/section.php:601
+#: config-templatebuilder/avia-shortcodes/section/section.php:669
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:742
 msgid "0.4"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:299
-#: config-templatebuilder/avia-shortcodes/section/section.php:602
+#: config-templatebuilder/avia-shortcodes/section/section.php:670
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:743
 msgid "0.5"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:300
-#: config-templatebuilder/avia-shortcodes/section/section.php:603
+#: config-templatebuilder/avia-shortcodes/section/section.php:671
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:744
 msgid "0.6"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:301
-#: config-templatebuilder/avia-shortcodes/section/section.php:604
+#: config-templatebuilder/avia-shortcodes/section/section.php:672
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:745
 msgid "0.7"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:302
-#: config-templatebuilder/avia-shortcodes/section/section.php:605
+#: config-templatebuilder/avia-shortcodes/section/section.php:673
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:746
 msgid "0.8"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:303
-#: config-templatebuilder/avia-shortcodes/section/section.php:606
+#: config-templatebuilder/avia-shortcodes/section/section.php:674
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:747
 msgid "0.9"
 msgstr ""
@@ -534,7 +534,7 @@ msgid "1 Pixel Gap"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:304
-#: config-templatebuilder/avia-shortcodes/section/section.php:607
+#: config-templatebuilder/avia-shortcodes/section/section.php:675
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:748
 msgid "1.0"
 msgstr ""
@@ -1944,7 +1944,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:152
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:106
 #: config-templatebuilder/avia-shortcodes/search/search.php:137
-#: config-templatebuilder/avia-shortcodes/section/section.php:132
+#: config-templatebuilder/avia-shortcodes/section/section.php:206
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:148
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:514
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:156
@@ -2794,7 +2794,7 @@ msgid "Archive for:"
 msgstr "アーカイブ: "
 
 #. Name of the template
-#: framework/php/function-set-avia-frontend.php:1694
+#: template-archives.php:2 framework/php/function-set-avia-frontend.php:1694
 msgid "Archives"
 msgstr "アーカイブ"
 
@@ -2871,25 +2871,25 @@ msgid "at General Layout"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:223
-#: config-templatebuilder/avia-shortcodes/section/section.php:228
+#: config-templatebuilder/avia-shortcodes/section/section.php:302
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:371
 msgid "At least 100&percnt; of browser window height"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:226
-#: config-templatebuilder/avia-shortcodes/section/section.php:231
+#: config-templatebuilder/avia-shortcodes/section/section.php:305
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:374
 msgid "At least 25&percnt; of browser window height"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:225
-#: config-templatebuilder/avia-shortcodes/section/section.php:230
+#: config-templatebuilder/avia-shortcodes/section/section.php:304
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:373
 msgid "At least 50&percnt; of browser window height"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:224
-#: config-templatebuilder/avia-shortcodes/section/section.php:229
+#: config-templatebuilder/avia-shortcodes/section/section.php:303
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:372
 msgid "At least 75&percnt; of browser window height"
 msgstr ""
@@ -3150,12 +3150,12 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:428
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:260
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:325
-#: config-templatebuilder/avia-shortcodes/section/section.php:438
+#: config-templatebuilder/avia-shortcodes/section/section.php:506
 msgid "Background"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:301
-#: config-templatebuilder/avia-shortcodes/section/section.php:497
+#: config-templatebuilder/avia-shortcodes/section/section.php:565
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:420
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:327
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:326
@@ -3168,7 +3168,7 @@ msgstr ""
 msgid "Background can either scroll with the page or be fixed"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:498
+#: config-templatebuilder/avia-shortcodes/section/section.php:566
 msgid ""
 "Background can either scroll with the page, be fixed or scroll with a "
 "parallax motion"
@@ -3204,7 +3204,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:469
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:558
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:507
-#: config-templatebuilder/avia-shortcodes/section/section.php:445
+#: config-templatebuilder/avia-shortcodes/section/section.php:513
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:504
 #: includes/admin/option_tabs/avia_styling.php:186
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:571
@@ -3250,7 +3250,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:698
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1201
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1296
-#: config-templatebuilder/avia-shortcodes/section/section.php:476
+#: config-templatebuilder/avia-shortcodes/section/section.php:544
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:550
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:643
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1120
@@ -3268,7 +3268,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:665
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1223
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1262
-#: config-templatebuilder/avia-shortcodes/section/section.php:446
+#: config-templatebuilder/avia-shortcodes/section/section.php:514
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:505
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:572
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:610
@@ -3291,8 +3291,8 @@ msgstr ""
 msgid "Background Gradient Direction Top Card"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:526
-#: config-templatebuilder/avia-shortcodes/section/section.php:622
+#: config-templatebuilder/avia-shortcodes/section/section.php:594
+#: config-templatebuilder/avia-shortcodes/section/section.php:690
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:350
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:349
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:763
@@ -3332,7 +3332,7 @@ msgstr ""
 msgid "Background information"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:658
+#: config-templatebuilder/avia-shortcodes/section/section.php:726
 msgid "Background Overlay"
 msgstr ""
 
@@ -3340,8 +3340,8 @@ msgstr ""
 msgid "Background Repeat"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:535
-#: config-templatebuilder/avia-shortcodes/section/section.php:571
+#: config-templatebuilder/avia-shortcodes/section/section.php:603
+#: config-templatebuilder/avia-shortcodes/section/section.php:639
 msgid "Background Video"
 msgstr ""
 
@@ -3509,6 +3509,7 @@ msgid "Black"
 msgstr ""
 
 #. Name of the template
+#: template-blank.php:2
 msgid "Blank - No Header, no Footer"
 msgstr ""
 
@@ -3804,7 +3805,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:288
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:772
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1470
-#: config-templatebuilder/avia-shortcodes/section/section.php:347
+#: config-templatebuilder/avia-shortcodes/section/section.php:421
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:727
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1285
 msgid "Borders"
@@ -3882,7 +3883,7 @@ msgid "Bottom left rotation"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:482
-#: config-templatebuilder/avia-shortcodes/section/section.php:393
+#: config-templatebuilder/avia-shortcodes/section/section.php:461
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:63
 msgid "Bottom Margin"
 msgstr ""
@@ -3963,7 +3964,7 @@ msgstr ""
 msgid "Box Shadow"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:338
+#: config-templatebuilder/avia-shortcodes/section/section.php:412
 msgid "Box shadow"
 msgstr ""
 
@@ -4297,12 +4298,12 @@ msgstr ""
 msgid "Button Style"
 msgstr ""
 
-#: functions-enfold.php:2110
+#: functions-enfold.php:2112
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:467
 msgid "Button Style (Bordered)"
 msgstr ""
 
-#: functions-enfold.php:2109
+#: functions-enfold.php:2111
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:466
 msgid "Button Style (Colored)"
 msgstr ""
@@ -4362,7 +4363,7 @@ msgstr ""
 msgid "Buttons"
 msgstr ""
 
-#: includes/loop-author.php:194 includes/loop-index.php:498
+#: includes/loop-author.php:194 includes/loop-index.php:516
 #: includes/loop-search.php:152
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1015
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
@@ -5148,7 +5149,7 @@ msgid ""
 "Autoplayed videos will be muted by default."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:582
+#: config-templatebuilder/avia-shortcodes/section/section.php:650
 msgid ""
 "Check if you want to display a transparent color and/or pattern overlay "
 "above your section background image/video"
@@ -5195,15 +5196,16 @@ msgid ""
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:361
-msgid "Check if you want to hide the excerpt and date in search results"
+msgid "Check if you want to hide the excerpt and date in ajax search results"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:352
-msgid "Check if you want to hide the post type titles in search results"
+msgid "Check if you want to hide the post type titles in ajax search results"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:370
-msgid "Check if you want to hide the preview image or icon in search results"
+msgid ""
+"Check if you want to hide the preview image or icon in ajax search results"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:565
@@ -5266,7 +5268,7 @@ msgid ""
 "Check if you want to reverse the order of items when switching to mobile."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:669
+#: config-templatebuilder/avia-shortcodes/section/section.php:737
 msgid ""
 "Check if you want to show a button at the bottom of the section that takes "
 "the user to the next section by scrolling down"
@@ -5481,11 +5483,11 @@ msgstr ""
 msgid "Checked for all users"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:289
+#: config-templatebuilder/avia-shortcodes/section/section.php:363
 msgid "Choose a border styling for the bottom of your section"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:275
+#: config-templatebuilder/avia-shortcodes/section/section.php:349
 msgid "Choose a border styling for the top of your section"
 msgstr ""
 
@@ -6258,6 +6260,10 @@ msgstr ""
 msgid "Click to show details"
 msgstr ""
 
+#: searchform.php:46
+msgid "Click to start search"
+msgstr ""
+
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:104
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:146
 msgid "Click to view content"
@@ -6284,7 +6290,7 @@ msgstr ""
 msgid "Clone Row"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:787
+#: config-templatebuilder/avia-shortcodes/section/section.php:855
 msgid "Clone Section"
 msgstr ""
 
@@ -6388,7 +6394,7 @@ msgstr ""
 msgid "Color Saturation"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:47
+#: config-templatebuilder/avia-shortcodes/section/section.php:121
 msgid "Color Section"
 msgstr ""
 
@@ -6561,7 +6567,7 @@ msgstr ""
 msgid "Combo Widget"
 msgstr ""
 
-#: includes/loop-author.php:159 includes/loop-index.php:463
+#: includes/loop-author.php:159 includes/loop-index.php:481
 #: includes/loop-search.php:89
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1156
 msgid "Comment"
@@ -6573,7 +6579,7 @@ msgid "Comment Count"
 msgstr ""
 
 #: includes/loop-author.php:158 includes/loop-author.php:160
-#: includes/loop-index.php:462 includes/loop-index.php:464
+#: includes/loop-index.php:480 includes/loop-index.php:482
 #: includes/loop-search.php:88 includes/loop-search.php:90
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:26
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1156
@@ -6590,7 +6596,7 @@ msgstr "コメントはクローズされています。"
 msgid "Comments Count"
 msgstr ""
 
-#: includes/loop-author.php:162 includes/loop-index.php:466
+#: includes/loop-author.php:162 includes/loop-index.php:484
 #: includes/loop-search.php:92
 msgid "Comments Disabled"
 msgstr "コメントが無効です"
@@ -7022,7 +7028,7 @@ msgstr ""
 msgid "Copy to a new draft"
 msgstr ""
 
-#: footer.php:205 functions-enfold.php:2547
+#: footer.php:205 functions-enfold.php:2549
 #: includes/admin/option_tabs/avia_footer.php:157
 #: includes/admin/option_tabs/avia_footer.php:158
 msgid "Copyright"
@@ -7235,7 +7241,7 @@ msgstr ""
 msgid "Creates a pricing list"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:54
+#: config-templatebuilder/avia-shortcodes/section/section.php:128
 msgid "Creates a section with unique background image and colors"
 msgstr ""
 
@@ -7427,7 +7433,7 @@ msgstr ""
 msgid "Custom Alt Attribute Before Image"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:677
+#: config-templatebuilder/avia-shortcodes/section/section.php:745
 msgid "Custom Arrow Color"
 msgstr ""
 
@@ -7451,7 +7457,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:302
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:310
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:387
-#: config-templatebuilder/avia-shortcodes/section/section.php:451
+#: config-templatebuilder/avia-shortcodes/section/section.php:519
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:294
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:293
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:524
@@ -7483,7 +7489,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:770
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:291
-#: config-templatebuilder/avia-shortcodes/section/section.php:485
+#: config-templatebuilder/avia-shortcodes/section/section.php:553
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:317
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:316
 #: includes/admin/option_tabs/avia_styling.php:308
@@ -7791,7 +7797,7 @@ msgid "Custom Map Marker Image Size"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:462
-#: config-templatebuilder/avia-shortcodes/section/section.php:373
+#: config-templatebuilder/avia-shortcodes/section/section.php:441
 msgid "Custom Margins"
 msgstr ""
 
@@ -7812,7 +7818,7 @@ msgstr ""
 msgid "Custom Padding"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:640
+#: config-templatebuilder/avia-shortcodes/section/section.php:708
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:781
 msgid "Custom Pattern"
 msgstr ""
@@ -7904,7 +7910,7 @@ msgid "Custom Title Font Color"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:475
-#: config-templatebuilder/avia-shortcodes/section/section.php:385
+#: config-templatebuilder/avia-shortcodes/section/section.php:453
 msgid "Custom Top And Bottom Margin"
 msgstr ""
 
@@ -8213,7 +8219,7 @@ msgstr ""
 msgid "Default inline style"
 msgstr ""
 
-#: functions-enfold.php:2642 functions-enfold.php:2652
+#: functions-enfold.php:2644 functions-enfold.php:2654
 #: config-templatebuilder/avia-template-builder/config/meta.php:252
 #: config-templatebuilder/avia-template-builder/config/meta.php:284
 #: config-templatebuilder/avia-template-builder/config/meta.php:349
@@ -8233,7 +8239,7 @@ msgstr ""
 msgid "Default Order"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:366
+#: config-templatebuilder/avia-shortcodes/section/section.php:66
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:366
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:380
 msgid "Default Padding"
@@ -8263,7 +8269,7 @@ msgstr ""
 msgid "Default Size"
 msgstr ""
 
-#: functions-enfold.php:2108
+#: functions-enfold.php:2110
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:203
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:465
 msgid "Default Style"
@@ -8317,20 +8323,20 @@ msgid ""
 "windows height"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:240
+#: config-templatebuilder/avia-shortcodes/section/section.php:314
 msgid ""
 "Define a minimum height for the section in &percnt; based on the browser "
 "windows height or width. Width is currently ignored for slideshows and "
 "videos."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:215
+#: config-templatebuilder/avia-shortcodes/section/section.php:289
 msgid ""
 "Define a minimum height for the section. Content within the section will be "
 "centered vertically within the section."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:251
+#: config-templatebuilder/avia-shortcodes/section/section.php:325
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:392
 msgid "Define a minimum height for the section. Use a pixel value. eg: 500px"
 msgstr ""
@@ -8466,7 +8472,7 @@ msgstr ""
 msgid "Define the same date format as used in date picker"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:359
+#: config-templatebuilder/avia-shortcodes/section/section.php:433
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:373
 msgid "Define the sections top and bottom padding"
 msgstr ""
@@ -8553,7 +8559,7 @@ msgstr ""
 msgid "Delete Row"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:778
+#: config-templatebuilder/avia-shortcodes/section/section.php:846
 msgid "Delete Section"
 msgstr ""
 
@@ -8765,19 +8771,19 @@ msgstr ""
 msgid "devices"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:328
+#: config-templatebuilder/avia-shortcodes/section/section.php:402
 msgid "Diagonal Border Box Style"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:302
+#: config-templatebuilder/avia-shortcodes/section/section.php:376
 msgid "Diagonal Border: Color"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:313
+#: config-templatebuilder/avia-shortcodes/section/section.php:387
 msgid "Diagonal Border: Direction"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:297
+#: config-templatebuilder/avia-shortcodes/section/section.php:371
 msgid "Diagonal section border"
 msgstr ""
 
@@ -9069,7 +9075,7 @@ msgid ""
 "be ignored)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:668
+#: config-templatebuilder/avia-shortcodes/section/section.php:736
 msgid "Display A Scroll Down Arrow"
 msgstr ""
 
@@ -9087,7 +9093,7 @@ msgid ""
 "Display a sidebar navigation for all nested subpages of a page automatically?"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:281
+#: config-templatebuilder/avia-shortcodes/section/section.php:355
 msgid "Display a simple 1px top border"
 msgstr ""
 
@@ -9111,12 +9117,12 @@ msgstr ""
 msgid "Display a Slideshow of Product Entries"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:296
+#: config-templatebuilder/avia-shortcodes/section/section.php:370
 msgid "Display a small arrow that points down to the next section"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:210
-#: config-templatebuilder/avia-shortcodes/section/section.php:282
+#: config-templatebuilder/avia-shortcodes/section/section.php:356
 msgid "Display a small styling shadow at the top of the section"
 msgstr ""
 
@@ -9398,13 +9404,13 @@ msgstr ""
 msgid "Display only on active slides"
 msgstr ""
 
-#: functions-enfold.php:2654
+#: functions-enfold.php:2656
 #: config-templatebuilder/avia-template-builder/config/meta.php:286
 #: includes/admin/option_tabs/avia_footer.php:29
 msgid "Display only the footer widgets (no socket)"
 msgstr ""
 
-#: functions-enfold.php:2655
+#: functions-enfold.php:2657
 #: config-templatebuilder/avia-template-builder/config/meta.php:287
 #: includes/admin/option_tabs/avia_footer.php:30
 msgid "Display only the socket (no footer widgets)"
@@ -9548,11 +9554,11 @@ msgstr ""
 msgid "Display the first entry beside the others"
 msgstr ""
 
-#: functions-enfold.php:2640
+#: functions-enfold.php:2642
 msgid "Display the footer page?"
 msgstr ""
 
-#: functions-enfold.php:2653
+#: functions-enfold.php:2655
 #: config-templatebuilder/avia-template-builder/config/meta.php:285
 #: includes/admin/option_tabs/avia_footer.php:28
 msgid "Display the footer widgets & socket"
@@ -9562,7 +9568,7 @@ msgstr ""
 msgid "Display the footer widgets or page?"
 msgstr ""
 
-#: functions-enfold.php:2650
+#: functions-enfold.php:2652
 msgid "Display the footer widgets?"
 msgstr ""
 
@@ -9979,13 +9985,13 @@ msgstr ""
 msgid "Don't display Captcha"
 msgstr ""
 
-#: functions-enfold.php:2656
+#: functions-enfold.php:2658
 #: config-templatebuilder/avia-template-builder/config/meta.php:288
 #: includes/admin/option_tabs/avia_footer.php:31
 msgid "Don't display the socket & footer widgets"
 msgstr ""
 
-#: functions-enfold.php:2645
+#: functions-enfold.php:2647
 msgid "Don't display the socket & page"
 msgstr ""
 
@@ -10152,7 +10158,7 @@ msgid ""
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:1847
-#: config-templatebuilder/avia-shortcodes/section/section.php:1272
+#: config-templatebuilder/avia-shortcodes/section/section.php:1340
 msgid "Dummy Content to demonstrate &quot;Bring To Front&quot; option"
 msgstr ""
 
@@ -10416,7 +10422,7 @@ msgstr ""
 msgid "Edit Row"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:783
+#: config-templatebuilder/avia-shortcodes/section/section.php:851
 msgid "Edit Section"
 msgstr ""
 
@@ -10563,7 +10569,7 @@ msgid ""
 "Leave empty if you don't want to use a background image."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:486
+#: config-templatebuilder/avia-shortcodes/section/section.php:554
 msgid ""
 "Either upload a new, or choose an existing image from your media library. "
 "Leave empty if you want to use the background image of the color scheme "
@@ -10787,7 +10793,7 @@ msgstr ""
 msgid "Enable lazy loading"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:581
+#: config-templatebuilder/avia-shortcodes/section/section.php:649
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:722
 msgid "Enable Overlay?"
 msgstr ""
@@ -11146,6 +11152,12 @@ msgstr ""
 msgid ""
 "Enter any number of options that the visitor can choose from. Separate these "
 "Options with a comma."
+msgstr ""
+
+#: searchform.php:50
+msgid ""
+"Enter at least 3 characters to show search results in a dropdown or click to "
+"route to search result page to show all results"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:269
@@ -12042,7 +12054,7 @@ msgstr ""
 msgid "favicon"
 msgstr ""
 
-#: functions-enfold.php:2047
+#: functions-enfold.php:2049
 msgid "Featured Image"
 msgstr ""
 
@@ -12159,7 +12171,7 @@ msgstr ""
 msgid "Filter Icons By Font Family And/Or Name/Charactercode:"
 msgstr ""
 
-#: functions-enfold.php:918
+#: functions-enfold.php:920
 msgid "Filter name has changed"
 msgstr ""
 
@@ -12203,7 +12215,7 @@ msgstr ""
 msgid "Fix WP bug, disable unique timestamps"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:506
+#: config-templatebuilder/avia-shortcodes/section/section.php:574
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:428
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:335
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:334
@@ -12608,7 +12620,7 @@ msgstr ""
 msgid "Fonts"
 msgstr ""
 
-#: functions-enfold.php:2642 functions-enfold.php:2652
+#: functions-enfold.php:2644 functions-enfold.php:2654
 #: includes/admin/register-admin-options.php:111
 #: config-templatebuilder/avia-template-builder/config/meta.php:284
 #: config-templatebuilder/avia-template-builder/config/meta.php:290
@@ -14100,7 +14112,7 @@ msgstr ""
 msgid "Hide on screens smaller than 767px"
 msgstr ""
 
-#: functions-enfold.php:2055
+#: functions-enfold.php:2057
 msgid "Hide on single entry"
 msgstr ""
 
@@ -14153,7 +14165,7 @@ msgstr ""
 msgid "Hide Video Controls"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:557
+#: config-templatebuilder/avia-shortcodes/section/section.php:625
 msgid "Hide Video On Mobile Devices?"
 msgstr ""
 
@@ -14470,7 +14482,7 @@ msgstr ""
 msgid "Huge Padding (130px 130px)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:368
+#: config-templatebuilder/avia-shortcodes/section/section.php:68
 msgid "Huge Padding (130px)"
 msgstr ""
 
@@ -14712,7 +14724,7 @@ msgid "If checked all entries that got a feature image will show it"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:463
-#: config-templatebuilder/avia-shortcodes/section/section.php:374
+#: config-templatebuilder/avia-shortcodes/section/section.php:442
 msgid ""
 "If checked allows you to set a custom top and bottom margin. Otherwise the "
 "margin is calculated by the theme based on surrounding elements"
@@ -14801,7 +14813,7 @@ msgid ""
 "smaller screens, like tablets or mobile phones"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:548
+#: config-templatebuilder/avia-shortcodes/section/section.php:616
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:678
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:776
 msgid "If left empty 16:9 will be used"
@@ -15461,7 +15473,7 @@ msgstr ""
 msgid "Importing..."
 msgstr ""
 
-#: includes/loop-author.php:176 includes/loop-index.php:480
+#: includes/loop-author.php:176 includes/loop-index.php:498
 #: includes/loop-search.php:134
 msgid "in"
 msgstr "カテゴリ: "
@@ -15491,7 +15503,7 @@ msgstr ""
 msgid "In case you need additional image sizes you can use a plugin like"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:548
+#: config-templatebuilder/avia-shortcodes/section/section.php:616
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:678
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:776
 msgid ""
@@ -15710,8 +15722,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:247
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:197
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:692
-#: config-templatebuilder/avia-shortcodes/section/section.php:490
-#: config-templatebuilder/avia-shortcodes/section/section.php:647
+#: config-templatebuilder/avia-shortcodes/section/section.php:558
+#: config-templatebuilder/avia-shortcodes/section/section.php:715
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:402
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:202
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:322
@@ -15767,7 +15779,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image/image.php:220
 #: config-templatebuilder/avia-shortcodes/image/image.php:510
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:196
-#: config-templatebuilder/avia-shortcodes/section/section.php:489
+#: config-templatebuilder/avia-shortcodes/section/section.php:557
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:401
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:201
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:321
@@ -15800,7 +15812,7 @@ msgstr ""
 msgid "Insert Marker Image"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:646
+#: config-templatebuilder/avia-shortcodes/section/section.php:714
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:787
 msgid "Insert Pattern"
 msgstr ""
@@ -16185,7 +16197,7 @@ msgstr ""
 msgid "Large Padding (70px 70px)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:367
+#: config-templatebuilder/avia-shortcodes/section/section.php:67
 msgid "Large Padding (70px)"
 msgstr ""
 
@@ -16278,6 +16290,7 @@ msgid "Latitude:"
 msgstr ""
 
 #. Name of the template
+#: config-layerslider/LayerSlider/assets/views/template-blank.php:2
 msgid "LayerSlider Blank Template"
 msgstr ""
 
@@ -16308,7 +16321,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:409
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:438
 #: config-templatebuilder/avia-shortcodes/search/search.php:97
-#: config-templatebuilder/avia-shortcodes/section/section.php:83
+#: config-templatebuilder/avia-shortcodes/section/section.php:157
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:180
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:168
 #: config-templatebuilder/avia-template-builder/config/meta.php:49
@@ -16346,7 +16359,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:986
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:1009
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:52
-#: config-templatebuilder/avia-shortcodes/section/section.php:49
+#: config-templatebuilder/avia-shortcodes/section/section.php:123
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:120
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:46
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:111
@@ -17311,7 +17324,7 @@ msgstr ""
 msgid "Margin And Padding"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:402
+#: config-templatebuilder/avia-shortcodes/section/section.php:470
 msgid "Margin and Padding"
 msgstr ""
 
@@ -17563,7 +17576,7 @@ msgstr ""
 msgid "Menu Position"
 msgstr ""
 
-#: functions-enfold.php:2106
+#: functions-enfold.php:2108
 msgid "Menu Style"
 msgstr ""
 
@@ -17698,7 +17711,7 @@ msgstr ""
 msgid "Milestone Title"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:337
+#: config-templatebuilder/avia-shortcodes/section/section.php:411
 #: config-templatebuilder/avia-shortcodes/table/table.php:244
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:376
 msgid "Minimal"
@@ -17759,19 +17772,19 @@ msgid "Minimum Column Height"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:227
-#: config-templatebuilder/avia-shortcodes/section/section.php:233
+#: config-templatebuilder/avia-shortcodes/section/section.php:307
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:375
 msgid "Minimum custom height in &percnt; based on browser windows height"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:234
+#: config-templatebuilder/avia-shortcodes/section/section.php:308
 msgid ""
 "Minimum Custom height in &percnt; based on browser windows width (= "
 "responsive section)"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:228
-#: config-templatebuilder/avia-shortcodes/section/section.php:232
+#: config-templatebuilder/avia-shortcodes/section/section.php:306
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:376
 msgid "Minimum custom height in pixel"
 msgstr ""
@@ -17972,7 +17985,7 @@ msgstr ""
 msgid "Most elements open a popup window if you click them"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:558
+#: config-templatebuilder/avia-shortcodes/section/section.php:626
 msgid ""
 "Most mobile devices can't autoplay videos to prevent bandwidth problems for "
 "the user"
@@ -18350,7 +18363,7 @@ msgstr ""
 msgid "No autoplay (controls needed or on hover)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:634
+#: config-templatebuilder/avia-shortcodes/section/section.php:702
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:775
 #: includes/admin/option_tabs/avia_styling.php:295
 #: includes/admin/option_tabs/avia_styling.php:437
@@ -18366,8 +18379,8 @@ msgstr ""
 msgid "No Border"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:283
-#: config-templatebuilder/avia-shortcodes/section/section.php:295
+#: config-templatebuilder/avia-shortcodes/section/section.php:357
+#: config-templatebuilder/avia-shortcodes/section/section.php:369
 msgid "No border styling"
 msgstr ""
 
@@ -18533,7 +18546,7 @@ msgstr ""
 msgid "No markup needed"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:227
+#: config-templatebuilder/avia-shortcodes/section/section.php:301
 msgid "No minimum height, use content within section to define section height"
 msgstr ""
 
@@ -18557,7 +18570,7 @@ msgstr ""
 msgid "No Padding"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:364
+#: config-templatebuilder/avia-shortcodes/section/section.php:64
 msgid "No Padding (0px)"
 msgstr ""
 
@@ -18877,7 +18890,7 @@ msgid ""
 msgstr ""
 
 #: includes/error404.php:5 includes/loop-author.php:255
-#: includes/loop-index.php:635 includes/loop-page.php:90
+#: includes/loop-index.php:653 includes/loop-page.php:90
 #: includes/loop-portfolio-single.php:83 includes/loop-search.php:218
 msgid "Nothing Found"
 msgstr "何も見つかりませんでした"
@@ -19511,12 +19524,12 @@ msgstr ""
 
 #: includes/admin/register-backend-advanced-styles.php:491
 #: includes/admin/register-backend-advanced-styles.php:527
-#: config-templatebuilder/avia-shortcodes/section/section.php:612
+#: config-templatebuilder/avia-shortcodes/section/section.php:680
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:753
 msgid "Overlay Color"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:590
+#: config-templatebuilder/avia-shortcodes/section/section.php:658
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:731
 #: includes/admin/option_tabs/avia_shop.php:126
 msgid "Overlay Opacity"
@@ -19662,7 +19675,7 @@ msgid ""
 "change it."
 msgstr ""
 
-#: template-builder.php:108 includes/loop-index.php:577
+#: template-builder.php:108 includes/loop-index.php:595
 #: includes/loop-portfolio-single.php:40
 msgid "Pages:"
 msgstr ""
@@ -19690,7 +19703,7 @@ msgstr ""
 msgid "Paragraph"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:507
+#: config-templatebuilder/avia-shortcodes/section/section.php:575
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:436
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:666
 msgid "Parallax"
@@ -19789,7 +19802,7 @@ msgstr ""
 msgid "Permanent Line Break"
 msgstr ""
 
-#: functions-enfold.php:653 template-archives.php:78
+#: functions-enfold.php:655 template-archives.php:78
 #: includes/helper-post-format.php:83
 msgid "Permanent Link:"
 msgstr ""
@@ -20724,7 +20737,7 @@ msgid "Read More"
 msgstr ""
 
 #: includes/loop-index.php:133 includes/loop-index.php:134
-#: includes/loop-index.php:547 includes/loop-index.php:563
+#: includes/loop-index.php:565 includes/loop-index.php:581
 #: includes/loop-page.php:34 includes/loop-portfolio-single.php:34
 #: framework/php/function-set-avia-frontend.php:1726
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:876
@@ -21122,7 +21135,7 @@ msgstr ""
 msgid "Retro flip clock bouncing"
 msgstr ""
 
-#: functions-enfold.php:788
+#: functions-enfold.php:790
 msgid "Return values handling has changed"
 msgstr ""
 
@@ -21443,7 +21456,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:1039
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:480
-#: config-templatebuilder/avia-shortcodes/section/section.php:786
+#: config-templatebuilder/avia-shortcodes/section/section.php:854
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:653
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:570
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2080
@@ -21535,7 +21548,7 @@ msgid "Screenwidth for burger menu button"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:308
-#: config-templatebuilder/avia-shortcodes/section/section.php:505
+#: config-templatebuilder/avia-shortcodes/section/section.php:573
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:438
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:427
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:334
@@ -21545,7 +21558,7 @@ msgstr ""
 msgid "Scroll"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:691
+#: config-templatebuilder/avia-shortcodes/section/section.php:759
 msgid "Scroll Down Arrow"
 msgstr ""
 
@@ -21565,7 +21578,7 @@ msgstr ""
 msgid "Scroll with page (default)"
 msgstr ""
 
-#: functions-enfold.php:176 functions-enfold.php:181 searchform.php:9
+#: functions-enfold.php:176 functions-enfold.php:181 searchform.php:17
 #: config-templatebuilder/avia-shortcodes/search/search.php:33
 msgid "Search"
 msgstr ""
@@ -21692,43 +21705,43 @@ msgstr ""
 msgid "Secret Key Version 3"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:288
+#: config-templatebuilder/avia-shortcodes/section/section.php:362
 msgid "Section Bottom Border Styling"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:306
-#: config-templatebuilder/avia-shortcodes/section/section.php:427
+#: config-templatebuilder/avia-shortcodes/section/section.php:495
 msgid "Section Colors"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:802
+#: config-templatebuilder/avia-shortcodes/section/section.php:870
 msgid "Section content hidden. Click here to show it"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:265
+#: config-templatebuilder/avia-shortcodes/section/section.php:339
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:404
 msgid "Section Height"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:239
+#: config-templatebuilder/avia-shortcodes/section/section.php:313
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:381
 msgid "Section Minimum Custom Height In &percnt;"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:250
+#: config-templatebuilder/avia-shortcodes/section/section.php:324
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:391
 msgid "Section Minimum Custom Height In px"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:220
+#: config-templatebuilder/avia-shortcodes/section/section.php:294
 msgid "Section Minimum Height"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:357
+#: config-templatebuilder/avia-shortcodes/section/section.php:431
 msgid "Section Padding"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:274
+#: config-templatebuilder/avia-shortcodes/section/section.php:348
 msgid "Section Top Border Styling"
 msgstr ""
 
@@ -21888,7 +21901,7 @@ msgstr ""
 msgid "Select a css position for the element."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:678
+#: config-templatebuilder/avia-shortcodes/section/section.php:746
 msgid ""
 "Select a custom arrow color. Leave empty if you want to use the default "
 "arrow color and style"
@@ -21925,7 +21938,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:751
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:273
-#: config-templatebuilder/avia-shortcodes/section/section.php:452
+#: config-templatebuilder/avia-shortcodes/section/section.php:520
 msgid ""
 "Select a custom background color for this cell here. Leave empty for default "
 "color"
@@ -21975,7 +21988,7 @@ msgstr ""
 msgid "Select a custom background color for your Player here"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:303
+#: config-templatebuilder/avia-shortcodes/section/section.php:377
 msgid "Select a custom background color for your Section border here."
 msgstr ""
 
@@ -22193,7 +22206,7 @@ msgid ""
 "use default."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:613
+#: config-templatebuilder/avia-shortcodes/section/section.php:681
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:754
 msgid ""
 "Select a custom color for your overlay here. Leave empty if you want no "
@@ -22826,7 +22839,7 @@ msgstr ""
 msgid "Select an element to customize"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:623
+#: config-templatebuilder/avia-shortcodes/section/section.php:691
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:764
 msgid "Select an existing or upload a new background image."
 msgstr ""
@@ -23333,7 +23346,7 @@ msgstr ""
 msgid "Select predefined colors or use custom colors for flip animations"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:629
+#: config-templatebuilder/avia-shortcodes/section/section.php:697
 msgid "Select predefined pattern"
 msgstr ""
 
@@ -23763,7 +23776,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:738
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:261
-#: config-templatebuilder/avia-shortcodes/section/section.php:439
+#: config-templatebuilder/avia-shortcodes/section/section.php:507
 msgid "Select the type of background for the column."
 msgstr ""
 
@@ -23913,15 +23926,15 @@ msgid ""
 "now? Can be used e.g. to create archives."
 msgstr ""
 
-#: functions-enfold.php:2041
+#: functions-enfold.php:2043
 msgid "Select to display featured image for a single entry."
 msgstr ""
 
-#: functions-enfold.php:2038
+#: functions-enfold.php:2040
 msgid "Select to display featured image for a single portfolio entry."
 msgstr ""
 
-#: functions-enfold.php:2035
+#: functions-enfold.php:2037
 msgid "Select to display featured image for a single post entry."
 msgstr ""
 
@@ -24509,7 +24522,7 @@ msgid ""
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:476
-#: config-templatebuilder/avia-shortcodes/section/section.php:386
+#: config-templatebuilder/avia-shortcodes/section/section.php:454
 msgid "Set a responsive top and bottom margin"
 msgstr ""
 
@@ -24584,7 +24597,7 @@ msgstr ""
 msgid "Set the column count for this element, based on the device screensize."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:314
+#: config-templatebuilder/avia-shortcodes/section/section.php:388
 msgid "Set the direction of the diagonal border"
 msgstr ""
 
@@ -24668,7 +24681,7 @@ msgid "Set the number of the milestones visible at a time"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:288
-#: config-templatebuilder/avia-shortcodes/section/section.php:591
+#: config-templatebuilder/avia-shortcodes/section/section.php:659
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:732
 msgid "Set the opacity of your overlay: 0.1 is barely visible, 1.0 is opaque "
 msgstr ""
@@ -24781,7 +24794,7 @@ msgid ""
 "clicked"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:329
+#: config-templatebuilder/avia-shortcodes/section/section.php:403
 msgid "Set the style shadow of the border"
 msgstr ""
 
@@ -25285,7 +25298,7 @@ msgstr ""
 msgid "Show on right bottom of image"
 msgstr ""
 
-#: functions-enfold.php:2054
+#: functions-enfold.php:2056
 msgid "Show on single entry"
 msgstr ""
 
@@ -25411,7 +25424,7 @@ msgid "Show tracknumbers"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:473
-#: config-templatebuilder/avia-shortcodes/section/section.php:779
+#: config-templatebuilder/avia-shortcodes/section/section.php:847
 msgid "Show/Hide Section"
 msgstr ""
 
@@ -25688,11 +25701,11 @@ msgstr ""
 msgid "Skype Profile Link"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:322
+#: config-templatebuilder/avia-shortcodes/section/section.php:396
 msgid "Slanting from left to right"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:323
+#: config-templatebuilder/avia-shortcodes/section/section.php:397
 msgid "Slanting from right to left"
 msgstr ""
 
@@ -25997,7 +26010,7 @@ msgstr ""
 msgid "Small Padding (20px 20px)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:365
+#: config-templatebuilder/avia-shortcodes/section/section.php:65
 msgid "Small Padding (20px)"
 msgstr ""
 
@@ -26196,7 +26209,7 @@ msgid ""
 msgstr ""
 
 #: functions-enfold.php:361 includes/loop-author.php:258
-#: includes/loop-index.php:639
+#: includes/loop-index.php:657
 msgid "Sorry, no posts matched your criteria"
 msgstr ""
 
@@ -26617,7 +26630,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:393
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:85
 #: config-templatebuilder/avia-shortcodes/search/search.php:113
-#: config-templatebuilder/avia-shortcodes/section/section.php:107
+#: config-templatebuilder/avia-shortcodes/section/section.php:181
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:125
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:491
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:134
@@ -26929,7 +26942,7 @@ msgstr ""
 msgid "Tags"
 msgstr "タグ"
 
-#: includes/loop-index.php:526 includes/loop-index.php:591
+#: includes/loop-index.php:544 includes/loop-index.php:609
 #: includes/loop-portfolio-single.php:50
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1477
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1183
@@ -27502,7 +27515,7 @@ msgid "The secret parameter is missing."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:300
-#: config-templatebuilder/avia-shortcodes/section/section.php:428
+#: config-templatebuilder/avia-shortcodes/section/section.php:496
 msgid ""
 "The section will use the color scheme you select. Color schemes are defined "
 "on your styling page"
@@ -28547,7 +28560,7 @@ msgid "Top Left Corner"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:481
-#: config-templatebuilder/avia-shortcodes/section/section.php:392
+#: config-templatebuilder/avia-shortcodes/section/section.php:460
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:61
 msgid "Top Margin"
 msgstr ""
@@ -29045,7 +29058,7 @@ msgstr ""
 msgid "Upload custom icon"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:635
+#: config-templatebuilder/avia-shortcodes/section/section.php:703
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:776
 #: includes/admin/option_tabs/avia_styling.php:296
 #: includes/admin/option_tabs/avia_styling.php:438
@@ -29066,7 +29079,7 @@ msgstr ""
 msgid "Upload Theme Settings File"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:641
+#: config-templatebuilder/avia-shortcodes/section/section.php:709
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:782
 msgid "Upload your own seamless pattern"
 msgstr ""
@@ -29654,11 +29667,11 @@ msgstr ""
 msgid "Use portrait mode screen width"
 msgstr ""
 
-#: functions-enfold.php:2644
+#: functions-enfold.php:2646
 msgid "Use selected page to display as footer (no socket)"
 msgstr ""
 
-#: functions-enfold.php:2643
+#: functions-enfold.php:2645
 msgid "Use selected page to display as footer and socket"
 msgstr ""
 
@@ -29937,7 +29950,7 @@ msgstr ""
 msgid "Video"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:547
+#: config-templatebuilder/avia-shortcodes/section/section.php:615
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:677
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:775
 msgid "Video Aspect Ratio"
@@ -30018,6 +30031,11 @@ msgstr ""
 
 #: includes/admin/register-portfolio.php:18
 msgid "View Portfolio Entry"
+msgstr ""
+
+#: functions-enfold.php:491
+#: config-templatebuilder/avia-shortcodes/search/search.php:1059
+msgid "View results on search page"
 msgstr ""
 
 #: framework/php/class-media.php:418
@@ -30469,7 +30487,7 @@ msgstr ""
 msgid "When to start the highlight pattern. Any number."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:216
+#: config-templatebuilder/avia-shortcodes/section/section.php:290
 msgid ""
 "When using &quot;Responsive Section&quot; and background image use aspect "
 "ratio of the image for &quot;Minimum Height&quot; (e.g. 1200 * 200 = 16%)."
@@ -30804,7 +30822,7 @@ msgstr ""
 msgid "WordPress will convert the html tags to readable text."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:537
+#: config-templatebuilder/avia-shortcodes/section/section.php:605
 msgid "Working examples Youtube & Vimeo:"
 msgstr ""
 
@@ -31116,7 +31134,7 @@ msgid ""
 "image."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:536
+#: config-templatebuilder/avia-shortcodes/section/section.php:604
 msgid ""
 "You can also place a video as background for your section. Enter the URL to "
 "the Video. Currently supported are Youtube, Vimeo and direct linking of web-"
@@ -31183,7 +31201,7 @@ msgid ""
 "You can choose to display a parallax banner with description on the shop page"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:558
+#: config-templatebuilder/avia-shortcodes/section/section.php:626
 msgid ""
 "You can choose to hide the video entirely on Mobile devices and instead "
 "display the Section Background image"
