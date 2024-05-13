@@ -1,3 +1,5 @@
+2024_05_16
+- Dutch language files nl_NL (version 5.7.1 provided by EZWebdesign - Roger Hoen )
 
 2024_05_02
 - Croatian language files hr (version 5.7, provided by NUIT d.o.o. - info@nuit.hr )
