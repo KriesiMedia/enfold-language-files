@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2024-04-29 13:25+0000\n"
+"PO-Revision-Date: 2024-05-09 08:10+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.7; wp-6.4.2\n"
+"X-Loco-Version: 2.6.8; wp-6.4.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:703
@@ -5630,27 +5630,26 @@ msgstr ""
 "video's)"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:361
-#, fuzzy
 #| msgid "Check if you want to hide the excerpt and date in search results"
 msgid "Check if you want to hide the excerpt and date in ajax search results"
-msgstr "Vink aan om de samenvatting en datum te verbergen in zoekresultaten"
+msgstr ""
+"Vink aan om de samenvatting en datum te verbergen in ajax zoekresultaten"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:352
-#, fuzzy
 #| msgid "Check if you want to hide the post type titles in search results"
 msgid "Check if you want to hide the post type titles in ajax search results"
 msgstr ""
-"Controleer of u de titels van berichttypes wilt verbergen in zoekresultaten "
+"Controleer of u de titels van berichttypes wilt verbergen in ajax "
+"zoekresultaten "
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:370
-#, fuzzy
 #| msgid ""
 #| "Check if you want to hide the preview image or icon in search results"
 msgid ""
 "Check if you want to hide the preview image or icon in ajax search results"
 msgstr ""
-"Controleer of u de voorbeeldafbeelding of het icoon in de zoekresultaten "
-"wilt verbergen"
+"Controleer of u de voorbeeldafbeelding of het icoon in de ajax "
+"zoekresultaten wilt verbergen"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:565
 msgid "Check if you want to hide this form element"
@@ -5762,7 +5761,7 @@ msgid ""
 "the corresponding navigation arrow."
 msgstr ""
 "Vink aan of u wilt stoppen wanneer de laatste of eerste dia/afbeelding wordt "
-"getoond wanneer de gebruiker handmatig navigeert en autorotatie niet actief "
+"getoond wanneer de gebruiker handmatig navigeert en autoroulatie niet actief "
 "is. Dit verbergt ook de corresponderende navigatiepijl."
 
 #: includes/admin/option_tabs/avia_newsletter.php:33
@@ -6879,7 +6878,7 @@ msgstr "Klik om de details te tonen"
 
 #: searchform.php:46
 msgid "Click to start search"
-msgstr ""
+msgstr "Klik hier om te starten met zoeken"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:104
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:146
@@ -12110,6 +12109,9 @@ msgid ""
 "Enter at least 3 characters to show search results in a dropdown or click to "
 "route to search result page to show all results"
 msgstr ""
+"Voer ten minste 3 tekens in om zoekresultaten in een vervolgkeuzelijst weer "
+"te geven of klik om naar de pagina met zoekresultaten te gaan om alle "
+"resultaten weer te geven"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:269
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:274
@@ -13044,15 +13046,15 @@ msgstr "Fade in naar beneden"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1365
 msgid "Fade in left"
-msgstr "Fade in naar links"
+msgstr "Fade-in naar rechts"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1366
 msgid "Fade in right"
-msgstr "Fade in naar rechts"
+msgstr "Fade-in naar links"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1368
 msgid "Fade in up"
-msgstr "Fade in naar boven"
+msgstr "Fade-in naar boven"
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:422
 msgid "Fade only"
@@ -25848,7 +25850,7 @@ msgid ""
 "Autorotation Duration&quot;"
 msgstr ""
 "Selecteer de tijd om het beeld te vergroten. Dit moet minder zijn dan &quot;"
-"Slider Autorotatie Duur&quot;"
+"Slider autoroulatie duur&quot;"
 
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:300
 msgid "Select the timezone of your date."
@@ -32846,7 +32848,7 @@ msgstr "Bekijk portfolio-item"
 #: functions-enfold.php:491
 #: config-templatebuilder/avia-shortcodes/search/search.php:1059
 msgid "View results on search page"
-msgstr ""
+msgstr "Bekijk resultaten op zoekpagina"
 
 #: framework/php/class-media.php:418
 msgid "viewBox"
