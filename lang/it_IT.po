@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Italian Enfold Language v5.7.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-29 23:52+0200\n"
-"PO-Revision-Date: 2024-04-29 23:53+0200\n"
+"POT-Creation-Date: 2024-05-07 09:17+0200\n"
+"PO-Revision-Date: 2024-05-07 09:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -18803,7 +18803,7 @@ msgstr ""
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:181
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:500
-#: includes/admin/option_tabs/avia_footer.php:172
+#: includes/admin/option_tabs/avia_footer.php:178
 #: includes/admin/option_tabs/avia_header.php:433
 #: includes/admin/option_tabs/avia_layout.php:254
 #: includes/admin/register-admin-options.php:143
@@ -21573,7 +21573,7 @@ msgid "Change layout"
 msgstr "Modifica layout"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:309
-#: includes/admin/option_tabs/avia_footer.php:71
+#: includes/admin/option_tabs/avia_footer.php:77
 msgid "Footer Behavior (currently in beta)"
 msgstr "Comportamento piè di pagina (attualmente in beta)"
 
@@ -21594,7 +21594,7 @@ msgid "Scroll with page"
 msgstr "Scorrere con la pagina"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:319
-#: includes/admin/option_tabs/avia_footer.php:81
+#: includes/admin/option_tabs/avia_footer.php:87
 msgid "Sticky with curtain effect"
 msgstr "Sticky con effetto tenda"
 
@@ -28197,8 +28197,8 @@ msgstr "Modifica"
 
 # @ avia_framework
 #: footer.php:205 functions-enfold.php:2549
-#: includes/admin/option_tabs/avia_footer.php:157
-#: includes/admin/option_tabs/avia_footer.php:158
+#: includes/admin/option_tabs/avia_footer.php:163
+#: includes/admin/option_tabs/avia_footer.php:164
 msgid "Copyright"
 msgstr "Copyright"
 
@@ -29564,11 +29564,6 @@ msgid ""
 msgstr ""
 "Si è verificato un errore nella creazione della cartella per il font %s "
 "nella directory uploads. Non siamo in grado di integrarlo"
-
-# @ LayerSlider
-#: framework/php/font-management/class-avia-type-fonts.php:647
-msgid "Font: "
-msgstr "Font: "
 
 #: framework/php/font-management/class-avia-type-fonts.php:972
 msgid "Uploaded Fonts (located at Enfold -> Import/Export)"
@@ -33443,12 +33438,7 @@ msgstr ""
 msgid "Select a page to replace both footer and socket"
 msgstr "Seleziona una pagina per sostituire sia il piè di pagina che la socket"
 
-# @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:43
-msgid "Select Page"
-msgstr "Seleziona pagina"
-
-#: includes/admin/option_tabs/avia_footer.php:44
+#: includes/admin/option_tabs/avia_footer.php:41
 msgid ""
 "Select a page to display the content of this page in the footer area. You "
 "may also use pages created with the advanced layout builder."
@@ -33457,7 +33447,27 @@ msgstr ""
 "nell'area del piè di pagina. Puoi anche utilizzare le pagine create con il "
 "costruttore di layout avanzato."
 
-#: includes/admin/option_tabs/avia_footer.php:63
+#: includes/admin/option_tabs/avia_footer.php:42
+msgid "LIMITATION:"
+msgstr "LIMITAZIONE:"
+
+#: includes/admin/option_tabs/avia_footer.php:43
+msgid ""
+"Using ALB elements with page specific content (e.g. like share links for "
+"social media like facebook, X, ..) or custom field content will use data of "
+"this page and NOT from the page where this footer page is used."
+msgstr ""
+"L'utilizzo di elementi ALB con contenuti specifici della pagina (ad esempio, "
+"link di condivisione per social media come Facebook, X, ...) o contenuti di "
+"campi personalizzati utilizzerà i dati di questa pagina e non quelli della "
+"pagina in cui viene utilizzato questo piè di pagina."
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_footer.php:49
+msgid "Select Page"
+msgstr "Seleziona pagina"
+
+#: includes/admin/option_tabs/avia_footer.php:69
 msgid ""
 "Select the behavior of the footer when user scrolls the page. Curtain effect "
 "will hide or show footer content when page is scrolled."
@@ -33466,7 +33476,7 @@ msgstr ""
 "pagina. L'effetto tenda nasconderà o mostrerà il contenuto del piè di pagina "
 "quando la pagina viene fatta scorrere."
 
-#: includes/admin/option_tabs/avia_footer.php:64
+#: includes/admin/option_tabs/avia_footer.php:70
 msgid ""
 "Single page settings will use the option settings from here when selecting "
 "theme default in the metabox options."
@@ -33474,19 +33484,19 @@ msgstr ""
 "Le impostazioni della pagina singola useranno le impostazioni delle opzioni "
 "da qui quando si seleziona il tema predefinito nelle opzioni della metabox."
 
-#: includes/admin/option_tabs/avia_footer.php:66
+#: includes/admin/option_tabs/avia_footer.php:72
 msgid "Only supported for stretched layout."
 msgstr "Supportato solo per il layout allungato."
 
-#: includes/admin/option_tabs/avia_footer.php:80
+#: includes/admin/option_tabs/avia_footer.php:86
 msgid "Scroll with page (default)"
 msgstr "Scorri con la pagina (predefinito)"
 
-#: includes/admin/option_tabs/avia_footer.php:94
+#: includes/admin/option_tabs/avia_footer.php:100
 msgid "Media Switch Back"
 msgstr "Interruttore posteriore per i media"
 
-#: includes/admin/option_tabs/avia_footer.php:95
+#: includes/admin/option_tabs/avia_footer.php:101
 msgid ""
 "Select to switch back to scroll footer content with page when footer height "
 "exceeds selected limit."
@@ -33494,108 +33504,108 @@ msgstr ""
 "Seleziona per tornare a scorrere il contenuto del piè di pagina con la "
 "pagina quando l'altezza del piè di pagina supera il limite selezionato."
 
-#: includes/admin/option_tabs/avia_footer.php:103
+#: includes/admin/option_tabs/avia_footer.php:109
 #, no-php-format
 msgid "10% of viewport height"
 msgstr "10% dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:104
+#: includes/admin/option_tabs/avia_footer.php:110
 #, no-php-format
 msgid "20% of viewport height"
 msgstr "20%  dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:105
+#: includes/admin/option_tabs/avia_footer.php:111
 #, no-php-format
 msgid "30% of viewport height"
 msgstr "30%  dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:106
+#: includes/admin/option_tabs/avia_footer.php:112
 #, no-php-format
 msgid "40% of viewport height"
 msgstr "40%  dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:107
+#: includes/admin/option_tabs/avia_footer.php:113
 #, no-php-format
 msgid "50% of viewport height"
 msgstr "50%  dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:108
+#: includes/admin/option_tabs/avia_footer.php:114
 #, no-php-format
 msgid "60% of viewport height"
 msgstr "60%  dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:109
+#: includes/admin/option_tabs/avia_footer.php:115
 #, no-php-format
 msgid "70% of viewport height"
 msgstr "70%  dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:110
+#: includes/admin/option_tabs/avia_footer.php:116
 #, no-php-format
 msgid "80% of viewport height (default)"
 msgstr "80% dell'altezza della finestra"
 
-#: includes/admin/option_tabs/avia_footer.php:111
+#: includes/admin/option_tabs/avia_footer.php:117
 #, no-php-format
 msgid "90% of viewport height"
 msgstr "90% dell'altezza della finestra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:138
+#: includes/admin/option_tabs/avia_footer.php:144
 msgid "Footer Columns"
 msgstr "Colonne del piè di pagina"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:139
+#: includes/admin/option_tabs/avia_footer.php:145
 msgid "How many columns should be displayed in your footer"
 msgstr "Quante colonne devono essere visualizzate nel vostro piè di pagina"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:146
+#: includes/admin/option_tabs/avia_footer.php:152
 msgid "1"
 msgstr "1"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:147
+#: includes/admin/option_tabs/avia_footer.php:153
 msgid "2"
 msgstr "2"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:148
+#: includes/admin/option_tabs/avia_footer.php:154
 msgid "3"
 msgstr "3"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:149
+#: includes/admin/option_tabs/avia_footer.php:155
 msgid "4"
 msgstr "4"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:150
+#: includes/admin/option_tabs/avia_footer.php:156
 msgid "5"
 msgstr "5"
 
-#: includes/admin/option_tabs/avia_footer.php:151
+#: includes/admin/option_tabs/avia_footer.php:157
 msgid "6"
 msgstr "6"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:158
+#: includes/admin/option_tabs/avia_footer.php:164
 msgid "Add a custom copyright text at the bottom of your site. eg:"
 msgstr ""
 "Aggiungere un testo personalizzato del copyright nella parte inferiore del "
 "tuo sito. es:"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:169
+#: includes/admin/option_tabs/avia_footer.php:175
 msgid "Social Icons"
 msgstr "Icone Sociali"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_footer.php:170
+#: includes/admin/option_tabs/avia_footer.php:176
 msgid "Check to display the social icons defined in"
 msgstr "Spuntare per visualizzare le icone dei social definite in"
 
-#: includes/admin/option_tabs/avia_footer.php:174
+#: includes/admin/option_tabs/avia_footer.php:180
 msgid "in your socket"
 msgstr "nel vostro socket"
 
@@ -39067,6 +39077,10 @@ msgstr "Mensile"
 #: template-archives.php:208
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
+
+# @ LayerSlider
+#~ msgid "Font: "
+#~ msgstr "Font: "
 
 # @ avia_framework
 #~ msgid "Twitter link"
