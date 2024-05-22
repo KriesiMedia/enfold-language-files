@@ -1,4 +1,7 @@
 
+2024_05_22
+- sync all language files (6.0-dev-0)
+
 2024_05_16
 - Italian language files it_IT (version 5.7.1, provided by BigBatT - info@luigicircello.it)
 - Norwegian Nynorsk language files nn_NO (version 5.7.1, provided by Berntjs )
