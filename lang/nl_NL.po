@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2024-05-22 10:18+0000\n"
+"PO-Revision-Date: 2024-05-25 07:34+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.8; wp-6.4.4\n"
+"X-Loco-Version: 2.6.9; wp-6.4.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:705
@@ -89,7 +89,7 @@ msgstr "voegt een 'Cookies accepteren'-knop toe"
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:546
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:547
 msgid " ALB Elements"
-msgstr ""
+msgstr "ALB elementen"
 
 #: includes/admin/option_tabs/avia_cookie.php:233
 msgid ""
@@ -161,7 +161,7 @@ msgstr "Controleer reCAPTCHA API sleutels V2"
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:339
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:340
 msgid " Custom Layouts"
-msgstr ""
+msgstr "Aangepaste lay-outs"
 
 #: includes/admin/option_tabs/avia_cookie.php:234
 msgid ""
@@ -177,7 +177,7 @@ msgstr "voor het geval besturingselementen nodig zijn."
 
 #: config-woocommerce/admin-options.php:142
 msgid " Theme</strong> and wont appear on other themes</small>"
-msgstr ""
+msgstr " Thema</strong> en zal niet verschijnen op andere thema's</small>"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:500
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:333
@@ -213,7 +213,7 @@ msgstr "%1$s op %2$s"
 #: framework/php/admin-notices/admin-notices-def.php:47
 #, php-format
 msgid "%1$s update to version %2$s was successfull"
-msgstr ""
+msgstr "%1$s update naar versie %2$s was succesvol"
 
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:254
 msgid "%d comment(s) need to be approved."
@@ -321,7 +321,7 @@ msgstr "&quot;Volg op Instagram&quot; knop"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:482
 msgid "&quot;lightbox&quot;"
-msgstr ""
+msgstr "&quot;lightbox&quot;"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:427
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:557
@@ -330,7 +330,7 @@ msgstr "&quot;Laad meer&quot; knop"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:487
 msgid "&quot;no-link&quot;"
-msgstr ""
+msgstr "&quot;geen link&quot;"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_tabs.php:55
 msgid ""
@@ -454,7 +454,7 @@ msgstr ""
 
 #: framework/php/admin-notices/admin-notices-def.php:39
 msgid "(Parent Theme)"
-msgstr ""
+msgstr "(Hoofd thema)"
 
 #: includes/admin/option_tabs/avia_avia.php:86
 msgid "(Show example Screenshot)"
@@ -476,7 +476,7 @@ msgstr "(Enkel zichtbaar voor beheerders)"
 
 #: framework/php/class-cpt-support.php:366
 msgid "***  Custom Post Type:"
-msgstr ""
+msgstr "***  Aangepast berichttype:"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:453
 msgid "- Box shadow does not work when you select to zoom the image."
@@ -1286,7 +1286,7 @@ msgstr "Link naar accountpagina"
 
 #: config-acf/class-avia-acf.php:222
 msgid "ACF - Advanced Custom Fields"
-msgstr ""
+msgstr "ACF - Advanced Custom Fields"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:189
 msgid "Action with codeblock"
@@ -1365,7 +1365,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:272
 msgid "Activate Your Custom Post Types For ALB"
-msgstr ""
+msgstr "Activeer uw aangepaste berichttypen voor ALB"
 
 #: includes/admin/option_tabs/avia_seo.php:55
 msgid "Activated"
@@ -1434,7 +1434,6 @@ msgid "Add a box-shadow to the row"
 msgstr "Voeg een schaduweffect toe aan de rij"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:740
-#, fuzzy
 #| msgid ""
 #| "Add a color for each datapoint, seperate by ; (e.g. #fefefe;#efefef;green)"
 #| ". Missing colors will loop from the beginning again."
@@ -1703,7 +1702,7 @@ msgstr "Codeblok uitvoeren"
 
 #: framework/php/class-cpt-support.php:380
 msgid "Add columns (taxonomy with terms, thumbnail)"
-msgstr ""
+msgstr "Kolommen toevoegen (taxonomie met termen, miniatuur)"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:190
 msgid ""
@@ -1711,6 +1710,9 @@ msgid ""
 "content or only static content (e.g. for descriptive text in an ALB table "
 "element column)"
 msgstr ""
+"Voeg inhoud toe om weer te geven met behulp van aangepaste velden in "
+"combinatie met statische inhoud of alleen statische inhoud (bijv. voor "
+"beschrijvende tekst in een kolom van een ALB-tabelelement)"
 
 #: includes/helper-conditional-megamenu.php:169
 msgid "Add custom css class"
@@ -1786,11 +1788,11 @@ msgstr "Voeg afbeelding(en) toe"
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:168
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1824
 msgid "Add New"
-msgstr ""
+msgstr "Nieuwe toevoegen"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1825
 msgid "Add New ALB Custom Element"
-msgstr ""
+msgstr "Nieuw ALB aangepast element toevoegen"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2473
 msgid "Add New Custom Element"
@@ -1798,7 +1800,7 @@ msgstr "Nieuw aangepast element toevoegen"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:169
 msgid "Add New Custom Layout"
-msgstr ""
+msgstr "Nieuwe aangepaste lay-out toevoegen"
 
 #: includes/admin/register-portfolio.php:16
 msgid "Add New Portfolio Entry"
@@ -1873,7 +1875,6 @@ msgid "Add the border or line colors."
 msgstr "Voeg de rand- of lijnkleuren toe."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:703
-#, fuzzy
 #| msgid ""
 #| "Add the dataset datapoints. Seperate with ;. Use numeric values for a "
 #| "point (e.g. 5, 5.20)"
@@ -1885,7 +1886,6 @@ msgstr ""
 "Gebruik numerieke waarden voor een punt (bijv. 5, 5,20)"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:283
-#, fuzzy
 #| msgid ""
 #| "Add the descriptive x-axis lables for your data points. Seperate with ;. "
 #| "Number of labels should correspond with number of datapoints. Default "
@@ -2122,7 +2122,6 @@ msgid "Admin notice for:"
 msgstr "Admin bericht voor:"
 
 #: includes/admin/option_tabs/avia_avia.php:50
-#, fuzzy
 #| msgid ""
 #| "Administrators may upload svg files to media library. We also support a "
 #| "paths to local filesystem or urls that are not in the media library (not "
@@ -2257,7 +2256,7 @@ msgstr "Geavanceerde Layerslider"
 
 #: config-gutenberg/class-avia-gutenberg.php:749
 msgid "Advanced Layout Builder"
-msgstr "Geavanceerde Layout Builder"
+msgstr "Geavanceerde Lay-out bewerker"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2919
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2639
@@ -2311,9 +2310,11 @@ msgid ""
 "After activating this feature you must reload backend to load the necessary "
 "menus to work with the &quot;Custom Layout Screens&quot;."
 msgstr ""
+"Na het activeren van deze functie moet je de backend opnieuw laden om de "
+"nodige menu's te laden om te werken met de &quot;Aangepaste lay-out "
+"vensters&quot;."
 
 #: includes/admin/option_tabs/avia_element_templates.php:191
-#, fuzzy
 #| msgid ""
 #| "After activating this feature you must reload backend to load the "
 #| "necssary menus to work with the CPT screens."
@@ -2496,7 +2497,7 @@ msgstr "Alle"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1823
 msgid "All ALB Custom Elements"
-msgstr ""
+msgstr "Alle ALB aangepaste elementen"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:900
 msgid "All ALB Elements"
@@ -2515,7 +2516,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:167
 msgid "All Custom Layouts"
-msgstr ""
+msgstr "Alle aangepaste lay-outs"
 
 #: framework/php/font-management/class-avia-type-fonts.php:237
 msgid ""
@@ -2540,7 +2541,7 @@ msgstr "Alle andere opties moeten voor elke taal apart worden ingesteld."
 
 #: includes/admin/register-portfolio.php:14
 msgid "All Portfolio Items"
-msgstr ""
+msgstr "Alle portfolio items"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:16
 msgid "All right!"
@@ -2651,6 +2652,8 @@ msgid ""
 "Allows you to display the content of a different entry (element is "
 "deprecated - use Custom Layout instead)"
 msgstr ""
+"Hiermee kun je de inhoud van een ander item weergeven (element is verouderd -"
+" gebruik in plaats daarvan Aangepaste lay-out)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-base.php:185
 #, php-format
@@ -2814,6 +2817,8 @@ msgid ""
 "an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. mailto:"
 "test@admin.com)"
 msgstr ""
+"een e-mail die @ bevat, kan beginnen met &quot;mailto:&quot; (bijv. mailto:"
+"test@admin.com)"
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:68
 msgid "An Easy Slider image or video item"
@@ -2866,6 +2871,8 @@ msgstr "Een element voor %s %s"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:466
 msgid "an URL starting with http://, https:// (e.g. https://your-domain.com)"
 msgstr ""
+"een URL die begint met http://, https:// (bijvoorbeeld https://jouw-domein."
+"nl)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:251
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:289
@@ -3237,6 +3244,8 @@ msgstr "Oplopend"
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1494
 msgid "At cursor position insert a dynamic content replacement from dropdown"
 msgstr ""
+"Voeg op de cursorpositie een vervanging voor dynamische inhoud in vanuit de "
+"vervolgkeuzelijst"
 
 #: includes/admin/option_tabs/avia_header.php:23
 #: includes/admin/option_tabs/avia_styling.php:408
@@ -3294,13 +3303,16 @@ msgstr "Let op"
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:118
 msgid "ATTENTION - DEPRECATION NOTICE:"
-msgstr ""
+msgstr "LET OP - KENNISGEVING VAN UITFASERING:"
 
 #: includes/admin/option_tabs/avia_builder.php:40
 msgid ""
 "Attention when using caching plugins: Whenever you make changes to a &quot;"
 "Custom Layout&quot; please clear your server cache to show the changes."
 msgstr ""
+"Let op als je caching plugins gebruikt: wanneer je wijzigingen aanbrengt in "
+"een &quot;Aangepaste lay-out&quot; wis dan je server cache om de wijzigingen "
+"weer te geven."
 
 #: includes/admin/option_tabs/avia_element_templates.php:25
 msgid ""
@@ -3402,15 +3414,15 @@ msgstr "Auteursarchief"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:170
 msgid "Author Link"
-msgstr ""
+msgstr "Auteur link"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:171
 msgid "Author Name"
-msgstr ""
+msgstr "Auteur naam"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:895
 msgid "Author:"
-msgstr ""
+msgstr "Auteur:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:283
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:397
@@ -4831,6 +4843,10 @@ msgid ""
 "alb_elements, alb_custom_layout. Here you can add more post types to use "
 "with ALB. Enter each post type in a new line."
 msgstr ""
+"Standaard is ALB geactiveerd voor berichttypen pagina, bericht, portfolio, "
+"product, alb_elements, alb_custom_layout. Hier kun je meer berichttypen "
+"toevoegen om te gebruiken met ALB. Voer elk berichttype in op een nieuwe "
+"regel."
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:331
 msgid ""
@@ -5142,15 +5158,15 @@ msgstr "Stijl van de categorie"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:178
 msgid "Category/Term Links"
-msgstr ""
+msgstr "Categorie/term links"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:179
 msgid "Category/Term Names"
-msgstr ""
+msgstr "Categorie/term namen"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:961
 msgid "Category:"
-msgstr ""
+msgstr "Categorie:"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:341
 msgid "Cell Alignment"
@@ -6655,13 +6671,15 @@ msgstr "Selecteer het maximum aantal producten om weer te geven"
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:416
 msgid "Choose the Portfolio Grid image size manually (select thumbnail size)"
 msgstr ""
-"Afbeeldingsformaat in raster handmatig bepalen (kies grootte thumbnail)"
+"Afbeeldingsformaat in raster handmatig bepalen (kies grootte miniatuur)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:423
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:371
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:430
 msgid "Choose the preview image size manually (select thumbnail size)"
-msgstr "Afmeting voorbeeldafbeelding zelf bepalen (kies formaat thumbnail)"
+msgstr ""
+"Afmeting voorbeeldafbeelding zelf bepalen (kies formaat van "
+"miniatuurafbeelding)"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:332
 msgid "Choose the saturation of your map"
@@ -7224,7 +7242,7 @@ msgstr "Kolom"
 
 #: config-woocommerce/admin-options.php:141
 msgid "Column and Product Count"
-msgstr ""
+msgstr "Kolom- en producttelling"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:867
 msgid "Column Animation"
@@ -7257,7 +7275,7 @@ msgstr "Kolom schaduweffect breedte"
 
 #: config-woocommerce/admin-options.php:148
 msgid "Column Count"
-msgstr ""
+msgstr "Kolomtelling"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:420
 msgid "Column count - default, used for all screen sizes(no media query)"
@@ -7979,10 +7997,9 @@ msgid "Create Element"
 msgstr "Maak element"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4248
-#, fuzzy
 #| msgid "Create New Element Template"
 msgid "Create New Custom Element Template"
-msgstr "Maak nieuw elementsjabloon"
+msgstr "Maak nieuw aangepast elementsjabloon"
 
 #: includes/admin/option_tabs/avia_sidebars.php:154
 msgid "Create New Sidebar Widget Areas"
@@ -8546,15 +8563,15 @@ msgstr "Aangepaste 404 foutmeldingspagina"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:660
 msgid "Custom Field Gallery Images"
-msgstr ""
+msgstr "Galerijafbeeldingen aangepast veld"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:615
 msgid "Custom Field Image"
-msgstr ""
+msgstr "Aangepast veld afbeelding"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:493
 msgid "Custom Field Link"
-msgstr ""
+msgstr "Aangepast veld link"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:502
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:711
@@ -8637,27 +8654,28 @@ msgstr "Aangepaste invoer tekstkleur"
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:166
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:729
 msgid "Custom Layout"
-msgstr ""
+msgstr "Aangepaste lay-out"
 
 #: includes/admin/option_tabs/avia_builder.php:45
 msgid "Custom Layout And Dynamic Content"
-msgstr ""
+msgstr "Aangepaste lay-out en dynamische inhoud"
 
 #: includes/admin/option_tabs/avia_builder.php:55
 msgid "Custom layout and dynamic content"
-msgstr ""
+msgstr "Aangepaste lay-out en dynamische inhoud"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:222
 msgid "Custom Layout Category"
-msgstr ""
+msgstr "Aangepaste lay-out categorie"
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:413
 msgid "Custom Layout Element - You did not select an entry to display."
 msgstr ""
+"Aangepast lay-out element - u hebt geen item geselecteerd om weer te geven."
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:165
 msgid "Custom Layouts"
-msgstr ""
+msgstr "Aangepaste lay-outs"
 
 #: config-templatebuilder/avia-template-builder/php/class-media.php:129
 msgid "Custom Link"
@@ -8718,7 +8736,7 @@ msgstr "Aangepast berichttype venster (alleen voor ontwikkelaars)"
 
 #: framework/php/class-cpt-support.php:147
 msgid "Custom Post Type Settings"
-msgstr ""
+msgstr "Aangepast berichttype instellingen"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:506
 msgid "Custom Progress Bar Background Color"
@@ -8746,7 +8764,6 @@ msgid "Custom Separator"
 msgstr "Aangepast scheidingsteken"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:408
-#, fuzzy
 #| msgid "Custom Seperator Line Color"
 msgid "Custom Separator Line Color"
 msgstr "Aangepast scheidingsteken lijnkleur"
@@ -8875,7 +8892,7 @@ msgstr "Datum"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:197
 msgid "Date and time"
-msgstr ""
+msgstr "Datum en tijd"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:352
 msgid "Date Font Sizes"
@@ -9140,7 +9157,7 @@ msgstr "standaard of geldige CSS"
 
 #: config-woocommerce/config-356.php:1357
 msgid "Default Order"
-msgstr "Standaard Volgorde"
+msgstr "Standaard volgorde"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:66
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:366
@@ -9669,7 +9686,7 @@ msgstr "Omschrijving"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:453
 msgid "Description (=Excerpt)"
-msgstr ""
+msgstr "Beschrijving (=samenvatting)"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:235
 msgid "Description above title"
@@ -9963,19 +9980,19 @@ msgstr "Uitschakelen van sjabloonbouwer elementen"
 
 #: framework/php/class-admin-notices.php:883
 msgid "Dismiss"
-msgstr ""
+msgstr "Afwijzen"
 
 #: framework/php/class-admin-notices.php:883
 msgid "Dismiss and hide"
-msgstr ""
+msgstr "Afwijzen en verbergen"
 
 #: framework/php/class-admin-notices.php:889
 msgid "Dismiss and hide notice"
-msgstr ""
+msgstr "Afwijzen en verbergen mededeling"
 
 #: framework/php/class-admin-notices.php:906
 msgid "Dismiss this notice."
-msgstr ""
+msgstr "Deze mededeling afwijzen."
 
 #: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2210
 #: includes/admin/register-backend-advanced-styles.php:111
@@ -10074,6 +10091,8 @@ msgstr "Een partner-/logo raster of diavoorstelling tonen"
 msgid ""
 "Display a predefined Custom Layout - or the content of a different entry"
 msgstr ""
+"Een vooraf gedefinieerde aangepaste lay-out weergeven - of de inhoud van een "
+"ander item"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:564
 msgid ""
@@ -10153,7 +10172,7 @@ msgstr "Toon een video"
 
 #: includes/admin/option_tabs/avia_shop.php:124
 msgid "Display above title and breadcrumb line"
-msgstr ""
+msgstr "Weergeven boven titel en broodkruimel regel"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2085
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2108
@@ -10211,15 +10230,15 @@ msgstr "Toon auteur?"
 
 #: includes/admin/option_tabs/avia_shop.php:100
 msgid "Display banner image"
-msgstr ""
+msgstr "Bannerafbeelding weergeven"
 
 #: includes/admin/option_tabs/avia_shop.php:99
 msgid "Display banner image with parallax effect"
-msgstr ""
+msgstr "Bannerafbeelding weergeven met parallax effect"
 
 #: includes/admin/option_tabs/avia_shop.php:125
 msgid "Display below title and breadcrumb line"
-msgstr ""
+msgstr "Weergeven onder titel en broodkruimel-regel"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:214
 msgid "Display blog posts"
@@ -10576,6 +10595,8 @@ msgid ""
 "Display the content of a custom layout. Also page, posts, portfolio,... can "
 "be selected."
 msgstr ""
+"De inhoud van een aangepaste lay-out weergeven. Ook pagina, berichten, "
+"portfolio,... kunnen worden geselecteerd."
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:82
 msgid "Display the content of another page (fullwidth)"
@@ -10659,25 +10680,31 @@ msgstr ""
 
 #: config-woocommerce/admin-options.php:485
 msgid "Display thumbnail and description as fullwidth page banner below header"
-msgstr ""
+msgstr "Toon miniatuur en beschrijving als paginabrede banner onder de header"
 
 #: config-woocommerce/admin-options.php:486
 msgid ""
 "Display thumbnail and description as fullwidth page banner below "
 "title/breadcrumb"
 msgstr ""
+"Toon miniatuur en beschrijving als paginabrede banner onder "
+"titel/broodkruimelpad"
 
 #: config-woocommerce/admin-options.php:483
 msgid ""
 "Display thumbnail and description as fullwidth page banner with parallax "
 "effect below header"
 msgstr ""
+"Toon miniatuur en beschrijving als paginabrede banner met parallax effect "
+"onder de header"
 
 #: config-woocommerce/admin-options.php:484
 msgid ""
 "Display thumbnail and description as fullwidth page banner with parallax "
 "effect below title/breadcrumb"
 msgstr ""
+"Toon miniatuur en beschrijving als paginabrede banner met parallax effect "
+"onder titel/broodkruimelpad"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:246
 msgid "Display Thumbnails?"
@@ -10762,7 +10789,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:50
 msgid "Displays formatted content of a custom field or post data"
-msgstr ""
+msgstr "Toont opgemaakte inhoud van een aangepast veld of berichtgegevens"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:94
 msgid "Displays multiple buttons beside each other"
@@ -10890,7 +10917,7 @@ msgstr "Grote voorbeeldafbeelding niet veranderen"
 
 #: framework/php/class-cpt-support.php:379
 msgid "Do not change table columns"
-msgstr ""
+msgstr "Tabelkolommen niet wijzigen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:280
 msgid "Do not close with click on map"
@@ -10976,6 +11003,9 @@ msgid ""
 "Row&quot;, &quot;Tab Section&quot;,... when you want to use this layout in "
 "posts with sidebars - this might break layout"
 msgstr ""
+"Gebruik geen paginabrede elementen zoals &quot;Kleur sectie&quot;, &quot;"
+"Raster rij&quot;, &quot;Tab sectie&quot;,... wanneer je deze lay-out wilt "
+"gebruiken in berichten met zijbalken - dit kan de lay-out kapotmaken."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:630
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2928
@@ -10995,7 +11025,6 @@ msgstr ""
 "niet ongedaan worden gemaakt."
 
 #: config-woocommerce/admin-options.php:258
-#, fuzzy
 #| msgid ""
 #| "Do you want to display a hover effect on overview pages and replace the "
 #| "default thumbnail with the first image of the gallery?"
@@ -11004,7 +11033,7 @@ msgid ""
 "thumbnail with the first image of the gallery?"
 msgstr ""
 "Wilt u een muis-over effect weergeven op overzichtspagina's en de standaard "
-"thumbnail vervangen door de eerste afbeelding van de galerij?"
+"miniatuur vervangen door de eerste afbeelding van de galerij?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3052
 msgid ""
@@ -11182,7 +11211,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:35
 msgid "Download plugin from Wordpress"
-msgstr ""
+msgstr "Plugin downloaden van Wordpress"
 
 #: framework/php/inc-avia-download-demo.php:18
 msgid "Download started"
@@ -11191,12 +11220,12 @@ msgstr "Download gestart"
 #: config-templatebuilder/avia-shortcodes/video/video.php:209
 msgid "Download the video preview thumbnail and save it in the media library"
 msgstr ""
-"Download de video voorbeeldweergave thumbnail en sla deze op in de "
+"Download de video voorbeeldweergave miniatuur en sla deze op in de "
 "mediabibliotheek"
 
 #: config-templatebuilder/avia-shortcodes/video/video.php:210
 msgid "Download video thumbnail"
-msgstr "Download video thumbnail"
+msgstr "Download video miniatuur"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:316
 msgid "Downloaded File Name"
@@ -11261,11 +11290,11 @@ msgstr "Dribbble profiellink"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:24
 msgid "Dropcap 1 (Big Letter)"
-msgstr ""
+msgstr "Dropcap 1 (grote letter)"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:149
 msgid "Dropcap 2 (Colored Background)"
-msgstr ""
+msgstr "Dropcap 2 (gekleurde achtergrond)"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:220
 msgid "Dropcap Styling"
@@ -11311,23 +11340,23 @@ msgstr "Dupliceren"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:336
 msgid "Dynamic"
-msgstr ""
+msgstr "Dynamisch"
 
 #: includes/admin/option_tabs/avia_builder.php:54
 msgid "Dynamic content only"
-msgstr ""
+msgstr "Enkel dynamische inhoud"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:44
 msgid "Dynamic Data"
-msgstr ""
+msgstr "Dynamische data"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:205
 msgid "Dynamic Data Row"
-msgstr ""
+msgstr "Dynamische data rij"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:196
 msgid "Dynamic Field Content"
-msgstr ""
+msgstr "Dynamisch veld inhoud"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:232
 #: includes/admin/option_tabs/avia_blog.php:320
@@ -11393,7 +11422,7 @@ msgstr "Bewerk %s"
 #: config-gutenberg/class-avia-gutenberg.php:1003
 #, php-format
 msgid "Edit %s (Advanced Layout Builder)"
-msgstr "Bewerk %s (Geavanceerde Layout Builder)"
+msgstr "Bewerk %s (Geavanceerde Lay-out bewerker)"
 
 #: config-gutenberg/class-avia-gutenberg.php:988
 #, php-format
@@ -11434,7 +11463,7 @@ msgstr "Wijzig adres"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1826
 msgid "Edit ALB Custom Element"
-msgstr ""
+msgstr "ALB aangepast element bewerken"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:237
 msgid "Edit Button"
@@ -11459,7 +11488,6 @@ msgid "Edit Custom Element"
 msgstr "Aangepast element bewerken"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4277
-#, fuzzy
 #| msgid "Edit ALB Custom Element Template"
 msgid "Edit Custom Element Template:"
 msgstr "Bewerk ALB aangepast elementsjabloon"
@@ -11470,7 +11498,7 @@ msgstr "Aangepaste elementen bewerken"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:170
 msgid "Edit Custom Layout"
-msgstr ""
+msgstr "Aangepaste lay-out bewerken"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:265
 msgid "Edit Dataset"
@@ -11508,7 +11536,7 @@ msgstr "Voorpagina aanpassen"
 #: config-gutenberg/class-avia-gutenberg.php:961
 #: config-gutenberg/class-avia-gutenberg.php:970
 msgid "Edit Frontpage (Advanced Layout Builder)"
-msgstr "Voorpagina aanpassen (Geavanceerde Layout Builder)"
+msgstr "Voorpagina aanpassen (Geavanceerde Lay-out bewerker)"
 
 #: config-gutenberg/class-avia-gutenberg.php:957
 msgid "Edit Frontpage (Block Editor)"
@@ -11619,7 +11647,7 @@ msgstr "Tabkaarten bewerken"
 
 #: framework/php/class-cpt-support.php:376
 msgid "Edit Table"
-msgstr ""
+msgstr "Tabel bewerken"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:261
 msgid "Edit Testimonial"
@@ -12093,11 +12121,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:48
 msgid "Enfold Custom Layout Settings"
-msgstr ""
+msgstr "Enfold aangepaste lay-out instellingen"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:100
 msgid "Enfold Custom Layout Settings Info Window"
-msgstr ""
+msgstr "Enfold aangepaste lay-out instellingen info-venster"
 
 #: includes/admin/option_tabs/avia_customizer.php:21
 msgid "Enfold Feature Requests"
@@ -12109,7 +12137,7 @@ msgstr "Enfold Google Instellingen"
 
 #: config-acf/class-avia-acf.php:132
 msgid "Enfold Layouts"
-msgstr ""
+msgstr "Enfold lay-outs"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2741
 msgid ""
@@ -12645,7 +12673,6 @@ msgid "Enter the Country, e.g. Canada"
 msgstr "Voer het land in, bijv. Canada"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1455
-#, fuzzy
 #| msgid ""
 #| "Enter the custom background colors seperated by | and/or in a new line. "
 #| "If number of items exceeds number of colors it will start again at "
@@ -12713,6 +12740,10 @@ msgid ""
 "to update metabox content in database whenever you add or change a metabox "
 "content."
 msgstr ""
+"Voer de ID van een onderliggend bericht in om echte gegevens weer te geven. "
+"Als de ID leeg blijft of niet bestaat, wordt in plaats daarvan pseudocode "
+"weergegeven. Sla het bericht a.u.b. op om de metaboxinhoud in de database "
+"bij te werken wanneer je een metaboxinhoud toevoegt of wijzigt."
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:368
 msgid "Enter the item description here"
@@ -12793,10 +12824,9 @@ msgstr ""
 "laten om de originele bestandsnaam te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:670
-#, fuzzy
 #| msgid "Enter the Name of the Person to quote"
 msgid "Enter the Name of the person to quote"
-msgstr "Vul de naam in van de persoon"
+msgstr "Vul de naam in van de persoon om te citeren"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1002
 msgid "Enter the number of comments to show in the lightbox. Any number."
@@ -12888,7 +12918,6 @@ msgid "Enter the reCAPTCHA v3 API site key here."
 msgstr "Voer hier de reCAPTCHA V3 API-sleutel in."
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:566
-#, fuzzy
 #| msgid "Enter the rotating text here (Better keep it short)"
 msgid "Enter the rotating text here (better keep it short)"
 msgstr "Vul hier de roulatietekst in (het beste is korte teksten)"
@@ -12902,13 +12931,12 @@ msgid "Enter the slide title here (Better keep it short)"
 msgstr "Vul hier de slide titel in (hou het kort)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:50
-#, fuzzy
 #| msgid ""
 #| "Enter the street and streetnumber seperated by space, e.g. Teststreet 15."
 msgid ""
 "Enter the street and streetnumber separated by space, e.g. Teststreet 15."
 msgstr ""
-"Voer de straat en het straatnummer in, gescheiden door een spatie, bijv. "
+"Voer de straat en het huisnummer in, gescheiden door een spatie, bijv. "
 "Teststraat 15."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:254
@@ -13196,7 +13224,7 @@ msgstr "Fout: het sjabloon bestaat niet."
 #: framework/php/function-set-avia-ajax.php:1219
 #, php-format
 msgid "Error: Unable to save downloaded thumbnail to [%s]."
-msgstr "Fout: Kan gedownloade thumbnail niet opslaan in [%s]."
+msgstr "Fout: Kan gedownloade miniatuur niet opslaan in [%s]."
 
 #: framework/php/function-set-avia-ajax.php:1086
 #: framework/php/function-set-avia-ajax.php:1103
@@ -13336,7 +13364,7 @@ msgstr "Kopteksten uitsluiten op basis van CSS-klasse:"
 #: includes/admin/update_scripts/v5_3.php:24
 #: includes/admin/update_scripts/v6_0.php:12
 msgid "Executed theme update script:"
-msgstr ""
+msgstr "Uitgevoerd thema update script:"
 
 #: framework/php/auto-updates/class-avia-theme-updater.php:356
 #, php-format
@@ -13361,7 +13389,7 @@ msgstr "Ietwat uibreiden"
 
 #: framework/php/class-admin-notices.php:273
 msgid "Expired nonce"
-msgstr ""
+msgstr "Verlopen nonce"
 
 #: framework/php/class-htmlhelper.php:2051
 msgid "Export Demo Settings File"
@@ -13373,7 +13401,7 @@ msgstr "Exporteer lay-out bewerker sjablonen"
 
 #: framework/php/class-htmlhelper.php:2075
 msgid "Export Layout Builder Templates File"
-msgstr "Exporteer bestand met Layout Builder sjablonen"
+msgstr "Exporteer bestand met Lay-out bewerker sjablonen"
 
 #: framework/php/class-htmlhelper.php:2055
 #: includes/admin/option_tabs/avia_upload.php:34
@@ -13759,7 +13787,7 @@ msgstr "Omkeer-getallen"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:195
 msgid "Floating point number"
-msgstr ""
+msgstr "Zwevende komma getal"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1543
 msgid "Flower"
@@ -14147,10 +14175,9 @@ msgid "For best search results, mind the following suggestions:"
 msgstr "Voor de beste zoekresultaten, houd het volgende in gedachte:"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:806
-#, fuzzy
 #| msgid "For Developers: Custom Tab ID"
 msgid "For Developers: Custom Toggle ID"
-msgstr "Voor ontwikkelaars: aangepaste Tab-ID"
+msgstr "Voor ontwikkelaars: aangepaste Toggle-ID"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:538
 msgid ""
@@ -14285,11 +14312,11 @@ msgstr "Formulier-titel"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:219
 msgid "Format"
-msgstr ""
+msgstr "Formaat"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:211
 msgid "Format ACF field content"
-msgstr ""
+msgstr "Inhoud van ACF-veld opmaken"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:255
 msgid "Format Number"
@@ -15682,7 +15709,7 @@ msgstr "Op Mobiel submenu-items verbergen"
 
 #: framework/php/class-admin-notices.php:884
 msgid "Hide notice"
-msgstr ""
+msgstr "Verberg bericht"
 
 #: includes/admin/option_tabs/avia_cookie.php:431
 #: includes/admin/option_tabs/avia_cookie.php:568
@@ -15856,7 +15883,6 @@ msgstr "Markering patroon:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:725
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:922
-#, fuzzy
 #| msgid ""
 #| "Highlight posts with these hashtags, seperate multiple hashtags with "
 #| "commas."
@@ -16791,7 +16817,7 @@ msgstr "Negeer filters"
 
 #: framework/php/function-set-avia-ajax.php:876
 msgid "Illegal call to import Layout Builder Template file."
-msgstr "Ongeldige aanroep om Layout Builder sjabloonbestand te importeren."
+msgstr "Ongeldige aanroep om Lay-out bewerker sjabloonbestand te importeren."
 
 #: framework/php/function-set-avia-ajax.php:935
 msgid "Illegal call to import settings file."
@@ -17245,6 +17271,9 @@ msgid ""
 "In case a &quot;Custom Layout&quot; entry is not displayed in dropdown list "
 "check that it is published and reload this page to refill selectboxes."
 msgstr ""
+"Als een &quot;Aangepaste lay-out&quot; item niet wordt weergegeven in de "
+"vervolgkeuzelijst, controleer dan of het is gepubliceerd en laad deze pagina "
+"opnieuw om de selectievakjes opnieuw te vullen."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:196
 msgid ""
@@ -17727,7 +17756,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:194
 msgid "Integer number"
-msgstr ""
+msgstr "Geheel getal"
 
 #: config-layerslider/config.php:227
 msgid "Integrated (Bundled) LayerSlider Plugin"
@@ -17987,6 +18016,9 @@ msgid ""
 "KEEP IN MIND: Hotspot locations are always relative to source image - make "
 "sure to use images that need the same locations."
 msgstr ""
+"LET OP: Hotspot locaties zijn altijd relatief ten opzichte van de "
+"bronafbeelding - zorg ervoor dat je afbeeldingen gebruikt die dezelfde "
+"locaties nodig hebben."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1515
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1804
@@ -18221,7 +18253,7 @@ msgstr "Lay-out bewerker"
 
 #: config-gutenberg/class-avia-gutenberg.php:677
 msgid "Layout Builder supported"
-msgstr "Layout Builder ondersteund"
+msgstr "Lay-out bewerker ondersteund"
 
 #: config-templatebuilder/avia-shortcodes/page_split.php:61
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:154
@@ -18584,13 +18616,15 @@ msgstr "Vind-ik-leuk & commentaren"
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:153
 #: includes/admin/option_tabs/avia_footer.php:42
 msgid "LIMITATION:"
-msgstr ""
+msgstr "BEPERKING:"
 
 #: includes/admin/option_tabs/avia_builder.php:267
 msgid ""
 "LIMITATION: It might be necessary to make customizations in frontend "
 "templates for 3rd party post types to work with ALB - this is not a bug."
 msgstr ""
+"BEPERKING: Het kan nodig zijn om aanpassingen te maken in frontend sjablonen "
+"voor berichttypen van derden om te werken met ALB - dit is geen bug."
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1900
 msgid "Line Break"
@@ -18708,6 +18742,8 @@ msgid ""
 "Link settings will be ignored when dynamic content contains a link to avoid "
 "breaking of layout."
 msgstr ""
+"Linkinstellingen worden genegeerd wanneer dynamische inhoud een link bevat "
+"om te voorkomen dat de lay-out wordt verbroken."
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:588
 msgid "Link text"
@@ -18737,12 +18773,14 @@ msgstr "Link naar 500px"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:472
 msgid "link to a post: &quot;{post_type},{postID}&quot; (e.g. post,1058)"
-msgstr ""
+msgstr "link naar een post: &quot;{post_type},{postID}&quot; (bijv. post,1058)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:477
 msgid ""
 "link to a taxonomy: &quot;{taxonomy_slug},{termID}&quot; (e.g. category,8)"
 msgstr ""
+"link naar een taxonomie: &quot;{taxonomy_slug},{termID}&quot; (bijv. "
+"categorie,8)"
 
 #: includes/admin/option_tabs/avia_cookie.php:464
 #: includes/admin/option_tabs/avia_cookie.php:598
@@ -18751,7 +18789,7 @@ msgstr "Koppeling naar andere pagina"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:846
 msgid "Link to archiv:"
-msgstr ""
+msgstr "Link naar archief:"
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:426
 msgid "Link to Facebook"
@@ -18763,7 +18801,6 @@ msgid "Link to Google Maps"
 msgstr "Laden van Google Maps"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:715
-#, fuzzy
 #| msgid "Link to the Persons website"
 msgid "Link to the persons website"
 msgstr "Link naar de website van de persoon"
@@ -19233,6 +19270,8 @@ msgid ""
 "Manage static templates. For editable templates use &quot;Custom "
 "Elements&quot;"
 msgstr ""
+"Beheer statische sjablonen. Gebruik &quot;Aangepaste elementen&quot; voor "
+"bewerkbare sjablonen"
 
 #: includes/admin/option_tabs/avia_performance.php:257
 msgid "Manually manage loaded elements"
@@ -19240,7 +19279,7 @@ msgstr "Handmatig beheren van de te laden elementen"
 
 #: framework/php/admin-notices/templates/welcome-update.php:16
 msgid "Many new features are added. Enjoy them ...."
-msgstr ""
+msgstr "Er zijn veel nieuwe functies toegevoegd. Geniet ervan ...."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:269
 msgid "Map Controls"
@@ -19928,11 +19967,11 @@ msgstr "Modern zakelijk"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:168
 msgid "Modifed Date"
-msgstr ""
+msgstr "Gewijzigd datum"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:169
 msgid "Modifed Date And Time"
-msgstr ""
+msgstr "Gewijzigd datum en tijd"
 
 #: includes/admin/option_tabs/avia_layout.php:160
 msgid "Modify the frame color by changing the Body Background in"
@@ -20239,7 +20278,7 @@ msgstr "Nieuw ALB aangepast element"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:171
 msgid "New Custom Layout"
-msgstr ""
+msgstr "Nieuwe aangepaste lay-out"
 
 #: framework/php/class-form-generator.php:1197
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:415
@@ -20353,13 +20392,12 @@ msgstr "Geen toegankelijke cookies gevonden in domein"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1830
 msgid "No ALB Custom Element found"
-msgstr ""
+msgstr "Geen ALB Aangepast element gevonden"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1831
-#, fuzzy
 #| msgid "No ALB Custom Element Templates found in Trash"
 msgid "No ALB Custom Element found in Trash"
-msgstr "Geen ALB aangepaste elementsjablonen gevonden in de prullenbak"
+msgstr "Geen ALB aangepast element gevonden in de prullenbak"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:575
 msgid "No Animation"
@@ -20371,7 +20409,7 @@ msgstr "Geen animatie"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:882
 msgid "No archive link available"
-msgstr ""
+msgstr "Geen archief link beschikbaar"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:747
 msgid "No attachment image available"
@@ -20457,15 +20495,15 @@ msgstr "Geen aangepast element gebruikt - alle opties beschikbaar"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:174
 msgid "No Custom Layouts found"
-msgstr ""
+msgstr "Geen aangepaste lay-outs gevonden"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:175
 msgid "No Custom Layouts found in Trash"
-msgstr ""
+msgstr "Geen aangepaste lay-outs gevonden in prullenbak"
 
 #: framework/php/class-cpt-support.php:336
 msgid "No default"
-msgstr ""
+msgstr "Geen standaard"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:234
 msgid "No description"
@@ -20509,7 +20547,7 @@ msgstr "Geen Evenementen Gevonden"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:218
 msgid "No formatting"
-msgstr ""
+msgstr "Geen formattering"
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:289
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:491
@@ -20775,7 +20813,6 @@ msgid "No theme shortcodes used in widgets"
 msgstr "Geen thema shortcodes gebruikt in widgets"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:262
-#, fuzzy
 #| msgid "No thousands seperator"
 msgid "No thousands separator"
 msgstr "Geen duizendtal scheidingsteken"
@@ -20957,18 +20994,19 @@ msgstr "Niets gevonden"
 #: framework/php/class-admin-notices.php:333
 msgid "Notice box was added to users clicked list: "
 msgstr ""
+"Er is een berichtvak toegevoegd aan de lijst met aangeklikte gebruikers:"
 
 #: framework/php/class-admin-notices.php:291
 msgid "Notice box was already removed from display list (empty list)."
-msgstr ""
+msgstr "Het berichtvak was al verwijderd uit de weergavelijst (lege lijst)."
 
 #: framework/php/class-admin-notices.php:314
 msgid "Notice box was already removed from display list:"
-msgstr ""
+msgstr "Het berichtvak was al verwijderd uit de weergavelijst:"
 
 #: framework/php/class-admin-notices.php:322
 msgid "Notice box was removed from display list:"
-msgstr ""
+msgstr "Het berichtvak is verwijderd uit de weergavelijst:"
 
 #: includes/admin/option_tabs/avia_demo.php:21
 msgid ""
@@ -21591,7 +21629,6 @@ msgid "Other Element: Empty Line"
 msgstr "Ander element: lege regel"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:660
-#, fuzzy
 #| msgid "Other Element: Seperator Headline"
 msgid "Other Element: Separator Headline"
 msgstr "Ander element: Scheidingslijn"
@@ -22068,7 +22105,7 @@ msgstr "Afspeellijst"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:298
 msgid "Playlist Order"
-msgstr "Afspeellijst Volgorde"
+msgstr "Afspeellijst volgorde"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:392
 msgid "Playmode"
@@ -22235,7 +22272,7 @@ msgid ""
 "Please note that the Advanced Layout Builder for products will not work with "
 "all WooCommerce Extensions"
 msgstr ""
-"Let op: de Geavanceerde Layout Builder voor producten werkt niet met alle "
+"Let op: de Geavanceerde Lay-out bewerker voor producten werkt niet met alle "
 "WooCommerce Extensies"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:14
@@ -22275,6 +22312,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:191
 msgid "Please note: keep content simple to avoid breaking of layout."
 msgstr ""
+"Let op: houd de inhoud eenvoudig om te voorkomen dat de lay-out kapotgaat."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:994
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:772
@@ -22521,16 +22559,16 @@ msgstr "Post status van elementen is momenteel niet beschikbaar"
 #: includes/admin/register-portfolio.php:12
 msgctxt "post type general name"
 msgid "Portfolio Items"
-msgstr "Portfolio Items"
+msgstr "Portfolio items"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:177
 msgid "Post Type Link (= Archive)"
-msgstr ""
+msgstr "Link naar berichttype (= Archief)"
 
 #: includes/admin/register-portfolio.php:13
 msgctxt "post type singular name"
 msgid "Portfolio Entry"
-msgstr "Portfolio Item"
+msgstr "Portfolio item"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:266
 #: config-templatebuilder/avia-shortcodes/search/search.php:278
@@ -22560,7 +22598,7 @@ msgstr "Berichten door %s"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1439
 msgid "Posts featured image ID"
-msgstr ""
+msgstr "ID van uitgelichte afbeelding van berichten"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:155
 msgid "Predefined Separators"
@@ -22707,7 +22745,7 @@ msgstr "Problemen met het volgende aankomende evenement onjuist?"
 
 #: config-woocommerce/admin-options.php:173
 msgid "Product Count"
-msgstr ""
+msgstr "Producttelling"
 
 #: includes/admin/option_tabs/avia_shop.php:77
 msgid "Product gallery"
@@ -22858,11 +22896,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:166
 msgid "Publish Date"
-msgstr ""
+msgstr "Publicatiedatum"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:167
 msgid "Publish Date And Time"
-msgstr ""
+msgstr "Publicatiedatum en -tijd"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:516
 msgid "Publishing Date"
@@ -23735,7 +23773,7 @@ msgstr "Dit element opslaan als sjabloon"
 
 #: config-templatebuilder/avia-shortcodes/video/video.php:208
 msgid "Save Video Thumbnail Locally"
-msgstr "Video Thumbnail lokaal opslaan"
+msgstr "Video miniatuur lokaal opslaan"
 
 #: includes/loop-comments.php:37
 msgid "says:"
@@ -23851,11 +23889,11 @@ msgstr "Zoek"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1829
 msgid "Search ALB Custom Elements"
-msgstr ""
+msgstr "Zoek ALB aangepaste elementen"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:173
 msgid "Search Custom Layouts"
-msgstr ""
+msgstr "Zoek aangepaste lay-outs"
 
 #: includes/admin/option_tabs/avia_seo.php:15
 msgid "Search Engine Optimization Support"
@@ -24027,7 +24065,7 @@ msgstr "Beveiliging"
 
 #: includes/admin/option_tabs/avia_builder.php:33
 msgid "See documentation how to use it."
-msgstr ""
+msgstr "Zie documentatie voor het gebruik ervan."
 
 #: includes/admin/option_tabs/avia_google.php:257
 msgid "See Google documentation"
@@ -24485,7 +24523,6 @@ msgstr ""
 "het standaard thema."
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:409
-#, fuzzy
 #| msgid ""
 #| "Select a custom color for the seperator line beside the title here (only "
 #| "available on some styles)"
@@ -24499,6 +24536,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:274
 msgid "Select a custom color for the text. Leave blank to use default."
 msgstr ""
+"Selecteer een aangepaste kleur voor de tekst. Laat leeg om de standaardkleur "
+"te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:447
 msgid "Select a custom color for the toggle icon. Leave empty to use default"
@@ -24655,6 +24694,8 @@ msgid ""
 "Select a custom field containing a string - leave empty to use selectbox "
 "setting:"
 msgstr ""
+"Selecteer een aangepast veld dat een tekenreeks bevat - leeg laten om "
+"selectievakje-instelling te gebruiken:"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:661
 msgid ""
@@ -24662,6 +24703,10 @@ msgid ""
 "replace the selected gallery images above (e.g. 1025,2550,3563,105). Leave "
 "empty to use gallery images above as fallback."
 msgstr ""
+"Selecteer een aangepast veld met een komma gescheiden reeks bijlage-ID's om "
+"de geselecteerde galerijafbeeldingen hierboven te vervangen (bijv. 1025,2550,"
+"3563,105). Laat leeg om bovenstaande galerijafbeeldingen als "
+"reserveafbeeldingen te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:191
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:595
@@ -24670,6 +24715,10 @@ msgid ""
 "above using these image settings (a fallback image must be selected !!!). "
 "Leave empty to use image above as fallback."
 msgstr ""
+"Selecteer een aangepast veld met een bijlage-ID om de geselecteerde "
+"afbeelding hierboven te vervangen met deze afbeeldingsinstellingen (er moet "
+"een reserveafbeelding worden geselecteerd!!). Laat leeg om bovenstaande "
+"afbeelding als reserveafbeelding te gebruiken."
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:450
 msgid ""
@@ -24846,7 +24895,6 @@ msgid "Select a custom font size for the button text."
 msgstr "Selecteer een aangepaste lettergrootte voor de tekst van de knop."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:318
-#, fuzzy
 #| msgid ""
 #| "Select a custom font size for the button text. Used for all buttons, can "
 #| "also be set for each button seperate."
@@ -24899,7 +24947,7 @@ msgstr "Kies een aangepaste lettergrootte voor de tekst van het opschrift."
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:235
 msgid "Select a custom font size for the dynamic field content"
-msgstr ""
+msgstr "Selecteer een aangepaste lettergrootte voor de dynamische veldinhoud"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:423
 msgid "Select a custom font size for the event title."
@@ -25380,6 +25428,9 @@ msgid ""
 "Select an entry whose content will be used to display in frontend. In active "
 "beta is to use classic editor content and block editor content."
 msgstr ""
+"Selecteer een item waarvan de inhoud wordt gebruikt om op de site weer te "
+"geven. In actieve bèta wordt de inhoud van de klassieke editor en de inhoud "
+"van de blokeditor gebruikt."
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:697
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:915
@@ -25471,6 +25522,10 @@ msgid ""
 "pseudo code will be displayed instead. Please save the post to update "
 "metabox content in database whenever you add or change a metabox content."
 msgstr ""
+"Selecteer een onderliggend bericht om echte gegevens weer te geven. Als er "
+"niets is geselecteerd, wordt er pseudocode weergegeven. Sla het bericht op "
+"om de metaboxinhoud in de database bij te werken wanneer je metaboxinhoud "
+"toevoegt of wijzigt."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:320
 msgid "Select animation play speed"
@@ -25853,6 +25908,9 @@ msgid ""
 "Select if you want to use dynamic content (e.g. post data, custom fields) "
 "and create modifiable custom layouts for post types."
 msgstr ""
+"Selecteer of je dynamische inhoud wilt gebruiken (bijv. berichtgegevens, "
+"aangepaste velden) en aanpasbare aangepaste lay-outs voor berichttypen wilt "
+"maken."
 
 #: includes/admin/option_tabs/avia_google.php:79
 msgid ""
@@ -25880,7 +25938,7 @@ msgstr "Selecteer afbeeldingen"
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:160
 msgid "Select Layout Entry"
-msgstr ""
+msgstr "Selecteer lay-out item"
 
 #: includes/admin/option_tabs/avia_performance.php:58
 msgid ""
@@ -26776,6 +26834,9 @@ msgid ""
 "Select to extend CPTs (Custom Post Types): show taxonomies and thumbnail in "
 "post type edit table, select a default term for CPT posts."
 msgstr ""
+"Selecteer om aangepaste berichttypen uit te breiden: toon taxonomieën en "
+"miniaturen in de tabel voor het bewerken van berichttypen, selecteer een "
+"standaardterm voor deze berichten."
 
 #: includes/admin/option_tabs/avia_cookie.php:830
 msgid ""
@@ -27264,7 +27325,6 @@ msgid "Separate Sidebars For Blog And Archive Pages"
 msgstr "Afzonderlijke zijbalken voor blog en archiefpagina's"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:280
-#, fuzzy
 #| msgid "Seperator"
 msgid "Separator"
 msgstr "Scheidingsteken"
@@ -27405,7 +27465,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:301
 msgid "Set a margin to the surrounding container."
-msgstr ""
+msgstr "Stel een marge in ten opzichte van de omringende container."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:203
 msgid "Set a position for the animation."
@@ -27434,7 +27494,6 @@ msgid "Set a responsive padding to text for the button."
 msgstr "Stel een responsieve padding in voor de tekst van de knop."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:358
-#, fuzzy
 #| msgid ""
 #| "Set a responsive padding to text for the buttons. Used for all buttons, "
 #| "can also be set for each button seperate."
@@ -27442,8 +27501,8 @@ msgid ""
 "Set a responsive padding to text for the buttons. Used for all buttons, can "
 "also be set for each button separate."
 msgstr ""
-"Stel een responsieve padding in voor de tekst van de knoppen. Wordt gebruikt "
-"voor alle knoppen, kan ook voor elke knop apart worden ingesteld."
+"Stel een responsieve binnenmarge in voor de tekst van de knoppen. Wordt "
+"gebruikt voor alle knoppen, kan ook voor elke knop apart worden ingesteld."
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:476
 #: config-templatebuilder/avia-shortcodes/section/section.php:454
@@ -27481,10 +27540,9 @@ msgid "Set Manually"
 msgstr "Stel handmatig in"
 
 #: config-woocommerce/admin-options.php:545
-#, fuzzy
 #| msgid "Set opacity for color Overlay"
 msgid "Set Opacity For Color Overlay"
-msgstr "Dekking instellen voor kleur Overlay"
+msgstr "Ondoorzichtigheid instellen voor kleur Overlay"
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1198
 msgid "Set preview background:"
@@ -27950,7 +28008,7 @@ msgstr "Winkel opties"
 
 #: includes/admin/option_tabs/avia_shop.php:116
 msgid "Shop Page Banner Location"
-msgstr ""
+msgstr "Locatie winkelpagina banner"
 
 #: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:2968
 msgid "Shopping Cart"
@@ -28265,10 +28323,9 @@ msgid "Show feed header"
 msgstr "Toon feed header"
 
 #: config-woocommerce/admin-options.php:265
-#, fuzzy
 #| msgid "Yes - show first gallery image on hover"
 msgid "Show first gallery image on hover"
-msgstr "Ja - toon eerste galerij afbeelding bij hover"
+msgstr "Toon eerste galerij afbeelding bij muis-over"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:276
 #: config-templatebuilder/avia-shortcodes/video/video.php:278
@@ -30053,15 +30110,15 @@ msgstr "Tag cloud"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:180
 msgid "Tag Links"
-msgstr ""
+msgstr "Tag links"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:181
 msgid "Tag Names"
-msgstr ""
+msgstr "Tag namen"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:961
 msgid "Tag:"
-msgstr ""
+msgstr "Tag:"
 
 #: includes/admin/register-portfolio.php:175
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:513
@@ -30223,11 +30280,11 @@ msgstr "Tekst"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:193
 msgid "Text (autoformat)"
-msgstr ""
+msgstr "Tekst (automatisch formaat)"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:192
 msgid "Text (HTML escaped)"
-msgstr ""
+msgstr "Tekst (HTML escaped)"
 
 #: includes/admin/register-backend-advanced-styles.php:712
 msgid "Text Align"
@@ -30882,7 +30939,7 @@ msgstr ""
 
 #: config-acf/class-avia-acf.php:227
 msgid "Theme ACF shortcode"
-msgstr ""
+msgstr "Thema ACF shortcode"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1364
 msgid "Theme Color"
@@ -30908,7 +30965,7 @@ msgstr "Themakleuren"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1434
 msgid "Theme Custom Field Shortcode"
-msgstr ""
+msgstr "Thema aangepast veld shortcode"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:191
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:467
@@ -31140,16 +31197,22 @@ msgstr ""
 #: config-woocommerce/admin-options.php:150
 msgid "This controls how many columns should appear on overview pages"
 msgstr ""
+"Hiermee bepaal je hoeveel kolommen er moeten verschijnen op "
+"overzichtspagina's"
 
 #: config-woocommerce/admin-options.php:175
 msgid "This controls how many products should appear on overview pages."
 msgstr ""
+"Hiermee bepaal je hoeveel producten er op overzichtspagina's moeten "
+"verschijnen."
 
 #: framework/php/class-cpt-support.php:296
 msgid ""
 "This default term will always be set when you save a post without manually "
 "selecting a term."
 msgstr ""
+"Deze standaardterm wordt altijd ingesteld als je een bericht opslaat zonder "
+"handmatig een term te selecteren."
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_button.php:36
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_info.php:36
@@ -31196,6 +31259,8 @@ msgid ""
 "This element is disabled in your theme options. You can enable it in Enfold "
 "&raquo; Layout Builder"
 msgstr ""
+"Dit element is uitgeschakeld in de opties van je thema. Je kunt het "
+"inschakelen in Enfold &raquo; Lay-out Builder"
 
 #: includes/helper-assets.php:330
 #: config-templatebuilder/avia-shortcode-legacy/video.php:45
@@ -31217,6 +31282,9 @@ msgid ""
 " Consider to switch to new element &quot;Custom Layout&quot; which offers "
 "the same features."
 msgstr ""
+"Dit element wordt bewaard voor achterwaartse compatibiliteit en wordt niet "
+"langer onderhouden. Overweeg om over te stappen op het nieuwe element &quot;"
+"Custom Layout&quot; dat dezelfde functies biedt."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:287
 msgid "This element only works with activated advanced layout builder"
@@ -31433,29 +31501,29 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:190
 msgid "Those icons can then be used in your Layout Builder."
-msgstr "Deze iconen kunnen dan gebruikt worden in uw Lay-out builder"
+msgstr "Deze iconen kunnen dan gebruikt worden in uw Lay-out bewerker"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:286
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:374
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:575
 msgid "Thumbnail"
-msgstr "Thumbnail"
+msgstr "Miniatuur"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:303
 msgid "Thumbnail Columns"
-msgstr "Thumbnail kolommen"
+msgstr "Miniatuur kolommen"
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:460
 msgid "Thumbnail fade in effect"
-msgstr "Thumbnail fade-in effect"
+msgstr "Miniatuur fade-in effect"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:389
 msgid "Thumbnail Image"
-msgstr "Thumbnail afbeelding"
+msgstr "Miniatuurafbeelding"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:573
 msgid "Thumbnail size"
-msgstr "Thumbnail omvang"
+msgstr "Miniatuur omvang"
 
 #: includes/admin/option_tabs/avia_styling.php:361
 #: includes/admin/option_tabs/avia_styling.php:501
@@ -31791,6 +31859,9 @@ msgid ""
 "To see real custom field data during designing select an &quot;Underlying "
 "Entry ID&quot; in metabox &quot;Enfold Custom Layout Settings&quot;"
 msgstr ""
+"Om de echte aangepaste veldgegevens te zien tijdens het ontwerpen, selecteer "
+"je een &quot;Onderliggend bericht-ID&quot; in metabox &quot;Enfold "
+"Aangepaste lay-out instellingen&quot;"
 
 #: includes/admin/option_tabs/avia_styling.php:612
 #, php-format
@@ -32356,7 +32427,7 @@ msgstr "Onderstreept"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:817
 msgid "Underlying Entry ID (Used Only For Preview !!)"
-msgstr ""
+msgstr "Onderliggend bericht-ID (alleen gebruikt voor voorbeeldweergave !!)"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:62
 msgid "Undo"
@@ -32364,7 +32435,7 @@ msgstr "Ongedaan maken"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:191
 msgid "Unformatted text"
-msgstr ""
+msgstr "Ongeformatteerde tekst"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:156
 msgid "Unique ID for ALB element"
@@ -32413,7 +32484,7 @@ msgstr "onbekende pictogramnaam"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1025
 msgid "Unknown WP key"
-msgstr ""
+msgstr "Onbekende WP sleutel"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3023
 #, php-format
@@ -33396,6 +33467,10 @@ msgid ""
 "social media like facebook, X, ..) or custom field content will use data of "
 "this page and NOT from the page where this footer page is used."
 msgstr ""
+"Als u ALB-elementen gebruikt met paginaspecifieke inhoud (zoals share-links "
+"voor sociale media zoals facebook, X, ...) of aangepaste veldinhoud, worden "
+"gegevens van deze pagina gebruikt en NIET van de pagina waarop deze "
+"voettekstpagina wordt gebruikt."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:709
 msgid ""
@@ -33570,7 +33645,7 @@ msgstr "Video als dia"
 
 #: framework/php/function-set-avia-ajax.php:1166
 msgid "Video thumbnail already exist in the media library (Attachment ID: %d)"
-msgstr "Video thumbnail bestaat al in de mediabibliotheek (Attachment ID: %d)"
+msgstr "Video miniatuur bestaat al in de mediabibliotheek (Attachment ID: %d)"
 
 #: framework/php/function-set-avia-ajax.php:1248
 msgid "Video thumbnail is now available in the media library:"
@@ -33588,7 +33663,7 @@ msgstr "Alleen videos"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1828
 msgid "View ALB Custom Element"
-msgstr ""
+msgstr "Bekijk ALB aangepast element"
 
 #: functions-enfold.php:366
 msgid "View all results"
@@ -33596,7 +33671,7 @@ msgstr "Bekijk alle resultaten"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:172
 msgid "View Custom Layout"
-msgstr ""
+msgstr "Bekijk aangepaste lay-out"
 
 #: config-woocommerce/config-356.php:469 config-woocommerce/config.php:808
 msgid "View Order"
@@ -33879,6 +33954,10 @@ msgid ""
 "plugin to get a WP similar behaviour that you are used from WP posts. Making "
 "changes to CPTs from other plugins might lead to unexpected results."
 msgstr ""
+"We raden aan om hier alleen wijzigingen aan te brengen voor CPT's die je "
+"bijvoorbeeld toevoegt met de ACF-plugin om een gedrag te krijgen dat lijkt "
+"op wat je gewend bent van WP berichten. Wijzigingen aanbrengen in CPTs van "
+"andere plugins kan leiden tot onverwachte resultaten."
 
 #: includes/admin/option_tabs/avia_demo.php:19
 msgid ""
@@ -33893,6 +33972,9 @@ msgid ""
 "We recommend to use ACF (Advanced Custom Field) plugin for a user friendly "
 "way to manage content of custom fields and custom post types:"
 msgstr ""
+"We raden aan om de ACF (Advanced Custom Field) plugin te gebruiken voor een "
+"gebruiksvriendelijke manier om de inhoud van aangepaste velden en aangepaste "
+"berichttypes te beheren:"
 
 #: includes/admin/option_tabs/avia_upload.php:16
 msgid ""
@@ -34054,7 +34136,7 @@ msgstr ""
 #: framework/php/admin-notices/templates/welcome-update.php:15
 #, php-format
 msgid "Welcome to version %1$s of %2$s - version update was successful"
-msgstr ""
+msgstr "Welkom bij versie %1$s van %2$s - versie-update was succesvol"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:535
 msgid "were detected parsing the shortcodes."
@@ -34191,12 +34273,18 @@ msgid ""
 "When using ACF fields select &quot;Format&quot; to display e.g. links, "
 "images, ... and not only text or attachment ids."
 msgstr ""
+"Als je ACF velden gebruikt, selecteer dan &quot;Formaat&quot; om "
+"bijvoorbeeld links, afbeeldingen, ... weer te geven en niet alleen tekst of "
+"bijlagen."
 
 #: includes/admin/option_tabs/avia_builder.php:268
 msgid ""
 "When using ACF plugin to add custom post types the post type is set in "
 "option &quot;Post Type Key&quot; and it must be set to public."
 msgstr ""
+"Bij gebruik van de ACF-plugin om aangepaste berichttypen toe te voegen, "
+"wordt het berichttype ingesteld in de optie &quot;Berichttype sleutel&quot; "
+"en deze moet worden ingesteld op public."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:692
 msgid ""
@@ -34436,7 +34524,7 @@ msgstr "Widget titel:"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-manager.php:1682
 msgid "Widget Usage - which elements are used in the sidebar widgets"
-msgstr "Widget Gebruik - welke elementen worden gebruikt in de zijbalk widgets"
+msgstr "Widget gebruik - welke elementen worden gebruikt in de zijbalk widgets"
 
 #: includes/admin/option_tabs/avia_sidebars.php:155
 msgid "Widgets Page"
@@ -34460,7 +34548,6 @@ msgstr ""
 "ondersteunt"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:281
-#, fuzzy
 #| msgid "Will be used to seperate multiple metadata"
 msgid "Will be used to separate multiple metadata"
 msgstr "Wordt gebruikt om meerdere metagegevens te scheiden"
@@ -34544,15 +34631,15 @@ msgstr "WooCommerce Sorteer Opties"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:335
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:462
 msgid "WooCommerce Sorting Order"
-msgstr "WooCommerce Sorteer Volgorde"
+msgstr "WooCommerce sorteer volgorde"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2869
 msgid "Wordpress Default Editor enabled"
-msgstr "Wordpress Standaard Editor ingeschakeld"
+msgstr "WordPress standaard editor ingeschakeld"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2927
 msgid "Wordpress Editor"
-msgstr "Wordpress Editor"
+msgstr "WordPress editor"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:202
 msgid "WordPress will convert the html tags to readable text."
@@ -34583,7 +34670,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:159
 msgid "WP Custom Fields"
-msgstr ""
+msgstr "WP Aangepaste velden"
 
 #: framework/php/class-responsive-images.php:1416
 msgid "WP default size"
@@ -34591,11 +34678,11 @@ msgstr "WP standaard afmeting"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:158
 msgid "WP Post Advanced"
-msgstr ""
+msgstr "WP Bericht geavanceerd"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:157
 msgid "WP Post Data"
-msgstr ""
+msgstr "WP Bericht gegevens"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2664
 msgid "WP result:"
@@ -34785,7 +34872,7 @@ msgstr "Ja, overal tonen"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:359
 msgid "Yes - display, but remove title on mobile devices"
-msgstr "Ja - Laat zien, maar geen titel op mobiele apparaten"
+msgstr "Ja, laat zien, maar geen titel op mobiele apparaten"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:242
 msgid "Yes, always display copyright info"
@@ -34797,7 +34884,7 @@ msgstr "Ja, toon een sluiten knop - Zet cookie voor de huidige sessie"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:229
 msgid "Yes, display a Close Button - Set Cookie with a custom Lifetime"
-msgstr "Ja, toon een Sluiten Knop - Zet Cookie met een aangepaste Levensduur"
+msgstr "Ja, toon een Sluiten Knop - Zet cookie met een aangepaste levensduur"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:228
 msgid "Yes, display an icon after the number"
@@ -34866,6 +34953,9 @@ msgid ""
 " This would result in an infinite loop. Please select a different entry or "
 "remove the element."
 msgstr ""
+"Je hebt een aangepast lay-out element toegevoegd aan dit item dat zichzelf "
+"probeert weer te geven. Dit resulteert in een oneindige lus. Selecteer een "
+"ander item of verwijder het element."
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:343
 msgid ""
@@ -34879,7 +34969,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:137
 msgid "You are free to choose an entry of any post type."
-msgstr ""
+msgstr "Je bent vrij om een bericht van elk type te kiezen."
 
 #: framework/php/class-breadcrumb-trail.php:85
 msgid "You are here:"
@@ -34975,7 +35065,6 @@ msgstr ""
 "Action Knoppen' toe bij het bijschrift"
 
 #: includes/admin/option_tabs/avia_shop.php:92
-#, fuzzy
 #| msgid ""
 #| "You can choose to display a parallax banner with description on the shop "
 #| "page"
@@ -34983,8 +35072,8 @@ msgid ""
 "You can choose to display a fullwidth banner with description on the shop "
 "page"
 msgstr ""
-"U kunt ervoor kiezen om een parallaxbanner met beschrijving weer te geven op "
-"de webshop-pagina"
+"U kunt ervoor kiezen om een paginabrede banner met beschrijving weer te "
+"geven op de webshop-pagina"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:632
 msgid ""
@@ -35012,7 +35101,7 @@ msgstr "U kunt hier verschillende logo- en hoofdmenuposities selecteren"
 
 #: includes/admin/option_tabs/avia_shop.php:117
 msgid "You can choose where to display the shop page banner."
-msgstr ""
+msgstr "Je kunt kiezen waar je de banner van de winkelpagina wilt weergeven."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1976
 msgid ""
@@ -35106,13 +35195,13 @@ msgstr "U kunt hier uw API-sleutel invoeren"
 
 #: includes/admin/option_tabs/avia_newsletter.php:17
 msgid "You can find your API key here"
-msgstr "U kunt hier uw API sleutel vinden"
+msgstr "U kunt hier uw API-sleutel vinden"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:590
 msgid "You can hide it depending on the device: Tab Advanced -&gt; Responsive"
 msgstr ""
 "U kunt het verbergen afhankelijk van het apparaat: Tabblad Geavanceerd -&gt; "
-"Responsive"
+"Responsief"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:351
 msgid "You can only hide form fields that are not required"
@@ -35176,7 +35265,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:461
 msgid "You can set when the gallery thumbnail animation starts"
-msgstr "U kunt instellen wanneer de animatie van de thumbnail start"
+msgstr "U kunt instellen wanneer de animatie van de miniatuur start"
 
 #: includes/admin/option_tabs/avia_upload.php:188
 msgid "You can upload additional Iconfont Packages generated with"
@@ -35221,8 +35310,9 @@ msgid ""
 "You got content in your editor that can't be convert to Layout Builder "
 "content. Click OK if you want to proceed and lose this content."
 msgstr ""
-"Je hebt inhoud in je editor die niet kan worden geconverteerd naar Layout "
-"Builder-inhoud. Klik op OK als u wilt doorgaan en deze inhoud wilt verliezen."
+"Je hebt inhoud in je editor die niet kan worden geconverteerd naar Lay-out "
+"bewerker inhoud. Klik op OK als u wilt doorgaan en deze inhoud wilt "
+"verliezen."
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:49
 msgid "You have not sufficient rights to perform this operation."
@@ -35341,12 +35431,17 @@ msgid ""
 "avoid endless loops and broken layout it will be ignored in the selected "
 "entry in frontend."
 msgstr ""
+"Je geselecteerde item mag geen &quot;Aangepaste lay-out&quot; element "
+"bevatten. Om eindeloze lussen en gebroken lay-outs te voorkomen, wordt deze "
+"genegeerd in het geselecteerde item in de website."
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:128
 msgid ""
 "Your selected entry should be built using ALB (Advanced Layout Builder). In "
 "active beta also non ALB entries can be used."
 msgstr ""
+"Je geselecteerde invoer moet zijn gebouwd met ALB (Geavanceerde Lay-out "
+"bewerker). In actieve bèta kunnen ook niet ALB-vermeldingen worden gebruikt."
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:13
 msgid "Your session timed out. Simply reload the page and try again"
@@ -35423,7 +35518,7 @@ msgstr "Inzoomen"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:279
 msgid "Zoom Level"
-msgstr "Zoomniveau"
+msgstr "Zoom niveau"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:542
 msgid "Zoom Level:"
