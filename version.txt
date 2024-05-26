@@ -1,3 +1,6 @@
+2024_05_26
+- Italian language files it_IT (version 6.0, provided by BigBatT - info@luigicircello.it)
+- Dutch language files nl_NL (version 6.0, provided by EZWebdesign - Roger Hoen )
 
 2024_05_22
 - sync all language files (6.0-dev-0)
