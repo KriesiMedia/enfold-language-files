@@ -1,3 +1,6 @@
+2024_05_30
+- French language files fr_FR (version 6.0 provided by comkapi - Patrick)
+
 2024_05_26
 - Italian language files it_IT (version 6.0, provided by BigBatT - info@luigicircello.it)
 - Dutch language files nl_NL (version 6.0, provided by EZWebdesign - Roger Hoen )
