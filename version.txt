@@ -1,5 +1,8 @@
+2024_06_01
+- Croatian language files hr (version 6.0, provided by NUIT d.o.o. - info@nuit.hr )
+
 2024_05_30
-- French language files fr_FR (version 6.0 provided by comkapi - Patrick)
+- French language files fr_FR (version 6.0, provided by comkapi - Patrick)
 
 2024_05_26
 - Italian language files it_IT (version 6.0, provided by BigBatT - info@luigicircello.it)
