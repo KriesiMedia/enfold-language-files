@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold 3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-03 16:01+0200\n"
-"PO-Revision-Date: 2024-05-22 10:10+0000\n"
+"PO-Revision-Date: 2024-05-31 14:46+0200\n"
 "Last-Translator: \n"
 "Language-Team: Croatian\n"
 "Language: hr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Loco https://localise.biz/\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -89,7 +89,7 @@ msgstr " dodaje gumb prihvati kolačiće"
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:546
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:547
 msgid " ALB Elements"
-msgstr ""
+msgstr "ALB elementi"
 
 #: includes/admin/option_tabs/avia_cookie.php:233
 msgid ""
@@ -158,7 +158,7 @@ msgstr " Provjerite reCAPTCHA API ključeve verzije 2"
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:339
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:340
 msgid " Custom Layouts"
-msgstr ""
+msgstr " Prilagođeni izgledi"
 
 #: includes/admin/option_tabs/avia_cookie.php:234
 msgid ""
@@ -174,7 +174,7 @@ msgstr " Samo u slučaju da su kontrole nužne."
 
 #: config-woocommerce/admin-options.php:142
 msgid " Theme</strong> and wont appear on other themes</small>"
-msgstr ""
+msgstr "Tema</strong> i neće se pojaviti na drugim temama</small>"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:500
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:333
@@ -210,7 +210,7 @@ msgstr "%1$s pri %2$s"
 #: framework/php/admin-notices/admin-notices-def.php:47
 #, php-format
 msgid "%1$s update to version %2$s was successfull"
-msgstr ""
+msgstr "%1$s ažuriranje na verziju %2$s je uspješno"
 
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:254
 msgid "%d comment(s) need to be approved."
@@ -318,7 +318,7 @@ msgstr "Gumb &quot;Pratite na Instagramu&quot; gumb"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:482
 msgid "&quot;lightbox&quot;"
-msgstr ""
+msgstr "&quot;lightbox&quot;"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:427
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:557
@@ -327,7 +327,7 @@ msgstr "Gumb &quot;Učitaj više&quot; gumb"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:487
 msgid "&quot;no-link&quot;"
-msgstr ""
+msgstr "&quot;nema poveznice&quot;"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_tabs.php:55
 msgid ""
@@ -451,7 +451,7 @@ msgstr ""
 
 #: framework/php/admin-notices/admin-notices-def.php:39
 msgid "(Parent Theme)"
-msgstr ""
+msgstr "(Nadređena tema)"
 
 #: includes/admin/option_tabs/avia_avia.php:86
 msgid "(Show example Screenshot)"
@@ -473,7 +473,7 @@ msgstr "(Vidljivo samo administratorima.)"
 
 #: framework/php/class-cpt-support.php:366
 msgid "***  Custom Post Type:"
-msgstr ""
+msgstr "*** Prilagođeni tip objave:"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:453
 msgid "- Box shadow does not work when you select to zoom the image."
@@ -489,8 +489,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:704
 msgid "-- Bubble Chart datapoint structure: x/y/r  (e.g. 5/20/3;15/30/2 )"
 msgstr ""
-"- struktura mjehuričastog dijagrama podatkovne točke: x/y/r (npr. 5/20/3;"
-"15/30/2 )"
+"- struktura mjehuričastog dijagrama podatkovne točke: x/y/r (npr. "
+"5/20/3;15/30/2 )"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:705
 msgid "-- Scatter Chart datapoint structure: x/y  (e.g. 5/20;10/15 ) "
@@ -899,8 +899,8 @@ msgid ""
 "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">General "
 "Settings</a>"
 msgstr ""
-"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Opće "
-"postavke</a>"
+"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Opće postavke</"
+"a>"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:103
 #, php-format
@@ -921,8 +921,8 @@ msgstr "<span class=\"av-screen-reader-only\"> na %s</span>"
 
 #: includes/class-avia-custom-pages.php:441
 msgid ""
-"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode "
-"Enabled</span>"
+"<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode Enabled</"
+"span>"
 msgstr ""
 "<span style=\"color: #ff33ff; font-weight: bold;\">Omogućen je način "
 "održavanja</span>"
@@ -935,8 +935,8 @@ msgid ""
 "Group</a> - <a href='http://www.kriesi.at/newsletter'>Subscribe to our "
 "Newsletter</a>"
 msgstr ""
-"<strong>Superfleksibilna i responzivna poslovna tema tvrtke Kriesi</strong> -"
-" Ažurirajte obavijesti dostupne na Facebooku i putem newslettera: - <a "
+"<strong>Superfleksibilna i responzivna poslovna tema tvrtke Kriesi</strong> "
+"- Ažurirajte obavijesti dostupne na Facebooku i putem newslettera: - <a "
 "href='http://www.facebook.com/pages/Kriesi/333648177216'>Pridružite se "
 "Facebook grupi</a> - <a href='http://www.kriesi.at/newsletter'>Pretplatite "
 "se na naš Newsletter</a>"
@@ -947,11 +947,11 @@ msgstr "[av_privacy_custom_cookie cookie_name=\"\"]"
 
 #: includes/admin/option_tabs/avia_cookie.php:874
 msgid ""
-"[av_privacy_custom_cookie cookie_name=\"\"]Your text "
-"here[/av_privacy_custom_cookie] "
+"[av_privacy_custom_cookie cookie_name=\"\"]Your text here[/"
+"av_privacy_custom_cookie] "
 msgstr ""
-"[av_privacy_custom_cookie cookie_name=\"\"] Vaš tekst "
-"ovdje[/av_privacy_custom_cookie] "
+"[av_privacy_custom_cookie cookie_name=\"\"] Vaš tekst ovdje[/"
+"av_privacy_custom_cookie] "
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:47
 msgid "A (Lowest)"
@@ -1046,8 +1046,8 @@ msgstr "Popis svih podržanih video usluga možete pronaći na"
 
 #: framework/php/class-grecaptcha.php:333
 msgid ""
-"A network timeout problem occurred. Could be caused by an invalid V3 sitekey."
-" Please recheck the key and try again."
+"A network timeout problem occurred. Could be caused by an invalid V3 "
+"sitekey. Please recheck the key and try again."
 msgstr ""
 "Došlo je do problema s prekoračenjem vremena mreže. Može biti uzrokovano "
 "nevaljanim V3 ključem web-mjesta. Molimo da provjerite ključ i pokušate "
@@ -1061,15 +1061,15 @@ msgstr "dostupna je nova verzija %s."
 #: framework/php/auto-updates/class-avia-auto-updates.php:487
 #, php-format
 msgid ""
-"A new Version (%s) of your %s is available! You are using Version %s. <br/>"
-"See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
+"A new Version (%s) of your %s is available! You are using Version %s. <br/"
+">See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
 "changelog/' target='_blank' rel='noopener noreferrer'>change log</a>. Do you "
 "want to update?<br/><br/>"
 msgstr ""
-"Dostupna je vaša nova verzija (%s) %s ! Koristite verziju %s. <br/>"
-"Pogledajte što je novo u <a href='https://kriesi."
-"at/documentation/enfold/enfold-changelog/' target='_blank' rel='noopener "
-"noreferrer'>zapisniku promjena</a>. Želite li ažurirati?<br/><br/>"
+"Dostupna je vaša nova verzija (%s) %s ! Koristite verziju %s. <br/"
+">Pogledajte što je novo u <a href='https://kriesi.at/documentation/enfold/"
+"enfold-changelog/' target='_blank' rel='noopener noreferrer'>zapisniku "
+"promjena</a>. Želite li ažurirati?<br/><br/>"
 
 #: framework/php/class-form-generator.php:1083
 msgid "A non functional image only preview for checkbox of Google reCAPTCHA"
@@ -1277,7 +1277,7 @@ msgstr "Poveznica na stranicu računa"
 
 #: config-acf/class-avia-acf.php:222
 msgid "ACF - Advanced Custom Fields"
-msgstr ""
+msgstr "ACF - Napredna prilagođena polja"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:189
 msgid "Action with codeblock"
@@ -1356,7 +1356,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:272
 msgid "Activate Your Custom Post Types For ALB"
-msgstr ""
+msgstr "Aktivirajte svoje prilagođene tipove objava za ALB"
 
 #: includes/admin/option_tabs/avia_seo.php:55
 msgid "Activated"
@@ -1425,10 +1425,6 @@ msgid "Add a box-shadow to the row"
 msgstr "Dodavanje sjene okvira u redak"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:740
-#, fuzzy
-#| msgid ""
-#| "Add a color for each datapoint, seperate by ; (e.g. #fefefe;#efefef;green)"
-#| ". Missing colors will loop from the beginning again."
 msgid ""
 "Add a color for each datapoint, separate by ; (e.g. #fefefe;#efefef;green). "
 "Missing colors will loop from the beginning again."
@@ -1689,7 +1685,7 @@ msgstr "Dodavanje bloka koda sadržaju"
 
 #: framework/php/class-cpt-support.php:380
 msgid "Add columns (taxonomy with terms, thumbnail)"
-msgstr ""
+msgstr "Dodaj stupce (taksonomija s pojmovima, slika)"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:190
 msgid ""
@@ -1697,6 +1693,9 @@ msgid ""
 "content or only static content (e.g. for descriptive text in an ALB table "
 "element column)"
 msgstr ""
+"Dodajte sadržaj za prikazivanje koristeći sadržaj prilagođenih polja "
+"kombiniran s statičkim sadržajem ili samo statičkim sadržajem (npr. za "
+"opisni tekst u stupcu elementa tablice ALB-a)"
 
 #: includes/helper-conditional-megamenu.php:169
 msgid "Add custom css class"
@@ -1772,11 +1771,11 @@ msgstr "Dodajte više slika"
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:168
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1824
 msgid "Add New"
-msgstr ""
+msgstr "Dodaj novi"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1825
 msgid "Add New ALB Custom Element"
-msgstr ""
+msgstr "Dodaj novi predložak prilagođenog elementa ALB-a"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2473
 msgid "Add New Custom Element"
@@ -1784,7 +1783,7 @@ msgstr "Dodaj novi prilagođeni element"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:169
 msgid "Add New Custom Layout"
-msgstr ""
+msgstr "Dodaj novi prilagođeni izgled"
 
 #: includes/admin/register-portfolio.php:16
 msgid "Add New Portfolio Entry"
@@ -1859,10 +1858,6 @@ msgid "Add the border or line colors."
 msgstr "Dodajte obrub ili liniju boja."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:703
-#, fuzzy
-#| msgid ""
-#| "Add the dataset datapoints. Seperate with ;. Use numeric values for a "
-#| "point (e.g. 5, 5.20)"
 msgid ""
 "Add the dataset datapoints. Separate with ;. Use numeric values for a point "
 "(e.g. 5, 5.20)"
@@ -1871,11 +1866,6 @@ msgstr ""
 "vrijednosti za točku (npr. 5, 5.20)"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:283
-#, fuzzy
-#| msgid ""
-#| "Add the descriptive x-axis lables for your data points. Seperate with ;. "
-#| "Number of labels should correspond with number of datapoints. Default "
-#| "labels are created if needed."
 msgid ""
 "Add the descriptive x-axis lables for your data points. Separate with ;. "
 "Number of labels should correspond with number of datapoints. Default labels "
@@ -2108,13 +2098,6 @@ msgid "Admin notice for:"
 msgstr "Obavijest administratora za:"
 
 #: includes/admin/option_tabs/avia_avia.php:50
-#, fuzzy
-#| msgid ""
-#| "Administrators may upload svg files to media library. We also support a "
-#| "paths to local filesystem or urls that are not in the media library (not "
-#| "recommended for security reasons, must start with http:// or https://). "
-#| "If we cannot read the content of this url on pageload we render the url "
-#| "in an img tag as fallback."
 msgid ""
 "Administrators may upload svg files to media library. We also support paths "
 "to local filesystem or urls that are not in the media library (not "
@@ -2271,13 +2254,13 @@ msgstr "Napredni stil"
 
 #: includes/admin/option_tabs/avia_element_templates.php:23
 msgid ""
-"Advanced Users can have <a href=\"https://kriesi."
-"at/documentation/enfold/custom-element-templates/#custom-elements-advanced-"
-"options\" target=\"_blank\" rel=\"noopener noreferrer\"> more options.</a>"
+"Advanced Users can have <a href=\"https://kriesi.at/documentation/enfold/"
+"custom-element-templates/#custom-elements-advanced-options\" "
+"target=\"_blank\" rel=\"noopener noreferrer\"> more options.</a>"
 msgstr ""
-"Napredni korisnici mogu imati <a href=\"https://kriesi."
-"at/documentation/enfold/custom-element-templates/#custom-elements-advanced-"
-"options\" target=\"_blank\" rel=\"noopener noreferrer\"> više mogućnosti.</a>"
+"Napredni korisnici mogu imati <a href=\"https://kriesi.at/documentation/"
+"enfold/custom-element-templates/#custom-elements-advanced-options\" "
+"target=\"_blank\" rel=\"noopener noreferrer\"> više mogućnosti.</a>"
 
 #: framework/php/widgets/widget-classes/class-avia-partner.php:100
 #: framework/php/widgets/widget-classes/class-avia-partner.php:102
@@ -2297,12 +2280,11 @@ msgid ""
 "After activating this feature you must reload backend to load the necessary "
 "menus to work with the &quot;Custom Layout Screens&quot;."
 msgstr ""
+"Nakon aktiviranja ove značajke morate ponovno učitati sučelje kako biste "
+"učitali potrebne izbornike za rad s &quot;zaslonima prilagođenog "
+"izgleda&quot;."
 
 #: includes/admin/option_tabs/avia_element_templates.php:191
-#, fuzzy
-#| msgid ""
-#| "After activating this feature you must reload backend to load the "
-#| "necssary menus to work with the CPT screens."
 msgid ""
 "After activating this feature you must reload backend to load the necessary "
 "menus to work with the CPT screens."
@@ -2482,7 +2464,7 @@ msgstr "Sve"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1823
 msgid "All ALB Custom Elements"
-msgstr ""
+msgstr "Svi prilagođeni elementi ALB-a"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:900
 msgid "All ALB Elements"
@@ -2501,7 +2483,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:167
 msgid "All Custom Layouts"
-msgstr ""
+msgstr "Svi prilagođeni izgledi"
 
 #: framework/php/font-management/class-avia-type-fonts.php:237
 msgid ""
@@ -2526,7 +2508,7 @@ msgstr "Sve ostale opcije moraju biti postavljene za svaki jezik zasebno."
 
 #: includes/admin/register-portfolio.php:14
 msgid "All Portfolio Items"
-msgstr ""
+msgstr "Svi stavke portfelja"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:16
 msgid "All right!"
@@ -2564,9 +2546,9 @@ msgstr ""
 msgid ""
 "Allow to filter products for this element using the 3 WooCommerce sidebar "
 "filters: Filter Products by Price, Rating, Attribute. These filters are only "
-"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -&gt;"
-" Products -&gt; General -&gt; Shop Page) or on product category pages. You "
-"may also use a custom widget area for the sidebar."
+"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -"
+"&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
+"You may also use a custom widget area for the sidebar."
 msgstr ""
 "Dopustite filtriranje proizvoda za ovaj element pomoću 3 WooCommerce bočna "
 "filtra: Filtrirajte proizvode prema cijeni, ocjeni, atributu. Ti se filtri "
@@ -2637,6 +2619,8 @@ msgid ""
 "Allows you to display the content of a different entry (element is "
 "deprecated - use Custom Layout instead)"
 msgstr ""
+"Omogućuje vam prikaz sadržaja drugog unosa (element je zastario - umjesto "
+"toga koristite prilagođeni izgled)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-base.php:185
 #, php-format
@@ -2799,6 +2783,8 @@ msgid ""
 "an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. mailto:"
 "test@admin.com)"
 msgstr ""
+"e-pošta koja sadrži @, može početi s &quot;mailto:&quot; (npr. mailto:"
+"test@admin.com)"
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:68
 msgid "An Easy Slider image or video item"
@@ -2848,7 +2834,7 @@ msgstr "Stavka za %s %s"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:466
 msgid "an URL starting with http://, https:// (e.g. https://your-domain.com)"
-msgstr ""
+msgstr "URL koji počinje s http://, https:// (npr. https://your-domain.com)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:251
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:289
@@ -3216,6 +3202,8 @@ msgstr "Rastući poredak"
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1494
 msgid "At cursor position insert a dynamic content replacement from dropdown"
 msgstr ""
+"Na položaj kursora umetnite zamjenu dinamičkog sadržaja iz padajućeg "
+"izbornika"
 
 #: includes/admin/option_tabs/avia_header.php:23
 #: includes/admin/option_tabs/avia_styling.php:408
@@ -3273,13 +3261,16 @@ msgstr "Pažnja"
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:118
 msgid "ATTENTION - DEPRECATION NOTICE:"
-msgstr ""
+msgstr "PAŽNJA - OBAVIJEST O ZASTARJELOSTI:"
 
 #: includes/admin/option_tabs/avia_builder.php:40
 msgid ""
 "Attention when using caching plugins: Whenever you make changes to a &quot;"
 "Custom Layout&quot; please clear your server cache to show the changes."
 msgstr ""
+"Pazite prilikom korištenja dodataka za predmemoriranje: Kad god napravite "
+"promjene na &quot;Prilagođenom izgledu&quot; molimo očistite predmemoriju "
+"poslužitelja kako biste prikazali promjene."
 
 #: includes/admin/option_tabs/avia_element_templates.php:25
 msgid ""
@@ -3329,8 +3320,8 @@ msgstr ""
 msgid ""
 "Attention: It is not recommended to edit custom element templates here !"
 msgstr ""
-"Pažnja: Ovdje se ne preporučuje uređivanje prilagođenih predložaka elemenata "
-"!"
+"Pažnja: Ovdje se ne preporučuje uređivanje prilagođenih predložaka "
+"elemenata !"
 
 #: framework/php/auto-updates/class-avia-theme-updater.php:636
 msgid ""
@@ -3381,15 +3372,15 @@ msgstr "Arhiva autora"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:170
 msgid "Author Link"
-msgstr ""
+msgstr "Autorska poveznica"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:171
 msgid "Author Name"
-msgstr ""
+msgstr "Ime autora"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:895
 msgid "Author:"
-msgstr ""
+msgstr "Autor:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:283
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:397
@@ -4808,6 +4799,10 @@ msgid ""
 "alb_elements, alb_custom_layout. Here you can add more post types to use "
 "with ALB. Enter each post type in a new line."
 msgstr ""
+"Prema zadanim postavkama, ALB je aktiviran za vrste objava stranice, objava, "
+"portfelja, proizvoda, alb_elements, alb_custom_layout. Ovdje možete dodati "
+"više vrsta objava za korištenje s ALB-om. Unesite svaku vrstu objave u novi "
+"red."
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:331
 msgid ""
@@ -5122,15 +5117,15 @@ msgstr "Kategorija Oblikovanje"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:178
 msgid "Category/Term Links"
-msgstr ""
+msgstr "Poveznice na kategorije/pojmove"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:179
 msgid "Category/Term Names"
-msgstr ""
+msgstr "Imena kategorija/pojmova"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:961
 msgid "Category:"
-msgstr ""
+msgstr "Kategorija:"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:341
 msgid "Cell Alignment"
@@ -5433,8 +5428,8 @@ msgid ""
 "Change the styling for your main menu links once they are displayed in the "
 "page overlay/slide out"
 msgstr ""
-"Promjena stila za veze glavnog izbornika nakon što se prikažu u "
-"prekrivanju/klizanju stranice"
+"Promjena stila za veze glavnog izbornika nakon što se prikažu u prekrivanju/"
+"klizanju stranice"
 
 #: includes/admin/register-backend-advanced-styles.php:583
 msgid "Change the styling of the breadcrumb menu"
@@ -5476,8 +5471,8 @@ msgstr "Promjena zadanih postavki wordpressa"
 #: includes/admin/option_tabs/avia_element_templates.php:22
 msgid ""
 "Changes to these custom element templates will be used in the elements based "
-"on these templates. Please check our <a href=\"https://kriesi."
-"at/documentation/enfold/custom-element-templates/\" target=\"_blank\" "
+"on these templates. Please check our <a href=\"https://kriesi.at/"
+"documentation/enfold/custom-element-templates/\" target=\"_blank\" "
 "rel=\"noopener noreferrer\">documentation</a> for more details."
 msgstr ""
 "Promjene ovih prilagođenih predložaka elemenata koristit će se u elementima "
@@ -5597,14 +5592,13 @@ msgstr ""
 #: includes/admin/option_tabs/avia_upload.php:44
 msgid ""
 "Check if you do not want to import all settings from an exported theme "
-"settings file. Please read the <a href=\"https://kriesi."
-"at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">documentation</a> for more information how to "
-"customize import."
+"settings file. Please read the <a href=\"https://kriesi.at/documentation/"
+"enfold/backup-theme-settings\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">documentation</a> for more information how to customize import."
 msgstr ""
 "Provjerite ne želite li uvesti sve postavke iz izvozne datoteke postavki "
-"teme. Dodatne informacije o prilagodbi uvoza potražite u <a href=\"https:"
-"//kriesi.at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
+"teme. Dodatne informacije o prilagodbi uvoza potražite u <a href=\"https://"
+"kriesi.at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
 "rel=\"noopener noreferrer\">dokumentaciji</a> ."
 
 #: includes/admin/option_tabs/avia_upload.php:115
@@ -5615,9 +5609,9 @@ msgid ""
 "information how to customize resetting theme options."
 msgstr ""
 "Provjerite ne želite li ponovno postaviti sve mogućnosti. Dodatne "
-"informacije o prilagodbi mogućnosti obrade teme potražite u <a href=\"https:"
-"//kriesi.at/documentation/enfold/backup-theme-settings\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">dokumentaciji</a> ."
+"informacije o prilagodbi mogućnosti obrade teme potražite u <a "
+"href=\"https://kriesi.at/documentation/enfold/backup-theme-settings\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">dokumentaciji</a> ."
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2298
 #, php-format
@@ -5714,9 +5708,9 @@ msgid ""
 "above your slideshow image/video. Video player controls will not be "
 "accessible when this option is enabled. "
 msgstr ""
-"Provjerite želite li prikazati prozirnu boju i/ili sloj uzorka iznad "
-"slike/videozapisa dijaprojekcije. Kontrole reproduktora videozapisa neće "
-"biti dostupne kada je ova mogućnost omogućena. "
+"Provjerite želite li prikazati prozirnu boju i/ili sloj uzorka iznad slike/"
+"videozapisa dijaprojekcije. Kontrole reproduktora videozapisa neće biti "
+"dostupne kada je ova mogućnost omogućena. "
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:687
 msgid "Check if you want to enable multiple answers"
@@ -5789,8 +5783,8 @@ msgstr "Provjerite želite li vodoravno okretati razdjelnik."
 
 #: includes/admin/option_tabs/avia_upload.php:53
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
-" Quick CSS&quot;. In case you select single tabs to import below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to import below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -5802,8 +5796,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:124
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling ->"
-" Quick CSS&quot;. In case you select single tabs to reset below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -7039,7 +7033,6 @@ msgstr "Klonirana kartica"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:654
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:571
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:571
 msgid "Clone Tab Section"
 msgstr "Klonirana sekcija kartice"
 
@@ -7181,7 +7174,7 @@ msgstr "Stupac"
 
 #: config-woocommerce/admin-options.php:141
 msgid "Column and Product Count"
-msgstr ""
+msgstr "Broj stupaca i proizvoda"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:867
 msgid "Column Animation"
@@ -7214,7 +7207,7 @@ msgstr "Širina okvira-sjene stupca"
 
 #: config-woocommerce/admin-options.php:148
 msgid "Column Count"
-msgstr ""
+msgstr "Broj stupaca"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:420
 msgid "Column count - default, used for all screen sizes(no media query)"
@@ -7772,15 +7765,15 @@ msgstr "Kolačić počinje s nazivom kolačića"
 msgid ""
 "Cookies must be in the same domain and you need to specify the name and the "
 "path (case sensitive) that is shown in the developer tools of your browser. "
-"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-"
-"cookies/#additional-custom-cookies\">Additional Custom Cookies</a> on our "
+"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-cookies/"
+"#additional-custom-cookies\">Additional Custom Cookies</a> on our "
 "documentation."
 msgstr ""
 "Kolačići moraju biti u istoj domeni i morate navesti naziv i put (osjetljiv "
 "na velika i mala slova) koji se prikazuje u alatima za razvojne programere "
-"vašeg preglednika. Pogledajte <a href=\"https://kriesi."
-"at/documentation/enfold/privacy-cookies/#additional-custom-cookies\">dodatne "
-"prilagođene kolačiće na našoj dokumentaciji</a> ."
+"vašeg preglednika. Pogledajte <a href=\"https://kriesi.at/documentation/"
+"enfold/privacy-cookies/#additional-custom-cookies\">dodatne prilagođene "
+"kolačiće na našoj dokumentaciji</a> ."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1244
 msgid "Copy"
@@ -7934,10 +7927,8 @@ msgid "Create Element"
 msgstr "Stvori element"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4248
-#, fuzzy
-#| msgid "Create New Element Template"
 msgid "Create New Custom Element Template"
-msgstr "Stvori novi predložak elementa"
+msgstr "Stvori novi predložak prilagođenog elementa"
 
 #: includes/admin/option_tabs/avia_sidebars.php:154
 msgid "Create New Sidebar Widget Areas"
@@ -8495,15 +8486,15 @@ msgstr "Prilagođena pogreška 404 stranica"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:660
 msgid "Custom Field Gallery Images"
-msgstr ""
+msgstr "Galerija slika prilagođenog polja"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:615
 msgid "Custom Field Image"
-msgstr ""
+msgstr "Slika prilagođenog polja"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:493
 msgid "Custom Field Link"
-msgstr ""
+msgstr "Veza prilagođenog polja"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:502
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:711
@@ -8586,27 +8577,27 @@ msgstr "Prilagođena ulazna boja fonta"
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:166
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:729
 msgid "Custom Layout"
-msgstr ""
+msgstr "Prilagođeni izgled"
 
 #: includes/admin/option_tabs/avia_builder.php:45
 msgid "Custom Layout And Dynamic Content"
-msgstr ""
+msgstr "Prilagođeni izgled i dinamički sadržaj"
 
 #: includes/admin/option_tabs/avia_builder.php:55
 msgid "Custom layout and dynamic content"
-msgstr ""
+msgstr "Prilagođeni izgled i dinamički sadržaj"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:222
 msgid "Custom Layout Category"
-msgstr ""
+msgstr "Kategorija prilagođenog izgleda"
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:413
 msgid "Custom Layout Element - You did not select an entry to display."
-msgstr ""
+msgstr "Element prilagođenog izgleda - Niste odabrali unos za prikazivanje."
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:165
 msgid "Custom Layouts"
-msgstr ""
+msgstr "Prilagođeni izgledi"
 
 #: config-templatebuilder/avia-template-builder/php/class-media.php:129
 msgid "Custom Link"
@@ -8667,7 +8658,7 @@ msgstr "Zaslon prilagođene vrste objave (samo za razvojne inženjere)"
 
 #: framework/php/class-cpt-support.php:147
 msgid "Custom Post Type Settings"
-msgstr ""
+msgstr "Postavke prilagođenog tipa objave"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:506
 msgid "Custom Progress Bar Background Color"
@@ -8695,8 +8686,6 @@ msgid "Custom Separator"
 msgstr "Prilagođeni razdjelnik"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:408
-#, fuzzy
-#| msgid "Custom Seperator Line Color"
 msgid "Custom Separator Line Color"
 msgstr "Boja crte prilagođenog seperatora"
 
@@ -8824,7 +8813,7 @@ msgstr "Datum"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:197
 msgid "Date and time"
-msgstr ""
+msgstr "Datum i vrijeme"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:352
 msgid "Date Font Sizes"
@@ -9610,7 +9599,7 @@ msgstr "Opis"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:453
 msgid "Description (=Excerpt)"
-msgstr ""
+msgstr "Opis (= Sažetak)"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:235
 msgid "Description above title"
@@ -9901,19 +9890,19 @@ msgstr "Onemogućavanje elemenata sastavljača predložaka"
 
 #: framework/php/class-admin-notices.php:883
 msgid "Dismiss"
-msgstr ""
+msgstr "Odbaci"
 
 #: framework/php/class-admin-notices.php:883
 msgid "Dismiss and hide"
-msgstr ""
+msgstr "Odbaci i sakrij"
 
 #: framework/php/class-admin-notices.php:889
 msgid "Dismiss and hide notice"
-msgstr ""
+msgstr "Odbaci i sakrij obavijest"
 
 #: framework/php/class-admin-notices.php:906
 msgid "Dismiss this notice."
-msgstr ""
+msgstr "Zanemari ovu obavijest."
 
 #: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2210
 #: includes/admin/register-backend-advanced-styles.php:111
@@ -10012,7 +10001,7 @@ msgstr "Prikaz rešetke ili klizača s logotipom partnera/logotipa"
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:297
 msgid ""
 "Display a predefined Custom Layout - or the content of a different entry"
-msgstr ""
+msgstr "Prikaži predefinirani prilagođeni izgled - ili sadržaj drugog unosa"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:564
 msgid ""
@@ -10090,7 +10079,7 @@ msgstr "Prikažite videozapis"
 
 #: includes/admin/option_tabs/avia_shop.php:124
 msgid "Display above title and breadcrumb line"
-msgstr ""
+msgstr "Prikaži iznad naslova i linije s putanjom"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2085
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2108
@@ -10148,15 +10137,15 @@ msgstr "Prikaži autora?"
 
 #: includes/admin/option_tabs/avia_shop.php:100
 msgid "Display banner image"
-msgstr ""
+msgstr "Prikaži sliku bannera"
 
 #: includes/admin/option_tabs/avia_shop.php:99
 msgid "Display banner image with parallax effect"
-msgstr ""
+msgstr "Prikaži sliku bannera s efektom paralakse"
 
 #: includes/admin/option_tabs/avia_shop.php:125
 msgid "Display below title and breadcrumb line"
-msgstr ""
+msgstr "Prikaži ispod naslova i linije s putanjom"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:214
 msgid "Display blog posts"
@@ -10513,6 +10502,8 @@ msgid ""
 "Display the content of a custom layout. Also page, posts, portfolio,... can "
 "be selected."
 msgstr ""
+"Prikaži sadržaj prilagođenog izgleda. Također mogu biti odabrani prikaz "
+"stranice, objava, portfelja itd."
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:82
 msgid "Display the content of another page (fullwidth)"
@@ -10597,25 +10588,29 @@ msgstr ""
 
 #: config-woocommerce/admin-options.php:485
 msgid "Display thumbnail and description as fullwidth page banner below header"
-msgstr ""
+msgstr "Prikaži sličicu i opis kao baner punog širine ispod zaglavlja stranice"
 
 #: config-woocommerce/admin-options.php:486
 msgid ""
-"Display thumbnail and description as fullwidth page banner below "
-"title/breadcrumb"
-msgstr ""
+"Display thumbnail and description as fullwidth page banner below title/"
+"breadcrumb"
+msgstr "Prikaži sličicu i opis kao baner punog širine ispod naslova/putanje"
 
 #: config-woocommerce/admin-options.php:483
 msgid ""
 "Display thumbnail and description as fullwidth page banner with parallax "
 "effect below header"
 msgstr ""
+"Prikaži sličicu i opis kao baner punog širine s efektom paralakse ispod "
+"zaglavlja"
 
 #: config-woocommerce/admin-options.php:484
 msgid ""
 "Display thumbnail and description as fullwidth page banner with parallax "
 "effect below title/breadcrumb"
 msgstr ""
+"Prikaži sličicu i opis kao baner punog širine s efektom paralakse ispod "
+"naslova/putanje"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:246
 msgid "Display Thumbnails?"
@@ -10701,7 +10696,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:50
 msgid "Displays formatted content of a custom field or post data"
-msgstr ""
+msgstr "Prikazuje formatirani sadržaj prilagođenog polja ili podataka objave"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:94
 msgid "Displays multiple buttons beside each other"
@@ -10829,7 +10824,7 @@ msgstr "Ne mijenjaj veliki pretpregled slike"
 
 #: framework/php/class-cpt-support.php:379
 msgid "Do not change table columns"
-msgstr ""
+msgstr "Ne mijenjajte stupce tablice"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:280
 msgid "Do not close with click on map"
@@ -10915,6 +10910,9 @@ msgid ""
 "Row&quot;, &quot;Tab Section&quot;,... when you want to use this layout in "
 "posts with sidebars - this might break layout"
 msgstr ""
+"Ne koristite elemente punog širine poput &quot;Obojena sekcija&quot;, &quot;"
+"Redak mreže&quot;, &quot;Sekcija kartica&quot;,… kada želite koristiti ovaj "
+"izgled u postovima s bočnim trakama - to može narušiti izgled"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:630
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2928
@@ -10934,10 +10932,6 @@ msgstr ""
 "moguće poništiti."
 
 #: config-woocommerce/admin-options.php:258
-#, fuzzy
-#| msgid ""
-#| "Do you want to display a hover effect on overview pages and replace the "
-#| "default thumbnail with the first image of the gallery?"
 msgid ""
 "Do you want a hover effect on overview pages and replace the default "
 "thumbnail with the first image of the gallery?"
@@ -11122,7 +11116,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:35
 msgid "Download plugin from Wordpress"
-msgstr ""
+msgstr "Preuzmi dodatak s WordPressa"
 
 #: framework/php/inc-avia-download-demo.php:18
 msgid "Download started"
@@ -11201,11 +11195,11 @@ msgstr "Veza profila driblinga"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:24
 msgid "Dropcap 1 (Big Letter)"
-msgstr ""
+msgstr "Početno slovo 1 (veliko slovo)"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:149
 msgid "Dropcap 2 (Colored Background)"
-msgstr ""
+msgstr "Početno slovo 2 (obojena pozadina)"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:220
 msgid "Dropcap Styling"
@@ -11226,8 +11220,8 @@ msgid ""
 "Be selective and check the frontend."
 msgstr ""
 "Zbog CSS ograničenja &quot;Curtain Reveal Animations&quot; možda neće uvijek "
-"raditi kako se očekivalo (npr. Prilagođeni stylingi, s umetnutim elementima,."
-".. ). Budite selektivni i provjerite sučelje."
+"raditi kako se očekivalo (npr. Prilagođeni stylingi, s umetnutim "
+"elementima,... ). Budite selektivni i provjerite sučelje."
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:422
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:295
@@ -11250,23 +11244,23 @@ msgstr "Dupliciraj"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:336
 msgid "Dynamic"
-msgstr ""
+msgstr "Dinamično"
 
 #: includes/admin/option_tabs/avia_builder.php:54
 msgid "Dynamic content only"
-msgstr ""
+msgstr "Samo dinamički sadržaj"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:44
 msgid "Dynamic Data"
-msgstr ""
+msgstr "Dinamički podaci"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:205
 msgid "Dynamic Data Row"
-msgstr ""
+msgstr "Redak dinamičkih podataka"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:196
 msgid "Dynamic Field Content"
-msgstr ""
+msgstr "Sadržaj dinamičkog polja"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:232
 #: includes/admin/option_tabs/avia_blog.php:320
@@ -11373,7 +11367,7 @@ msgstr "Uredi adresu"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1826
 msgid "Edit ALB Custom Element"
-msgstr ""
+msgstr "Uredi prilagođeni element ALB-a"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:237
 msgid "Edit Button"
@@ -11398,10 +11392,8 @@ msgid "Edit Custom Element"
 msgstr "Uređivanje prilagođenog elementa"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4277
-#, fuzzy
-#| msgid "Edit ALB Custom Element Template"
 msgid "Edit Custom Element Template:"
-msgstr "Uređivanje predloška prilagođenog elementa ALB-a"
+msgstr "Uređivanje predloška prilagođenog elementa:"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2474
 msgid "Edit Custom Elements"
@@ -11409,7 +11401,7 @@ msgstr "Uređivanje prilagođenih elemenata"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:170
 msgid "Edit Custom Layout"
-msgstr ""
+msgstr "Uredi prilagođeni izgled"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:265
 msgid "Edit Dataset"
@@ -11558,7 +11550,7 @@ msgstr "Uređivanje sekcije tabulatora"
 
 #: framework/php/class-cpt-support.php:376
 msgid "Edit Table"
-msgstr ""
+msgstr "Uredi tablicu"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:261
 msgid "Edit Testimonial"
@@ -12029,11 +12021,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:48
 msgid "Enfold Custom Layout Settings"
-msgstr ""
+msgstr "Postavke prilagođenog izgleda za Enfold"
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:100
 msgid "Enfold Custom Layout Settings Info Window"
-msgstr ""
+msgstr "Prozor s informacijama o postavkama prilagođenog izgleda za Enfold"
 
 #: includes/admin/option_tabs/avia_customizer.php:21
 msgid "Enfold Feature Requests"
@@ -12045,13 +12037,13 @@ msgstr "Uključite Google postavke"
 
 #: config-acf/class-avia-acf.php:132
 msgid "Enfold Layouts"
-msgstr ""
+msgstr "Enfold izgledi"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2741
 msgid ""
 "Enfold only provides CSS for theme default tags, so it might be necessary to "
-"add a custom CSS class below and adjust the CSS rules for this element "
-"and/or use responsive font size settings if available."
+"add a custom CSS class below and adjust the CSS rules for this element and/"
+"or use responsive font size settings if available."
 msgstr ""
 "Enfold pruža CSS samo za zadane oznake teme, pa će možda biti potrebno "
 "dodati prilagođenu CSS klasu u nastavku i prilagoditi CSS pravila za ovaj "
@@ -12312,9 +12304,9 @@ msgid ""
 msgstr ""
 "Unesite valjanu vrijednost (uključujući CSS jedinicu poput px, em, vw,..) da "
 "biste postavili perspektivu koja se koristi za primjenu transformacije "
-"perspektive (na djecu elementa). Negativne vrijednosti su sintaksne pogreške."
-" Ostavite prazno da biste koristili zadanu postavku ili naslijedili radnu "
-"površinu."
+"perspektive (na djecu elementa). Negativne vrijednosti su sintaksne "
+"pogreške. Ostavite prazno da biste koristili zadanu postavku ili naslijedili "
+"radnu površinu."
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:330
 #: config-templatebuilder/avia-shortcodes/video/video.php:331
@@ -12569,12 +12561,6 @@ msgid "Enter the Country, e.g. Canada"
 msgstr "Uđite u zemlju, npr. u Hrvatska"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1455
-#, fuzzy
-#| msgid ""
-#| "Enter the custom background colors seperated by | and/or in a new line. "
-#| "If number of items exceeds number of colors it will start again at "
-#| "beginning of the list. If empty, &quot;Curtain Background Color&quot; "
-#| "setting will be used for all."
 msgid ""
 "Enter the custom background colors separated by | and/or in a new line. If "
 "number of items exceeds number of colors it will start again at beginning of "
@@ -12583,7 +12569,7 @@ msgid ""
 msgstr ""
 "Unesite prilagođene boje pozadine odvojene | i/ili u novoj liniji. Ako broj "
 "stavki premašuje broj boja, ponovno će se pokrenuti na početku popisa. Ako "
-"je prazna, za sve će se koristiti postavka &quot;Boja pozadine zavjese&quot;."
+"je prazna, &quot;Boja pozadine zavjese&quot; postavka će se koristiti za sve."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:1041
 msgid ""
@@ -12636,6 +12622,10 @@ msgid ""
 "to update metabox content in database whenever you add or change a metabox "
 "content."
 msgstr ""
+"Unesite ID osnovne objave kako biste prikazali stvarne podatke. Ako ostane "
+"prazno ili ID ne postoji, umjesto toga će biti prikazan pseudokod. Spremite "
+"objavu kako biste ažurirali sadržaj metaokvira u bazi podataka svaki put "
+"kada dodate ili promijenite sadržaj metaokvira."
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:368
 msgid "Enter the item description here"
@@ -12714,8 +12704,6 @@ msgstr ""
 "prazno da biste koristili originalni naziv datoteke."
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:670
-#, fuzzy
-#| msgid "Enter the Name of the Person to quote"
 msgid "Enter the Name of the person to quote"
 msgstr "Unesite ime osobe za citiranje"
 
@@ -12807,10 +12795,8 @@ msgid "Enter the reCAPTCHA v3 API site key here."
 msgstr "Ovdje unesite reCAPTCHA v3 API ključ web-mjesta."
 
 #: config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.php:566
-#, fuzzy
-#| msgid "Enter the rotating text here (Better keep it short)"
 msgid "Enter the rotating text here (better keep it short)"
-msgstr "Ovdje unesite rotirani tekst (Bolje da bude kratak)"
+msgstr "Ovdje unesite rotirani tekst (bolje da bude kratak)"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:364
 msgid "Enter the share link to Yelp for this button."
@@ -12821,9 +12807,6 @@ msgid "Enter the slide title here (Better keep it short)"
 msgstr "Ovdje unesite naslov dijapozitiva (Bolje da bude kratak)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:50
-#, fuzzy
-#| msgid ""
-#| "Enter the street and streetnumber seperated by space, e.g. Teststreet 15."
 msgid ""
 "Enter the street and streetnumber separated by space, e.g. Teststreet 15."
 msgstr "Uđite na ulicu i ulični broj odvojen prostorom, npr. Teststreet 15."
@@ -12874,8 +12857,8 @@ msgid ""
 "Enter the url to the Page. Please note that it needs to be a link to a "
 "<strong>facebook fanpage</strong>. Personal profiles are not allowed!"
 msgstr ""
-"Unesite URL na stranicu. Napominjemo da to treba biti poveznica na <strong>"
-"facebook stranicu</strong> . Osobni profili nisu dopušteni!"
+"Unesite URL na stranicu. Napominjemo da to treba biti poveznica na "
+"<strong>facebook stranicu</strong> . Osobni profili nisu dopušteni!"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:576
 msgid ""
@@ -12888,8 +12871,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1466
 msgid ""
 "Enter the z-index for the curtain reveal of this element. Defaults to 100 if "
-"empty or not a number. Necessary when element is placed inside a "
-"column/section with a curtain reveal or is covered by some other element."
+"empty or not a number. Necessary when element is placed inside a column/"
+"section with a curtain reveal or is covered by some other element."
 msgstr ""
 "Unesite z-indeks za otkrivanje zavjesa ovog elementa. Zadano je na 100 ako "
 "je prazan ili ne broj. Potrebno kada se element postavi unutar stupca/ "
@@ -13250,7 +13233,7 @@ msgstr "Izuzmi naslove po razredu:"
 #: includes/admin/update_scripts/v5_3.php:24
 #: includes/admin/update_scripts/v6_0.php:12
 msgid "Executed theme update script:"
-msgstr ""
+msgstr "Izvršen je skript ažuriranja teme:"
 
 #: framework/php/auto-updates/class-avia-theme-updater.php:356
 #, php-format
@@ -13275,7 +13258,7 @@ msgstr "Malo proširi"
 
 #: framework/php/class-admin-notices.php:273
 msgid "Expired nonce"
-msgstr ""
+msgstr "Istekla jednokratna uporabna oznaka (nonce)"
 
 #: framework/php/class-htmlhelper.php:2051
 msgid "Export Demo Settings File"
@@ -13672,7 +13655,7 @@ msgstr "Zrcaljenje brojeva"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:195
 msgid "Floating point number"
-msgstr ""
+msgstr "Broj s pomičnim zarezom"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1543
 msgid "Flower"
@@ -14059,10 +14042,8 @@ msgid "For best search results, mind the following suggestions:"
 msgstr "Za najbolje rezultate pretraživanja imajte na umu sljedeće prijedloge:"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:806
-#, fuzzy
-#| msgid "For Developers: Custom Tab ID"
 msgid "For Developers: Custom Toggle ID"
-msgstr "Za programere: ID prilagođene kartice"
+msgstr "Za programere: prilagođeni ID prekidača"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:538
 msgid ""
@@ -14193,11 +14174,11 @@ msgstr "Oblikuj naslov"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:219
 msgid "Format"
-msgstr ""
+msgstr "Oblikuj"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:211
 msgid "Format ACF field content"
-msgstr ""
+msgstr "Formatiraj sadržaj ACF polja"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:255
 msgid "Format Number"
@@ -15314,13 +15295,13 @@ msgstr "Ovdje možete postaviti stil i veličinu HR elementa"
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:17
 msgid ""
-"Here you find information about <a href=\"https://wiki.osmfoundation."
-"org/wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"OpenStreetMap Privacy Policy</a>."
+"Here you find information about <a href=\"https://wiki.osmfoundation.org/"
+"wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">OpenStreetMap Privacy Policy</a>."
 msgstr ""
-"Ovdje ćete pronaći informacije o <a href=\"https://wiki.osmfoundation."
-"org/wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"Pravilima privatnosti za OpenStreetMap</a>."
+"Ovdje ćete pronaći informacije o <a href=\"https://wiki.osmfoundation.org/"
+"wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Pravilima privatnosti za OpenStreetMap</a>."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1544
 msgid "Hexagon"
@@ -15582,7 +15563,7 @@ msgstr "Sakrij stavke podizbornika mobilnog izbornika"
 
 #: framework/php/class-admin-notices.php:884
 msgid "Hide notice"
-msgstr ""
+msgstr "Sakrij obavijest"
 
 #: includes/admin/option_tabs/avia_cookie.php:431
 #: includes/admin/option_tabs/avia_cookie.php:568
@@ -15756,10 +15737,6 @@ msgstr "Uzorak isticanja:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:725
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:922
-#, fuzzy
-#| msgid ""
-#| "Highlight posts with these hashtags, seperate multiple hashtags with "
-#| "commas."
 msgid ""
 "Highlight posts with these hashtags, separate multiple hashtags with commas."
 msgstr ""
@@ -16020,8 +15997,8 @@ msgid ""
 "I agree to the terms and conditions laid out in the [av_privacy_link]Privacy "
 "Policy[/av_privacy_link]"
 msgstr ""
-"Slažem se s uvjetima utvrđenima u Pravilima o privatnosti [av_privacy_link]"
-"[/av_privacy_link]"
+"Slažem se s uvjetima utvrđenima u Pravilima o privatnosti [av_privacy_link][/"
+"av_privacy_link]"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:243
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:257
@@ -17132,6 +17109,9 @@ msgid ""
 "In case a &quot;Custom Layout&quot; entry is not displayed in dropdown list "
 "check that it is published and reload this page to refill selectboxes."
 msgstr ""
+"Ako unos &quot;Prilagođeni izgled&quot; nije prikazan u padajućem izborniku, "
+"provjerite je li objavljen i ponovno učitajte ovu stranicu da biste ponovno "
+"popunili izbornike."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:196
 msgid ""
@@ -17141,11 +17121,12 @@ msgid ""
 "you selected V3 here and the score fails or you did not selected V3 in theme "
 "options then V2 will be used to check if user is a human."
 msgstr ""
-"U slučaju da je Google reCAPTCHA deaktiviran (možda kasnije) u opcijama tema,"
-" koristit će se Enfold captcha, ako ovdje odaberete za upotrebu V2, V2 će se "
-"koristiti za ovaj obrazac za kontakt (čak i ako ste odabrali V3 u opcijama "
-"tema). Ako ste ovdje odabrali V3 i rezultat ne uspije ili niste odabrali V3 "
-"u opcijama tema, V2 će se koristiti za provjeru je li korisnik čovjek."
+"U slučaju da je Google reCAPTCHA deaktiviran (možda kasnije) u opcijama "
+"tema, koristit će se Enfold captcha, ako ovdje odaberete za upotrebu V2, V2 "
+"će se koristiti za ovaj obrazac za kontakt (čak i ako ste odabrali V3 u "
+"opcijama tema). Ako ste ovdje odabrali V3 i rezultat ne uspije ili niste "
+"odabrali V3 u opcijama tema, V2 će se koristiti za provjeru je li korisnik "
+"čovjek."
 
 #: includes/admin/option_tabs/avia_cookie.php:48
 msgid ""
@@ -17285,17 +17266,17 @@ msgstr "Info - %s:"
 #: includes/admin/option_tabs/avia_google.php:146
 #, php-format
 msgid ""
-"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">API keys</a> for your site. Also check our <a "
-"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">documentation."
-"</a>"
+"Info about <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Google reCAPTCHA</a>. You need to create <a href=\"%2$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">API keys</a> for your site. "
+"Also check our <a href=\"%3$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">documentation.</a>"
 msgstr ""
-"Informacije o <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"Google reCAPTCHA</a>. Morate stvoriti <a href=\"%2$s\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">API ključeve</a> za svoju web stranicu. Također "
-"provjerite našu <a href=\"%3$s\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">dokumentaciju.</a>"
+"Informacije o <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Google reCAPTCHA</a>. Morate stvoriti <a href=\"%2$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">API ključeve</a> za svoju web "
+"stranicu. Također provjerite našu <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">dokumentaciju.</a>"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:568
 msgid "Info Bubble Content:"
@@ -17610,7 +17591,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:194
 msgid "Integer number"
-msgstr ""
+msgstr "Cijeli broj"
 
 #: config-layerslider/config.php:227
 msgid "Integrated (Bundled) LayerSlider Plugin"
@@ -17631,8 +17612,8 @@ msgid ""
 "Internal error occured - Shortcode state is reported to be invalid. Please "
 "report to our support staff."
 msgstr ""
-"Došlo je do interne pogreške - navodi se da stanje kratkog koda nije valjano."
-" Javite se našem pomoćnom osoblju."
+"Došlo je do interne pogreške - navodi se da stanje kratkog koda nije "
+"valjano. Javite se našem pomoćnom osoblju."
 
 #: framework/php/function-set-avia-ajax.php:996
 msgid ""
@@ -17868,6 +17849,8 @@ msgid ""
 "KEEP IN MIND: Hotspot locations are always relative to source image - make "
 "sure to use images that need the same locations."
 msgstr ""
+"IMAJTE NA UMU: Lokacije žarišnih točaka uvijek su relativne prema izvornoj "
+"slici - pazite da koristite slike koje zahtijevaju iste lokacije."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1515
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1804
@@ -18069,8 +18052,8 @@ msgid ""
 msgstr ""
 "LayerSlider nije mogao spremiti preuzeti klizač na poslužitelj. Potencijalne "
 "probleme potražite u odjeljku LayerSlider -> Status sustava. Najčešći razlog "
-"za ovaj problem je nedostatak dozvole za pisanje u direktoriju /wp-"
-"content/uploads/."
+"za ovaj problem je nedostatak dozvole za pisanje u direktoriju /wp-content/"
+"uploads/."
 
 #: config-layerslider/config.php:238
 msgid "Layerslider Options"
@@ -18454,13 +18437,16 @@ msgstr "Lajkovi i komentari"
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:153
 #: includes/admin/option_tabs/avia_footer.php:42
 msgid "LIMITATION:"
-msgstr ""
+msgstr "OGRANIČENJE:"
 
 #: includes/admin/option_tabs/avia_builder.php:267
 msgid ""
 "LIMITATION: It might be necessary to make customizations in frontend "
 "templates for 3rd party post types to work with ALB - this is not a bug."
 msgstr ""
+"OGRANIČENJE: Možda će biti potrebno izvršiti prilagodbe u predlošcima za "
+"prikazivanje za vrste objava trećih strana kako bi radile s ALB-om - ovo "
+"nije greška."
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1900
 msgid "Line Break"
@@ -18578,6 +18564,8 @@ msgid ""
 "Link settings will be ignored when dynamic content contains a link to avoid "
 "breaking of layout."
 msgstr ""
+"Postavke poveznica bit će zanemarene kada dinamički sadržaj sadrži poveznicu "
+"kako bi se izbjeglo narušavanje izgleda."
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:588
 msgid "Link text"
@@ -18608,11 +18596,14 @@ msgstr "Veza na 500px"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:472
 msgid "link to a post: &quot;{post_type},{postID}&quot; (e.g. post,1058)"
 msgstr ""
+"poveznica na objavu: &quot;{tip_objave},{ID_objave}&quot; (npr. objava,1058)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:477
 msgid ""
 "link to a taxonomy: &quot;{taxonomy_slug},{termID}&quot; (e.g. category,8)"
 msgstr ""
+"poveznica na taksonomiju: &quot;{slug_taksonomije},{ID_pojma}&quot; (npr. "
+"kategorija,8)"
 
 #: includes/admin/option_tabs/avia_cookie.php:464
 #: includes/admin/option_tabs/avia_cookie.php:598
@@ -18621,7 +18612,7 @@ msgstr "Veza na drugu stranicu"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:846
 msgid "Link to archiv:"
-msgstr ""
+msgstr "Poveznica na arhivu:"
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:426
 msgid "Link to Facebook"
@@ -18633,8 +18624,6 @@ msgid "Link to Google Maps"
 msgstr "Veza na Google karte"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:715
-#, fuzzy
-#| msgid "Link to the Persons website"
 msgid "Link to the persons website"
 msgstr "Link na web mjesto za osobe"
 
@@ -19079,16 +19068,16 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_cookie.php:275
 msgid ""
-"Make sure you comply with the <a target='_blank' href='http://ec.europa."
-"eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU "
-"cookie law</a> by informing users that your site uses cookies. This can be "
-"done with a small notification bar or modal popup window"
+"Make sure you comply with the <a target='_blank' href='http://ec.europa.eu/"
+"ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU cookie "
+"law</a> by informing users that your site uses cookies. This can be done "
+"with a small notification bar or modal popup window"
 msgstr ""
-"Provjerite jeste li u skladu sa <a target='_blank' href='http://ec.europa."
-"eu/ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>zakonom "
-"EU-a o kolačićima</a> tako što ćete obavijestiti korisnike da vaša web-"
-"lokacija upotrebljava kolačiće. To se može učiniti s malom trakom obavijesti "
-"ili modalnim skočnim prozorom"
+"Provjerite jeste li u skladu sa <a target='_blank' href='http://ec.europa.eu/"
+"ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>zakonom EU-"
+"a o kolačićima</a> tako što ćete obavijestiti korisnike da vaša web-lokacija "
+"upotrebljava kolačiće. To se može učiniti s malom trakom obavijesti ili "
+"modalnim skočnim prozorom"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:12
 msgid "Make your site more accessible for people with disabilities."
@@ -19099,6 +19088,8 @@ msgid ""
 "Manage static templates. For editable templates use &quot;Custom "
 "Elements&quot;"
 msgstr ""
+"Upravljajte statičnim predlošcima. Za uredive predloške koristite &quot;"
+"Prilagođene elemente&quot;"
 
 #: includes/admin/option_tabs/avia_performance.php:257
 msgid "Manually manage loaded elements"
@@ -19106,7 +19097,7 @@ msgstr "Ručno upravljanje učitanim elementima"
 
 #: framework/php/admin-notices/templates/welcome-update.php:16
 msgid "Many new features are added. Enjoy them ...."
-msgstr ""
+msgstr "Dodano je mnogo novih značajki. Uživajte u njima…."
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:269
 msgid "Map Controls"
@@ -19789,11 +19780,11 @@ msgstr "Moderno poslovanje"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:168
 msgid "Modifed Date"
-msgstr ""
+msgstr "Datum izmjene"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:169
 msgid "Modifed Date And Time"
-msgstr ""
+msgstr "Datum i vrijeme izmjene"
 
 #: includes/admin/option_tabs/avia_layout.php:160
 msgid "Modify the frame color by changing the Body Background in"
@@ -19860,8 +19851,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_performance.php:492
 msgid ""
-"Most of the ALB elements and posts should be supporting this feature since 4."
-"8.3. Please report in our support forum if you encounter problems."
+"Most of the ALB elements and posts should be supporting this feature since "
+"4.8.3. Please report in our support forum if you encounter problems."
 msgstr ""
 "Većina ALB elemenata i postova trebala bi podržavati ovu značajku od 4.8.3. "
 "Ako naiđete na probleme, javite se na našem forumu za podršku."
@@ -20097,7 +20088,7 @@ msgstr "Novi ALB prilagođeni element"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:171
 msgid "New Custom Layout"
-msgstr ""
+msgstr "Novi prilagođeni izgled"
 
 #: framework/php/class-form-generator.php:1197
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:415
@@ -20211,13 +20202,11 @@ msgstr "U domeni nisu pronađeni dostupni kolačići"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1830
 msgid "No ALB Custom Element found"
-msgstr ""
+msgstr "Nije pronađen prilagođeni element ALB-a"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1831
-#, fuzzy
-#| msgid "No ALB Custom Element Templates found in Trash"
 msgid "No ALB Custom Element found in Trash"
-msgstr "U smeću nisu pronađeni predlošci prilagođenih elemenata ALB-a"
+msgstr "Nema pronađenih prilagođenih elemenata ALB-a u košu za smeće"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:575
 msgid "No Animation"
@@ -20229,7 +20218,7 @@ msgstr "Nema animacije"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:882
 msgid "No archive link available"
-msgstr ""
+msgstr "Nema dostupne poveznice na arhivu"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:747
 msgid "No attachment image available"
@@ -20317,15 +20306,15 @@ msgstr "Nije korišten prilagođeni element - dostupne su sve mogućnosti"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:174
 msgid "No Custom Layouts found"
-msgstr ""
+msgstr "Nema pronađenih prilagođenih izgleda"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:175
 msgid "No Custom Layouts found in Trash"
-msgstr ""
+msgstr "Nema pronađenih prilagođenih izgleda u košu za smeće"
 
 #: framework/php/class-cpt-support.php:336
 msgid "No default"
-msgstr ""
+msgstr "Nema zadane postavke"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:234
 msgid "No description"
@@ -20369,7 +20358,7 @@ msgstr "Nije pronađen nijedan događaj"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:218
 msgid "No formatting"
-msgstr ""
+msgstr "Nema oblikovanja"
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:289
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:491
@@ -20532,11 +20521,11 @@ msgstr "nema ponavljanja"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:56
 msgid ""
-"No results found. Please check your input, e.g. spelling of street, city, ..."
-"."
+"No results found. Please check your input, e.g. spelling of street, "
+"city, ...."
 msgstr ""
-"Nisu pronađeni rezultati. Provjerite svoj unos, npr. pravopis ulice, grada, ."
-"..."
+"Nisu pronađeni rezultati. Provjerite svoj unos, npr. pravopis ulice, "
+"grada, ...."
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1128
 msgid "No revisions"
@@ -20639,10 +20628,8 @@ msgid "No theme shortcodes used in widgets"
 msgstr "U widgetima se ne koriste kratki kodovi tema"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:262
-#, fuzzy
-#| msgid "No thousands seperator"
 msgid "No thousands separator"
-msgstr "Nema tisuća seperatora"
+msgstr "Bez tisuća seperatora"
 
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:599
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:609
@@ -20818,19 +20805,19 @@ msgstr "Ništa nije pronađeno"
 
 #: framework/php/class-admin-notices.php:333
 msgid "Notice box was added to users clicked list: "
-msgstr ""
+msgstr "Obavijest je dodana u listu klik: "
 
 #: framework/php/class-admin-notices.php:291
 msgid "Notice box was already removed from display list (empty list)."
-msgstr ""
+msgstr "Okvir za obavijesti već je uklonjen s popisa prikaza (prazan popis)."
 
 #: framework/php/class-admin-notices.php:314
 msgid "Notice box was already removed from display list:"
-msgstr ""
+msgstr "Okvir za obavijesti već je uklonjen s popisa prikaza:"
 
 #: framework/php/class-admin-notices.php:322
 msgid "Notice box was removed from display list:"
-msgstr ""
+msgstr "Okvir za obavijesti je uklonjen s popisa prikaza:"
 
 #: includes/admin/option_tabs/avia_demo.php:21
 msgid ""
@@ -21449,10 +21436,8 @@ msgid "Other Element: Empty Line"
 msgstr "Drugi element: prazan redak"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:660
-#, fuzzy
-#| msgid "Other Element: Seperator Headline"
 msgid "Other Element: Separator Headline"
-msgstr "Ostali element: Naslov seperatora"
+msgstr "Drugi element: Naslov seperatora"
 
 #: includes/helper-privacy.php:2173
 msgid "Other external services"
@@ -22129,6 +22114,8 @@ msgstr "Napomena: Slike unutar alata trenutno nisu podržane"
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:191
 msgid "Please note: keep content simple to avoid breaking of layout."
 msgstr ""
+"Imajte na umu: držite sadržaj jednostavnim kako biste izbjegli narušavanje "
+"izgleda."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:994
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:772
@@ -22142,15 +22129,15 @@ msgstr "Navedite valjanu adresu e-pošte."
 
 #: includes/admin/option_tabs/avia_upload.php:206
 msgid ""
-"Please read our <a href=\"https://kriesi."
-"at/documentation/enfold/typography/#using-variable-fonts\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">documentation</a> how to create the zip files "
-"and a fallback szenario."
+"Please read our <a href=\"https://kriesi.at/documentation/enfold/typography/"
+"#using-variable-fonts\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">documentation</a> how to create the zip files and a fallback "
+"szenario."
 msgstr ""
-"Pročitajte našu <a href=\"https://kriesi."
-"at/documentation/enfold/typography/#using-variable-fonts\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">dokumentaciju</a> kako stvoriti zip datoteke i "
-"rezervni scenarij."
+"Pročitajte našu <a href=\"https://kriesi.at/documentation/enfold/typography/"
+"#using-variable-fonts\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">dokumentaciju</a> kako stvoriti zip datoteke i rezervni "
+"scenarij."
 
 #: config-wpml/class-avia-wpml.php:723
 msgid ""
@@ -22378,7 +22365,7 @@ msgstr "Portfolio objave"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:177
 msgid "Post Type Link (= Archive)"
-msgstr ""
+msgstr "Poveznica na vrstu objave (= Arhiva)"
 
 #: includes/admin/register-portfolio.php:13
 msgctxt "post type singular name"
@@ -22413,7 +22400,7 @@ msgstr "Objave po %s"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1439
 msgid "Posts featured image ID"
-msgstr ""
+msgstr "ID slike istaknute u objavama"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:155
 msgid "Predefined Separators"
@@ -22561,7 +22548,7 @@ msgstr "Problemi sa sljedećim nadolazećim događajem nisu točni?"
 
 #: config-woocommerce/admin-options.php:173
 msgid "Product Count"
-msgstr ""
+msgstr "Zbroj proizvoda"
 
 #: includes/admin/option_tabs/avia_shop.php:77
 msgid "Product gallery"
@@ -22712,11 +22699,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:166
 msgid "Publish Date"
-msgstr ""
+msgstr "Datum objave"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:167
 msgid "Publish Date And Time"
-msgstr ""
+msgstr "Objavi datum i vrijeme"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:516
 msgid "Publishing Date"
@@ -23611,8 +23598,8 @@ msgid ""
 "Scale the image mask. Allowed unit values are px, &percnt;, em, vw. Defaults "
 "to px."
 msgstr ""
-"Poredaj masku slike. Dopuštene jedinične vrijednosti su px, &percnt;, em, vw."
-" Zadano je za px."
+"Poredaj masku slike. Dopuštene jedinične vrijednosti su px, &percnt;, em, "
+"vw. Zadano je za px."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2036
 msgid ""
@@ -23704,11 +23691,11 @@ msgstr "Traži"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1829
 msgid "Search ALB Custom Elements"
-msgstr ""
+msgstr "Pretraži prilagođene elemente ALB-a"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:173
 msgid "Search Custom Layouts"
-msgstr ""
+msgstr "Pretraži prilagođene izglede"
 
 #: includes/admin/option_tabs/avia_seo.php:15
 msgid "Search Engine Optimization Support"
@@ -23880,7 +23867,7 @@ msgstr "Sigurnost"
 
 #: includes/admin/option_tabs/avia_builder.php:33
 msgid "See documentation how to use it."
-msgstr ""
+msgstr "Pogledajte dokumentaciju kako je koristiti."
 
 #: includes/admin/option_tabs/avia_google.php:257
 msgid "See Google documentation"
@@ -24318,20 +24305,17 @@ msgstr ""
 "zadanu temu."
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:409
-#, fuzzy
-#| msgid ""
-#| "Select a custom color for the seperator line beside the title here (only "
-#| "available on some styles)"
 msgid ""
 "Select a custom color for the separator line beside the title here (only "
 "available on some styles)"
 msgstr ""
-"Odaberite prilagođenu boju za liniju seperatora pored naslova ovdje "
-"(dostupno samo na nekim stilovima)"
+"Odaberite prilagođenu boju za liniju seperatora osim naslova ovdje (dostupno "
+"samo na nekim stilovima)"
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:274
 msgid "Select a custom color for the text. Leave blank to use default."
 msgstr ""
+"Odaberite prilagođenu boju za tekst. Ostavite prazno za korištenje zadane."
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:447
 msgid "Select a custom color for the toggle icon. Leave empty to use default"
@@ -24488,6 +24472,8 @@ msgid ""
 "Select a custom field containing a string - leave empty to use selectbox "
 "setting:"
 msgstr ""
+"Odaberite prilagođeno polje koje sadrži niz - ostavite prazno za korištenje "
+"postavke padajućeg izbornika:"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:661
 msgid ""
@@ -24495,6 +24481,9 @@ msgid ""
 "replace the selected gallery images above (e.g. 1025,2550,3563,105). Leave "
 "empty to use gallery images above as fallback."
 msgstr ""
+"Odaberite prilagođeno polje s nizom odvojenim zarezima ID-ova privitaka kako "
+"biste zamijenili odabrane galerijske slike gore (npr. 1025,2550,3563,105). "
+"Ostavite prazno kako biste koristili galerijske slike gore kao zamjenu."
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:191
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:595
@@ -24503,6 +24492,9 @@ msgid ""
 "above using these image settings (a fallback image must be selected !!!). "
 "Leave empty to use image above as fallback."
 msgstr ""
+"Odaberite prilagođeno polje s ID-om privitka kako biste zamijenili odabranu "
+"sliku iznad koristeći ove postavke slike (mora biti odabrana zamjenska "
+"slika!!!). Ostavite prazno kako biste koristili sliku iznad kao zamjensku."
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:450
 msgid ""
@@ -24680,16 +24672,12 @@ msgid "Select a custom font size for the button text."
 msgstr "Odaberite prilagođenu veličinu fonta za tekst gumba."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:318
-#, fuzzy
-#| msgid ""
-#| "Select a custom font size for the button text. Used for all buttons, can "
-#| "also be set for each button seperate."
 msgid ""
 "Select a custom font size for the button text. Used for all buttons, can "
 "also be set for each button separate."
 msgstr ""
-"Odaberite prilagođenu veličinu fonta za tekst gumba. Koristi se za sve gumbe,"
-" može se postaviti i za svaki gumb odvojeno."
+"Odaberite prilagođenu veličinu fonta za tekst gumba. Koristi se za sve "
+"gumbe, može se postaviti i za svaki gumb odvojeno."
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:399
 msgid ""
@@ -24733,7 +24721,7 @@ msgstr "Odaberite prilagođenu veličinu fonta za tekst opisa."
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:235
 msgid "Select a custom font size for the dynamic field content"
-msgstr ""
+msgstr "Odaberite prilagođenu veličinu fonta za dinamički sadržaj polja"
 
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:423
 msgid "Select a custom font size for the event title."
@@ -25134,8 +25122,8 @@ msgid ""
 "is not a bug."
 msgstr ""
 "Odaberite efekt sonara/pulsata za element. Taj učinak možda neće uvijek "
-"raditi kako se očekivalo zbog strukture izgleda(npr. za elemente pune širine)"
-". Ovo nije buba."
+"raditi kako se očekivalo zbog strukture izgleda(npr. za elemente pune "
+"širine). Ovo nije buba."
 
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:218
 msgid "Select a style"
@@ -25158,8 +25146,8 @@ msgid ""
 "Select a value to grayscale the image (filter grayscale()). The bigger, the "
 "stronger."
 msgstr ""
-"Odaberite vrijednost za sivi ton slike (filtrirajte sive tonove()). Što veći,"
-" to jači."
+"Odaberite vrijednost za sivi ton slike (filtrirajte sive tonove()). Što "
+"veći, to jači."
 
 #: includes/admin/option_tabs/avia_header.php:376
 msgid ""
@@ -25206,6 +25194,9 @@ msgid ""
 "Select an entry whose content will be used to display in frontend. In active "
 "beta is to use classic editor content and block editor content."
 msgstr ""
+"Odaberite unos čiji će sadržaj biti korišten za prikaz na prednjoj strani. U "
+"aktivnom beta načinu rada mogu se koristiti sadržaj klasičnog uređivača i "
+"sadržaj blok-uređivača."
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:697
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:915
@@ -25297,6 +25288,10 @@ msgid ""
 "pseudo code will be displayed instead. Please save the post to update "
 "metabox content in database whenever you add or change a metabox content."
 msgstr ""
+"Odaberite osnovnu objavu za prikaz stvarnih podataka. Ako ništa nije "
+"odabrano, umjesto toga će biti prikazan pseudokod. Spremite objavu kako "
+"biste ažurirali sadržaj metaokvira u bazi podataka svaki put kada dodate ili "
+"promijenite sadržaj metaokvira."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:320
 msgid "Select animation play speed"
@@ -25549,8 +25544,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:93
 msgid ""
-"Select if you want to block reset of theme options and hide the reset button."
-" You must select activate button before you can reset theme options."
+"Select if you want to block reset of theme options and hide the reset "
+"button. You must select activate button before you can reset theme options."
 msgstr ""
 "Odaberite želite li blokirati ponovno postavljanje mogućnosti teme i sakriti "
 "gumb za vraćanje izvornih postavki. Prije vraćanja mogućnosti teme morate "
@@ -25577,8 +25572,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:410
 msgid ""
-"Select if you want to grayscale the map. 0% is unchanged, 100% complete gray."
-" This feature is not supported by older browsers."
+"Select if you want to grayscale the map. 0% is unchanged, 100% complete "
+"gray. This feature is not supported by older browsers."
 msgstr ""
 "Odaberite želite li kartu u sivim tonovima. 0% je nepromijenjeno, 100% "
 "potpuno sivo. Stariji preglednici ne podržavaju ovu značajku."
@@ -25608,8 +25603,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1085
 msgid ""
 "Select if you want to open the link in a new window and set additional SEO "
-"options (needs to be activated in &quot;Theme Options -> Layout Builder&quot;"
-")"
+"options (needs to be activated in &quot;Theme Options -> Layout "
+"Builder&quot;)"
 msgstr ""
 "Odaberite želite li otvoriti vezu u novom prozoru i postaviti dodatne SEO "
 "opcije (potrebno ih je aktivirati u odjeljku &quot;Mogućnosti teme -> "
@@ -25675,6 +25670,9 @@ msgid ""
 "Select if you want to use dynamic content (e.g. post data, custom fields) "
 "and create modifiable custom layouts for post types."
 msgstr ""
+"Odaberite želite li koristiti dinamički sadržaj (npr. podatke objava, "
+"prilagođena polja) i stvarati prilagodljive prilagođene izglede za vrste "
+"objava."
 
 #: includes/admin/option_tabs/avia_google.php:79
 msgid ""
@@ -25702,7 +25700,7 @@ msgstr "Odaberi slike"
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:160
 msgid "Select Layout Entry"
-msgstr ""
+msgstr "Odaberite unos izgleda"
 
 #: includes/admin/option_tabs/avia_performance.php:58
 msgid ""
@@ -25790,8 +25788,8 @@ msgid ""
 "Select position of column when switching to fullwidth. Only used when &quot;"
 "Column Behaviour&quot; set to individual."
 msgstr ""
-"Odaberite položaj stupca prilikom prelaska na punu propusnost - na temelju 0."
-" Koristi se samo kada je &quot;Ponašanje stupca&quot; postavljeno na "
+"Odaberite položaj stupca prilikom prelaska na punu propusnost - na temelju "
+"0. Koristi se samo kada je &quot;Ponašanje stupca&quot; postavljeno na "
 "pojedinačno."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:332
@@ -26150,8 +26148,8 @@ msgid ""
 "(e.g. column size) and the amount of text."
 msgstr ""
 "Odaberite broj ćelija u retku. Svaka ćelija sadržavat će 1 stavku, a dodat "
-"će se dodatni reci za prikaz svih stavki. Razmotrite veličinu spremnika (npr."
-" veličinu stupca) i količinu teksta."
+"će se dodatni reci za prikaz svih stavki. Razmotrite veličinu spremnika "
+"(npr. veličinu stupca) i količinu teksta."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:354
 msgid "Select the number of columns to display."
@@ -26221,8 +26219,8 @@ msgstr "Odaberite os zakretanja za preklopni okvir"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:298
 msgid ""
-"Select the scale behaviour of the team member image in surrounding container."
-" Scaling keeps aspect ratio of selected image size."
+"Select the scale behaviour of the team member image in surrounding "
+"container. Scaling keeps aspect ratio of selected image size."
 msgstr ""
 "Odaberite ponašanje skale slike člana tima u okolnom spremniku. Skaliranje "
 "zadržava omjer slike odabrane veličine slike."
@@ -26458,10 +26456,10 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_blog.php:135
 msgid ""
-"Select to disable or enable the post navigation that links to the "
-"next/previous post on single entries (Fullwidth sliders and hierarchical "
-"post type will disable it for that post by default).  Setting is also used "
-"for portfolio. Use filter avf_post_nav_settings to customize."
+"Select to disable or enable the post navigation that links to the next/"
+"previous post on single entries (Fullwidth sliders and hierarchical post "
+"type will disable it for that post by default).  Setting is also used for "
+"portfolio. Use filter avf_post_nav_settings to customize."
 msgstr ""
 "Odaberite da biste onemogućili ili omogućili navigaciju objave koja se "
 "povezuje sa sljedećom/prethodnom objavom na pojedinačnim unosima (klizači "
@@ -26523,10 +26521,10 @@ msgid ""
 "Can be used for pulling related entries on a page/post/custom post type page "
 "and skip the entry referencing to current page/post/...."
 msgstr ""
-"Odaberite za prikaz/preskakanje unosa ako se radi o trenutnoj "
-"stranici/pošti/portfelju/... Može se koristiti za povlačenje povezanih unosa "
-"na stranici/stranici vrste pošte/post/custom post i preskočiti unos koji se "
-"odnosi na trenutnu stranicu /post/...."
+"Odaberite za prikaz/preskakanje unosa ako se radi o trenutnoj stranici/pošti/"
+"portfelju/... Može se koristiti za povlačenje povezanih unosa na stranici/"
+"stranici vrste pošte/post/custom post i preskočiti unos koji se odnosi na "
+"trenutnu stranicu /post/...."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:841
 msgid "Select to enable carousel autoplay"
@@ -26536,9 +26534,9 @@ msgstr "Odaberite da biste omogućili automatsku reprodukciju vrtuljka"
 msgid ""
 "Select to enable debug output and show ALB shortcodes in a text area below "
 "drag/drop canvas. Only recommended for experienced users and developers who "
-"need to get access to the generated shortcodes and know, what they are doing."
-" Changes to this field might break the layout editor - so avoid making any "
-"changes there."
+"need to get access to the generated shortcodes and know, what they are "
+"doing. Changes to this field might break the layout editor - so avoid making "
+"any changes there."
 msgstr ""
 "Odaberite da biste omogućili izlaz za ispravljanje pogrešaka i prikazali ALB "
 "kratke kodove u tekstualnom području ispod platna povlačenja/ispuštanja. "
@@ -26575,6 +26573,9 @@ msgid ""
 "Select to extend CPTs (Custom Post Types): show taxonomies and thumbnail in "
 "post type edit table, select a default term for CPT posts."
 msgstr ""
+"Odaberite da proširite prilagođene vrste objava (CPTs): prikaži taksonomije "
+"i sliku u tablici uređivanja vrste objava, odaberite zadani pojam za postove "
+"prilagođene vrste objava."
 
 #: includes/admin/option_tabs/avia_cookie.php:830
 msgid ""
@@ -26666,9 +26667,9 @@ msgid ""
 "Select to show complete container/text or a fold/unfold behaviour. This "
 "feature is ignored when nested inside another fold container."
 msgstr ""
-"Odaberite za prikaz cijelog spremnika/teksta ili ponašanja "
-"preklapanja/rasklapanja. Ova se značajka zanemaruje kada se ugnijezdi unutar "
-"drugog spremnika za preklop."
+"Odaberite za prikaz cijelog spremnika/teksta ili ponašanja preklapanja/"
+"rasklapanja. Ova se značajka zanemaruje kada se ugnijezdi unutar drugog "
+"spremnika za preklop."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:406
 msgid ""
@@ -27055,10 +27056,8 @@ msgid "Separate Sidebars For Blog And Archive Pages"
 msgstr "Odvojene bočne trake za stranice bloga i arhive"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:280
-#, fuzzy
-#| msgid "Seperator"
 msgid "Separator"
-msgstr "Separator"
+msgstr "Razdjelnik"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:27
 msgid "Separator / Whitespace"
@@ -27194,7 +27193,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.php:301
 msgid "Set a margin to the surrounding container."
-msgstr ""
+msgstr "Postavite margine oko kontejnera."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:203
 msgid "Set a position for the animation."
@@ -27222,10 +27221,6 @@ msgid "Set a responsive padding to text for the button."
 msgstr "Postavite uzvratnu oblogu na tekst gumba."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:358
-#, fuzzy
-#| msgid ""
-#| "Set a responsive padding to text for the buttons. Used for all buttons, "
-#| "can also be set for each button seperate."
 msgid ""
 "Set a responsive padding to text for the buttons. Used for all buttons, can "
 "also be set for each button separate."
@@ -27270,8 +27265,6 @@ msgid "Set Manually"
 msgstr "Postavite ručno"
 
 #: config-woocommerce/admin-options.php:545
-#, fuzzy
-#| msgid "Set opacity for color Overlay"
 msgid "Set Opacity For Color Overlay"
 msgstr "Postavite neprozirnost za prekrivanje boja"
 
@@ -27585,8 +27578,8 @@ msgid ""
 "Set your custom margin.  Valid CSS units are accepted, eg: 30px, 5&percnt;. "
 "px is used as default unit."
 msgstr ""
-"Postavite prilagođenu marginu. Prihvaćaju se valjane CSS jedinice, npr. 30px,"
-" 5&percnt;. px se koristi kao zadana jedinica."
+"Postavite prilagođenu marginu. Prihvaćaju se valjane CSS jedinice, npr. "
+"30px, 5&percnt;. px se koristi kao zadana jedinica."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1166
 msgid ""
@@ -27720,7 +27713,7 @@ msgstr "Opcije trgovine"
 
 #: includes/admin/option_tabs/avia_shop.php:116
 msgid "Shop Page Banner Location"
-msgstr ""
+msgstr "Lokacija bannera na stranici trgovine"
 
 #: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:2968
 msgid "Shopping Cart"
@@ -28032,10 +28025,8 @@ msgid "Show feed header"
 msgstr "Pokaži zaglavlje sažetka sadržaja"
 
 #: config-woocommerce/admin-options.php:265
-#, fuzzy
-#| msgid "Yes - show first gallery image on hover"
 msgid "Show first gallery image on hover"
-msgstr "Da - prikaži prvu sliku galerije na držaču miša"
+msgstr "Prikaži prvu sliku galerije na držaču miša"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:276
 #: config-templatebuilder/avia-shortcodes/video/video.php:278
@@ -28986,9 +28977,9 @@ msgid ""
 "problems you can leave it disabled until you find a solution to fix it."
 msgstr ""
 "Neki SEO dodaci moraju obraditi kratke kodove prilikom izrade zaglavlja. "
-"Budući da je to dugotrajno, prema zadanim je postavkama onemogućeno. Također,"
-" ako naiđete na probleme, možete ga ostaviti onemogućenim dok ne pronađete "
-"rješenje za popravak."
+"Budući da je to dugotrajno, prema zadanim je postavkama onemogućeno. "
+"Također, ako naiđete na probleme, možete ga ostaviti onemogućenim dok ne "
+"pronađete rješenje za popravak."
 
 #: includes/admin/option_tabs/avia_performance.php:120
 msgid ""
@@ -29329,8 +29320,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_performance.php:178
 msgid ""
-"Starting with 5.4 you can decide to load your custom fonts from a CDN server."
-" In this case you must include your own @font-face rules in head."
+"Starting with 5.4 you can decide to load your custom fonts from a CDN "
+"server. In this case you must include your own @font-face rules in head."
 msgstr ""
 "Počevši od verzije 5.4, možete odlučiti učitati prilagođene fontove s CDN "
 "poslužitelja. U tom slučaju morate uključiti vlastita pravila @font-lice u "
@@ -29823,15 +29814,15 @@ msgstr "Oblak oznaka"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:180
 msgid "Tag Links"
-msgstr ""
+msgstr "Poveznice oznaka"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:181
 msgid "Tag Names"
-msgstr ""
+msgstr "Nazivi oznaka"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:961
 msgid "Tag:"
-msgstr ""
+msgstr "Oznaka:"
 
 #: includes/admin/register-portfolio.php:175
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:513
@@ -29992,11 +29983,11 @@ msgstr "Tekst"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:193
 msgid "Text (autoformat)"
-msgstr ""
+msgstr "Tekst (automatsko oblikovanje)"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:192
 msgid "Text (HTML escaped)"
-msgstr ""
+msgstr "Tekst (HTML izbjegnut)"
 
 #: includes/admin/register-backend-advanced-styles.php:712
 msgid "Text Align"
@@ -30315,8 +30306,8 @@ msgstr ""
 msgid ""
 "The interval time between slides for autoplay in milliseconds. Any number."
 msgstr ""
-"Vrijeme intervala između slajdova za automatsku reprodukciju u milisekundama."
-" Bilo koji broj."
+"Vrijeme intervala između slajdova za automatsku reprodukciju u "
+"milisekundama. Bilo koji broj."
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:32
 msgid ""
@@ -30632,7 +30623,7 @@ msgstr ""
 
 #: config-acf/class-avia-acf.php:227
 msgid "Theme ACF shortcode"
-msgstr ""
+msgstr "Tema ACF skraćeni kod"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1364
 msgid "Theme Color"
@@ -30658,7 +30649,7 @@ msgstr "Boje tema"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1434
 msgid "Theme Custom Field Shortcode"
-msgstr ""
+msgstr "Skraćeni kod prilagođenog polja teme"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:191
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:467
@@ -30682,8 +30673,8 @@ msgstr "Zadana postavka teme je:"
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:75
 msgid ""
-"Theme default location is:  .../themes/enfold/config-leaflet-"
-"maps/assets/leafletjs"
+"Theme default location is:  .../themes/enfold/config-leaflet-maps/assets/"
+"leafletjs"
 msgstr ""
 "Zadano mjesto teme je: .../teme/enfold/config-leaflet-maps/assets/leafletjs"
 
@@ -30806,8 +30797,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:64
 msgid ""
-"THESE PLUGINS DO NOT GUARANTEE TO FULFILL ANY LEGAL RULES FOR ACCESSIBILITY !"
-"!!"
+"THESE PLUGINS DO NOT GUARANTEE TO FULFILL ANY LEGAL RULES FOR "
+"ACCESSIBILITY !!!"
 msgstr ""
 "OVI DODACI NE JAMČE ISPUNJAVANJE ZAKONSKIH PRAVILA ZA PRISTUPAČNOST !!!"
 
@@ -30884,16 +30875,21 @@ msgstr ""
 #: config-woocommerce/admin-options.php:150
 msgid "This controls how many columns should appear on overview pages"
 msgstr ""
+"Ovo kontrolira koliko stupaca treba biti prikazano na preglednim stranicama"
 
 #: config-woocommerce/admin-options.php:175
 msgid "This controls how many products should appear on overview pages."
 msgstr ""
+"Ovo kontrolira koliko proizvoda treba biti prikazano na preglednim "
+"stranicama."
 
 #: framework/php/class-cpt-support.php:296
 msgid ""
 "This default term will always be set when you save a post without manually "
 "selecting a term."
 msgstr ""
+"Ova zadana oznaka uvijek će biti postavljena kada spremite objavu bez ručnog "
+"odabira oznake."
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_button.php:36
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_info.php:36
@@ -30941,6 +30937,8 @@ msgid ""
 "This element is disabled in your theme options. You can enable it in Enfold "
 "&raquo; Layout Builder"
 msgstr ""
+"Ovaj element onemogućen je u opcijama vaše teme. Možete ga omogućiti u "
+"Enfold &raquo; izgraditelju izgleda"
 
 #: includes/helper-assets.php:330
 #: config-templatebuilder/avia-shortcode-legacy/video.php:45
@@ -30958,10 +30956,13 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:101
 msgid ""
-"This element is kept for backwards compatibility and is no longer maintained."
-" Consider to switch to new element &quot;Custom Layout&quot; which offers "
-"the same features."
+"This element is kept for backwards compatibility and is no longer "
+"maintained. Consider to switch to new element &quot;Custom Layout&quot; "
+"which offers the same features."
 msgstr ""
+"Ovaj element se čuva radi kompatibilnosti unatrag i više se ne održava. "
+"Razmislite o prebacivanju na novi element &quot;Prilagođeni izgled&quot; "
+"koji nudi iste mogućnosti."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:287
 msgid "This element only works with activated advanced layout builder"
@@ -31000,8 +31001,8 @@ msgid ""
 "please post them here:"
 msgstr ""
 "Ova je značajka u aktivnom BETA! Stalno ćemo dodavati nove elemente za "
-"prilagođavanje i potrebna vam je vaša pomoć: Ako imate prijedloge što dodati,"
-" pošaljite ih ovdje:"
+"prilagođavanje i potrebna vam je vaša pomoć: Ako imate prijedloge što "
+"dodati, pošaljite ih ovdje:"
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:58
 msgid ""
@@ -31134,13 +31135,14 @@ msgstr ""
 
 #: framework/php/class-grecaptcha.php:192
 msgid ""
-"This site is protected by reCAPTCHA and the Google <a href=\"https:"
-"//policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https:"
-"//policies.google.com/terms\">Terms of Service</a> apply."
+"This site is protected by reCAPTCHA and the Google <a href=\"https://"
+"policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://"
+"policies.google.com/terms\">Terms of Service</a> apply."
 msgstr ""
-"Ova je web stranica zaštićena reCAPTCHA-om i primjenjuju se <a href=\"https:"
-"//policies.google.com/privacy\">Googleova pravila o privatnosti</a> i <a "
-"href=\"https://policies.google.com/terms\">Uvjeti pružanja usluge</a> ."
+"Ova je web stranica zaštićena reCAPTCHA-om i primjenjuju se <a "
+"href=\"https://policies.google.com/privacy\">Googleova pravila o "
+"privatnosti</a> i <a href=\"https://policies.google.com/terms\">Uvjeti "
+"pružanja usluge</a> ."
 
 #: includes/admin/option_tabs/avia_cookie.php:361
 msgid ""
@@ -31161,8 +31163,8 @@ msgstr ""
 #: includes/admin/option_tabs/avia_builder.php:124
 msgid ""
 "This will lock the elements for all administrators including you, to prevent "
-"accidental changing of a page layout. In order to change a page layout later,"
-" you will need to uncheck this option first"
+"accidental changing of a page layout. In order to change a page layout "
+"later, you will need to uncheck this option first"
 msgstr ""
 "Ovo će zaključati elemente za sve administratore, uključujući vas, kako bi "
 "se spriječila slučajna promjena izgleda stranice. Da biste kasnije "
@@ -31433,8 +31435,8 @@ msgstr ""
 "možete suprimiti dodavanje vremenske oznake - ako želite. Ovisno o vašem "
 "hosteru, možda će trebati neko vrijeme dok ova postavka ne radi ispravno. "
 "Onemogućite spajanje datoteka, odaberite &quot;Izbriši stare CSS i JS "
-"datoteke&quot; - pričekajte neko vrijeme, očistite predmemoriju poslužitelja,"
-" a zatim ponovno aktivirajte postavke."
+"datoteke&quot; - pričekajte neko vrijeme, očistite predmemoriju "
+"poslužitelja, a zatim ponovno aktivirajte postavke."
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:14
 msgid ""
@@ -31527,6 +31529,9 @@ msgid ""
 "To see real custom field data during designing select an &quot;Underlying "
 "Entry ID&quot; in metabox &quot;Enfold Custom Layout Settings&quot;"
 msgstr ""
+"Kako biste vidjeli stvarne podatke prilagođenog polja tijekom dizajniranja "
+"odaberite &quot;ID osnovnog unosa&quot; u metaboxu &quot;Postavke "
+"prilagođenog izgleda za Enfold&quot;"
 
 #: includes/admin/option_tabs/avia_styling.php:612
 #, php-format
@@ -32094,7 +32099,7 @@ msgstr "Podvuci"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:817
 msgid "Underlying Entry ID (Used Only For Preview !!)"
-msgstr ""
+msgstr "ID osnovnog unosa (koristi se samo za pregled!)"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:62
 msgid "Undo"
@@ -32102,7 +32107,7 @@ msgstr "Poništi"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:191
 msgid "Unformatted text"
-msgstr ""
+msgstr "Neoblikovani tekst"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:156
 msgid "Unique ID for ALB element"
@@ -32153,7 +32158,7 @@ msgstr "nepoznato ime ikone"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:1025
 msgid "Unknown WP key"
-msgstr ""
+msgstr "Nepoznati ključ WP-a"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3023
 #, php-format
@@ -32359,8 +32364,8 @@ msgstr "Koristite prilagođeni skup"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:556
 msgid ""
-"Use a default generated link depending on the meta element (if a link exists)"
-", set a custom link or display only as text"
+"Use a default generated link depending on the meta element (if a link "
+"exists), set a custom link or display only as text"
 msgstr ""
 "Koristite zadanu generiranu poveznicu ovisno o meta elementu (ako postoji "
 "poveznica), postavite prilagođenu vezu ili prikažite samo kao tekst"
@@ -33121,6 +33126,10 @@ msgid ""
 "social media like facebook, X, ..) or custom field content will use data of "
 "this page and NOT from the page where this footer page is used."
 msgstr ""
+"Korištenje ALB elemenata s sadržajem specifičnim za stranicu (npr. poveznice "
+"za dijeljenje na društvenim mrežama poput Facebooka, X, ..) ili sadržajem "
+"prilagođenih polja koristit će podatke o ovoj stranici i NE sa stranice na "
+"kojoj se koristi ovaj podnožni dio."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:709
 msgid ""
@@ -33197,8 +33206,8 @@ msgid ""
 "google.com/knowledge/glossary/instance/\" target=\"_blank\" rel=\"noopener "
 "noreferrer\">named instances</a> are supported by default."
 msgstr ""
-"Varijabilni fontovi mogu se prenijeti, ali trenutno su <a href=\"https:"
-"//fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
+"Varijabilni fontovi mogu se prenijeti, ali trenutno su <a href=\"https://"
+"fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
 "rel=\"noopener noreferrer\">podržane samo imenovane instance</a> prema "
 "zadanim postavkama."
 
@@ -33298,8 +33307,8 @@ msgstr "Video prezentacija"
 #: framework/php/function-set-avia-ajax.php:1166
 msgid "Video thumbnail already exist in the media library (Attachment ID: %d)"
 msgstr ""
-"Sličica videozapisa već postoji u biblioteci medijskih sadržaja (ID privitka:"
-" %d)"
+"Sličica videozapisa već postoji u biblioteci medijskih sadržaja (ID "
+"privitka: %d)"
 
 #: framework/php/function-set-avia-ajax.php:1248
 msgid "Video thumbnail is now available in the media library:"
@@ -33317,7 +33326,7 @@ msgstr "Samo videozapisi"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1828
 msgid "View ALB Custom Element"
-msgstr ""
+msgstr "Pregledaj prilagođeni element ALB-a"
 
 #: functions-enfold.php:366
 msgid "View all results"
@@ -33325,7 +33334,7 @@ msgstr "Pogledajte sve rezultate"
 
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:172
 msgid "View Custom Layout"
-msgstr ""
+msgstr "Pregledaj prilagođeni izgled"
 
 #: config-woocommerce/config-356.php:469 config-woocommerce/config.php:808
 msgid "View Order"
@@ -33411,16 +33420,16 @@ msgstr "Upozorenje (crveno)"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:547
 #, php-format
 msgid ""
-"Warning: Characters %s might break ALB backend or frontend. <a href=\"https:"
-"//kriesi.at/documentation/enfold/intro-to-layout-builder/#using-special-"
-"characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> if "
-"you want to use them. You can use valid HTML markup."
+"Warning: Characters %s might break ALB backend or frontend. <a "
+"href=\"https://kriesi.at/documentation/enfold/intro-to-layout-builder/#using-"
+"special-characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read "
+"more</a> if you want to use them. You can use valid HTML markup."
 msgstr ""
 "Upozorenje: Znakovi %s mogu slomiti ALB pozadinski sustav ili sučelje. <a "
 "href=\"https://kriesi.at/documentation/enfold/intro-to-layout-builder/#using-"
-"special-characters\" target=\"_blank\" rel=\"noopener noreferrer\">"
-"Pročitajte više</a> ako ih želite koristiti. Možete koristiti valjanu HTML "
-"oznaku."
+"special-characters\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Pročitajte više</a> ako ih želite koristiti. Možete koristiti "
+"valjanu HTML oznaku."
 
 #: config-woocommerce/config-356.php:1871 config-woocommerce/config.php:2963
 msgid "was added to the cart"
@@ -33543,8 +33552,9 @@ msgstr ""
 #: includes/admin/option_tabs/avia_upload.php:25
 msgid ""
 "We have detected that you are using a Child Theme. That's Great!. If you "
-"want to, we can import the settings of your Parent theme to your Child theme."
-" Please be aware that this will overwrite your current child theme settings."
+"want to, we can import the settings of your Parent theme to your Child "
+"theme. Please be aware that this will overwrite your current child theme "
+"settings."
 msgstr ""
 "Otkrili smo da koristite temu-dijete. To je odlično!. Ako želite, postavke "
 "roditeljske teme možete uvesti na temu-dijete. Imajte na umu da će ovo "
@@ -33554,11 +33564,11 @@ msgstr ""
 msgid ""
 "We may request cookies to be set on your device. We use cookies to let us "
 "know when you visit our websites, how you interact with us, to enrich your "
-"user experience, and to customize your relationship with our website. <br>"
-"<br>Click on the different category headings to find out more. You can also "
-"change some of your preferences. Note that blocking some types of cookies "
-"may impact your experience on our websites and the services we are able to "
-"offer."
+"user experience, and to customize your relationship with our website. "
+"<br><br>Click on the different category headings to find out more. You can "
+"also change some of your preferences. Note that blocking some types of "
+"cookies may impact your experience on our websites and the services we are "
+"able to offer."
 msgstr ""
 "Možemo zatražiti postavljanje kolačića na vaš uređaj. Koristimo kolačiće "
 "kako bismo nas obavijestili kada posjetite naše web stranice, kako "
@@ -33606,6 +33616,10 @@ msgid ""
 "plugin to get a WP similar behaviour that you are used from WP posts. Making "
 "changes to CPTs from other plugins might lead to unexpected results."
 msgstr ""
+"Preporučujemo da ovdje radite promjene samo za prilagođene tipove objava "
+"koje dodate, npr. pomoću dodatka ACF, kako biste dobili slično ponašanje kao "
+"kod WP objava. Izvođenje promjena na prilagođenim tipovima objava drugih "
+"dodataka može rezultirati neočekivanim rezultatima."
 
 #: includes/admin/option_tabs/avia_demo.php:19
 msgid ""
@@ -33620,6 +33634,9 @@ msgid ""
 "We recommend to use ACF (Advanced Custom Field) plugin for a user friendly "
 "way to manage content of custom fields and custom post types:"
 msgstr ""
+"Preporučujemo upotrebu dodatka ACF (Napredna prilagođena polja) za "
+"korisnički prihvatljiv način upravljanja sadržajem prilagođenih polja i "
+"prilagođenih tipova objava:"
 
 #: includes/admin/option_tabs/avia_upload.php:16
 msgid ""
@@ -33781,6 +33798,7 @@ msgstr ""
 #, php-format
 msgid "Welcome to version %1$s of %2$s - version update was successful"
 msgstr ""
+"Dobrodošli u verziju %1$s od %2$s - ažuriranje verzije je bilo uspješno"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:535
 msgid "were detected parsing the shortcodes."
@@ -33914,12 +33932,17 @@ msgid ""
 "When using ACF fields select &quot;Format&quot; to display e.g. links, "
 "images, ... and not only text or attachment ids."
 msgstr ""
+"Kada koristite ACF polja, odaberite &quot;Format&quot; kako biste prikazali "
+"npr. poveznice, slike, … a ne samo tekst ili ID-ove privitaka."
 
 #: includes/admin/option_tabs/avia_builder.php:268
 msgid ""
 "When using ACF plugin to add custom post types the post type is set in "
 "option &quot;Post Type Key&quot; and it must be set to public."
 msgstr ""
+"Kada koristite dodatak ACF za dodavanje prilagođenih tipova objava, tip "
+"objave postavlja se u opciji &quot;Ključ tipa objave&quot; i mora biti "
+"postavljen na javno."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:692
 msgid ""
@@ -34176,17 +34199,15 @@ msgid ""
 msgstr "Prikazaće se ako odaberete izgled zaglavlja koji podržava podizbornik"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:281
-#, fuzzy
-#| msgid "Will be used to seperate multiple metadata"
 msgid "Will be used to separate multiple metadata"
-msgstr "Koristit će se za razdvajanje više metapodataka"
+msgstr "Koristit će se za razdvajanje višestrukih metapodataka"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:681
 msgid ""
 "Will only be used for Individual Height Colums (see Row Settings tab) !!!"
 msgstr ""
-"Koristit će se samo za pojedinačne stupce visine (pogledajte Postavke redaka)"
-" !!!"
+"Koristit će se samo za pojedinačne stupce visine (pogledajte Postavke "
+"redaka) !!!"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:67
 msgid "With 4.8.7 we started to support stylings in menus."
@@ -34295,7 +34316,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:159
 msgid "WP Custom Fields"
-msgstr ""
+msgstr "Prilagođena polja u WordPressu"
 
 #: framework/php/class-responsive-images.php:1416
 msgid "WP default size"
@@ -34303,11 +34324,11 @@ msgstr "Zadana veličina WP-a"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:158
 msgid "WP Post Advanced"
-msgstr ""
+msgstr "Napredne postavke u WordPressu"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:157
 msgid "WP Post Data"
-msgstr ""
+msgstr "Podaci objave u WordPressu"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2664
 msgid "WP result:"
@@ -34395,8 +34416,6 @@ msgstr "Veza Xing profila"
 
 #: framework/php/class-breadcrumb-trail.php:383
 #: framework/php/class-breadcrumb-trail.php:389
-#: framework/php/class-breadcrumb-trail.php:389
-#: framework/php/class-breadcrumb-trail.php:394
 #: framework/php/class-breadcrumb-trail.php:394
 #: framework/php/class-breadcrumb-trail.php:399
 #: framework/php/function-set-avia-frontend.php:1642
@@ -34578,10 +34597,13 @@ msgstr "Da, rastegnite sliku"
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:366
 msgid ""
-"You added a Custom Layout Element to this entry that tries to display itself."
-" This would result in an infinite loop. Please select a different entry or "
-"remove the element."
+"You added a Custom Layout Element to this entry that tries to display "
+"itself. This would result in an infinite loop. Please select a different "
+"entry or remove the element."
 msgstr ""
+"Dodali ste prilagođeni element izgleda na ovaj unos koji pokušava prikazati "
+"sam sebe. To bi rezultiralo beskonačnom petljom. Odaberite drugi unos ili "
+"uklonite element."
 
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:343
 msgid ""
@@ -34595,7 +34617,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:137
 msgid "You are free to choose an entry of any post type."
-msgstr ""
+msgstr "Slobodni ste odabrati unos bilo koje vrste objave."
 
 #: framework/php/class-breadcrumb-trail.php:85
 msgid "You are here:"
@@ -34690,15 +34712,11 @@ msgstr ""
 "gumbe za akciju“ koji se dodaju opisu"
 
 #: includes/admin/option_tabs/avia_shop.php:92
-#, fuzzy
-#| msgid ""
-#| "You can choose to display a parallax banner with description on the shop "
-#| "page"
 msgid ""
 "You can choose to display a fullwidth banner with description on the shop "
 "page"
 msgstr ""
-"Možete odabrati prikazivanje paralaks banera s opisom na stranici trgovine"
+"Možete odabrati prikazivanje banera pune širine s opisom na stranici trgovine"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:632
 msgid ""
@@ -34724,7 +34742,7 @@ msgstr "Ovdje možete odabrati različite pozicije logotipa i glavnog izbornika"
 
 #: includes/admin/option_tabs/avia_shop.php:117
 msgid "You can choose where to display the shop page banner."
-msgstr ""
+msgstr "Možete odabrati gdje prikazati banner na stranici trgovine."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1976
 msgid ""
@@ -34759,8 +34777,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:324
 msgid ""
-"You can either define a fixed height in pixel like '300px' or enter a "
-"width/height ratio like 16:9"
+"You can either define a fixed height in pixel like '300px' or enter a width/"
+"height ratio like 16:9"
 msgstr ""
 "Fiksnu visinu možete definirati u pikselu poput \"300px\" ili unijeti omjer "
 "širine / visine poput 16:9"
@@ -34887,13 +34905,13 @@ msgstr "Možete prenijeti dodatne pakete Iconfont generirane sa"
 
 #: includes/admin/option_tabs/avia_upload.php:204
 msgid ""
-"You can upload your custom Font zip files. Intended for <a href=\"https:"
-"//fonts.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google "
+"You can upload your custom Font zip files. Intended for <a href=\"https://"
+"fonts.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google "
 "Webkit Fonts</a>."
 msgstr ""
-"Prilagođene zip datoteke fonta možete prenijeti. Namijenjeno <a href='https:"
-"//fonts.google.com/' target='_blank' rel='noopener noreferrer'>Google webkit "
-"fontovima</a>."
+"Prilagođene zip datoteke fonta možete prenijeti. Namijenjeno <a "
+"href='https://fonts.google.com/' target='_blank' rel='noopener "
+"noreferrer'>Google webkit fontovima</a>."
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:482
 msgid ""
@@ -35047,12 +35065,18 @@ msgid ""
 "avoid endless loops and broken layout it will be ignored in the selected "
 "entry in frontend."
 msgstr ""
+"Vaš odabrani unos možda ne sadrži &quot;Prilagođeni izgled&quot; element. "
+"Kako bi se izbjegli beskonačni petlji i narušavanje izgleda, bit će "
+"ignoriran u odabranom unosu na prednjoj strani."
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:128
 msgid ""
 "Your selected entry should be built using ALB (Advanced Layout Builder). In "
 "active beta also non ALB entries can be used."
 msgstr ""
+"Vaš odabrani unos trebao bi biti izgrađen korištenjem ALB-a (Naprednog "
+"izgraditelja izgleda). U aktivnoj beta verziji mogu se koristiti i unosi "
+"koji nisu ALB."
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:13
 msgid "Your session timed out. Simply reload the page and try again"
