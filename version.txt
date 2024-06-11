@@ -1,3 +1,7 @@
+
+2024_06_11
+- sync all language files (6.0-dev-0)
+
 2024_06_01
 - Croatian language files hr (version 6.0, provided by NUIT d.o.o. - info@nuit.hr )
 
