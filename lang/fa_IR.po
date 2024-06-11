@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-17 16:40+0000\n"
-"PO-Revision-Date: 2024-05-22 10:11+0000\n"
+"PO-Revision-Date: 2024-06-11 13:19+0000\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "Language: fa_IR\n"
@@ -339,7 +339,7 @@ msgstr ""
 msgid "(Custom SVG)"
 msgstr ""
 
-#: config-woocommerce/config-356.php:1741 config-woocommerce/config.php:2753
+#: config-woocommerce/config-356.php:1741 config-woocommerce/config.php:2853
 msgid "(disabled)"
 msgstr ""
 "از آنجا که مرورگر شما جاوا اسکریپت را پشتیبانی نمی کند یا غیرفعال است، "
@@ -699,6 +699,10 @@ msgstr "300"
 msgid "30px * 30px"
 msgstr "30px * 30px"
 
+#: config-templatebuilder/avia-shortcodes/video/video.php:316
+msgid "3:4"
+msgstr ""
+
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1738
 msgid "3rd Opacity"
 msgstr ""
@@ -846,6 +850,10 @@ msgstr ""
 #: includes/admin/register-admin-option-values.php:31
 msgid "900"
 msgstr "900"
+
+#: config-templatebuilder/avia-shortcodes/video/video.php:315
+msgid "9:16"
+msgstr ""
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:98
 #, php-format
@@ -1137,6 +1145,10 @@ msgstr ""
 msgid "About"
 msgstr "درباره"
 
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:812
+msgid "Above content (= default)"
+msgstr ""
+
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1026
 msgid "Absolute"
 msgstr ""
@@ -1204,7 +1216,7 @@ msgstr "اسلایدر اکوردئون"
 msgid "Accordion Slider Item"
 msgstr ""
 
-#: config-woocommerce/config.php:2905
+#: config-woocommerce/config.php:3005
 msgid "Account Page Link"
 msgstr ""
 
@@ -1579,7 +1591,7 @@ msgstr "افزودن کلاس CSS دلخواه "
 msgid "Add Description"
 msgstr "افزودن توضیحات"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:294
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:293
 msgid "Add FAQ markup"
 msgstr ""
 
@@ -1861,7 +1873,7 @@ msgstr "افزودن/ویرایش تب ها"
 msgid "Add/Edit Testimonial"
 msgstr "افزودن / ویرایش نظر مشتری"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:269
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:268
 msgid "Add/Edit Toggles"
 msgstr "ویرایش/افزودن آیتم"
 
@@ -2061,7 +2073,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:156
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:663
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:199
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:716
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:714
 #: config-templatebuilder/avia-shortcodes/video/video.php:131
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:166
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:923
@@ -2303,8 +2315,8 @@ msgstr "موقعیت منو را برای چپ، راست یا وسط بودن �
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1235
 #: config-templatebuilder/avia-shortcodes/search/search.php:272
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:307
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1304
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1360
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1359
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1415
 msgid "All"
 msgstr "همه"
 
@@ -2565,7 +2577,7 @@ msgstr "همیشه ویژگی های رسانه را بارگذاری کنید"
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:433
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:478
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:522
-#: config-templatebuilder/avia-shortcodes/video/video.php:357
+#: config-templatebuilder/avia-shortcodes/video/video.php:359
 msgid "Always load videos"
 msgstr "بارگذاری همیشگی ویدیوها"
 
@@ -2764,7 +2776,7 @@ msgstr "ظاهر"
 msgid "Appearance -> Menus"
 msgstr "نمایش > فهرست"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:531
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:529
 msgid "Appearance of toggles on mouse hover"
 msgstr ""
 
@@ -3107,7 +3119,7 @@ msgstr ""
 msgid "Attention!"
 msgstr "توجه!"
 
-#: config-woocommerce/config-356.php:2350 config-woocommerce/config.php:3569
+#: config-woocommerce/config-356.php:2350 config-woocommerce/config.php:3669
 msgid ""
 "Attention! Pages built with the Enfold Advanced Template Builder will not be "
 "displayed at the bottom of the checkout page but only with a link."
@@ -3325,7 +3337,7 @@ msgstr ""
 msgid "Average"
 msgstr ""
 
-#: config-woocommerce/config.php:2095
+#: config-woocommerce/config.php:2195
 msgid "Average rating"
 msgstr ""
 
@@ -3401,7 +3413,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:571
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:507
 #: config-templatebuilder/avia-shortcodes/section/section.php:513
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:504
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:502
 #: includes/admin/option_tabs/avia_styling.php:186
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:571
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:609
@@ -3454,7 +3466,7 @@ msgstr ""
 msgid "Background Colors"
 msgstr "رنگ پس زمینه"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:495
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:493
 msgid "Background Current Toggle"
 msgstr ""
 
@@ -3465,7 +3477,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1226
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1265
 #: config-templatebuilder/avia-shortcodes/section/section.php:514
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:505
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:503
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:572
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:610
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1142
@@ -3545,9 +3557,10 @@ msgstr "بک گراند ویدئو"
 msgid "Backwards"
 msgstr ""
 
-#: config-woocommerce/admin-options.php:540
-msgid "Banner Color Overlay (leave empty for no overlay)"
-msgstr "پوشش رنگ بنر (برای بدون پوشش خالی بگذارید)"
+#: config-woocommerce/admin-options.php:542
+msgid ""
+"Banner Color Overlay (leave empty for no overlay), only for background image"
+msgstr ""
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:394
 msgid "Banner image"
@@ -3640,11 +3653,11 @@ msgstr ""
 msgid "Behance Profile Link"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:323
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:322
 msgid "Behavior"
 msgstr "رفتار"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:354
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:353
 msgid "Behaviour"
 msgstr ""
 
@@ -3658,6 +3671,10 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1289
 msgid "Below 989px (Tablet Landscape)"
+msgstr ""
+
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:813
+msgid "Below content"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:259
@@ -6617,11 +6634,11 @@ msgstr "برای بارگذاری نقشه‌های گوگل کلیک کنید"
 msgid "Click to open popup"
 msgstr ""
 
-#: config-woocommerce/config-356.php:1363 config-woocommerce/config.php:2108
+#: config-woocommerce/config-356.php:1363 config-woocommerce/config.php:2208
 msgid "Click to order products ascending"
 msgstr "برای مرتب سازی به صورت صعودی کلیک کنید"
 
-#: config-woocommerce/config-356.php:1364 config-woocommerce/config.php:2109
+#: config-woocommerce/config-356.php:1364 config-woocommerce/config.php:2209
 msgid "Click to order products descending"
 msgstr "برای مرتب سازی به صورت نزولی کلیک کنید"
 
@@ -6809,8 +6826,8 @@ msgstr "دکمه های رنگی "
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:284
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:564
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:902
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:397
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:584
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:395
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:582
 msgid "Colors"
 msgstr "رنگ ها"
 
@@ -7162,7 +7179,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:118
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:621
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:156
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:700
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:698
 #: config-templatebuilder/avia-shortcodes/video/video.php:94
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:124
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:879
@@ -7266,7 +7283,7 @@ msgstr "اندازه قلم محتوا"
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:387
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:448
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:477
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:616
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:614
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:391
 msgid "Content Font Sizes"
 msgstr ""
@@ -7755,7 +7772,7 @@ msgstr ""
 msgid "Current post"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:458
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:456
 msgid "Current Toggle Appearance"
 msgstr ""
 
@@ -7807,7 +7824,7 @@ msgstr ""
 msgid "Curve Asymmetrical"
 msgstr ""
 
-#: config-woocommerce/config.php:2090
+#: config-woocommerce/config.php:2190
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:163
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:575
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:315
@@ -7817,11 +7834,11 @@ msgstr ""
 msgid "Custom"
 msgstr "دلخواه"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:446
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:444
 msgid "Custom +/- Icon Color"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:483
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:481
 msgid "Custom +/- Icon Color Current Toggle"
 msgstr ""
 
@@ -7865,7 +7882,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:294
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:293
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:524
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:422
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:420
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3387
 msgid "Custom Background Color"
 msgstr "رنگ پس زمینه دلخواه"
@@ -7908,7 +7925,7 @@ msgstr "تصویر زمینه دلخواه"
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:399
 #: config-templatebuilder/avia-shortcodes/search/search.php:505
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:548
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:434
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:432
 msgid "Custom Border Color"
 msgstr "رنگ کادر دلخواه"
 
@@ -8128,12 +8145,12 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:321
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:377
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:269
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:410
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:408
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3398
 msgid "Custom Font Color"
 msgstr "رنگ دلخواه فونت"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:471
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:469
 msgid "Custom Font Color Current Toggle"
 msgstr ""
 
@@ -8149,15 +8166,15 @@ msgstr ""
 msgid "Custom Font Manager"
 msgstr "مدیریت فونت دلخواه"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:567
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:565
 msgid "Custom Hover +/- Icon Color"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:555
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:553
 msgid "Custom Hover Background Color"
 msgstr "رنگ پس زمینه دلخواه"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:543
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:541
 msgid "Custom Hover Font Color"
 msgstr "رنگ  افکت  دلخواه فونت"
 
@@ -8290,7 +8307,7 @@ msgid "Custom Pulse Color"
 msgstr "رنگ پالس دلخواه"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:314
-#: config-templatebuilder/avia-shortcodes/video/video.php:315
+#: config-templatebuilder/avia-shortcodes/video/video.php:317
 msgid "Custom Ratio"
 msgstr "نسبت دلخواه"
 
@@ -8416,7 +8433,7 @@ msgstr ""
 msgid "Dataset Label"
 msgstr ""
 
-#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:2093
+#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:2193
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:263
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:648
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:362
@@ -8483,7 +8500,7 @@ msgstr "کاهش اندازه ستون"
 msgid "Deeplink String"
 msgstr ""
 
-#: config-woocommerce/admin-options.php:482 config-woocommerce/config.php:2089
+#: config-woocommerce/admin-options.php:482 config-woocommerce/config.php:2189
 #: framework/php/class-cpt-support.php:345
 #: includes/admin/register-admin-option-values.php:20
 #: includes/admin/register-admin-option-values.php:35
@@ -8542,11 +8559,11 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:468
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:518
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:879
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:375
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:404
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:465
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:503
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:537
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:374
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:402
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:463
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:501
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:535
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1765
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1838
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2429
@@ -8869,9 +8886,9 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:469
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:519
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:880
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:405
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:466
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:538
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:403
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:464
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:536
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:483
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:558
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1053
@@ -9188,7 +9205,7 @@ msgstr ""
 msgid "Description Column"
 msgstr "ستون توضیحات"
 
-#: config-woocommerce/admin-options.php:535
+#: config-woocommerce/admin-options.php:537
 msgid "Description Font Color"
 msgstr "رنگ فونت توضیحات"
 
@@ -9231,7 +9248,7 @@ msgstr ""
 msgid "Developer"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:819
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:849
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:304
 msgid "Developer Settings"
 msgstr ""
@@ -9479,7 +9496,7 @@ msgstr ""
 msgid "Dismiss this notice."
 msgstr ""
 
-#: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2210
+#: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2310
 #: includes/admin/register-backend-advanced-styles.php:111
 #: includes/admin/register-backend-advanced-styles.php:132
 msgid "Display"
@@ -9489,6 +9506,14 @@ msgstr "نمایش"
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:424
 msgid "Display \"Load More\" Button"
 msgstr "نمایش \"دکمه بارگزار موارد بیشتر\" "
+
+#: includes/admin/option_tabs/avia_shop.php:100
+msgid "Display a banner background image with scroll"
+msgstr ""
+
+#: includes/admin/option_tabs/avia_shop.php:99
+msgid "Display a banner image with parallax effect"
+msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:60
 msgid ""
@@ -9576,6 +9601,10 @@ msgid ""
 "Display a predefined Custom Layout - or the content of a different entry"
 msgstr ""
 
+#: includes/admin/option_tabs/avia_shop.php:101
+msgid "Display a responsive banner image with description below image"
+msgstr ""
+
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:564
 msgid ""
 "Display a Route by entering a address here. (If address is added Zoom will "
@@ -9646,7 +9675,7 @@ msgstr "نمایش تصویر اعضای تیم به همراه اطلاعات �
 msgid "Display a video"
 msgstr "نمایش یک ویدئو"
 
-#: includes/admin/option_tabs/avia_shop.php:124
+#: includes/admin/option_tabs/avia_shop.php:125
 msgid "Display above title and breadcrumb line"
 msgstr ""
 
@@ -9701,15 +9730,7 @@ msgstr "نمایش به صورت متن"
 msgid "Display Author?"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_shop.php:100
-msgid "Display banner image"
-msgstr ""
-
-#: includes/admin/option_tabs/avia_shop.php:99
-msgid "Display banner image with parallax effect"
-msgstr ""
-
-#: includes/admin/option_tabs/avia_shop.php:125
+#: includes/admin/option_tabs/avia_shop.php:126
 msgid "Display below title and breadcrumb line"
 msgstr ""
 
@@ -10138,7 +10159,7 @@ msgstr "نمایش نقد و بررسی ها و فرم نقد و بررسی بر
 msgid "Display the Title Bar with Page Title and Breadcrumb Navigation?"
 msgstr "نمایش نوار عنوان در برگه، عنوان و موقعیت کاربر؟"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:337
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:336
 msgid ""
 "Display the toggle sorting menu? (You also need to add a number of tags to "
 "each toggle to make sorting possible)"
@@ -10147,25 +10168,39 @@ msgstr ""
 "تا این مورد امکان پذیر باشد)"
 
 #: config-woocommerce/admin-options.php:485
-msgid "Display thumbnail and description as fullwidth page banner below header"
+msgid ""
+"Display thumbnail and description as fullwidth background banner image with "
+"scroll below header"
 msgstr ""
 
 #: config-woocommerce/admin-options.php:486
 msgid ""
-"Display thumbnail and description as fullwidth page banner below "
-"title/breadcrumb"
+"Display thumbnail and description as fullwidth background banner image with "
+"scroll below title/breadcrumb"
 msgstr ""
 
 #: config-woocommerce/admin-options.php:483
 msgid ""
-"Display thumbnail and description as fullwidth page banner with parallax "
-"effect below header"
+"Display thumbnail and description as fullwidth banner with parallax effect "
+"below header"
 msgstr ""
 
 #: config-woocommerce/admin-options.php:484
 msgid ""
-"Display thumbnail and description as fullwidth page banner with parallax "
-"effect below title/breadcrumb"
+"Display thumbnail and description as fullwidth banner with parallax effect "
+"below title/breadcrumb"
+msgstr ""
+
+#: config-woocommerce/admin-options.php:487
+msgid ""
+"Display thumbnail and description as responsive banner image with "
+"description below image below header"
+msgstr ""
+
+#: config-woocommerce/admin-options.php:488
+msgid ""
+"Display thumbnail and description as responsive banner image with "
+"description below image below title/breadcrumb"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:246
@@ -10937,7 +10972,7 @@ msgstr "عناصر را در پنجره باز شده ویرایش کنید:"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:242
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:245
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:231
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:273
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:272
 msgid "Edit Form Element"
 msgstr "ویرایش عنصر فرم"
 
@@ -11239,7 +11274,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:462
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:512
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:873
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:398
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:396
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:476
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:551
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1046
@@ -11252,7 +11287,7 @@ msgid "Either use the themes default or define a custom background color"
 msgstr ""
 "به طور پیش‌فرض از قالب‌ها استفاده کنید یا رنگ پیش زمینه دلخواه را تعریف کنید"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:377
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:376
 #: includes/admin/option_tabs/avia_blog.php:88
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:179
 msgid "Elegant"
@@ -11381,7 +11416,7 @@ msgstr ""
 msgid "Enable Autoplay"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_shop.php:199
+#: includes/admin/option_tabs/avia_shop.php:200
 msgid "Enable Banner for product category pages"
 msgstr "فعال کردن بنر برای صفحات دسته ی محصول"
 
@@ -11669,7 +11704,7 @@ msgstr ""
 msgid "Enter a placeholder text for the input field"
 msgstr "یک متن نگهدارنده برای زمینه ورودی را وارد کنید"
 
-#: includes/admin/option_tabs/avia_shop.php:178
+#: includes/admin/option_tabs/avia_shop.php:179
 msgid "Enter a short description or welcome note for your default Shop Page"
 msgstr "توضیح کوتاهی جهت خوش آمد گویی برای برگه پیشفرض فروشگاه وارد کنید"
 
@@ -11720,6 +11755,12 @@ msgstr ""
 msgid "Enter a title to display in the tabs above the slides"
 msgstr ""
 
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:776
+msgid ""
+"Enter a toggle title here when it is open. Leave empty if not needed (better "
+"keep it short)"
+msgstr ""
+
 #: framework/php/auto-updates/class-avia-auto-updates.php:350
 msgid "Enter a valid Envato private token"
 msgstr ""
@@ -11755,12 +11796,12 @@ msgid ""
 msgstr ""
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:330
-#: config-templatebuilder/avia-shortcodes/video/video.php:331
+#: config-templatebuilder/avia-shortcodes/video/video.php:333
 msgid "Enter a value for the height"
 msgstr "مقدار ارتفاع را وارد کنید"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:320
-#: config-templatebuilder/avia-shortcodes/video/video.php:321
+#: config-templatebuilder/avia-shortcodes/video/video.php:323
 msgid "Enter a value for the width"
 msgstr "مقدار عرض را ورد کنید"
 
@@ -11801,7 +11842,7 @@ msgid ""
 "(different from Marker Popup)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:789
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:796
 msgid ""
 "Enter any number of comma separated tags here. If sorting is active the user "
 "can filter the visible toggles with the help of these tags"
@@ -11898,7 +11939,7 @@ msgstr "برای این ناحیه متنی، محتوا را وارد کنید"
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:651
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:425
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:750
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:779
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:786
 msgid "Enter some content here"
 msgstr "محتوا را اینجا وارد کنید"
 
@@ -12120,7 +12161,7 @@ msgstr "نام فرد را برای گفتاورد وارد کنید"
 msgid "Enter the number of comments to show in the lightbox. Any number."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:315
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:314
 msgid ""
 "Enter the Number of the Accordion Item that should be open initially. Set to "
 "Zero if all should be close on page load"
@@ -12239,8 +12280,10 @@ msgstr ""
 msgid "Enter the title for your icon here. Keep it short."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:769
-msgid "Enter the toggle title here (Better keep it short)"
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:766
+#, fuzzy
+#| msgid "Enter the toggle title here (Better keep it short)"
+msgid "Enter the toggle title here (better keep it short)"
 msgstr "عنوان محتوای بازشو را اینجا وارد کنید"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:609
@@ -12598,7 +12641,7 @@ msgstr ""
 #: includes/admin/update_scripts/v4_8_8.php:25
 #: includes/admin/update_scripts/v4_9.php:90
 #: includes/admin/update_scripts/v5_3.php:24
-#: includes/admin/update_scripts/v6_0.php:12
+#: includes/admin/update_scripts/v6_0.php:25
 msgid "Executed theme update script:"
 msgstr ""
 
@@ -13310,7 +13353,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:461
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:246
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:427
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:644
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:642
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:442
 msgid "Font Sizes"
 msgstr ""
@@ -13409,7 +13452,7 @@ msgstr ""
 msgid "For best search results, mind the following suggestions:"
 msgstr "برای کسب نتیجه بهتر در جستجو، این موارد را نیز به شما پیشنهاد میکنیم:"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:806
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:836
 #, fuzzy
 #| msgid "For Developers: Custom Tab ID"
 msgid "For Developers: Custom Toggle ID"
@@ -14484,7 +14527,7 @@ msgstr "در اینجا شما می توانید متن زیر منو اضافه
 msgid "Here you can add, remove and edit the Tabs you want to display."
 msgstr "در اینجا میتوانید تب ها را اضافه، ویرایش و یا پاک کردن کنید."
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:270
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:269
 msgid "Here you can add, remove and edit the toggles you want to display."
 msgstr "اینجا می توانید موارد را ویرایش، پاک کردن یا اضافه کنید"
 
@@ -14779,12 +14822,12 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:407
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:408
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:409
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:600
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:601
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:602
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:603
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:604
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:623
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:624
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:625
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:626
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:627
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2429
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2493
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3174
@@ -15074,7 +15117,7 @@ msgstr ""
 msgid "Highlight this column by making it slightly bigger"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:459
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:457
 msgid "Highlight title bar of open toggles"
 msgstr ""
 
@@ -15148,7 +15191,7 @@ msgstr ""
 msgid "Hover Text"
 msgstr "متن هوور"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:530
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:528
 msgid "Hover Toggle Appearance"
 msgstr ""
 
@@ -16555,7 +16598,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:244
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:305
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:314
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:313
 msgid "Initial Open"
 msgstr "کدام تب در ابتدا باز باشد؟"
 
@@ -16630,7 +16673,7 @@ msgstr ""
 msgid "Insert"
 msgstr "افزودن"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:807
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:837
 msgid ""
 "Insert a custom ID for the element here. Make sure to only use allowed "
 "characters (latin characters, underscores, dashes and numbers, no special "
@@ -17306,7 +17349,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/slideshow/slideshow.php:426
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:515
-#: config-templatebuilder/avia-shortcodes/video/video.php:350
+#: config-templatebuilder/avia-shortcodes/video/video.php:352
 msgid "Lazy Load Videos"
 msgstr ""
 
@@ -17352,7 +17395,7 @@ msgstr ""
 msgid "Leaflet Map Plugin"
 msgstr ""
 
-#: config-woocommerce/config.php:2759
+#: config-woocommerce/config.php:2859
 msgid "Learn more"
 msgstr ""
 
@@ -17772,7 +17815,7 @@ msgid "Link to another page"
 msgstr "لینک به صفحه دیگری"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:846
-msgid "Link to archiv:"
+msgid "Link to archive:"
 msgstr ""
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:426
@@ -17999,11 +18042,11 @@ msgstr "ورود"
 msgid "Log Out"
 msgstr "خروج"
 
-#: config-woocommerce/config.php:2909
+#: config-woocommerce/config.php:3009
 msgid "Login / Register"
 msgstr ""
 
-#: config-woocommerce/config.php:2910
+#: config-woocommerce/config.php:3010
 msgid "Login / Register Page Link"
 msgstr ""
 
@@ -18722,7 +18765,7 @@ msgstr "عنوان تونل زمان"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:411
 #: config-templatebuilder/avia-shortcodes/table/table.php:245
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:376
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:375
 msgid "Minimal"
 msgstr "مینیمال"
 
@@ -18945,11 +18988,11 @@ msgid "Modern Business"
 msgstr "تجارت مدرن"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:168
-msgid "Modifed Date"
+msgid "Modified Date"
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:169
-msgid "Modifed Date And Time"
+msgid "Modified Date And Time"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_layout.php:160
@@ -19068,7 +19111,7 @@ msgstr "چند پاسخی"
 msgid "Multiple Categories/Terms Relation"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:331
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:330
 msgid "Multiple toggles open allowed (Toggle Mode)"
 msgstr "چند مورد بتواند باز باشد"
 
@@ -19083,7 +19126,7 @@ msgid "Muted colors"
 msgstr "رنگ های خاموش"
 
 #: config-woocommerce/config-356.php:465 config-woocommerce/config.php:804
-#: config-woocommerce/config.php:2904
+#: config-woocommerce/config.php:3004
 msgid "My Account"
 msgstr "حساب کاربری من"
 
@@ -19095,7 +19138,7 @@ msgstr ""
 msgid "N/A"
 msgstr "n/a"
 
-#: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:2091
+#: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:2191
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:227
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:267
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:669
@@ -19589,7 +19632,7 @@ msgstr "کد API مخصوص Mailchimp  یافت نشد"
 msgid "No Mailchimp Lists found"
 msgstr "لیست Mailchimp  پیدا نشد"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:293
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:292
 msgid "No markup needed"
 msgstr ""
 
@@ -19733,7 +19776,7 @@ msgstr "بدون سایدبار"
 msgid "No social Icons"
 msgstr "بدون آیکون های اجتماعی"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:343
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:342
 msgid "No Sorting"
 msgstr "بدون مرتب سازی"
 
@@ -20219,7 +20262,7 @@ msgstr "فقط خلاصه + لینک ادامه مطلب"
 msgid "Only modern browsers"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:330
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:329
 msgid "Only one toggle open at a time (Accordion Mode)"
 msgstr "فقط یک مورد بتواند باز باشد"
 
@@ -20401,6 +20444,10 @@ msgstr ""
 msgid "Open the images in the browser window"
 msgstr ""
 
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:775
+msgid "Open Toggle Title"
+msgstr ""
+
 #: includes/admin/option_tabs/avia_cookie.php:538
 msgid "Open with a button only"
 msgstr ""
@@ -20452,7 +20499,7 @@ msgstr ""
 "سرعت بارگذاری را افزایش می‌أهد)"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:350
-#: config-templatebuilder/avia-shortcodes/video/video.php:351
+#: config-templatebuilder/avia-shortcodes/video/video.php:353
 msgid ""
 "Option to only load the preview image. The actual video will only be fetched "
 "once the user clicks on the image (Waiting for user interaction speeds up "
@@ -20621,7 +20668,7 @@ msgstr "رنگ هوور"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:664
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:882
-#: includes/admin/option_tabs/avia_shop.php:152
+#: includes/admin/option_tabs/avia_shop.php:153
 msgid "Overlay Opacity"
 msgstr "شفافیت پوشش"
 
@@ -21164,7 +21211,7 @@ msgstr ""
 msgid "Please note that Mega Menus are not supported for this element "
 msgstr "مگامنو برای این المان پشتیبانی نمیشود"
 
-#: config-woocommerce/config-356.php:1756 config-woocommerce/config.php:2766
+#: config-woocommerce/config-356.php:1756 config-woocommerce/config.php:2866
 msgid ""
 "Please note that the Advanced Layout Builder for products will not work with "
 "all WooCommerce Extensions"
@@ -21308,7 +21355,7 @@ msgstr "پست های محبوب"
 msgid "Popularity"
 msgstr "محبوبیت"
 
-#: config-woocommerce/config.php:2094
+#: config-woocommerce/config.php:2194
 msgid "Popularity (sales)"
 msgstr ""
 
@@ -21563,7 +21610,7 @@ msgstr "قبلی"
 msgid "Previously used menu"
 msgstr "منوی اخیرا استفاده شده"
 
-#: config-woocommerce/config-356.php:1359 config-woocommerce/config.php:2092
+#: config-woocommerce/config-356.php:1359 config-woocommerce/config.php:2192
 msgid "Price"
 msgstr "قیمت"
 
@@ -21612,7 +21659,7 @@ msgid "Privacy Policy"
 msgstr "حریم خصوصی"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:367
-#: config-templatebuilder/avia-shortcodes/video/video.php:368
+#: config-templatebuilder/avia-shortcodes/video/video.php:370
 msgid "Privacy Settings"
 msgstr ""
 
@@ -21640,7 +21687,7 @@ msgstr "محصولات به صورت مشبک"
 msgid "Product Hover"
 msgstr "هوور محصول"
 
-#: config-woocommerce/config.php:2098
+#: config-woocommerce/config.php:2198
 msgid "Product ID"
 msgstr ""
 
@@ -21688,7 +21735,7 @@ msgstr "اسلایدر محصول"
 msgid "Products"
 msgstr ""
 
-#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:2111
+#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:2211
 msgid "Products per page"
 msgstr "محصول در هر صفحه"
 
@@ -21863,7 +21910,7 @@ msgid "Radial Outside Inside"
 msgstr ""
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:211
-#: config-woocommerce/config.php:2097
+#: config-woocommerce/config.php:2197
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:310
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:364
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:324
@@ -22115,7 +22162,7 @@ msgstr "محصولات مرتبط"
 msgid "Relative"
 msgstr ""
 
-#: config-woocommerce/config.php:2096
+#: config-woocommerce/config.php:2196
 msgid "Relevance"
 msgstr ""
 
@@ -23193,7 +23240,7 @@ msgstr ""
 "اینجا می توانید رنگ پیش زمینه در نوار عنوان زبانه را تنظیم کنید. اگر می "
 "خواهید از رنگ استاندارد استفاده شود مقدار را وارد نکنید."
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:511
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:509
 msgid "Select a custom background color. Leave empty for default color"
 msgstr ""
 "یک رنگ پس زمینه دلخواه برای سلول را انتخاب کنید. برای رنگ پیشفرض خالی بگذارید"
@@ -23212,7 +23259,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/search/search.php:673
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:451
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:525
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:423
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:421
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:578
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:616
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1148
@@ -23240,7 +23287,7 @@ msgstr "رنگ کادر را انتخاب کنید"
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:333
 #: config-templatebuilder/avia-shortcodes/search/search.php:506
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:549
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:435
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:433
 msgid "Select a custom border color. Leave empty to use the default"
 msgstr "رنگ دلخواهی برای کادر انتخاب کنید. برای مقدار پیشفرض خالی بگذارید"
 
@@ -23280,7 +23327,7 @@ msgid ""
 "default."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:484
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:482
 msgid ""
 "Select a custom color for the current active toggle icon. Leave empty to use "
 "default"
@@ -23329,7 +23376,7 @@ msgstr ""
 msgid "Select a custom color for the text. Leave blank to use default."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:447
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:445
 msgid "Select a custom color for the toggle icon. Leave empty to use default"
 msgstr ""
 
@@ -23476,7 +23523,7 @@ msgid ""
 "default"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:472
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:470
 msgid ""
 "Select a custom font color for the current active toggle. Leave empty to use "
 "the default"
@@ -23606,7 +23653,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:476
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:488
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:500
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:411
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:409
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:489
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:501
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:513
@@ -23651,7 +23698,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:388
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:478
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:399
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:617
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:615
 msgid "Select a custom font size for the content."
 msgstr ""
 
@@ -23774,7 +23821,7 @@ msgstr ""
 msgid "Select a custom font size for the titles."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:594
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:592
 msgid ""
 "Select a custom font size for the toggle title. Using non default values "
 "might need CSS styling."
@@ -23784,17 +23831,17 @@ msgstr ""
 msgid "Select a custom height for the search input and button"
 msgstr "انتخاب یک ارتفاع سفارشی برای ورودی جستجو و دکمه"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:556
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:554
 msgid "Select a custom hover background color. Leave empty to use the default"
 msgstr "انتخاب یک رنگ پیش زمینه هاور. برای استفاده پیش‌فرض خالی بگذارید"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:568
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:566
 msgid ""
 "Select a custom hover color for the toggle icon. Leave empty to use &quot;"
 "Custom Hover Font Color&quot;"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:544
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:542
 msgid "Select a custom hover font color. Leave empty to use the default"
 msgstr "رنگ دلخواهی برای فونت دکمه انتخاب کنید- برای پیشفرض خالی بگذارید"
 
@@ -23942,7 +23989,7 @@ msgstr "یک استایل برای عنوان انتخاب کنید"
 msgid "Select a heading tag for this element."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:663
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:661
 msgid "Select a html tag for the toggle titles of this element."
 msgstr ""
 
@@ -24342,7 +24389,7 @@ msgstr ""
 msgid "Select Icon"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:286
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:285
 msgid ""
 "Select if content is used as FAQ and add schema.org markup to support Google "
 "Search. You must enable theme option &quot;Automated Schema.org HTML "
@@ -24730,7 +24777,7 @@ msgstr ""
 msgid "Select the color for this divider here. Leave empty for theme default."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_shop.php:189
+#: includes/admin/option_tabs/avia_shop.php:190
 msgid "Select the color of your shop description"
 msgstr "رنگ های توضیحات فروشگاه را تنظیم کنید"
 
@@ -24930,9 +24977,11 @@ msgstr ""
 msgid "Select the opacity of the marker (0 = no opacity)"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_shop.php:153
-msgid "Select the opacity of your colored banner overlay"
-msgstr "شفافیت روی بنر را انتخاب کنید"
+#: includes/admin/option_tabs/avia_shop.php:154
+msgid ""
+"Select the opacity of your colored banner overlay (used for background "
+"banner only)"
+msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:393
 msgid ""
@@ -24981,6 +25030,12 @@ msgstr ""
 msgid "Select the shape of the radial gradient."
 msgstr ""
 
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:819
+msgid ""
+"Select the slide down/slide up speed when opening or closing the toggle. "
+"Default is 200 ms"
+msgstr ""
+
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1816
 msgid ""
 "Select the slider controls you want to display. Make sure to set the proper "
@@ -25005,7 +25060,7 @@ msgstr ""
 msgid "Select the styling of the drag line and circle"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:369
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:368
 msgid "Select the styling of the toggles"
 msgstr "ظاهر طراحی شده را انتخاب کنید"
 
@@ -25063,7 +25118,7 @@ msgstr ""
 msgid "Select the type of background for the column."
 msgstr "نوع پیش زمینه برای ستون را انتخاب کنید."
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:496
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:494
 msgid "Select the type of background for the current active toggle title bar."
 msgstr ""
 
@@ -25514,6 +25569,12 @@ msgstr ""
 msgid "Select where to display the tooltip in relation to the hotspot"
 msgstr "جایی که میخواهید تولتیپ هات اسپات نمایش داده شود انتخاب کنید"
 
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:806
+msgid ""
+"Select where to see the title when toggle is open. Positioning the title "
+"below content can e.g. be used to create a &quot;Read More&quot; section."
+msgstr ""
+
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:746
 msgid "Select where you want to use the element"
 msgstr ""
@@ -25709,8 +25770,10 @@ msgstr ""
 msgid "Set a border color for this column"
 msgstr "رنگ کادر را برای ستون تنظیم کنید"
 
-#: includes/admin/option_tabs/avia_shop.php:142
-msgid "Set a color to display a overlay above the banner image."
+#: includes/admin/option_tabs/avia_shop.php:143
+#, fuzzy
+#| msgid "Set a color to display a overlay above the banner image."
+msgid "Set a color to display a overlay above the background banner image."
 msgstr "یک رنگ برای روی بنر بالا انتخاب کنید"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:292
@@ -25876,7 +25939,7 @@ msgstr "اندازه سلول را تنظیم کنید"
 msgid "Set Manually"
 msgstr "تنظیم دستی"
 
-#: config-woocommerce/admin-options.php:545
+#: config-woocommerce/admin-options.php:547
 #, fuzzy
 #| msgid "Set opacity for color Overlay"
 msgid "Set Opacity For Color Overlay"
@@ -26262,19 +26325,23 @@ msgstr "اشتراک این مطلب"
 msgid "Shop"
 msgstr "فروشگاه"
 
-#: includes/admin/option_tabs/avia_shop.php:131
+#: includes/admin/option_tabs/avia_shop.php:132
 msgid "Shop Banner Image"
 msgstr "تصویر بنر فروشگاه"
 
-#: includes/admin/option_tabs/avia_shop.php:141
+#: includes/admin/option_tabs/avia_shop.php:142
 msgid "Shop Banner Image Color Overlay"
 msgstr "شفافیت رنگ تصویر بنر فروشگاه"
 
-#: includes/admin/option_tabs/avia_shop.php:177
+#: config-woocommerce/config.php:1680
+msgid "Shop Bannner Image"
+msgstr ""
+
+#: includes/admin/option_tabs/avia_shop.php:178
 msgid "Shop Description"
 msgstr "توضیحات فروشگاه"
 
-#: includes/admin/option_tabs/avia_shop.php:188
+#: includes/admin/option_tabs/avia_shop.php:189
 msgid "Shop Description Color"
 msgstr "رنگ توضیحات فروشگاه"
 
@@ -26287,11 +26354,11 @@ msgstr ""
 msgid "Shop Options"
 msgstr "گزینه های فروشگاه"
 
-#: includes/admin/option_tabs/avia_shop.php:116
+#: includes/admin/option_tabs/avia_shop.php:117
 msgid "Shop Page Banner Location"
 msgstr ""
 
-#: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:2968
+#: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:3068
 msgid "Shopping Cart"
 msgstr "سبد خرید فروشگاه"
 
@@ -26384,7 +26451,7 @@ msgstr ""
 msgid "Should an icon or image be displayed at the top of the tab title?"
 msgstr "باید یک آیکون یا تصویر را برای نمایش در بالای این عنوان زبانه باشد"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:324
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:323
 msgid ""
 "Should only one toggle be active at a time and the others be hidden or can "
 "multiple toggles be open at the same time?"
@@ -26613,7 +26680,7 @@ msgid "Show icon above title"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:358
-#: config-templatebuilder/avia-shortcodes/video/video.php:359
+#: config-templatebuilder/avia-shortcodes/video/video.php:361
 msgid ""
 "Show in lightbox - loads after user interaction - preview image recommended"
 msgstr ""
@@ -27621,7 +27688,7 @@ msgstr ""
 msgid "Sort alphabetically"
 msgstr "مرتب سازی بر اساس نام"
 
-#: config-woocommerce/config-356.php:1390 config-woocommerce/config.php:2171
+#: config-woocommerce/config-356.php:1390 config-woocommerce/config.php:2271
 msgid "Sort by"
 msgstr "ترتیب محصولات: "
 
@@ -27696,12 +27763,12 @@ msgstr "قابل دسته بندی؟"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:393
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:351
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:336
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:335
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2833
 msgid "Sorting"
 msgstr "مرتب سازی"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:344
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:343
 msgid "Sorting Active"
 msgstr "مرتب سازی فعال باشد"
 
@@ -28050,7 +28117,7 @@ msgstr "استایل"
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:134
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:642
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:177
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:368
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:367
 #: config-templatebuilder/avia-shortcodes/video/video.php:115
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:140
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:900
@@ -29511,7 +29578,7 @@ msgid ""
 "active at the moment. (Set in Enfold &raquo; Theme Options)."
 msgstr ""
 
-#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2759
+#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2859
 msgid ""
 "This page is set as the default WooCommerce Shop Overview and therefore does "
 "not support the Enfold advanced layout editor"
@@ -29718,7 +29785,7 @@ msgstr ""
 msgid "Title Background Color"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:510
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:508
 msgid "Title Bar Custom Background Color"
 msgstr "رنگ نوار عنوان برای زمینه دلخواه"
 
@@ -29945,48 +30012,56 @@ msgstr "کاربر به کدام صفحه منتقل شود؟"
 msgid "Today"
 msgstr "امروز"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:278
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:277
 msgid "Toggle 1"
 msgstr "آیتم اول"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:279
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:278
 msgid "Toggle 2"
 msgstr "آیتم دوم"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:778
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:785
 msgid "Toggle Content"
 msgstr "محتوای Toggle  (محتوای بازشو)"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:782
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:789
 msgid "Toggle Content goes here"
 msgstr "محتوای ضامنی اینجا وارد شود"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:593
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:818
+msgid "Toggle Content Slide Speed"
+msgstr ""
+
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:591
 msgid "Toggle Font Sizes"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:788
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:795
 msgid "Toggle Sorting Tags"
 msgstr "برچسب های مرتب سازی محتوای بازشو"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:768
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:765
 msgid "Toggle Title"
 msgstr "عنوان محتوای بازشو"
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:662
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:805
+msgid "Toggle Title Position"
+msgstr ""
+
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:660
 #, php-format
 msgid "Toggle Title Tag (Theme Default is &lt;%s&gt;)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:674
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:672
 msgid "Toggle Titles"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:304
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:303
 msgid "Toggles"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:388
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:386
 msgid "Toggles Styling"
 msgstr ""
 
@@ -30573,13 +30648,11 @@ msgstr ""
 "آپلود یک تصویر پشت سر یا آدرس URL تصویر را به جای نقشه‌های گوگل یا تا زمانی "
 "که نقشه‌های گوگل بارگذاری شوند قرار دهید"
 
-#: includes/admin/option_tabs/avia_shop.php:132
+#: includes/admin/option_tabs/avia_shop.php:133
 msgid ""
 "Upload a large banner image which will be displayed as a background to the "
-"shop description"
+"shop description or as a responsive image. Select the size in media library."
 msgstr ""
-"یک تصویر بنر بزرگ آپلود کنید که به عنوان بک گراند برای توضیحات فروشگاه نمایش "
-"داده شود"
 
 #: includes/admin/option_tabs/avia_upload.php:173
 msgid ""
@@ -30704,7 +30777,7 @@ msgstr ""
 msgid "Use as a simple message bar without cookie logic"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:285
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:284
 msgid "Use as FAQ Page (SEO improvement)"
 msgstr ""
 
@@ -31008,16 +31081,17 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:407
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:408
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:409
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:598
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:599
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:600
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:601
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:602
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:603
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:604
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:621
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:622
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:623
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:624
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:625
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:626
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:627
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:824
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1526
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3172
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3173
@@ -31179,7 +31253,7 @@ msgstr ""
 msgid "Use Image"
 msgstr "استفاده از تصویر "
 
-#: includes/admin/option_tabs/avia_shop.php:136
+#: includes/admin/option_tabs/avia_shop.php:137
 msgid "Use Image as banner"
 msgstr "استفاده تصویر به عنوان بنر"
 
@@ -31565,7 +31639,7 @@ msgid "Video Format"
 msgstr "فرمت ویدئو"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:329
-#: config-templatebuilder/avia-shortcodes/video/video.php:330
+#: config-templatebuilder/avia-shortcodes/video/video.php:332
 msgid "Video height"
 msgstr "ارتفاع ویدئو"
 
@@ -31605,7 +31679,7 @@ msgid "Video thumbnail is now available in the media library:"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:319
-#: config-templatebuilder/avia-shortcodes/video/video.php:320
+#: config-templatebuilder/avia-shortcodes/video/video.php:322
 msgid "Video width"
 msgstr "عرض ویدئو"
 
@@ -31695,7 +31769,7 @@ msgstr ""
 "ویدیو"
 
 #: config-templatebuilder/avia-shortcode-legacy/video.php:357
-#: config-templatebuilder/avia-shortcodes/video/video.php:358
+#: config-templatebuilder/avia-shortcodes/video/video.php:360
 msgid "Wait for user interaction to load the video"
 msgstr "انتظار تعامل کاربر برای بارگذاری ویدیو"
 
@@ -31716,7 +31790,7 @@ msgid ""
 "you want to use them. You can use valid HTML markup."
 msgstr ""
 
-#: config-woocommerce/config-356.php:1871 config-woocommerce/config.php:2963
+#: config-woocommerce/config-356.php:1871 config-woocommerce/config.php:3063
 msgid "was added to the cart"
 msgstr "به سبد خرید افزوده شد"
 
@@ -32902,16 +32976,10 @@ msgid ""
 msgstr "شما میتوانید به عکس لینک بدهید یا \"دکمه اکشن عملیاتی\" اضافه نمایید."
 
 #: includes/admin/option_tabs/avia_shop.php:92
-#, fuzzy
-#| msgid ""
-#| "You can choose to display a parallax banner with description on the shop "
-#| "page"
 msgid ""
 "You can choose to display a fullwidth banner with description on the shop "
-"page"
+"page. For responsive image select the size in media library."
 msgstr ""
-"شما میتوانید انتخاب کنید که بنر پارالاکس با توضیحات در صفحه فروشگاه نمایش "
-"داده شود"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:632
 msgid ""
@@ -32938,7 +33006,7 @@ msgstr ""
 msgid "You can choose various different logo and main menu positions here"
 msgstr "شما میتوانید موقعیت های مختلفی برای منو و لوگو انتخاب کنید"
 
-#: includes/admin/option_tabs/avia_shop.php:117
+#: includes/admin/option_tabs/avia_shop.php:118
 msgid "You can choose where to display the shop page banner."
 msgstr ""
 
@@ -32994,7 +33062,7 @@ msgstr ""
 "ویدئو میتواند بدون هیچ تغییر اندازه و برشی نمایش داده شود و یا اینکه کشیده "
 "شود تا صفحه را پوشش دهد"
 
-#: includes/admin/option_tabs/avia_shop.php:200
+#: includes/admin/option_tabs/avia_shop.php:201
 msgid ""
 "You can enable the shop banner for all categories as well. You can also set "
 "individual banners by editing the category"
