@@ -1,3 +1,5 @@
+2024_06_25
+- Dutch language files nl_NL (version 6.0, provided by EZWebdesign - Roger Hoen )
 
 2024_06_11
 - sync all language files (6.0-dev-0)
