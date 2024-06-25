@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2024-06-11 13:21+0000\n"
+"PO-Revision-Date: 2024-06-24 15:07+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.9; wp-6.4.4\n"
+"X-Loco-Version: 2.6.10; wp-6.4.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:705
@@ -730,7 +730,7 @@ msgstr "30px * 30px"
 
 #: config-templatebuilder/avia-shortcodes/video/video.php:316
 msgid "3:4"
-msgstr ""
+msgstr "3:4"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1738
 msgid "3rd Opacity"
@@ -882,7 +882,7 @@ msgstr "900"
 
 #: config-templatebuilder/avia-shortcodes/video/video.php:315
 msgid "9:16"
-msgstr ""
+msgstr "9:16"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:98
 #, php-format
@@ -1223,7 +1223,7 @@ msgstr "Over"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:812
 msgid "Above content (= default)"
-msgstr ""
+msgstr "Boven de inhoud (= standaard)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1026
 msgid "Absolute"
@@ -3807,6 +3807,8 @@ msgstr "Achteruit"
 msgid ""
 "Banner Color Overlay (leave empty for no overlay), only for background image"
 msgstr ""
+"Banner Kleur Overlay (leeg laten voor geen overlay), alleen voor "
+"achtergrondafbeelding"
 
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:394
 msgid "Banner image"
@@ -3931,7 +3933,7 @@ msgstr "Onder 989px (tablet liggend)"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:813
 msgid "Below content"
-msgstr ""
+msgstr "Beneden de inhoud"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:259
 #| msgid ""
@@ -10024,10 +10026,9 @@ msgstr "Toon \"Toon meer\" Knop"
 
 #: includes/admin/option_tabs/avia_shop.php:100
 msgid "Display a banner background image with scroll"
-msgstr ""
+msgstr "Een bannerachtergrondafbeelding met scroll weergeven"
 
 #: includes/admin/option_tabs/avia_shop.php:99
-#, fuzzy
 #| msgid "Display banner image with parallax effect"
 msgid "Display a banner image with parallax effect"
 msgstr "Bannerafbeelding weergeven met parallax effect"
@@ -10124,6 +10125,8 @@ msgstr ""
 #: includes/admin/option_tabs/avia_shop.php:101
 msgid "Display a responsive banner image with description below image"
 msgstr ""
+"Geef een responsieve bannerafbeelding weer met een beschrijving onder de "
+"afbeelding"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:564
 msgid ""
@@ -10706,15 +10709,18 @@ msgid ""
 "Display thumbnail and description as fullwidth background banner image with "
 "scroll below header"
 msgstr ""
+"Geef miniatuurafbeelding en beschrijving weer als volledig-breedte "
+"bannerafbeelding met scroll onder de header"
 
 #: config-woocommerce/admin-options.php:486
 msgid ""
 "Display thumbnail and description as fullwidth background banner image with "
 "scroll below title/breadcrumb"
 msgstr ""
+"Geef miniatuurafbeelding en beschrijving weer als volledig-breedte "
+"bannerafbeelding met scroll onder de titel/broodkruimelpad"
 
 #: config-woocommerce/admin-options.php:483
-#, fuzzy
 #| msgid ""
 #| "Display thumbnail and description as fullwidth page banner with parallax "
 #| "effect below header"
@@ -10726,7 +10732,6 @@ msgstr ""
 "onder de header"
 
 #: config-woocommerce/admin-options.php:484
-#, fuzzy
 #| msgid ""
 #| "Display thumbnail and description as fullwidth page banner with parallax "
 #| "effect below title/breadcrumb"
@@ -10742,12 +10747,16 @@ msgid ""
 "Display thumbnail and description as responsive banner image with "
 "description below image below header"
 msgstr ""
+"Geef miniaturen en beschrijvingen weer als responsieve bannerafbeelding met "
+"beschrijving eronder onder de header"
 
 #: config-woocommerce/admin-options.php:488
 msgid ""
 "Display thumbnail and description as responsive banner image with "
 "description below image below title/breadcrumb"
 msgstr ""
+"Geef miniaturen en beschrijvingen weer als responsieve bannerafbeelding met "
+"beschrijving eronder onder de titel/broodkruimelpad"
 
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:246
 msgid "Display Thumbnails?"
@@ -12420,6 +12429,8 @@ msgid ""
 "Enter a toggle title here when it is open. Leave empty if not needed (better "
 "keep it short)"
 msgstr ""
+"Voer hier een toggle-titel in wanneer deze geopend is. Leeg laten als het "
+"niet nodig is (beter kort houden)"
 
 #: framework/php/auto-updates/class-avia-auto-updates.php:350
 msgid "Enter a valid Envato private token"
@@ -13024,7 +13035,6 @@ msgid "Enter the title for your icon here. Keep it short."
 msgstr "Vul hier de titel van uw icoon in. Hou het kort."
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:766
-#, fuzzy
 #| msgid "Enter the toggle title here (Better keep it short)"
 msgid "Enter the toggle title here (better keep it short)"
 msgstr "Vul hier de titel voor de toggle in (hou het kort)"
@@ -18839,7 +18849,6 @@ msgid "Link to another page"
 msgstr "Koppeling naar andere pagina"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:846
-#, fuzzy
 #| msgid "Link to archiv:"
 msgid "Link to archive:"
 msgstr "Link naar archief:"
@@ -20019,13 +20028,11 @@ msgid "Modern Business"
 msgstr "Modern zakelijk"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:168
-#, fuzzy
 #| msgid "Modifed Date"
 msgid "Modified Date"
 msgstr "Gewijzigd datum"
 
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:169
-#, fuzzy
 #| msgid "Modifed Date And Time"
 msgid "Modified Date And Time"
 msgstr "Gewijzigd datum en tijd"
@@ -21509,7 +21516,7 @@ msgstr "Open de afbeeldingen in het browservenster"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:775
 msgid "Open Toggle Title"
-msgstr ""
+msgstr "Open toggle-titel"
 
 #: includes/admin/option_tabs/avia_cookie.php:538
 msgid "Open with a button only"
@@ -26498,6 +26505,8 @@ msgid ""
 "Select the opacity of your colored banner overlay (used for background "
 "banner only)"
 msgstr ""
+"Selecteer de ondoorzichtigheid van je gekleurde banneroverlay (alleen "
+"gebruikt voor achtergrondbanner)"
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:393
 msgid ""
@@ -26560,6 +26569,8 @@ msgid ""
 "Select the slide down/slide up speed when opening or closing the toggle. "
 "Default is 200 ms"
 msgstr ""
+"Selecteer de snelheid voor het omlaag/omhoog schuiven bij het openen of "
+"sluiten van de toggle. Standaard is 200 ms"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1816
 msgid ""
@@ -27203,6 +27214,9 @@ msgid ""
 "Select where to see the title when toggle is open. Positioning the title "
 "below content can e.g. be used to create a &quot;Read More&quot; section."
 msgstr ""
+"Selecteer waar de titel moet worden weergegeven als de toggle is geopend. De "
+"titel onder de inhoud plaatsen kan bijvoorbeeld worden gebruikt om een &quot;"
+"Lees meer&quot; sectie te maken."
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:746
 msgid "Select where you want to use the element"
@@ -27425,7 +27439,6 @@ msgid "Set a border color for this column"
 msgstr "Stel een randkleur in voor deze kolom"
 
 #: includes/admin/option_tabs/avia_shop.php:143
-#, fuzzy
 #| msgid "Set a color to display a overlay above the banner image."
 msgid "Set a color to display a overlay above the background banner image."
 msgstr "Stel een kleur in als overlay over de banner afbeelding"
@@ -28068,7 +28081,7 @@ msgstr "Webshop bannerafbeelding kleuren-overlay"
 
 #: config-woocommerce/config.php:1680
 msgid "Shop Bannner Image"
-msgstr ""
+msgstr "Winkel bannerafbeelding"
 
 #: includes/admin/option_tabs/avia_shop.php:178
 msgid "Shop Description"
@@ -32023,7 +32036,7 @@ msgstr "Hier komt de inhoud van de toggle"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:818
 msgid "Toggle Content Slide Speed"
-msgstr ""
+msgstr "Toggle inhoud snelheid van schuiven"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:591
 msgid "Toggle Font Sizes"
@@ -32039,7 +32052,7 @@ msgstr "Titel toggle"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:805
 msgid "Toggle Title Position"
-msgstr ""
+msgstr "Toggle titel positie"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:660
 #, php-format
@@ -32659,6 +32672,9 @@ msgid ""
 "Upload a large banner image which will be displayed as a background to the "
 "shop description or as a responsive image. Select the size in media library."
 msgstr ""
+"Upload een grote bannerafbeelding die wordt weergegeven als achtergrond voor "
+"de winkelbeschrijving of als responsieve afbeelding. Selecteer het formaat "
+"in de mediabibliotheek."
 
 #: includes/admin/option_tabs/avia_upload.php:173
 msgid ""
@@ -35157,6 +35173,9 @@ msgid ""
 "You can choose to display a fullwidth banner with description on the shop "
 "page. For responsive image select the size in media library."
 msgstr ""
+"Je kunt ervoor kiezen om een banner over de volledige breedte met "
+"beschrijving weer te geven op de winkelpagina. Selecteer voor responsieve "
+"afbeeldingen de grootte in de mediabibliotheek."
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:632
 msgid ""
