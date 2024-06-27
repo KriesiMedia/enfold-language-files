@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.6.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-24 20:04+0300\n"
-"PO-Revision-Date: 2024-06-11 13:17+0000\n"
+"PO-Revision-Date: 2024-06-27 11:18+0000\n"
 "Last-Translator: \n"
 "Language-Team: German (Austria)\n"
 "Language: de_AT\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Loco-Version: 2.6.7; wp-6.5.3\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:705
@@ -20475,7 +20475,7 @@ msgstr "Keine Zeit verfügbar"
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:304
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:370
 msgid "No Title and no excerpt"
-msgstr "Nur Titel ohne Textausschnitt"
+msgstr "Ohne Titel und ohne Textausschnitt"
 
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:308
 msgid "No Title, no Excerpt"

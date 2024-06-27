@@ -1,3 +1,7 @@
+
+2024_06_27
+- fixed: translation error in all german language files
+
 2024_06_26
 - Italian language files it_IT (version 6.0, provided by BigBatT - info@luigicircello.it)
 - French language files fr_FR (version 6.0, provided by comkapi - Patrick)
