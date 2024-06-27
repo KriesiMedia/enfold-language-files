@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Italian Enfold Language v6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-24 20:17+0200\n"
-"PO-Revision-Date: 2024-06-24 20:28+0200\n"
+"POT-Creation-Date: 2024-06-27 14:22+0300\n"
+"PO-Revision-Date: 2024-06-27 14:22+0300\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -189,16 +189,19 @@ msgstr "Editore classico"
 msgid "Advanced Layout Builder"
 msgstr "Generatore di layout avanzato"
 
+#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:790
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Classic Editor"
 msgstr "Modifica&#8220;%s&#8221; con Editore classico"
 
+#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:800
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Block Editor"
 msgstr "Modifica &#8220;%s&#8221; con Editore blocchi"
 
+#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:806
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Gutenberg Editor"
@@ -1489,15 +1492,6 @@ msgstr "Carica altre foto"
 #: config-instagram-feed/class-avia-instagram-feed.php:221
 msgid "Follow Me"
 msgstr "Seguimi"
-
-# @ avia_framework
-#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
-msgid "number"
-msgstr "numero"
-
-#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
-msgid "shadow"
-msgstr "ombra"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:87
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-mailchimp.php:100
@@ -15799,7 +15793,7 @@ msgstr ""
 #: config-woocommerce/admin-import.php:153
 #: config-woocommerce/admin-import.php:155
 #: includes/admin/register-portfolio.php:174
-#: includes/admin/register-widget-area.php:124 template-archives.php:188
+#: includes/admin/register-widget-area.php:124 template-archives.php:189
 msgid "Categories"
 msgstr "Categorie"
 
@@ -28647,7 +28641,8 @@ msgstr "Immagine segnaposto"
 
 # @ avia_framework
 #: config-woocommerce/config.php:1680
-msgid "Shop Bannner Image"
+#: includes/admin/option_tabs/avia_shop.php:132
+msgid "Shop Banner Image"
 msgstr "Immagine Banner Negozio"
 
 # @ avia_framework
@@ -30208,12 +30203,14 @@ msgstr "Dimensione w * h in px"
 msgid "viewBox"
 msgstr "viewBox"
 
+#. translators: %s: title of menu item which is invalid
 #: framework/php/class-megamenu.php:438
 #, php-format
 msgid "%s (Invalid)"
 msgstr "%s (Non valido)"
 
 # @ avia_framework
+#. translators: %s: title of menu item in draft status
 #: framework/php/class-megamenu.php:444
 #, php-format
 msgid "%s (Pending)"
@@ -32000,7 +31997,7 @@ msgid "Featured Large"
 msgstr "In primo piano grande"
 
 # @ avia_framework
-#: functions.php:322 template-archives.php:163
+#: functions.php:322 template-archives.php:164
 msgid "Portfolio"
 msgstr "Portfolio"
 
@@ -36711,11 +36708,6 @@ msgstr "Visualizzazione sopra il titolo e la linea di breadcrumb"
 msgid "Display below title and breadcrumb line"
 msgstr "Visualizza sotto il titolo e la linea di breadcrumb"
 
-# @ avia_framework
-#: includes/admin/option_tabs/avia_shop.php:132
-msgid "Shop Banner Image"
-msgstr "Immagine Banner Negozio"
-
 #: includes/admin/option_tabs/avia_shop.php:133
 msgid ""
 "Upload a large banner image which will be displayed as a background to the "
@@ -39140,7 +39132,7 @@ msgid "Archive"
 msgstr "Archivio"
 
 # @ avia_framework
-#: includes/admin/register-widget-area.php:135 template-archives.php:174
+#: includes/admin/register-widget-area.php:135 template-archives.php:175
 msgid "Pages"
 msgstr "Pagine"
 
@@ -39961,19 +39953,6 @@ msgid "Blog - Latest News"
 msgstr "Blog - Ultime notizie"
 
 # @ avia_framework
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "set"
-msgstr "imposta"
-
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "select_all"
-msgstr "selezionare_tutti"
-
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "reset"
-msgstr "reimposta"
-
-# @ avia_framework
 #: search.php:40
 msgid "New Search"
 msgstr "Nuova Ricerca"
@@ -40015,24 +39994,50 @@ msgid "The 8 latest Portfolio Entries"
 msgstr "Le ultime 8 Voci Portfolio"
 
 # @ avia_framework
-#: template-archives.php:179
+#: template-archives.php:180
 msgid "Available Pages"
 msgstr "Pagine disponibili"
 
 # @ avia_framework
-#: template-archives.php:193
+#: template-archives.php:194
 msgid "Archives by Subject:"
 msgstr "Archivio per argomento:"
 
 # @ avia_framework
-#: template-archives.php:203
+#: template-archives.php:204
 msgid "Monthly"
 msgstr "Mensile"
 
 # @ avia_framework
-#: template-archives.php:208
+#: template-archives.php:209
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
+
+# @ avia_framework
+#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
+msgid "number"
+msgstr "numero"
+
+#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
+msgid "shadow"
+msgstr "ombra"
+
+# @ avia_framework
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "set"
+msgstr "imposta"
+
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "select_all"
+msgstr "selezionare_tutti"
+
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "reset"
+msgstr "reimposta"
+
+# @ avia_framework
+#~ msgid "Shop Bannner Image"
+#~ msgstr "Immagine Banner Negozio"
 
 #~ msgid ""
 #~ "Display thumbnail and description as fullwidth page banner below header"
