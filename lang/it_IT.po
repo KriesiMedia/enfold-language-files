@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v6.0.1\n"
+"Project-Id-Version: Italian Enfold Language v6.0.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-12 11:04+0200\n"
-"PO-Revision-Date: 2024-07-12 11:09+0200\n"
+"POT-Creation-Date: 2024-09-05 17:51+0200\n"
+"PO-Revision-Date: 2024-09-05 17:57+0200\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -326,8 +326,8 @@ msgstr "Titolo del widget:"
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:113
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:634
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:76
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:78
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:574
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:79
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:575
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:105
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:513
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:158
@@ -793,11 +793,11 @@ msgstr "Usa predefinito"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:267
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:971
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:411
-#: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1235
+#: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1258
 #: config-templatebuilder/avia-shortcodes/search/search.php:272
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:307
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1364
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1420
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1392
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1448
 #: config-woocommerce/admin-import.php:104
 #: config-woocommerce/admin-options.php:164
 #: includes/admin/option_tabs/avia_builder.php:62
@@ -869,7 +869,7 @@ msgstr "Dal più recente al più datato"
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:310
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:364
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:324
-#: config-woocommerce/config.php:2206
+#: config-woocommerce/config.php:2217
 msgid "Random"
 msgstr "Casuale"
 
@@ -1051,6 +1051,7 @@ msgstr ""
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:354
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:504
 #: config-templatebuilder/avia-template-builder/config/meta.php:374
+#: includes/admin/option_tabs/avia_header.php:328
 #: includes/admin/option_tabs/avia_social.php:16
 #: includes/admin/register-admin-options.php:95
 msgid "Header"
@@ -1072,7 +1073,7 @@ msgstr "Mostra l'intestazione del feed:"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:802
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:842
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:921
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:308
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:309
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:256
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:358
 #: config-templatebuilder/avia-shortcodes/image/image.php:256
@@ -1114,7 +1115,7 @@ msgstr "Si"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:803
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:843
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:920
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:307
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:308
 #: config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.php:257
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:357
 #: config-templatebuilder/avia-shortcodes/image/image.php:241
@@ -1639,11 +1640,11 @@ msgstr "Carica di più"
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1416
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1418
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1124
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1142
 #: framework/php/widgets/legacy/class-avia-combo.php:512
 #: framework/php/widgets/widget-classes/class-avia-combo.php:625
-#: includes/loop-author.php:194 includes/loop-index.php:516
-#: includes/loop-search.php:152
+#: includes/loop-author.php:205 includes/loop-index.php:528
+#: includes/loop-search.php:163
 msgid "by"
 msgstr "da"
 
@@ -1735,8 +1736,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:135
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:654
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:267
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:100
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:590
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:101
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:591
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:122
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:173
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:181
@@ -1831,7 +1832,7 @@ msgstr "Stile"
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:92
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:290
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:92
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:117
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:118
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:149
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:529
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:196
@@ -2179,7 +2180,7 @@ msgstr "Aggiungi lettore audio"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:248
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:223
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:224
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:237
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:242
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:378
@@ -2398,7 +2399,7 @@ msgstr "Mostra icona multimediale/copertina album"
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:248
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:413
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:270
-#: includes/admin/option_tabs/avia_header.php:509
+#: includes/admin/option_tabs/avia_header.php:519
 #: includes/helper-conditional-megamenu.php:168
 msgid "Hide"
 msgstr "Nascondere"
@@ -2873,8 +2874,8 @@ msgstr "Scegliere qui il layout predefinito del blog"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:263
-#: includes/admin/option_tabs/avia_blog.php:103
-#: includes/admin/option_tabs/avia_blog.php:179
+#: includes/admin/option_tabs/avia_blog.php:104
+#: includes/admin/option_tabs/avia_blog.php:180
 msgid ""
 "Multi Author Blog (displays Gravatar of the article author beside the entry "
 "and feature images above)"
@@ -2884,7 +2885,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:264
-#: includes/admin/option_tabs/avia_blog.php:104
+#: includes/admin/option_tabs/avia_blog.php:105
 msgid ""
 "Single Author, small preview Pic (no author picture is displayed, feature "
 "image is small)"
@@ -2894,7 +2895,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:265
-#: includes/admin/option_tabs/avia_blog.php:105
+#: includes/admin/option_tabs/avia_blog.php:106
 msgid ""
 "Single Author, big preview Pic (no author picture is displayed, feature "
 "image is big)"
@@ -2904,22 +2905,22 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:266
-#: includes/admin/option_tabs/avia_blog.php:106
+#: includes/admin/option_tabs/avia_blog.php:107
 msgid "Grid Layout"
 msgstr "Disposizione a Griglia"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:267
-#: includes/admin/option_tabs/avia_blog.php:107
+#: includes/admin/option_tabs/avia_blog.php:108
 msgid "List Layout - Simple (Title and meta information only)"
 msgstr "Disposizione lista - Semplice (Solo titolo e info meta)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:268
-#: includes/admin/option_tabs/avia_blog.php:108
+#: includes/admin/option_tabs/avia_blog.php:109
 msgid "List Layout - Compact (Title and icon only)"
 msgstr "Disposizione lista -  Compatta (Solo titolo e icona)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:269
-#: includes/admin/option_tabs/avia_blog.php:109
+#: includes/admin/option_tabs/avia_blog.php:110
 msgid "List Layout - Excerpt (Title, meta information and excerpt only)"
 msgstr "Disposizione lista - Riassunto (Solo titolo, info meta ed estratto)"
 
@@ -4219,7 +4220,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:435
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:294
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:295
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:423
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:428
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1025
@@ -4229,7 +4230,7 @@ msgstr "Impostare manualmente"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:436
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:295
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:296
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:166
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:424
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:131
@@ -4462,11 +4463,11 @@ msgstr "Alto"
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:485
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:254
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:346
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:762
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:804
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:287
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:57
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2855
-#: includes/admin/option_tabs/avia_blog.php:417
+#: includes/admin/option_tabs/avia_blog.php:418
 #: includes/admin/option_tabs/avia_sidebars.php:147
 #: includes/admin/register-admin-option-values.php:43
 msgid "Left"
@@ -4500,11 +4501,11 @@ msgstr "Sotto"
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:484
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:256
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:347
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:764
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:806
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:288
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:55
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2856
-#: includes/admin/option_tabs/avia_blog.php:419
+#: includes/admin/option_tabs/avia_blog.php:420
 #: includes/admin/option_tabs/avia_sidebars.php:146
 #: includes/admin/register-admin-option-values.php:45
 msgid "Right"
@@ -5878,12 +5879,12 @@ msgstr "Crea una singola colonna con l'80&percnt; di larghezza"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:26
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1156
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1174
 #: framework/php/widgets/legacy/class-avia-combo.php:195
 #: framework/php/widgets/widget-classes/class-avia-combo.php:205
-#: includes/loop-author.php:158 includes/loop-author.php:160
-#: includes/loop-index.php:480 includes/loop-index.php:482
-#: includes/loop-search.php:88 includes/loop-search.php:90
+#: includes/loop-author.php:169 includes/loop-author.php:171
+#: includes/loop-index.php:492 includes/loop-index.php:494
+#: includes/loop-search.php:99 includes/loop-search.php:101
 msgid "Comments"
 msgstr "Commenti"
 
@@ -5908,6 +5909,7 @@ msgstr "%d commento(i) deveno essere approvati."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:26
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:40
 msgid "Contact Form"
 msgstr "Modulo di contatto"
 
@@ -5917,16 +5919,16 @@ msgid "Creates a customizable contact form"
 msgstr "Crea un modulo di contatto personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:41
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:42
 msgid "Contact Form Item"
 msgstr "Voce del modulo di contatto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:42
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:43
 msgid "A Contact Form Element Item"
 msgstr "Un elemento del modulo di contatto"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:184
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:185
 msgid ""
 "If you are using a cache plugin we recommend that you exclude the page "
 "containing the contact form from caching."
@@ -5935,7 +5937,7 @@ msgstr ""
 "la pagina contenente il modulo di contatto."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:186
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:187
 msgid ""
 "Here you can add, remove and edit the form Elements of your contact form."
 msgstr ""
@@ -5943,7 +5945,7 @@ msgstr ""
 "del vostro modulo di contatto."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:187
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:188
 msgid ""
 "Available form elements are: single line Input elements, Textareas, "
 "Checkboxes and Select-Dropdown menus."
@@ -5952,7 +5954,7 @@ msgstr ""
 "aree di testo, caselle di controllo e menu a discesa ."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:188
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:189
 msgid ""
 "It is recommended to not delete the 'E-Mail' field if you want to use an "
 "auto responder."
@@ -5961,12 +5963,12 @@ msgstr ""
 "un risponditore automatico."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:193
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:194
 msgid "activated here"
 msgstr "attivare qui"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:194
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:195
 msgid ""
 "Do you want to display a Captcha field at the end of the form so users must "
 "prove they are human?"
@@ -5974,7 +5976,7 @@ msgstr ""
 "Vuoi visualizzare un campo Captcha alla fine del modulo in modo che gli "
 "utenti debbano dimostrare di essere umani?"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:195
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:196
 msgid ""
 "Either by solving a simple mathematical question or by Google reCaptcha, "
 "that needs to be"
@@ -5982,7 +5984,7 @@ msgstr ""
 "Sia risolvendo una semplice questione matematica o con Google reCaptcha, che "
 "deve essere"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:196
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:197
 msgid ""
 "In case Google reCAPTCHA is deactivated (maybe later) in theme options, "
 "Enfold captcha will be used, if you select here to use V2 then V2 will be "
@@ -5998,7 +6000,7 @@ msgstr ""
 "del tema, allora verrà usata V2 per controllare se l&rsquo;utente è un umano."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:198
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:199
 msgid ""
 "(It is recommended to only activate this if you receive spam from your "
 "contact form, since an invisible spam protection is also implemented that "
@@ -6009,106 +6011,106 @@ msgstr ""
 "comunque filtrare la maggior parte dei messaggi spam dai robot)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:204
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:205
 msgid "Cache Information"
 msgstr "Informazioni sulla cache"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:210
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:211
 msgid "Form Title"
 msgstr "Modulo Titolo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:211
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:212
 msgid "Enter a form title that is displayed above the form"
 msgstr "Inserire un titolo che viene visualizzato sopra il modulo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:214
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:860
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:215
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:861
 msgid "Send us mail"
 msgstr "Inviaci email"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:219
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:220
 msgid "Add/Edit Contact Form Elements"
 msgstr "Aggiungi/Modifica Elemento modulo Contatto"
 
 # @ LayerSlider
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:227
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:228
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:267
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:669
-#: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:2200
+#: config-woocommerce/config-356.php:1358 config-woocommerce/config.php:2211
 msgid "Name"
 msgstr "Nome"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:232
-#: includes/admin/option_tabs/avia_blog.php:320
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:233
+#: includes/admin/option_tabs/avia_blog.php:321
 msgid "E-Mail"
 msgstr "E-Mail"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:237
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:238
 msgid "Subject"
 msgstr "Oggetto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:242
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:243
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:185
 #: includes/admin/option_tabs/avia_cookie.php:357
 msgid "Message"
 msgstr "Messaggio"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:253
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:254
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:260
 msgid "Submit Button Label"
 msgstr "Etichetta del  Inviare"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:254
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:255
 msgid "Enter the submit buttons label text here"
 msgstr "Inserisci qui il testo dell&rsquo;etichetta dei bottoni di invio"
 
 # @ avia_framework
 # @ wordpress-importer
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:257
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:845
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:258
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:846
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:673
 msgid "Submit"
 msgstr "Inviare"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:262
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:263
 msgid "Submit Action"
 msgstr "Invia azione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:263
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:264
 msgid "What should happen once the form gets sent"
 msgstr "Cosa dovrebbe accadere una volta inviato il modulo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:269
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:270
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:400
 msgid "Display a short message on the same page"
 msgstr "Visualizza un breve messaggio sulla stessa pagina"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:270
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:271
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:401
 msgid "Redirect the user to another page"
 msgstr "Reindirizzare l&rsquo;utente ad un'altra pagina"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:275
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:276
 msgid "Message Sent Label"
 msgstr "Etichetta del Messaggio inviato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:276
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:277
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:407
 msgid "What should be displayed once the message is sent?"
 msgstr ""
@@ -6116,29 +6118,29 @@ msgstr ""
 "inviato?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:279
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:859
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:280
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:860
 msgid "Your message has been sent!"
 msgstr "Il tuo messaggio è stato inviato!"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:285
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:286
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:415
 msgid "Redirect"
 msgstr "Reindirizzamento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:286
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:287
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:416
 msgid "To which page do you want the user send to?"
 msgstr "A quale pagina vuole che l&rsquo;utente invii?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:300
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:301
 msgid "Display Fields With Error"
 msgstr "Visualizzazione dei campi con errore"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:301
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:302
 msgid ""
 "On error, show a message box containing the labels of the invalid fields"
 msgstr ""
@@ -6147,83 +6149,83 @@ msgstr ""
 
 # @ LayerSlider
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:318
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:319
 msgid "Frontend"
 msgstr "Frontend"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:327
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:328
 msgid "Contact Form Captcha"
 msgstr "Captcha del modulo di Contatto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:334
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:335
 msgid "Don't display Captcha"
 msgstr "Non mostrare Captcha"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:335
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:336
 msgid "Use Enfold Numeric Captcha"
 msgstr "Usa Enfold Captcha Numerico"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:336
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:337
 msgid "Use Google reCAPTCHA V2 if activated"
 msgstr "Usa Google reCAPTCHA V2 se attivato"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:337
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:338
 msgid "Use Google reCAPTCHA V3 if activated (fallback is V2)"
 msgstr "Usa Google reCAPTCHA V3 se attivato (il fallback è V2)"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:342
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:343
 msgid "reCAPTCHA V2 Theme Color"
 msgstr "reCAPTCHA V2 colori del tema"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:343
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:344
 msgid "Select a theme color for this contact form widget"
 msgstr "Seleziona un colore del tema per questo widget del modulo di contatto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:350
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:351
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:489
 #: includes/admin/register-admin-option-values.php:23
 msgid "Light"
 msgstr "Leggero"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:351
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:352
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:490
 msgid "Dark"
 msgstr "Buio"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:356
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:357
 msgid "reCAPTCHA V2 Theme Size"
 msgstr "dimensione del tema reCAPTCHA V2"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:357
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:358
 msgid "Select a size for this contact form widget"
 msgstr "Seleziona una dimensione per questo widget del modulo di contatto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:364
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:365
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:399
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:265
 #: includes/admin/register-admin-option-values.php:21
 msgid "Normal"
 msgstr "Normale"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:365
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:366
 msgid "Compact"
 msgstr "Compatto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:370
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:371
 #: includes/admin/option_tabs/avia_google.php:240
 msgid "Select Score For Human"
 msgstr "Seleziona punteggio per umano"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:372
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:373
 #: includes/admin/option_tabs/avia_google.php:148
 msgid ""
 "A score of 1.0 is very likely a good interaction, 0.0 is very likely a bot. "
@@ -6236,9 +6238,9 @@ msgstr ""
 "utente di verificare con la casella di controllo della versione 2."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:377
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:505
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:518
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:378
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:506
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:519
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:359
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:399
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:495
@@ -6304,7 +6306,7 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2854
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2822
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2837
-#: config-woocommerce/admin-options.php:482 config-woocommerce/config.php:2198
+#: config-woocommerce/admin-options.php:482 config-woocommerce/config.php:2209
 #: framework/php/class-cpt-support.php:345
 #: framework/php/font-management/class-avia-type-fonts.php:953
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:205
@@ -6322,17 +6324,17 @@ msgstr ""
 msgid "Default"
 msgstr "Predefinito"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:386
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:387
 msgid "Security"
 msgstr "Sicurezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:395
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:396
 msgid "Your E-Mail Address"
 msgstr "Il tuo indirizzo e-mail"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:396
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:397
 msgid ""
 "Enter one or more E-Mail addresses (separated by comma) where mails should "
 "be delivered to."
@@ -6341,17 +6343,17 @@ msgstr ""
 "recapitare la posta."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:396
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:424
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:397
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:425
 msgid "Default:"
 msgstr "Predefinito:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:405
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:406
 msgid "Your From Address"
 msgstr "Il tuo indirizzo"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:406
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:407
 #, php-format
 msgid ""
 "Enter your from address for the form - if left blank it will default to user "
@@ -6361,12 +6363,12 @@ msgstr ""
 "sarà predefinito per l'email dell&rsquo;utente o %s"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:414
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:415
 msgid "E-Mail Subject"
 msgstr "Oggetto Email"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:415
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:416
 msgid ""
 "You can define a custom E-Mail Subject for your form here. If left empty the "
 "subject will be"
@@ -6375,31 +6377,31 @@ msgstr ""
 "lasciato vuoto l&rsquo;oggetto resterà vuoto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:415
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:416
 #: framework/php/class-form-generator.php:1211
 msgid "New Message"
 msgstr "Nuovo Messaggio"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:415
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:416
 #: framework/php/class-form-generator.php:1211
 msgid "sent by contact form at"
 msgstr "inviato tramite modulo di contatto a"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:423
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:424
 msgid "Autoresponder From E-Mail Address"
 msgstr "AutoRisponditore da indirizzo email"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:424
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:425
 msgid "Enter the from E-Mail address for the autoresponder."
 msgstr "Inserire l&rsquo;indirizzo e-mail per l&rsquo;autorisponditore."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:432
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:433
 msgid "Autoresponder Reply To E-Mail Address"
 msgstr "Risposta del risponditore automatico all'indirizzo e-mail"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:433
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:434
 msgid ""
 "Enter one or more reply to E-Mail addresses (separated by comma) for the "
 "autoresponder mail. Leave blank if not needed."
@@ -6407,11 +6409,11 @@ msgstr ""
 "Inserire una o più risposte agli indirizzi e-mail (separati da virgola) per "
 "l'autoresponder. Lasciare in bianco se non è necessario."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:442
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:443
 msgid "Autoresponder Subject"
 msgstr "Oggetto risposta automatica"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:443
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:444
 msgid ""
 "Enter a custom subject text to the autoresponder E-Mail. Leave blank to use "
 "a default message."
@@ -6420,12 +6422,12 @@ msgstr ""
 "Lascia vuoto per utilizzare il messaggio predefinito."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:452
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:453
 msgid "Autorespond Text"
 msgstr "Testo di auto-risposta"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:453
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:454
 msgid ""
 "Enter a message that will be sent to the users email address once he has "
 "submitted the form."
@@ -6434,30 +6436,30 @@ msgstr ""
 "dell&rsquo;utente una volta che ha inviato il modulo."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:453
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:454
 msgid "If left empty no auto-response will be sent."
 msgstr "Se lasciato vuoto non verrà inviata nessuna risposta automatica."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:461
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:462
 msgid "Autorespond Text After Form Labels"
 msgstr "Testo di risposta automatica dopo le etichette del modulo"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:462
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:463
 msgid "Enter an additional message that will be added after the form labels."
 msgstr ""
 "Inserisci un messaggio aggiuntivo che verrà inserito dopo le etichette del "
 "modulo."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:475
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:476
 msgid "Backend"
 msgstr "Backend"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:489
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:490
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:452
 msgid "Hide Form Labels"
 msgstr "Nascondi Etichette Modulo"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:490
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:491
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:453
 msgid ""
 "Check if you want to hide form labels above the form elements. The form will "
@@ -6467,49 +6469,49 @@ msgstr ""
 "Il modulo tenterà di utilizzare l'etichetta all'interno dei campi del form "
 "(non supportato su vecchi browser)"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:498
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:499
 msgid "Label/Send Button Alignment"
 msgstr "Allineamento etichetta/pulsante di invio"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:499
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:500
 msgid "Select how to align the form labels and the send button"
 msgstr ""
 "Selezionare come allineare le etichette dei moduli e il pulsante di invio"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:506
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:507
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:413
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:763
-#: includes/admin/option_tabs/avia_blog.php:418
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:805
+#: includes/admin/option_tabs/avia_blog.php:419
 msgid "Centered"
 msgstr "Centrato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:511
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:512
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:439
 msgid "Form Color Scheme"
 msgstr "Form schema di colori"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:512
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:513
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:440
 msgid "Select a form color scheme here"
 msgstr "Selezionare qui uno schema colore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:519
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:520
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:446
 msgid "Light transparent"
 msgstr "Trasparente luminoso"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:520
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:521
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:447
 msgid "Dark transparent"
 msgstr "Scuro Trasparente"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:548
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:549
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:487
 #: config-templatebuilder/avia-shortcodes/contentslider/contentslider.php:627
 #: config-templatebuilder/avia-shortcodes/events_countdown/events_countdown.php:708
@@ -6528,7 +6530,7 @@ msgid "Heading Tag"
 msgstr "Etichetta del titolo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:635
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:636
 msgid ""
 "Enter any number of options that the visitor can choose from. Separate these "
 "Options with a comma."
@@ -6537,12 +6539,12 @@ msgstr ""
 "Separare le opzioni con una virgola."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:637
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:638
 msgid "Example: Option 1, Option 2, Option 3"
 msgstr "Esempio: Opzione 1, Opzione 2, Opzione 3"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:639
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:640
 msgid ""
 "Note: If you want to use a comma in the option text you have to write 2 "
 "comma."
@@ -6550,7 +6552,7 @@ msgstr ""
 "Nota: se si desidera utilizzare una virgola nel testo dell'opzione, è "
 "necessario scrivere 2 virgole."
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:642
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:643
 msgid ""
 "When selecting &quot;Valid E-Mail address with German Umlaut&quot; or &quot;"
 "Valid E-Mail address, extended characterset&quot; keep in mind, that not all "
@@ -6562,75 +6564,75 @@ msgstr ""
 "correttamente questi caratteri."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:647
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:648
 msgid "Form Element Type"
 msgstr "Tipo elemento del modulo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:654
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:655
 msgid "Form Element: Text Input"
 msgstr "Modulo Elemento: immissione di testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:655
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:656
 msgid "Form Element: Text Area"
 msgstr "Modulo Elemento: Area di testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:656
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:657
 msgid "Form Element: Select Element"
 msgstr "Modulo Elemento: Seleziona Elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:657
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:658
 msgid "Form Element: Checkbox"
 msgstr "Modulo Elemento: Casella di spunta"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:658
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:659
 msgid "Form Element: Datepicker"
 msgstr "Modulo Elemento: selettore Date"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:659
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:660
 msgid "Custom HTML: Add a Description"
 msgstr "HTML personalizzato: aggiungere una descrizione"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:660
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:661
 msgid "Other Element: Separator Headline"
 msgstr "Altro elemento: Separatore titolo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:661
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:662
 msgid "Other Element: Empty Line"
 msgstr "Altro elemento: Linea vuota"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:666
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:667
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:573
 msgid "Form Element Label"
 msgstr "Etichetta  elemento del modulo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:676
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:677
 msgid "Form Element Options"
 msgstr "Opzioni elemento del modulo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:686
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:687
 msgid "Multiple Answers"
 msgstr "Risposte multiple"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:687
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:688
 msgid "Check if you want to enable multiple answers"
 msgstr "Spuntare se si vuole attivare le risposte multiple"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:696
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:697
 msgid "Date Only In Future"
 msgstr "Data solo in futuro"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:697
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:698
 msgid ""
 "Check if you want to limit selectable dates from current date to future "
 "dates only - first selection is used for all contact forms on the page."
@@ -6640,96 +6642,96 @@ msgstr ""
 "moduli di contatto della pagina."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:706
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:707
 msgid "Preselect Checkbox"
 msgstr "Casella di controllo preselezionata"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:707
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:708
 msgid "Check if you want to preselect the checkbox"
 msgstr "Spuntare se vuoi preselezionare la casella di controllo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:716
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:717
 msgid "Add Description"
 msgstr "Aggiungi Descrizione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:725
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:726
 msgid "Form Element Validation"
 msgstr "Convalida elemento del modulo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:733
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:734
 msgid "No Validation"
 msgstr "No convalida"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:734
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:735
 msgid "Is not empty"
 msgstr "Non è vuoto"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:735
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:736
 msgid "Valid E-Mail address"
 msgstr "Convalidare indirizzo e-mail"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:736
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:737
 msgid "Valid E-Mail address with German Umlaut"
 msgstr "Indirizzo e-mail valido con dieresi tedesca"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:737
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:738
 msgid "Valid E-Mail address, extended characterset"
 msgstr "Indirizzo e-mail valido, set di caratteri esteso"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:738
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:739
 msgid "Valid Phone Number"
 msgstr "Convalidare numero di telefono"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:739
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:740
 msgid "Valid Number"
 msgstr "Convalidare Numero"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:740
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:741
 msgid "Valid Positive Number including 0"
 msgstr "Numero positivo valido incluso 0"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:745
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:746
 msgid "Use This Element"
 msgstr "Usa questo elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:746
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:747
 msgid "Select where you want to use the element"
 msgstr "Seleziona dove vuoi usare l'elemento"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:753
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:754
 msgid "Use both frontend and e-mail"
 msgstr "Usa sia il frontend che l'e-mail"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:754
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:755
 msgid "Display in frontend only"
 msgstr "Visualizza solo nel frontend"
 
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:755
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:756
 msgid "Print in e-mail only"
 msgstr "Stampa solo in e-mail"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:769
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:770
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:591
 msgid "Form Element Width"
 msgstr "Larghezza elemento del modulo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:770
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:771
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:592
 msgid ""
 "Change the width of your elements and let them appear beside each other "
@@ -6739,26 +6741,26 @@ msgstr ""
 "all'altro, invece che sotto"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:777
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:778
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:597
 msgid "Fullwidth"
 msgstr "A tutta larghezza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:787
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:788
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:187
 msgid "Heading Type"
 msgstr "Tipo di titolo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:788
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:789
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:188
 msgid "Select which kind of heading you want to display."
 msgstr "Selezionare il tipo di titolo che si desidera visualizzare."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:816
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:821
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:817
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:822
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:745
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:754
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1590
@@ -6775,12 +6777,12 @@ msgid "Element"
 msgstr "Elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:899
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:900
 msgid "Thank you for your Message!"
 msgstr "Grazie per il tuo Messaggio!"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/contact/contact.php:994
+#: config-templatebuilder/avia-shortcodes/contact/contact.php:995
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:772
 msgid "Please prove that you are human by solving the equation"
 msgstr "Dimostra di essere umano risolvendo l'equazione"
@@ -7261,7 +7263,7 @@ msgstr "Visualizza conto alla rovescia per una data specifica"
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:362
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:322
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:201
-#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:2202
+#: config-woocommerce/config-356.php:1360 config-woocommerce/config.php:2213
 msgid "Date"
 msgstr "Data"
 
@@ -9424,8 +9426,8 @@ msgstr "Aggiungere il sottotitolo qui"
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:219
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:233
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:459
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:747
-#: includes/admin/option_tabs/avia_blog.php:401
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:789
+#: includes/admin/option_tabs/avia_blog.php:402
 msgid "Icon"
 msgstr "Icona"
 
@@ -9916,7 +9918,7 @@ msgstr "Separatore personalizzato"
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:491
 #: config-templatebuilder/avia-shortcodes/search/search.php:273
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1612
-#: config-woocommerce/config.php:2199
+#: config-woocommerce/config.php:2210
 msgid "Custom"
 msgstr "Personalizzato"
 
@@ -10798,6 +10800,13 @@ msgstr "Applicare il link all'icona e al titolo"
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:941
 msgid "Apply link to icon only"
 msgstr "Applica il link solo all'icona"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:741
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:2246
+#: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:1152
+msgid "Icon:"
+msgstr "Icona:"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:94
 msgid "Icon/Flipbox Grid"
@@ -12160,8 +12169,8 @@ msgstr "Dopo"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:322
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:588
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:745
-#: includes/admin/option_tabs/avia_blog.php:399
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:787
+#: includes/admin/option_tabs/avia_blog.php:400
 #: includes/admin/option_tabs/avia_cookie.php:393
 #: includes/admin/register-backend-advanced-styles.php:534
 msgid "Buttons"
@@ -14343,11 +14352,17 @@ msgstr "Link a:"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1477
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1183
-#: includes/loop-index.php:544 includes/loop-index.php:609
-#: includes/loop-portfolio-single.php:50
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1201
+#: includes/loop-index.php:556 includes/loop-index.php:621
+#: includes/loop-portfolio-single.php:62
 msgid "Tags:"
 msgstr "Tags:"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1562
+#: includes/loop-index.php:122
+msgid "Post:"
+msgstr "Post:"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:99
 msgid "Mailchimp Signup"
@@ -15463,11 +15478,11 @@ msgstr "Nascondi su schermi di dimensioni inferiori a 767px"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:410
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:216
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:746
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:788
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:215
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1542
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1685
-#: includes/admin/option_tabs/avia_blog.php:400
+#: includes/admin/option_tabs/avia_blog.php:401
 msgid "Circle"
 msgstr "Cerchio"
 
@@ -15715,6 +15730,13 @@ msgstr "Aprire una anteprima della voce (noto come AJAX Portfolio)"
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:549
 msgid "Display the big image in a lightbox"
 msgstr "Visualizzare l&rsquo;immagine grande in una lightbox"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1068
+#: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1146
+#: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:1464
+msgid "Portfolio:"
+msgstr "Portfolio:"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:87
 msgid "Post Metadata"
@@ -16122,22 +16144,31 @@ msgstr "Anteprima immagine"
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1224
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3281
 #: framework/php/function-set-avia-frontend.php:1726
-#: includes/loop-index.php:133 includes/loop-index.php:134
-#: includes/loop-index.php:565 includes/loop-index.php:581
-#: includes/loop-page.php:34 includes/loop-portfolio-single.php:34
+#: includes/loop-index.php:145 includes/loop-index.php:146
+#: includes/loop-index.php:577 includes/loop-index.php:593
+#: includes/loop-page.php:47 includes/loop-portfolio-single.php:46
 msgid "Read more"
 msgstr "Continua a leggere"
 
+# @ LayerSlider
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1120
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:949
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:668
+#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:973
+#: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:480
+msgid "Slide"
+msgstr "Diapositiva"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1138
 #, php-format
 msgid "Posts by %s"
 msgstr "Articoli scritti da: %s"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1156
-#: includes/loop-author.php:159 includes/loop-index.php:481
-#: includes/loop-search.php:89
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1174
+#: includes/loop-author.php:170 includes/loop-index.php:493
+#: includes/loop-search.php:100
 msgid "Comment"
 msgstr "Commento"
 
@@ -18223,7 +18254,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:395
-#: includes/admin/option_tabs/avia_header.php:421
+#: includes/admin/option_tabs/avia_header.php:431
 msgid "Extra Elements"
 msgstr "Elementi aggiuntivi"
 
@@ -18857,14 +18888,6 @@ msgstr "Clonare sezione slideshow"
 msgid "Clone Tab Section"
 msgstr "Clonare Sezione Scheda"
 
-# @ LayerSlider
-# @ avia_framework
-#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:668
-#: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:973
-#: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:480
-msgid "Slide"
-msgstr "Diapositiva"
-
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:676
 msgid "Add Slide"
@@ -19060,7 +19083,7 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:175
-#: includes/admin/option_tabs/avia_blog.php:95
+#: includes/admin/option_tabs/avia_blog.php:96
 #: includes/admin/register-admin-options.php:135
 msgid "Blog Layout"
 msgstr "Layout Blog"
@@ -19068,13 +19091,13 @@ msgstr "Layout Blog"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:177
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:178
-#: includes/admin/option_tabs/avia_blog.php:214
-#: includes/admin/option_tabs/avia_blog.php:226
-#: includes/admin/option_tabs/avia_blog.php:237
-#: includes/admin/option_tabs/avia_blog.php:248
-#: includes/admin/option_tabs/avia_blog.php:260
-#: includes/admin/option_tabs/avia_blog.php:271
-#: includes/admin/option_tabs/avia_blog.php:296
+#: includes/admin/option_tabs/avia_blog.php:215
+#: includes/admin/option_tabs/avia_blog.php:227
+#: includes/admin/option_tabs/avia_blog.php:238
+#: includes/admin/option_tabs/avia_blog.php:249
+#: includes/admin/option_tabs/avia_blog.php:261
+#: includes/admin/option_tabs/avia_blog.php:272
+#: includes/admin/option_tabs/avia_blog.php:297
 msgid "Check to display"
 msgstr "Spuntare per visualizzare"
 
@@ -19087,9 +19110,9 @@ msgstr ""
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:181
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:501
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:523
 #: includes/admin/option_tabs/avia_footer.php:178
-#: includes/admin/option_tabs/avia_header.php:433
+#: includes/admin/option_tabs/avia_header.php:443
 #: includes/admin/option_tabs/avia_layout.php:254
 #: includes/admin/register-admin-options.php:143
 msgid "Social Profiles"
@@ -19105,7 +19128,7 @@ msgstr "Un piccolo titolo sopra i pulsanti."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:189
-#: includes/helper-social-media.php:468
+#: includes/helper-social-media.php:478
 msgid "Share this entry"
 msgstr "Condividi questo articolo"
 
@@ -19257,18 +19280,27 @@ msgid "Soundcloud Link"
 msgstr "Soundcloud Link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:458
+msgid "Threads Link"
+msgstr "Link alle discussioni"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:469
+msgid "TikTok Link"
+msgstr "Link TikTok"
+
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:480
 msgid "Vimeo Link"
 msgstr "Vimeo Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:469
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:491
 msgid "Xing Link"
 msgstr "Xing Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:480
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:502
 msgid "YouTube Link"
 msgstr "YouTube Link"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:500
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:522
 msgid ""
 "Enter the link to your profile for this button. Leave empty to use link "
 "defined in "
@@ -19276,12 +19308,12 @@ msgstr ""
 "Inserisci il link al tuo profilo per questo pulsante. Lascia vuoto per usare "
 "il collegamento definito in "
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:507
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:515
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:529
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:537
 msgid "Social Profile Links"
 msgstr "Link al profilo sociale"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:508
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:530
 msgid ""
 "You selected to use the social share buttons used for your blog selected on "
 "theme options page . No options available here at the moment."
@@ -19290,131 +19322,139 @@ msgstr ""
 "il tuo blog selezionati nella pagina delle opzioni del tema. Nessuna opzione "
 "disponibile qui al momento."
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:516
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:538
 msgid ""
 "Enter links to your social profiles which will be used in this element only."
 msgstr ""
 "Inserisci i link ai tuoi profili sociali che saranno utilizzati solo in "
 "questo elemento."
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:523
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:545
 msgid "Facebook Profile Link"
 msgstr "Link profilo Facebook"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:533
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:555
 msgid "X Profile Link"
 msgstr "Link profilo X"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:543
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:565
+msgid "Threads Profile Link"
+msgstr "Link al profilo delle discussioni"
+
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:575
+msgid "TikTok Profile Link"
+msgstr "Link al profilo TikTok"
+
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:585
 msgid "WhatsApp Profile Link"
 msgstr "Link profilo WhatApp"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:553
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:595
 msgid "Pinterest Profile Link"
 msgstr "Link profilo Pinterest"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:563
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:605
 msgid "Reddit Profile Link"
 msgstr "Link profilo Reddit"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:573
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:615
 msgid "LinkedIn Profile Link"
 msgstr "Link profilo Linkedin"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:583
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:625
 msgid "Tumblr Profile Link"
 msgstr "Link profilo Tumblr"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:593
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:635
 msgid "VK Profile Link"
 msgstr "Link profilo VK"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:603
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:645
 msgid "Email Profile Link"
 msgstr "Link profilo Email"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:613
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:655
 msgid "Yelp Profile Link"
 msgstr "Link profilo Yelp"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:623
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:665
 msgid "500px Profile Link"
 msgstr "Link profilo 500px"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:633
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:675
 msgid "Behance Profile Link"
 msgstr "Link profilo Behance"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:643
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:685
 msgid "Dribbble Profile Link"
 msgstr "Link profilo Dribble"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:653
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:695
 msgid "Flickr Profile Link"
 msgstr "Link profilo Flickr"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:663
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:705
 msgid "Instagram Profile Link"
 msgstr "Link profilo Instagram"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:673
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:715
 msgid "Skype Profile Link"
 msgstr "Link profilo Skype"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:683
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:725
 msgid "Soundcloud Profile Link"
 msgstr "Link profilo Soundcloud"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:693
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:735
 msgid "Vimeo Profile Link"
 msgstr "Link profilo Vimeo"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:703
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:745
 msgid "Xing Profile Link"
 msgstr "Link profilo Xing"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:713
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:755
 msgid "YouTube Profile Link"
 msgstr "Link profilo Youtube"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:734
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:776
 msgid "Button Bar Style"
 msgstr "Stile barra dei pulsanti"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:735
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:777
 msgid "Select how to display the social buttons bar"
 msgstr "Seleziona come visualizzare la barra dei pulsanti sociali"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:741
-#: includes/admin/option_tabs/avia_blog.php:395
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:783
+#: includes/admin/option_tabs/avia_blog.php:396
 msgid "Rectangular"
 msgstr "Rettangolare"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:742
-#: includes/admin/option_tabs/avia_blog.php:396
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:784
+#: includes/admin/option_tabs/avia_blog.php:397
 msgid "Rectangular minimal"
 msgstr "Rettangolare minimo"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:743
-#: includes/admin/option_tabs/avia_blog.php:397
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:785
+#: includes/admin/option_tabs/avia_blog.php:398
 msgid "Block square"
 msgstr "Blocco quadrato"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:744
-#: includes/admin/option_tabs/avia_blog.php:398
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:786
+#: includes/admin/option_tabs/avia_blog.php:399
 msgid "Rounded rectangular"
 msgstr "Rettangolare arrotondato"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:748
-#: includes/admin/option_tabs/avia_blog.php:402
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:790
+#: includes/admin/option_tabs/avia_blog.php:403
 msgid "Icon simple"
 msgstr "Icona semplice"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:754
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:796
 msgid "Button Bar Alignment"
 msgstr "Allineamento della barra dei pulsanti"
 
-#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:755
+#: config-templatebuilder/avia-shortcodes/social_share/social_share.php:797
 msgid "Select alignment of the social buttons bar"
 msgstr "Seleziona l'allineamento della barra dei pulsanti sociali"
 
@@ -20866,6 +20906,11 @@ msgstr "Applica il link all'icona e al titolo"
 msgid "Apply link to date and headline"
 msgstr "Applica link a data e titolo"
 
+#: config-templatebuilder/avia-shortcodes/timeline/timeline.php:1559
+#| msgid "Milestone 1"
+msgid "Milestone:"
+msgstr "Milestone:"
+
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:98
 msgid "Accordion"
@@ -21003,7 +21048,7 @@ msgstr "Seleziona lo stile dei pulsanti"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:376
 #: framework/php/widgets/widget-classes/class-avia-auto-toc.php:179
-#: includes/admin/option_tabs/avia_blog.php:88
+#: includes/admin/option_tabs/avia_blog.php:89
 msgid "Elegant"
 msgstr "Elegante"
 
@@ -21257,11 +21302,45 @@ msgstr ""
 "utilizzare solo i caratteri consentiti (caratteri latini, trattini e numeri, "
 "non è possibile utilizzare caratteri speciali)."
 
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:850
+msgid "Collapsed Aria-Label Text"
+msgstr "Testo dell'etichetta Aria collassato"
+
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:851
+msgid ""
+"Enter a complete text to be used in aria-label attribute when the toggle is "
+"collapsed. Leave empty to use toggle title."
+msgstr ""
+"Inserire un testo completo da usare nell'attributo aria-label quando il "
+"toggle è collassato. Lasciare vuoto per usare il titolo del toggle."
+
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:858
+msgid "Expanded Aria-Label Text"
+msgstr "Testo dell'etichetta Aria espanso"
+
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:859
+msgid ""
+"Enter a complete text to be used in aria-label attribute when the toggle is "
+"expanded. Leave empty to use toggle title."
+msgstr ""
+"Inserire un testo completo da usare nell'attributo aria-label quando il "
+"toggle è espanso. Lasciare vuoto per usare il titolo del toggle."
+
 # @ LayerSlider
-#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:854
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:870
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:304
 msgid "Developer Settings"
 msgstr "Impostazioni dello sviluppatore"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1301
+msgid "Click to expand:"
+msgstr "Clicca per espandere:"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/toggles/toggles.php:1306
+msgid "Click to collapse:"
+msgstr "Fare clic per chiudere:"
 
 #: config-templatebuilder/avia-shortcodes/video/video.php:208
 msgid "Save Video Thumbnail Locally"
@@ -21408,7 +21487,7 @@ msgid "Please check your API key"
 msgstr "Controlla la tua chiave API"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
-#: functions.php:781 includes/admin/option_tabs/avia_avia.php:35
+#: functions.php:782 includes/admin/option_tabs/avia_avia.php:35
 msgid "here"
 msgstr "qui"
 
@@ -21828,6 +21907,7 @@ msgstr "Layout predefinito - impostato in"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/config/meta.php:277
+#: sidebar.php:53
 msgid "Sidebar"
 msgstr "Barra laterale"
 
@@ -24718,7 +24798,7 @@ msgstr "Data e ora"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:203
-#: includes/admin/option_tabs/avia_blog.php:297
+#: includes/admin/option_tabs/avia_blog.php:298
 msgid "Link"
 msgstr "Link"
 
@@ -28542,7 +28622,7 @@ msgstr "Mostra dettagli"
 
 # @ avia_framework
 #: config-woocommerce/config-356.php:465 config-woocommerce/config.php:804
-#: config-woocommerce/config.php:3013
+#: config-woocommerce/config.php:3024
 msgid "My Account"
 msgstr "Il mio account"
 
@@ -28593,7 +28673,7 @@ msgid "Default Order"
 msgstr "Ordine Predefinito"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1359 config-woocommerce/config.php:2201
+#: config-woocommerce/config-356.php:1359 config-woocommerce/config.php:2212
 msgid "Price"
 msgstr "Prezzo"
 
@@ -28603,39 +28683,39 @@ msgid "Popularity"
 msgstr "Popolarità"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1363 config-woocommerce/config.php:2217
+#: config-woocommerce/config-356.php:1363 config-woocommerce/config.php:2228
 msgid "Click to order products ascending"
 msgstr "Clicca per ordinare i prodotti in forma  ascendente"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1364 config-woocommerce/config.php:2218
+#: config-woocommerce/config-356.php:1364 config-woocommerce/config.php:2229
 msgid "Click to order products descending"
 msgstr "Clicca per ordinare i prodotti in forma discendente"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:2220
+#: config-woocommerce/config-356.php:1366 config-woocommerce/config.php:2231
 msgid "Products per page"
 msgstr "Prodotti per pagina"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1390 config-woocommerce/config.php:2280
+#: config-woocommerce/config-356.php:1390 config-woocommerce/config.php:2291
 msgid "Sort by"
 msgstr "Ordinare per"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2319
+#: config-woocommerce/config-356.php:1409 config-woocommerce/config.php:2330
 #: includes/admin/register-backend-advanced-styles.php:111
 #: includes/admin/register-backend-advanced-styles.php:132
 msgid "Display"
 msgstr "Mostrare"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1741 config-woocommerce/config.php:2862
+#: config-woocommerce/config-356.php:1741 config-woocommerce/config.php:2873
 msgid "(disabled)"
 msgstr "(disabilitato)"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2868
+#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2879
 msgid ""
 "This page is set as the default WooCommerce Shop Overview and therefore does "
 "not support the Enfold advanced layout editor"
@@ -28644,11 +28724,11 @@ msgstr ""
 "plugin e quindi non supporta l&rsquo;editor di layout avanzato di Enfold"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2868
+#: config-woocommerce/config-356.php:1747 config-woocommerce/config.php:2879
 msgid "Learn more"
 msgstr "Scopri di più"
 
-#: config-woocommerce/config-356.php:1756 config-woocommerce/config.php:2875
+#: config-woocommerce/config-356.php:1756 config-woocommerce/config.php:2886
 msgid ""
 "Please note that the Advanced Layout Builder for products will not work with "
 "all WooCommerce Extensions"
@@ -28657,15 +28737,15 @@ msgstr ""
 "funziona per tutte le estensioni di WooCommerce"
 
 # @ avia_framework
-#: config-woocommerce/config-356.php:1871 config-woocommerce/config.php:3072
+#: config-woocommerce/config-356.php:1871 config-woocommerce/config.php:3083
 msgid "was added to the cart"
 msgstr "è stato aggiunto al carrello"
 
-#: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:3077
+#: config-woocommerce/config-356.php:1872 config-woocommerce/config.php:3088
 msgid "Shopping Cart"
 msgstr "Carrello"
 
-#: config-woocommerce/config-356.php:2350 config-woocommerce/config.php:3678
+#: config-woocommerce/config-356.php:2350 config-woocommerce/config.php:3689
 msgid ""
 "Attention! Pages built with the Enfold Advanced Template Builder will not be "
 "displayed at the bottom of the checkout page but only with a link."
@@ -28685,36 +28765,36 @@ msgid "Shop Banner Image"
 msgstr "Immagine Banner Negozio"
 
 # @ avia_framework
-#: config-woocommerce/config.php:2203
+#: config-woocommerce/config.php:2214
 msgid "Popularity (sales)"
 msgstr "I più venduti (vendite)"
 
 # @ LayerSlider
-#: config-woocommerce/config.php:2204
+#: config-woocommerce/config.php:2215
 msgid "Average rating"
 msgstr "Valutazione media"
 
 # @ LayerSlider
-#: config-woocommerce/config.php:2205
+#: config-woocommerce/config.php:2216
 msgid "Relevance"
 msgstr "Rilevanza"
 
 # @ woothemes
-#: config-woocommerce/config.php:2207
+#: config-woocommerce/config.php:2218
 msgid "Product ID"
 msgstr "ID Prodotto"
 
 # @ avia_framework
-#: config-woocommerce/config.php:3014
+#: config-woocommerce/config.php:3025
 msgid "Account Page Link"
 msgstr "Link alla pagina dell'account"
 
 # @ avia_framework
-#: config-woocommerce/config.php:3018
+#: config-woocommerce/config.php:3029
 msgid "Login / Register"
 msgstr "Accesso / Registrazione"
 
-#: config-woocommerce/config.php:3019
+#: config-woocommerce/config.php:3030
 msgid "Login / Register Page Link"
 msgstr "Collegamento alla pagina di accesso/registrazione"
 
@@ -28929,8 +29009,8 @@ msgid "Editing:"
 msgstr "Montaggio:"
 
 # @ avia_framework
-#: config-wpml/config.php:218 includes/class-avia-custom-pages.php:666
-#: includes/class-avia-custom-pages.php:749
+#: config-wpml/config.php:218 includes/class-avia-custom-pages.php:665
+#: includes/class-avia-custom-pages.php:747
 msgid "Change"
 msgstr "Modifica"
 
@@ -28942,7 +29022,12 @@ msgid "Copyright"
 msgstr "Copyright"
 
 # @ avia_framework
-#: footer.php:328
+#: footer.php:232
+msgid "Copyright and company info"
+msgstr "Copyright e informazioni sulla società"
+
+# @ avia_framework
+#: footer.php:339
 msgid "Scroll to top"
 msgstr "Scorrere verso l&rsquo;alto"
 
@@ -28978,18 +29063,18 @@ msgstr ""
 "Sono stati risolti alcuni bug e sono state aggiunte nuove funzionalità. "
 "Godetevele ...."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:134
+#: framework/php/auto-updates/class-avia-auto-updates.php:137
 #, php-format
 msgid "Go Back to %s Theme Panel"
 msgstr "Torna al pannello tema %s"
 
 # @ LayerSlider
 # @ woothemes
-#: framework/php/auto-updates/class-avia-auto-updates.php:212
+#: framework/php/auto-updates/class-avia-auto-updates.php:215
 msgid "Theme Update"
 msgstr "Aggiornamento Tema"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:294
+#: framework/php/auto-updates/class-avia-auto-updates.php:297
 msgid ""
 "If you want to get update notifications for your theme and if you want to be "
 "able to update your theme from your WordPress backend you need to enter your "
@@ -28999,7 +29084,7 @@ msgstr ""
 "essere in grado di aggiornare il tema dal tuo backend di WordPress devi "
 "inserire il tuo token privato Envato di seguito."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:296
+#: framework/php/auto-updates/class-avia-auto-updates.php:299
 #, php-format
 msgid ""
 "A detailed description for generating this token can be found %s here %s"
@@ -29007,11 +29092,11 @@ msgstr ""
 "Una descrizione dettagliata per generare questo token può essere trovata %s "
 "qui %s"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:299
+#: framework/php/auto-updates/class-avia-auto-updates.php:302
 msgid "Envato Market Plugin"
 msgstr "Envato Market Plugin"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:309
+#: framework/php/auto-updates/class-avia-auto-updates.php:312
 #, php-format
 msgid ""
 "Envato Market Plugin is activated (version %s). You may now also use WP_CLI "
@@ -29020,7 +29105,7 @@ msgstr ""
 "Il plugin Envato Market è attivato (versione %s). Ora è possibile utilizzare "
 "anche WP_CLI o %sEnvato Market Admin Page%s per aggiornare il tema."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:317
+#: framework/php/auto-updates/class-avia-auto-updates.php:320
 msgid ""
 "Envato Market Plugin is installed but not activated. Please activate it if "
 "you want to use it (e.g. to update theme with WP_CLI)."
@@ -29028,7 +29113,7 @@ msgstr ""
 "Il plugin Envato Market è installato ma non attivato. Si prega di attivarlo "
 "se si desidera utilizzarlo (ad esempio per aggiornare il tema con WP_CLI)."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:321
+#: framework/php/auto-updates/class-avia-auto-updates.php:324
 #, php-format
 msgid ""
 "If you want to update theme with WP_CLI (or e.g. have problems with our "
@@ -29041,7 +29126,7 @@ msgstr ""
 "Market%s per gestire gli aggiornamenti. Seguire i passaggi indicati per "
 "scaricare e attivare il plugin."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:325
+#: framework/php/auto-updates/class-avia-auto-updates.php:328
 #, php-format
 msgid ""
 "Starting instructions how to work with WP_CLI you can find in our %s "
@@ -29050,29 +29135,29 @@ msgstr ""
 "Le istruzioni iniziali su come lavorare con WP_CLI si trovano nella nostra "
 "documentazione %s %s."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:340
+#: framework/php/auto-updates/class-avia-auto-updates.php:343
 msgid "Update your Theme from the WordPress Dashboard"
 msgstr "Aggiorna il tuo tema dalla dashboard di WordPress"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:350
+#: framework/php/auto-updates/class-avia-auto-updates.php:353
 msgid "Enter a valid Envato private token"
 msgstr "Inserisci un token privato Envato valido"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:356
+#: framework/php/auto-updates/class-avia-auto-updates.php:359
 msgid "Check the private token"
 msgstr "Controlla il token privato"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:357
+#: framework/php/auto-updates/class-avia-auto-updates.php:360
 msgid "Revalidate or remove the token"
 msgstr "Ripristina o rimuovi il token"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:365
-#: framework/php/auto-updates/class-avia-auto-updates.php:375
+#: framework/php/auto-updates/class-avia-auto-updates.php:368
+#: framework/php/auto-updates/class-avia-auto-updates.php:378
 #: includes/admin/option_tabs/avia_google.php:108
 msgid "Last verify state - hidden - used for internal use only"
 msgstr "Ultimo stato di verifica - nascosto - utilizzato solo per uso interno"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:388
+#: framework/php/auto-updates/class-avia-auto-updates.php:391
 msgid ""
 "Your Themeforest User Name (will be deprecated and removed in future) - "
 "hidden"
@@ -29080,28 +29165,28 @@ msgstr ""
 "Il tuo nome utente Themeforest (sarà deprecato e rimosso in futuro) - "
 "nascosto"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:401
+#: framework/php/auto-updates/class-avia-auto-updates.php:404
 msgid ""
 "Your Themeforest API Key (will be deprecated and removed in future) - hidden"
 msgstr ""
 "La tua chiave API Themeforest (sarà deprecata e rimossa in futuro) - nascosta"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:412
+#: framework/php/auto-updates/class-avia-auto-updates.php:415
 msgid "Envato Reply - hidden - used for internal use only"
 msgstr "Envato risposta-nascosto-usato solo per uso interno"
 
 # @ LayerSlider
-#: framework/php/auto-updates/class-avia-auto-updates.php:455
+#: framework/php/auto-updates/class-avia-auto-updates.php:458
 #, php-format
 msgid "Your PHP version: %s"
 msgstr "La tua versione di PHP: %s"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:462
-#: framework/php/auto-updates/class-avia-auto-updates.php:516
+#: framework/php/auto-updates/class-avia-auto-updates.php:465
+#: framework/php/auto-updates/class-avia-auto-updates.php:519
 msgid "Theme Updates"
 msgstr "Aggiornamenti tema"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:463
+#: framework/php/auto-updates/class-avia-auto-updates.php:466
 #, php-format
 msgid ""
 "Once you have entered and verified your Envato Personal Token Key WordPress "
@@ -29113,16 +29198,16 @@ msgstr ""
 "disponibile <br/><br/> il numero di versione %s corrente è <strong>%s</"
 "strong>"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:467
+#: framework/php/auto-updates/class-avia-auto-updates.php:470
 #, php-format
 msgid "a new version %s is available."
 msgstr "è disponibile una nuova versione %s."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:485
+#: framework/php/auto-updates/class-avia-auto-updates.php:488
 msgid "Update Available!"
 msgstr "Aggiornamento disponibile!"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:487
+#: framework/php/auto-updates/class-avia-auto-updates.php:490
 #, php-format
 msgid ""
 "A new Version (%s) of your %s is available! You are using Version %s. <br/"
@@ -29135,44 +29220,44 @@ msgstr ""
 "enfold/enfold-changelog/' target='_blank' rel='noopener noreferrer'>registro "
 "delle modifiche</a>. Vuoi aggiornare?<br/><br/><br/>"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:490
+#: framework/php/auto-updates/class-avia-auto-updates.php:493
 msgid "Update Now!"
 msgstr "Aggiorna ora!"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:517
+#: framework/php/auto-updates/class-avia-auto-updates.php:520
 #, php-format
 msgid "No Updates available. You are running the latest version! (%s)"
 msgstr "Nessun aggiornamento disponibile. Si esegue l'ultima versione! (%s)"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:518
+#: framework/php/auto-updates/class-avia-auto-updates.php:521
 msgid "Check Manually"
 msgstr "Controllare manualmente"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:552
+#: framework/php/auto-updates/class-avia-auto-updates.php:555
 msgid "There has been no check within the last month."
 msgstr "Non c&rsquo;è stato alcun controllo entro l&rsquo;ultimo mese."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:556
+#: framework/php/auto-updates/class-avia-auto-updates.php:559
 #, php-format
 msgid "Last successful check was on %s."
 msgstr "L&rsquo;ultimo controllo riuscito è stato su %s."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:586
+#: framework/php/auto-updates/class-avia-auto-updates.php:589
 #, php-format
 msgid "Errors occurred checking on %s:"
 msgstr "Errori verificatisi controllando le %s:"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:598
+#: framework/php/auto-updates/class-avia-auto-updates.php:601
 #, php-format
 msgid "Info - %s:"
 msgstr "Info- %s:"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:604
+#: framework/php/auto-updates/class-avia-auto-updates.php:607
 #, php-format
 msgid "Successful check on %s."
 msgstr "Controllo riuscito su %s."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:616
+#: framework/php/auto-updates/class-avia-auto-updates.php:619
 msgid "Following Envato package errors occurred:"
 msgstr "A seguito di errori del pacchetto Envato si sono verificati:"
 
@@ -30570,7 +30655,7 @@ msgstr "Impossibile rinominare/spostare il file %s in %s"
 #: framework/php/function-set-avia-frontend.php:842
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:404
 #: includes/admin/option_tabs/avia_avia.php:55
-#: includes/helper-main-menu.php:171
+#: includes/helper-main-menu.php:187
 msgid "Logo"
 msgstr "Logo"
 
@@ -31937,8 +32022,8 @@ msgid "Loading"
 msgstr "Caricamento"
 
 # @ avia_framework
-#: functions-enfold.php:361 includes/loop-author.php:258
-#: includes/loop-index.php:657
+#: functions-enfold.php:361 includes/loop-author.php:281
+#: includes/loop-index.php:681
 msgid "Sorry, no posts matched your criteria"
 msgstr "Spiacente, nessun articolo corrisponde  ai tuoi criteri"
 
@@ -32065,7 +32150,7 @@ msgid "Portfolio small"
 msgstr "Portfolio piccolo"
 
 # @ avia_framework
-#: functions.php:778 includes/admin/option_tabs/avia_customizer.php:28
+#: functions.php:779 includes/admin/option_tabs/avia_customizer.php:28
 #: includes/admin/register-admin-options.php:87
 #: includes/admin/register-backend-advanced-styles.php:273
 #: includes/admin/register-backend-advanced-styles.php:302
@@ -32077,19 +32162,19 @@ msgid "Main Menu"
 msgstr "Menu principale"
 
 # @ avia_framework
-#: functions.php:781
+#: functions.php:782
 msgid "Secondary Menu"
 msgstr "Menu Secondario"
 
 # @ avia_framework
-#: functions.php:781
+#: functions.php:782
 msgid ""
 "Will be displayed if you selected a header layout that supports a submenu"
 msgstr ""
 "Verrà visualizzato se si seleziona un header layout che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:782
+#: functions.php:783
 msgid ""
 "Secondary Menu - will be displayed if you selected a header layout that "
 "supports a submenu"
@@ -32098,12 +32183,12 @@ msgstr ""
 "intestazione che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:785
+#: functions.php:786
 msgid "Footer Menu <br/><small>(no dropdowns)</small>"
 msgstr "Footer Menu <br/><small>(nessun menu a discesa)</ small>"
 
 # @ avia_framework
-#: functions.php:786
+#: functions.php:787
 msgid "Footer Menu (no dropdowns)"
 msgstr "Footer Menu (nessun menù a discesa)"
 
@@ -32520,7 +32605,7 @@ msgid "Disable block editor for all listed post types..."
 msgstr "Disattiva Editor blocchi per tutti i tipi di post elencati..."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:38
+#: includes/admin/option_tabs/avia_blog.php:39
 msgid ""
 "Special: RSS (add RSS URL, leave blank if you want to use default WordPress "
 "RSS feed)"
@@ -32529,40 +32614,40 @@ msgstr ""
 "utilizzare WordPress feed RSS di default )"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:39
-#: includes/admin/option_tabs/avia_blog.php:62
+#: includes/admin/option_tabs/avia_blog.php:40
+#: includes/admin/option_tabs/avia_blog.php:63
 msgid "Special: Email Icon (add your own URL to link to a contact form)"
 msgstr ""
 "Speciale: Email Icon (aggiungere il proprio URL come link ad un modulo di "
 "contatto)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:79
+#: includes/admin/option_tabs/avia_blog.php:80
 msgid "Blog Styling"
 msgstr "Stile Blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:80
+#: includes/admin/option_tabs/avia_blog.php:81
 msgid "Choose the blog styling here."
 msgstr "Qui puoi scegliere lo stile del Blog."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:87
+#: includes/admin/option_tabs/avia_blog.php:88
 msgid "Default (Business)"
 msgstr "Default (Business)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:89
+#: includes/admin/option_tabs/avia_blog.php:90
 msgid "Modern Business"
 msgstr "Affari Moderni"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:96
+#: includes/admin/option_tabs/avia_blog.php:97
 msgid "Choose the default blog layout here."
 msgstr "Scegliere qui il layout predefinito del blog."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:96
+#: includes/admin/option_tabs/avia_blog.php:97
 msgid ""
 "You can either choose a predefined layout or build your own blog layout with "
 "the advanced layout editor"
@@ -32571,7 +32656,7 @@ msgstr ""
 "l&rsquo;editor di layout avanzato"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:110
+#: includes/admin/option_tabs/avia_blog.php:111
 msgid ""
 "Use the advance layout editor to build your own blog layout (simply edit the "
 "page you have chosen in Enfold->Theme Options as a blog page)"
@@ -32581,22 +32666,22 @@ msgstr ""
 "Opzioni tema come una pagina del blog)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:125
+#: includes/admin/option_tabs/avia_blog.php:126
 msgid "Single Post Options"
 msgstr "Opzioni Articolo singolo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:126
+#: includes/admin/option_tabs/avia_blog.php:127
 msgid "Here you can set options that affect your single blog post layout"
 msgstr ""
 "Qui è possibile impostare le opzioni che riguardano il layout del singolo "
 "post del blog"
 
-#: includes/admin/option_tabs/avia_blog.php:134
+#: includes/admin/option_tabs/avia_blog.php:135
 msgid "Single Post Navigation"
 msgstr "Navigazione a post singolo"
 
-#: includes/admin/option_tabs/avia_blog.php:135
+#: includes/admin/option_tabs/avia_blog.php:136
 msgid ""
 "Select to disable or enable the post navigation that links to the next/"
 "previous post on single entries (Fullwidth sliders and hierarchical post "
@@ -32609,19 +32694,19 @@ msgstr ""
 "L'impostazione è utilizzata anche per il portfolio. Usare il filtro "
 "avf_post_nav_settings per personalizzare."
 
-#: includes/admin/option_tabs/avia_blog.php:142
+#: includes/admin/option_tabs/avia_blog.php:143
 msgid "Enable post navigation"
 msgstr "Abilita navigazione tra i post"
 
-#: includes/admin/option_tabs/avia_blog.php:143
+#: includes/admin/option_tabs/avia_blog.php:144
 msgid "Disable post navigation"
 msgstr "Disabilita la navigazione post"
 
-#: includes/admin/option_tabs/avia_blog.php:144
+#: includes/admin/option_tabs/avia_blog.php:145
 msgid "Loop post navigation"
 msgstr "Navigazione post-loop"
 
-#: includes/admin/option_tabs/avia_blog.php:148
+#: includes/admin/option_tabs/avia_blog.php:149
 msgid ""
 "Select to enable swipe support for posts and portfolio. This is a BETA "
 "feature since 5.5 and might cause problems with sliders (see limitations "
@@ -32633,52 +32718,52 @@ msgstr ""
 "con i cursori (vedere le limitazioni sopra). Usare il filtro "
 "avf_post_nav_settings e avf_post_nav_swipe_support per personalizzare."
 
-#: includes/admin/option_tabs/avia_blog.php:149
+#: includes/admin/option_tabs/avia_blog.php:150
 msgid "Keep in mind, that it requires a server request to load the new page."
 msgstr ""
 "Tenere presente che è necessaria una richiesta al server per caricare la "
 "nuova pagina."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:153
+#: includes/admin/option_tabs/avia_blog.php:154
 msgid "Single Post Swipe Support"
 msgstr "Supporto per il passaggio di un singolo post"
 
-#: includes/admin/option_tabs/avia_blog.php:162
+#: includes/admin/option_tabs/avia_blog.php:163
 msgid "Disable swipe navigation"
 msgstr "Disabilita la navigazione a scorrimento"
 
-#: includes/admin/option_tabs/avia_blog.php:163
+#: includes/admin/option_tabs/avia_blog.php:164
 msgid "Enable swipe navigation"
 msgstr "Abilita la navigazione a scorrimento"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:169
+#: includes/admin/option_tabs/avia_blog.php:170
 msgid "Single Post Style"
 msgstr "Stile Articolo singolo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:170
+#: includes/admin/option_tabs/avia_blog.php:171
 msgid "Choose the single post style here."
 msgstr "Scegliere lo stile del post singolo qui."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:177
+#: includes/admin/option_tabs/avia_blog.php:178
 msgid "Single post with small preview image (featured image)"
 msgstr "Singolo post con piccola immagine di anteprima (immagine in evidenza)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:178
+#: includes/admin/option_tabs/avia_blog.php:179
 msgid "Single post with big preview image (featured image)"
 msgstr "Singolo post con grande anteprima immagine (immagine in evidenza)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:187
+#: includes/admin/option_tabs/avia_blog.php:188
 msgid "Related Entries"
 msgstr "Articoli correlati"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:188
+#: includes/admin/option_tabs/avia_blog.php:189
 msgid ""
 "Choose if and how you want to display your related entries. (Related entries "
 "are based on tags. If a post does not have any tags then no related entries "
@@ -32688,26 +32773,26 @@ msgstr ""
 "correlate sono basate sui tag. Se un post non ha tags allora nessuna voce "
 "correlata verrà mostrata)"
 
-#: includes/admin/option_tabs/avia_blog.php:195
+#: includes/admin/option_tabs/avia_blog.php:196
 msgid "Show thumbnails and display post title by tooltip"
 msgstr "Mostra le miniature e visualizza il titolo del post per tooltip"
 
-#: includes/admin/option_tabs/avia_blog.php:196
+#: includes/admin/option_tabs/avia_blog.php:197
 msgid "Show thumbnail and post title by default"
 msgstr "Mostra anteprima e titolo dell'articolo per impostazione predefinita"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:197
+#: includes/admin/option_tabs/avia_blog.php:198
 msgid "Disable related entries"
 msgstr "Disabilitare articoli correlati"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:203
+#: includes/admin/option_tabs/avia_blog.php:204
 msgid "Blog Meta Elements"
 msgstr "Elementi meta del blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:204
+#: includes/admin/option_tabs/avia_blog.php:205
 msgid ""
 "You can choose to show or hide some of the default blog meta elements here:"
 msgstr ""
@@ -32715,42 +32800,42 @@ msgstr ""
 "del blog qui:"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:213
+#: includes/admin/option_tabs/avia_blog.php:214
 msgid "Blog Post Author"
 msgstr "Articoli blog autore"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:225
+#: includes/admin/option_tabs/avia_blog.php:226
 msgid "Blog Post Comment Count"
 msgstr "Conteggio commenti Blog Post"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:236
+#: includes/admin/option_tabs/avia_blog.php:237
 msgid "Blog Post Category"
 msgstr "Categoria blog post"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:247
+#: includes/admin/option_tabs/avia_blog.php:248
 msgid "Blog Post Date"
 msgstr "Date blog post"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:259
+#: includes/admin/option_tabs/avia_blog.php:260
 msgid "Blog Post Allowed HTML Tags"
 msgstr "Sono ammessi html tags per i post del blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:270
+#: includes/admin/option_tabs/avia_blog.php:271
 msgid "Blog Post Tags"
 msgstr "Tags Articolo Blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:303
+#: includes/admin/option_tabs/avia_blog.php:304
 msgid "Share Links At The Bottom Of Your Blog Post"
 msgstr "Condividi i link in fondo al tuo post sul blog"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:304
+#: includes/admin/option_tabs/avia_blog.php:305
 msgid ""
 "The theme allows you to display share links to various social networks at "
 "the bottom of your blog posts. Check which links you want to display:"
@@ -32759,7 +32844,7 @@ msgstr ""
 "network in fondo al post del tuo blog. Spuntare i collegamenti che si "
 "desiderano visualizzare:"
 
-#: includes/admin/option_tabs/avia_blog.php:345
+#: includes/admin/option_tabs/avia_blog.php:346
 #, php-format
 msgid ""
 "If you added Social Profile Links at %s Theme Options -&gt; Social Profiles "
@@ -32770,30 +32855,30 @@ msgstr ""
 "sociali %s il tema ti permette di mostrare questi link ai profili in fondo "
 "ai post del tuo blog."
 
-#: includes/admin/option_tabs/avia_blog.php:346
+#: includes/admin/option_tabs/avia_blog.php:347
 msgid "Be sure you added a link, otherwise your selection will be ignored."
 msgstr ""
 "Assicurati di aver aggiunto il collegamento, altrimenti la tua selezione "
 "sarà ignorata."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_blog.php:350
+#: includes/admin/option_tabs/avia_blog.php:351
 msgid "Profile Links At The Bottom Of Your Blog Post"
 msgstr "Link al profilo in fondo al tuo post sul blog"
 
-#: includes/admin/option_tabs/avia_blog.php:387
+#: includes/admin/option_tabs/avia_blog.php:388
 msgid "Share Button Bar Style"
 msgstr "Stile della barra dei pulsanti di condivisione"
 
-#: includes/admin/option_tabs/avia_blog.php:388
+#: includes/admin/option_tabs/avia_blog.php:389
 msgid "Select how to display the share buttons bar"
 msgstr "Seleziona come visualizzare la barra dei pulsanti di condivisione"
 
-#: includes/admin/option_tabs/avia_blog.php:408
+#: includes/admin/option_tabs/avia_blog.php:409
 msgid "Share Button Bar Alignment"
 msgstr "Allineamento della barra dei pulsanti di condivisione"
 
-#: includes/admin/option_tabs/avia_blog.php:409
+#: includes/admin/option_tabs/avia_blog.php:410
 msgid "Select alignment of the share buttons bar"
 msgstr "Seleziona l'allineamento della barra dei pulsanti di condivisione"
 
@@ -33116,7 +33201,7 @@ msgstr "Privacy e Cookie"
 
 #: includes/admin/option_tabs/avia_cookie.php:44
 #: includes/admin/option_tabs/avia_cookie.php:54
-#: includes/helper-privacy.php:2203
+#: includes/helper-privacy.php:2208
 msgid "Privacy Policy"
 msgstr "Privacy Policy"
 
@@ -33563,7 +33648,7 @@ msgstr ""
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_cookie.php:436
-#: includes/admin/register-portfolio.php:232 includes/helper-privacy.php:1806
+#: includes/admin/register-portfolio.php:232 includes/helper-privacy.php:1811
 msgid "Settings"
 msgstr "Impostazioni"
 
@@ -35002,18 +35087,32 @@ msgstr ""
 "tua pagina. Questa opzione può essere sovrascritta durante la scrittura/"
 "modifica di una pagina"
 
+#: includes/admin/option_tabs/avia_header.php:324
+msgid "Aria-Label Text"
+msgstr "Testo dell&rsquo;etichetta Aria"
+
+#: includes/admin/option_tabs/avia_header.php:325
+msgid ""
+"Enter a descriptive text that is added as aria-label attribute to main "
+"header section (including logo and menus). Will be used by screen readers. "
+"Leave empty to skip it."
+msgstr ""
+"Inserire un testo descrittivo che viene aggiunto come attributo aria-label "
+"alla sezione principale dell'intestazione (compresi logo e menu). Verrà "
+"utilizzato dai lettori di schermo. Lasciare vuoto per ignorarlo."
+
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:336
+#: includes/admin/option_tabs/avia_header.php:346
 msgid "Header Behavior"
 msgstr "Comportamento della testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:345
+#: includes/admin/option_tabs/avia_header.php:355
 msgid "Sticky Header"
 msgstr "Titolo in evidenza"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:346
+#: includes/admin/option_tabs/avia_header.php:356
 msgid ""
 "If checked the header will stick to the top of your site if user scrolls "
 "down (ignored on smartphones)"
@@ -35023,12 +35122,12 @@ msgstr ""
 "smartphone)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:355
+#: includes/admin/option_tabs/avia_header.php:365
 msgid "Shrinking Header"
 msgstr "Restringimento testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:356
+#: includes/admin/option_tabs/avia_header.php:366
 msgid ""
 "If checked the sticky header will shrink once the user scrolls down (ignored "
 "on smartphones + tablets)"
@@ -35036,17 +35135,17 @@ msgstr ""
 "Se selezionato l&rsquo;intestazione si ridurrà una volta che l&rsquo;utente "
 "scorre verso il basso (ignorato su smartphone + tablet)"
 
-#: includes/admin/option_tabs/avia_header.php:365
+#: includes/admin/option_tabs/avia_header.php:375
 msgid "Theme default (=50%)"
 msgstr "Tema predefinito (=50%)"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:375
+#: includes/admin/option_tabs/avia_header.php:385
 msgid "Shrinking Amount"
 msgstr "Importo ridotto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:376
+#: includes/admin/option_tabs/avia_header.php:386
 msgid ""
 "Select a value to shrink the header. The bigger the value the smaller the "
 "header will be (ignored on smartphones + tablets)"
@@ -35054,11 +35153,11 @@ msgstr ""
 "Selezionare un valore per ridurre l'intestazione. Più grande è il valore, "
 "più piccola sarà l'intestazione (ignorata su smartphone e tablet)."
 
-#: includes/admin/option_tabs/avia_header.php:388
+#: includes/admin/option_tabs/avia_header.php:398
 msgid "Unstick Topbar"
 msgstr "Sbloccare la barra superiore"
 
-#: includes/admin/option_tabs/avia_header.php:389
+#: includes/admin/option_tabs/avia_header.php:399
 msgid ""
 "If checked the small top bar above the header with social icons, secondary "
 "menu and extra information will no longer stick to the top"
@@ -35068,14 +35167,14 @@ msgstr ""
 "in alto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:400
+#: includes/admin/option_tabs/avia_header.php:410
 msgid "Let Logo And Menu Position Adapt To Browser Window"
 msgstr ""
 "Lasciare che il logo e la posizione del menu si adattino alla finestra del "
 "browser"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:401
+#: includes/admin/option_tabs/avia_header.php:411
 msgid ""
 "If checked the elements in your header will always be placed at the browser "
 "window edge, instead of matching the content width"
@@ -35085,12 +35184,12 @@ msgstr ""
 "contenuto"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:430
+#: includes/admin/option_tabs/avia_header.php:440
 msgid "Header Social Icons"
 msgstr "Icone Sociali Nella Testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:431
+#: includes/admin/option_tabs/avia_header.php:441
 msgid ""
 "Choose if and where to display social icons. You can define the icons at"
 msgstr ""
@@ -35098,59 +35197,59 @@ msgstr ""
 "le icone in"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:443
+#: includes/admin/option_tabs/avia_header.php:453
 msgid "No social Icons"
 msgstr "Nessuna icona sociale"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:444
-#: includes/admin/option_tabs/avia_header.php:481
+#: includes/admin/option_tabs/avia_header.php:454
+#: includes/admin/option_tabs/avia_header.php:491
 msgid "Display in top bar at the left"
 msgstr "Mostra nella barra superiore a sinistra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:445
-#: includes/admin/option_tabs/avia_header.php:482
+#: includes/admin/option_tabs/avia_header.php:455
+#: includes/admin/option_tabs/avia_header.php:492
 msgid "Display in top bar at the right"
 msgstr "Mostra nella barra superiore a destra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:446
+#: includes/admin/option_tabs/avia_header.php:456
 msgid "Display in main header area"
 msgstr "Mostra nella principale area della testa"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:452
+#: includes/admin/option_tabs/avia_header.php:462
 msgid "Header Secondary Menu"
 msgstr "Menu secondario nella testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:453
+#: includes/admin/option_tabs/avia_header.php:463
 msgid "Choose if you want to display a secondary menu and where to display it"
 msgstr "Scegli se vuoi visualizzare un menu secondario e dove visualizzarlo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:462
+#: includes/admin/option_tabs/avia_header.php:472
 msgid "No Secondary Menu"
 msgstr "Nessun menu secondario"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:463
+#: includes/admin/option_tabs/avia_header.php:473
 msgid "Secondary Menu in top bar at the left"
 msgstr "Menu Secondario nella barra superiore a sinistra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:464
+#: includes/admin/option_tabs/avia_header.php:474
 msgid "Secondary Menu in top bar at the right"
 msgstr "Menu Secondario nella barra superiore a destra"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:470
+#: includes/admin/option_tabs/avia_header.php:480
 msgid "Header Phone Number/Extra Info"
 msgstr "Testata numero di telefono/Extra Info"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:471
+#: includes/admin/option_tabs/avia_header.php:481
 msgid ""
 "Choose if you want to display an additional phone number or some extra info "
 "in your header"
@@ -35159,27 +35258,27 @@ msgstr ""
 "qualche informazione in più nella testata"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:480
+#: includes/admin/option_tabs/avia_header.php:490
 msgid "No Phone Number/Extra Info"
 msgstr "Nessun numero di telefono/Extra Info"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:488
+#: includes/admin/option_tabs/avia_header.php:498
 msgid "Phone Number Or Small Info Text"
 msgstr "Numero di telefono o piccolo testo informativo"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:489
+#: includes/admin/option_tabs/avia_header.php:499
 msgid "Add the text that should be displayed in your header here"
 msgstr ""
 "Aggiungere il testo che dovrebbe essere visualizzato nella intestazione qui"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:500
+#: includes/admin/option_tabs/avia_header.php:510
 msgid "Reading Progress Bar"
 msgstr "Barra di avanzamento lettura"
 
-#: includes/admin/option_tabs/avia_header.php:501
+#: includes/admin/option_tabs/avia_header.php:511
 msgid ""
 "Show a reading progress bar below header indicating vertical scroll position "
 "in document. Only available when top header and sticky header selected."
@@ -35190,35 +35289,35 @@ msgstr ""
 
 # @ default
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:510
+#: includes/admin/option_tabs/avia_header.php:520
 msgid "Show 2px bar"
 msgstr "Mostra barra 2px"
 
 # @ default
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:511
+#: includes/admin/option_tabs/avia_header.php:521
 msgid "Show 4px bar"
 msgstr "Mostra barra 4px"
 
 # @ default
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:512
+#: includes/admin/option_tabs/avia_header.php:522
 msgid "Show 6px bar"
 msgstr "Mostra barra 6px"
 
 # @ default
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:513
+#: includes/admin/option_tabs/avia_header.php:523
 msgid "Show 8px bar"
 msgstr "Mostra barra 8px"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:519
+#: includes/admin/option_tabs/avia_header.php:529
 msgid "Reading Progress Bar Color"
 msgstr "Colore della barra di avanzamento della lettura"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_header.php:520
+#: includes/admin/option_tabs/avia_header.php:530
 msgid ""
 "Select a custom color for the reading progress bar. Leave empty for theme "
 "default."
@@ -39238,13 +39337,13 @@ msgstr "Segnalibri"
 msgid "Executed theme update script:"
 msgstr "Eseguito lo script di aggiornamento del tema:"
 
-#: includes/class-avia-custom-pages.php:348
+#: includes/class-avia-custom-pages.php:347
 msgid "Sorry, we are currently updating our site - please try again later."
 msgstr ""
 "Siamo spiacenti, al momento stiamo aggiornando il nostro sito - riprova più "
 "tardi."
 
-#: includes/class-avia-custom-pages.php:441
+#: includes/class-avia-custom-pages.php:440
 msgid ""
 "<span style=\"color: #ff33ff; font-weight: bold;\">Maintenance Mode Enabled</"
 "span>"
@@ -39252,7 +39351,7 @@ msgstr ""
 "<span style=\"color: #ff33ff; font-weight: bold;\">Modalità di manutenzione "
 "abilitata</span>"
 
-#: includes/class-avia-custom-pages.php:668
+#: includes/class-avia-custom-pages.php:667
 msgid ""
 "Therefore it cannot be accessed directly by the general public in your "
 "frontend. (Logged in users who are able to edit this page can still see it)"
@@ -39261,7 +39360,7 @@ msgstr ""
 "(Gli utenti registrati che sono in grado di modificare la pagina possono "
 "ancora vederlo nel frontend)"
 
-#: includes/class-avia-custom-pages.php:674
+#: includes/class-avia-custom-pages.php:673
 msgid ""
 "This page is currently selected to be displayed as maintenance mode page. "
 "(Set in Enfold &raquo; Theme Options)."
@@ -39269,7 +39368,7 @@ msgstr ""
 "Questa pagina è attualmente selezionata per essere visualizzata come pagina "
 "modalità manutenzione. (Impostare in Enfold &raquo; opzioni tema)."
 
-#: includes/class-avia-custom-pages.php:675
+#: includes/class-avia-custom-pages.php:674
 msgid ""
 "If you are NOT in maintenance mode, this page cannot be accessed by the "
 "general public in your frontend. Logged in users, who are able to edit this "
@@ -39279,7 +39378,7 @@ msgstr ""
 "pubblico nel vostro frontend. Gli utenti registrati, che sono in grado di "
 "modificare questa pagina, possono vederla a scopo di sviluppo."
 
-#: includes/class-avia-custom-pages.php:679
+#: includes/class-avia-custom-pages.php:678
 msgid ""
 "This page is selected to be displayed as maintenance mode page but is not "
 "active at the moment. (Set in Enfold &raquo; Theme Options)."
@@ -39288,7 +39387,7 @@ msgstr ""
 "modalità di manutenzione ma non è attualmente attiva. (Impostare in Enfold "
 "&raquo; opzioni tema)."
 
-#: includes/class-avia-custom-pages.php:689
+#: includes/class-avia-custom-pages.php:688
 msgid ""
 "This page is currently selected to be displayed as custom 404 page. (Set in "
 "Enfold &raquo; Theme Options)."
@@ -39296,7 +39395,7 @@ msgstr ""
 "Questa pagina è attualmente selezionata per essere visualizzata come pagina "
 "personalizzata 404. (Impostare in Enfold &raquo; opzioni tema)."
 
-#: includes/class-avia-custom-pages.php:693
+#: includes/class-avia-custom-pages.php:692
 msgid ""
 "This page is selected to be displayed as custom 404 page but is not active "
 "at the moment. (Set in Enfold &raquo; Theme Options)."
@@ -39305,7 +39404,7 @@ msgstr ""
 "404 personalizzata ma non è attualmente attiva. (Impostare in Enfold &raquo; "
 "opzioni tema)."
 
-#: includes/class-avia-custom-pages.php:704
+#: includes/class-avia-custom-pages.php:703
 msgid ""
 "This page is currently selected to be displayed as footer. (Set in Enfold "
 "&raquo; Footer)."
@@ -39313,7 +39412,7 @@ msgstr ""
 "Questa pagina è attualmente selezionata per essere visualizzata come piè di "
 "pagina. (Impostare in Enfold &raquo; piè di pagina)."
 
-#: includes/class-avia-custom-pages.php:708
+#: includes/class-avia-custom-pages.php:707
 msgid ""
 "This page is selected to be displayed as footer but is not active at the "
 "moment. (Set in Enfold &raquo; Footer)."
@@ -39321,34 +39420,34 @@ msgstr ""
 "Questa pagina è selezionata per essere visualizzata a piè di pagina, ma al "
 "momento non è attiva. (Impostare in Enfold &raquo; Piè di pagina)."
 
-#: includes/class-avia-custom-pages.php:755
+#: includes/class-avia-custom-pages.php:753
 msgid "Active Maintenance Mode Page"
 msgstr "Pagina manutenzione attiva"
 
-#: includes/class-avia-custom-pages.php:755
+#: includes/class-avia-custom-pages.php:753
 msgid "Inactive Maintenance Mode Page"
 msgstr "Pagina manutenzione inattiva"
 
-#: includes/class-avia-custom-pages.php:762
+#: includes/class-avia-custom-pages.php:760
 msgid "Active Custom 404 Page"
 msgstr "Pagina 404 personalizzata attiva"
 
-#: includes/class-avia-custom-pages.php:762
+#: includes/class-avia-custom-pages.php:760
 msgid "Inactive Custom 404 Page"
 msgstr "Pagina 404 personalizzata inattiva"
 
-#: includes/class-avia-custom-pages.php:769
+#: includes/class-avia-custom-pages.php:767
 msgid "Active Custom Footer Page"
 msgstr "Piè di pagina personalizzata attiva"
 
-#: includes/class-avia-custom-pages.php:769
+#: includes/class-avia-custom-pages.php:767
 msgid "Inactive Custom Footer Page"
 msgstr "Piè di pagina personalizzata inattiva"
 
 # @ avia_framework
-#: includes/error404.php:5 includes/loop-author.php:255
-#: includes/loop-index.php:653 includes/loop-page.php:90
-#: includes/loop-portfolio-single.php:83 includes/loop-search.php:218
+#: includes/error404.php:5 includes/loop-author.php:278
+#: includes/loop-index.php:677 includes/loop-page.php:114
+#: includes/loop-portfolio-single.php:107 includes/loop-search.php:229
 msgid "Nothing Found"
 msgstr "Nessun risultato"
 
@@ -39377,7 +39476,7 @@ msgid "Try similar keywords, for example: tablet instead of laptop."
 msgstr "Prova con termini simili o sinonimi."
 
 # @ avia_framework
-#: includes/error404.php:31 includes/loop-search.php:229
+#: includes/error404.php:31 includes/loop-search.php:240
 msgid "Try using more than one keyword."
 msgstr "Provare a utilizzare più di una parola chiave."
 
@@ -39452,7 +39551,7 @@ msgid "Conditional CSS Class"
 msgstr "Condizionale classe CSS"
 
 # @ avia_framework
-#: includes/helper-main-menu.php:213 includes/helper-main-menu.php:290
+#: includes/helper-main-menu.php:229 includes/helper-main-menu.php:306
 msgid "Select a page"
 msgstr "Seleziona una pagina"
 
@@ -39636,64 +39735,64 @@ msgstr "Clicca per attivare/disattivare %s."
 
 # @ LayerSlider
 # @ avia_framework
-#: includes/helper-privacy.php:995 includes/helper-privacy.php:1033
-#: includes/helper-privacy.php:1075 includes/helper-privacy.php:1113
+#: includes/helper-privacy.php:996 includes/helper-privacy.php:1035
+#: includes/helper-privacy.php:1078 includes/helper-privacy.php:1117
 msgid "Disabled:"
 msgstr "Disabilitato:"
 
-#: includes/helper-privacy.php:998
+#: includes/helper-privacy.php:999
 msgid "Accept use of cookies"
 msgstr "Accettare l&rsquo;uso dei cookie"
 
-#: includes/helper-privacy.php:1036
+#: includes/helper-privacy.php:1038
 msgid "Accept use of all cookies and services"
 msgstr "Accettare l&rsquo;uso di tutti i cookie e servizi"
 
-#: includes/helper-privacy.php:1068
+#: includes/helper-privacy.php:1071
 msgid "Do not allow to use cookies"
 msgstr "Non consentire l&rsquo;uso dei cookie"
 
-#: includes/helper-privacy.php:1106
+#: includes/helper-privacy.php:1110
 msgid "Learn more about our privacy policy"
 msgstr "Per saperne di più sulla nostra politica sulla privacy"
 
-#: includes/helper-privacy.php:1444
+#: includes/helper-privacy.php:1449
 msgid "Error: You must agree to our privacy policy to comment on this site..."
 msgstr ""
 "Errore: Devi accettare la nostra politica sulla privacy per commentare "
 "questo sito..."
 
-#: includes/helper-privacy.php:1582
+#: includes/helper-privacy.php:1587
 msgid "You must acknowledge and agree to the privacy policy"
 msgstr "È necessario riconoscere e accettare l'informativa sulla privacy"
 
-#: includes/helper-privacy.php:1617
+#: includes/helper-privacy.php:1622
 msgid "You must acknowledge and agree to the privacy policy to register"
 msgstr "È necessario riconoscere e accettare la privacy policy per registrarsi"
 
-#: includes/helper-privacy.php:1763
+#: includes/helper-privacy.php:1768
 msgid "Reloading the page"
 msgstr "Ricaricare la pagina"
 
-#: includes/helper-privacy.php:1765
+#: includes/helper-privacy.php:1770
 msgid "To reflect your cookie selections we need to reload the page."
 msgstr "Per riflettere le selezioni dei cookie, dobbiamo ricaricare la pagina."
 
 # @ avia_framework
-#: includes/helper-privacy.php:1820
+#: includes/helper-privacy.php:1825
 msgid "Cookie and Privacy Settings"
 msgstr "Impostazioni Cookie e Privacy"
 
 # @ avia_framework
-#: includes/helper-privacy.php:1962 includes/helper-privacy.php:1963
+#: includes/helper-privacy.php:1967 includes/helper-privacy.php:1968
 msgid "Open Message Bar"
 msgstr "Apri la barra dei messaggi"
 
-#: includes/helper-privacy.php:2101
+#: includes/helper-privacy.php:2106
 msgid "How we use cookies"
 msgstr "Come usiamo i cookie"
 
-#: includes/helper-privacy.php:2102
+#: includes/helper-privacy.php:2107
 msgid ""
 "We may request cookies to be set on your device. We use cookies to let us "
 "know when you visit our websites, how you interact with us, to enrich your "
@@ -39712,7 +39811,7 @@ msgstr ""
 "alcuni tipi di cookie potrebbe influire sulla tua esperienza sui nostri siti "
 "Web e sui servizi che siamo in grado di offrire."
 
-#: includes/helper-privacy.php:2106
+#: includes/helper-privacy.php:2111
 msgid ""
 "These cookies are strictly necessary to provide you with services available "
 "through our website and to use some of its features."
@@ -39721,7 +39820,7 @@ msgstr ""
 "attraverso il nostro sito web e per utilizzare alcune delle sue "
 "caratteristiche."
 
-#: includes/helper-privacy.php:2108
+#: includes/helper-privacy.php:2113
 msgid ""
 "Because these cookies are strictly necessary to deliver the website, "
 "refusing them will have impact how our site functions. You always can block "
@@ -39735,7 +39834,7 @@ msgstr ""
 "bloccando forzatamente tutti i cookie di questo sito. Ma questo ti chiederà "
 "sempre di accettare/rifiutare i cookie quando rivisiti il nostro sito."
 
-#: includes/helper-privacy.php:2110
+#: includes/helper-privacy.php:2115
 msgid ""
 "We fully respect if you want to refuse cookies but to avoid asking you again "
 "and again kindly allow us to store a cookie for that. You are free to opt "
@@ -39748,7 +39847,7 @@ msgstr ""
 "optare per altri cookie per ottenere un&rsquo;esperienza migliore. Se "
 "rifiuti i cookie, rimuoveremo tutti i cookie impostati nel nostro dominio."
 
-#: includes/helper-privacy.php:2112
+#: includes/helper-privacy.php:2117
 msgid ""
 "We provide you with a list of stored cookies on your computer in our domain "
 "so you can check what we stored. Due to security reasons we are not able to "
@@ -39761,11 +39860,11 @@ msgstr ""
 "altri domini. Puoi controllarli nelle impostazioni di sicurezza del tuo "
 "browser."
 
-#: includes/helper-privacy.php:2119
+#: includes/helper-privacy.php:2124
 msgid "Essential Website Cookies"
 msgstr "Cookie essenziali del sito Web"
 
-#: includes/helper-privacy.php:2138
+#: includes/helper-privacy.php:2143
 msgid ""
 "These cookies collect information that is used either in aggregate form to "
 "help us understand how our website is being used or how effective our "
@@ -39778,7 +39877,7 @@ msgstr ""
 "personalizzare il nostro sito web e l'applicazione per voi al fine di "
 "migliorare la vostra esperienza."
 
-#: includes/helper-privacy.php:2140
+#: includes/helper-privacy.php:2145
 msgid ""
 "If you do not want that we track your visit to our site you can disable "
 "tracking in your browser here:"
@@ -39786,16 +39885,16 @@ msgstr ""
 "Se non vuoi che tracciamo la tua visita al nostro sito puoi disabilitare il "
 "tracciamento nel tuo browser qui:"
 
-#: includes/helper-privacy.php:2142
+#: includes/helper-privacy.php:2147
 msgid " [av_privacy_google_tracking]"
 msgstr " [av_privacy_google_tracking]"
 
 # @ avia_framework
-#: includes/helper-privacy.php:2145
+#: includes/helper-privacy.php:2150
 msgid "Google Analytics Cookies"
 msgstr "Cookie di Google Analytics"
 
-#: includes/helper-privacy.php:2151
+#: includes/helper-privacy.php:2156
 msgid ""
 "We also use different external services like Google Webfonts, Google Maps, "
 "and external Video providers."
@@ -39803,7 +39902,7 @@ msgstr ""
 "Utilizziamo anche diversi servizi esterni come Google Webfonts, Google Maps "
 "e fornitori esterni di video."
 
-#: includes/helper-privacy.php:2152
+#: includes/helper-privacy.php:2157
 msgid ""
 "Since these providers may collect personal data like your IP address we "
 "allow you to block them here. Please be aware that this might heavily reduce "
@@ -39814,33 +39913,33 @@ msgstr ""
 "potrebbe ridurre notevolmente la funzionalità e l&rsquo;aspetto del nostro "
 "sito."
 
-#: includes/helper-privacy.php:2153
+#: includes/helper-privacy.php:2158
 msgid "Changes will take effect once you reload the page."
 msgstr "Le modifiche avranno effetto una volta ricaricata la pagina."
 
 # @ avia_framework
-#: includes/helper-privacy.php:2155
+#: includes/helper-privacy.php:2160
 msgid "Google Webfont Settings:"
 msgstr "Google Fonts:"
 
 # @ LayerSlider
-#: includes/helper-privacy.php:2159
+#: includes/helper-privacy.php:2164
 msgid "Google Map Settings:"
 msgstr "Impostazioni Google di Enfold:"
 
-#: includes/helper-privacy.php:2163
+#: includes/helper-privacy.php:2168
 msgid "Google reCaptcha Settings:"
 msgstr "Cerca impostazioni:"
 
-#: includes/helper-privacy.php:2167
+#: includes/helper-privacy.php:2172
 msgid "Vimeo and Youtube video embeds:"
 msgstr "Vimeo and Youtube video embeds:"
 
-#: includes/helper-privacy.php:2173
+#: includes/helper-privacy.php:2178
 msgid "Other external services"
 msgstr "Altri servizi esterni"
 
-#: includes/helper-privacy.php:2181
+#: includes/helper-privacy.php:2186
 msgid ""
 "The following cookies are also needed - You can choose if you want to allow "
 "them:"
@@ -39848,11 +39947,11 @@ msgstr ""
 "Sono necessari anche i seguenti cookie - Puoi scegliere se permetterli:"
 
 # @ LayerSlider
-#: includes/helper-privacy.php:2193
+#: includes/helper-privacy.php:2198
 msgid "Other cookies"
 msgstr "Altri cookies"
 
-#: includes/helper-privacy.php:2204
+#: includes/helper-privacy.php:2209
 msgid ""
 "You can read about our cookies and privacy settings in detail on our Privacy "
 "Policy Page. <br><br> [av_privacy_link]"
@@ -39860,7 +39959,7 @@ msgstr ""
 "Puoi leggere i nostri cookie e le nostre impostazioni sulla privacy in "
 "dettaglio nella nostra pagina sulla privacy. <br><br> [av_privacy_link]"
 
-#: includes/helper-privacy.php:2212
+#: includes/helper-privacy.php:2217
 msgid ""
 "The following cookies are currently in use. Due to browser security we are "
 "only able to show cookies of your domain."
@@ -39868,7 +39967,7 @@ msgstr ""
 "I seguenti cookie sono attualmente in uso. Grazie alla sicurezza del browser "
 "siamo in grado di mostrare solo i cookie del tuo dominio."
 
-#: includes/helper-privacy.php:2214
+#: includes/helper-privacy.php:2219
 msgid ""
 "For other domain cookies please check your browser settings or use a debug "
 "tool. Due to browser security we cannot access all information needed to "
@@ -39879,7 +39978,7 @@ msgstr ""
 "possiamo accedere a tutte le informazioni necessarie per rimuovere un "
 "cookie, quindi potremmo non essere in grado di rimuovere tutti i cookie."
 
-#: includes/helper-privacy.php:2219
+#: includes/helper-privacy.php:2224
 msgid "Stored Site Cookies"
 msgstr "Cookies del sito memorizzati"
 
@@ -39922,16 +40021,16 @@ msgstr "Condividi attraverso Mail"
 msgid "Link to 500px"
 msgstr "Collegamento a 500px"
 
-#: includes/helper-social-media.php:553
+#: includes/helper-social-media.php:563
 msgid "Visit us on Yelp"
 msgstr "Venite a trovarci su Yelp"
 
-#: includes/helper-social-media.php:806
+#: includes/helper-social-media.php:816
 msgid "Link to"
 msgstr "Collegamento a"
 
 # @ avia_framework
-#: includes/helper-social-media.php:810
+#: includes/helper-social-media.php:820
 msgid "Share on"
 msgstr "Condividi su"
 
@@ -39955,52 +40054,97 @@ msgid "Edit the profile description here."
 msgstr "Modifica la descrizione del profilo."
 
 # @ avia_framework
-#: includes/loop-author.php:162 includes/loop-index.php:484
-#: includes/loop-search.php:92
+#: includes/loop-author.php:46
+msgid "Author Archive Post:"
+msgstr "Archivio autori Post:"
+
+# @ avia_framework
+#: includes/loop-author.php:173 includes/loop-index.php:496
+#: includes/loop-search.php:103
 msgid "Comments Disabled"
 msgstr "Commenti disabilitati"
 
 # @ avia_framework
-#: includes/loop-author.php:176 includes/loop-index.php:498
-#: includes/loop-search.php:134
+#: includes/loop-author.php:187 includes/loop-index.php:510
+#: includes/loop-search.php:145
 msgid "in"
 msgstr "in"
 
-#: includes/loop-comments.php:37
+# @ avia_framework
+#: includes/loop-author.php:263
+msgid "No Author Archive Posts Found"
+msgstr "Nessun post dell'archivio autori trovato"
+
+# @ avia_framework
+#: includes/loop-comments.php:19
+msgid "Comment Info"
+msgstr "Commento Info"
+
+#: includes/loop-comments.php:56
 msgid "says:"
 msgstr "dice:"
 
 # @ avia_framework
-#: includes/loop-comments.php:38
+#: includes/loop-comments.php:58
 msgid "(Edit)"
 msgstr "(Modifica)"
 
 # @ avia_framework
-#: includes/loop-comments.php:44
+#: includes/loop-comments.php:64
 #, php-format
 msgid "%1$s at %2$s"
 msgstr "%1$s in %2$s"
 
 # @ avia_framework
-#: includes/loop-comments.php:54
+#: includes/loop-comments.php:74
 msgid "Your comment is awaiting moderation."
 msgstr "Il tuo commento è in attesa di moderazione."
 
 # @ avia_framework
-#: includes/loop-index.php:595 includes/loop-portfolio-single.php:40
+#: includes/loop-index.php:607 includes/loop-portfolio-single.php:52
 #: template-builder.php:108
 msgid "Pages:"
 msgstr "Pagine:"
 
 # @ avia_framework
-#: includes/loop-search.php:220
+#: includes/loop-index.php:662
+msgid "No Posts Found"
+msgstr "Nessun articolo trovato"
+
+# @ avia_framework
+#: includes/loop-page.php:18
+msgid "Page Content for:"
+msgstr "Contenuto della pagina per:"
+
+# @ avia_framework
+#: includes/loop-page.php:99
+msgid "No Page Found"
+msgstr "Pagina non trovata"
+
+# @ avia_framework
+#: includes/loop-portfolio-single.php:17
+msgid "Portfolio Content for:"
+msgstr "Contenuto del portafoglio per:"
+
+# @ avia_framework
+#: includes/loop-portfolio-single.php:93
+msgid "No Portfolio Found"
+msgstr "Nessun portafoglio trovato"
+
+# @ avia_framework
+#: includes/loop-search.php:32
+msgid "Search Result:"
+msgstr "Risultato della ricerca:"
+
+# @ avia_framework
+#: includes/loop-search.php:231
 msgid "Sorry, no posts matched your criteria. Please try another search"
 msgstr ""
 "Spiacente, nessun articolo corrisponde ai tuoi criteri. Prova con un&rsquo;"
 "altra ricerca"
 
 # @ avia_framework
-#: includes/loop-search.php:225
+#: includes/loop-search.php:236
 msgid ""
 "You might want to consider some of our suggestions to get better results:"
 msgstr ""
@@ -40008,12 +40152,12 @@ msgstr ""
 "ottenere risultati migliori:"
 
 # @ avia_framework
-#: includes/loop-search.php:227
+#: includes/loop-search.php:238
 msgid "Check your spelling."
 msgstr "Controlla la ortografia."
 
 # @ avia_framework
-#: includes/loop-search.php:228
+#: includes/loop-search.php:239
 msgid "Try a similar keyword, for example: tablet instead of laptop."
 msgstr "Prova con termini simili o sinonimi."
 
