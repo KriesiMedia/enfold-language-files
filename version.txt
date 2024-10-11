@@ -1,5 +1,6 @@
 2024_10_11
 - Italian language files it_IT (version 6.0.5, provided by BigBatT - info@luigicircello.it)
+- Spanish language files es_ES (minor fixes and additions)
 
 2024_09_09
 - Italian language files it_IT (version 6.0.4, provided by BigBatT - info@luigicircello.it)

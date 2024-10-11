@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-17 16:40+0000\n"
-"PO-Revision-Date: 2024-06-11 13:18+0000\n"
+"PO-Revision-Date: 2024-10-11 11:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: Spanish (Spain)\n"
 "Language: es_ES\n"
@@ -17,7 +17,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.4.2; wp-5.5\n"
+"X-Loco-Version: 2.6.11; wp-6.6\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:705
@@ -29091,34 +29091,36 @@ msgid ""
 "These options are only available if you select the 'boxed' or 'framed' "
 "layout. Your currently have a different layout selected"
 msgstr ""
-"Estas opciones están solo disponibles is has seleccionado una estructura de "
-"caja o de marco. Actualmente tiene otra estructura seleccionada."
+"Estas opciones solo están disponibles si seleccionas una estructura de caja "
+"o de marco. Actualmente tienes otra estructura seleccionada."
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:64
 msgid ""
 "THESE PLUGINS DO NOT GUARANTEE TO FULFILL ANY LEGAL RULES FOR ACCESSIBILITY !"
 "!!"
 msgstr ""
+"ESTOS PLUGINS NO GARANTIZAN CUMPLIR CON NINGUNA NORMA LEGAL SOBRE "
+"ACCESIBILIDAD!!!"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:215
 msgid ""
 "These setting apply to all columns in this row and can only be set in the "
 "first column."
 msgstr ""
-"Estas opciones aplican para todas las columnas en esta fila y solo debe ser "
-"definida en la primera columna."
+"Estas opciones aplican a todas las columnas en esta fila y solo se pueden "
+"definir en la primera columna."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:360
 msgid ""
 "These settings are only available for layouts with a main menu placed at the "
 "top"
 msgstr ""
-"Estas opciones están solo habilitadas cuando el menú principal esta situado "
-"arriba"
+"Estas opciones solo están disponibles para diseños con un menú principal "
+"situado en la parte superior."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:327
 msgid "These settings are only available for stretched layout"
-msgstr ""
+msgstr "Estas opciones solo están disponibles para el diseño estirado."
 
 #: includes/admin/register-portfolio.php:262
 msgid "These settings change the permalinks used for the"
@@ -29133,26 +29135,33 @@ msgid ""
 "This allows you to use your custom elements as a base for another custom "
 "element."
 msgstr ""
+"Esto te permite usar tus elementos personalizados como base para otro "
+"elemento personalizado."
 
 #: includes/loop-about-author.php:53
 msgid "This author has not written his bio yet."
-msgstr ""
+msgstr "Este autor aún no ha escrito su biografía."
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:529
 msgid ""
 "This color fills up the progress container to 100 &percnt;. Leave empty for "
 "theme default."
 msgstr ""
+"Este color llena el contenedor de progreso al 100%. Déjalo vacío para usar "
+"el color predeterminado del tema."
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:507
 msgid "This color is used as the main background color for the progress bar."
 msgstr ""
+"Este color se usa como color de fondo principal de la barra de progreso."
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:518
 msgid ""
 "This color is used as the striped color for the progress bar. Only used when "
 "option striped bars is selected."
 msgstr ""
+"Este color se usa como color de las franjas de la barra de progreso. Solo se "
+"usa cuando se selecciona la opción de barras con franjas."
 
 #: framework/php/class-form-generator.php:509
 msgid ""
@@ -29160,20 +29169,29 @@ msgid ""
 "reCaptcha service which is necessary to validate any messages sent by the "
 "form."
 msgstr ""
+"Este formulario de contacto está desactivado porque rechazaste aceptar el "
+"servicio de Google reCaptcha, que es necesario para validar los mensajes "
+"enviados a través del formulario."
 
 #: config-woocommerce/admin-options.php:150
 msgid "This controls how many columns should appear on overview pages"
 msgstr ""
+"Esto controla cuántas columnas deberían aparecer en las páginas de vista "
+"general."
 
 #: config-woocommerce/admin-options.php:175
 msgid "This controls how many products should appear on overview pages."
 msgstr ""
+"Esto controla cuántos productos deberían aparecer en las páginas de vista "
+"general."
 
 #: framework/php/class-cpt-support.php:296
 msgid ""
 "This default term will always be set when you save a post without manually "
 "selecting a term."
 msgstr ""
+"Este término predeterminado siempre se establecerá cuando guardes una "
+"entrada sin seleccionar un término manualmente."
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_button.php:36
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_info.php:36
