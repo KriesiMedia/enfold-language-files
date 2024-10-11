@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v6.0.4\n"
+"Project-Id-Version: Italian Enfold Language v6.0.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-05 17:51+0200\n"
-"PO-Revision-Date: 2024-09-05 17:57+0200\n"
+"POT-Creation-Date: 2024-10-11 00:07+0200\n"
+"PO-Revision-Date: 2024-10-11 00:10+0200\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -20907,7 +20907,6 @@ msgid "Apply link to date and headline"
 msgstr "Applica link a data e titolo"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:1559
-#| msgid "Milestone 1"
 msgid "Milestone:"
 msgstr "Milestone:"
 
@@ -22390,14 +22389,14 @@ msgstr "Aprire in una nuova finestra e utilizzare rel=\"nofollow sponsored\""
 msgid "Open in new window and use rel=\"nofollow ugc\""
 msgstr "Aprire in una nuova finestra e utilizzare rel=\"nofollow ugc\""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:43
-#: framework/php/base-classes/class-object-properties.php:41
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:44
+#: framework/php/base-classes/class-object-properties.php:42
 #, php-format
 msgid "Trying to read non existing property in class %s: %s"
 msgstr "Tentativo di leggere una proprietà non esistente nella classe %s: %s"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:51
-#: framework/php/base-classes/class-object-properties.php:49
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:52
+#: framework/php/base-classes/class-object-properties.php:50
 #, php-format
 msgid ""
 "Trying to access protected/private property: %s::%s - will become "
@@ -22407,8 +22406,8 @@ msgstr ""
 "diventerà non disponibile in una release futura. Verificare la presenza di "
 "un metodo get o di un filtro."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:77
-#: framework/php/base-classes/class-object-properties.php:75
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:78
+#: framework/php/base-classes/class-object-properties.php:76
 #, php-format
 msgid ""
 "Trying to set non existing property in class %s: %s - please consider to "
@@ -22417,8 +22416,8 @@ msgstr ""
 "Si sta cercando di impostare una proprietà non esistente nella classe %s: %s "
 "- si prega di considerare di definire tutte le proprietà prima di usarle"
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:91
-#: framework/php/base-classes/class-object-properties.php:89
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:92
+#: framework/php/base-classes/class-object-properties.php:90
 #, php-format
 msgid ""
 "Trying to set protected/private property: %s::%s - will become unavailable "
@@ -31600,7 +31599,7 @@ msgstr "Stile Modulo di iscrizione"
 # @ avia_framework
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:206
 msgid "Boxed"
-msgstr "Boxed"
+msgstr "Riquadro"
 
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:228
 msgid "Activate double opt-in?"
@@ -34670,11 +34669,12 @@ msgstr "Google Analytics"
 
 #: includes/admin/option_tabs/avia_google.php:31
 msgid ""
-"Either enter your Google tracking id (UA-XXXXX-X), (G-XXXXX) or your full "
-"Google Analytics tracking Code here."
+"Either enter your Google Measurement ID - prior called Google Tracking ID "
+"(UA-XXXXX-X), (G-XXXXX) or your full Google Analytics tracking Code here."
 msgstr ""
-"Inserisci qui il tuo ID di monitoraggio Google (UA-XXXXX-X) o il tuo codice "
-"di monitoraggio completo di Google Analytics."
+"Inserite qui il vostro ID di misurazione di Google - prima chiamato ID di "
+"tracciamento di Google (UA-XXXXX-X), (G-XXXXX) o il vostro codice di "
+"tracciamento completo di Google Analytics."
 
 #: includes/admin/option_tabs/avia_google.php:33
 msgid ""
@@ -34691,8 +34691,9 @@ msgstr "Maggiori informazioni e più impostazioni sulla privacy si trovano qui:"
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_google.php:39
-msgid "Google Analytics Tracking Code"
-msgstr "Google Analytics codice di monitoraggio"
+msgid "Google Measurement ID (Google Analytics Tracking Code)"
+msgstr ""
+"ID di misurazione di Google (codice di tracciamento di Google Analytics)"
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_google.php:68
