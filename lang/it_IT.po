@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v6.0.5\n"
+"Project-Id-Version: Italian Enfold Language v6.0.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-11 00:07+0200\n"
-"PO-Revision-Date: 2024-10-11 00:10+0200\n"
+"POT-Creation-Date: 2024-11-26 06:49+0100\n"
+"PO-Revision-Date: 2024-11-26 06:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -30566,7 +30566,7 @@ msgstr ""
 msgid "Illegal call to import settings file."
 msgstr "Chiamata illegale per importare il file delle impostazioni."
 
-#: framework/php/function-set-avia-ajax.php:996
+#: framework/php/function-set-avia-ajax.php:1002
 msgid ""
 "Internal error: Importer class could not be loaded - no settings could be "
 "imported."
@@ -30574,62 +30574,62 @@ msgstr ""
 "Errore interno: Non è stato possibile caricare la classe dell&rsquo;"
 "importatore - non è stato possibile importare nessuna impostazione."
 
-#: framework/php/function-set-avia-ajax.php:1086
-#: framework/php/function-set-avia-ajax.php:1103
+#: framework/php/function-set-avia-ajax.php:1092
+#: framework/php/function-set-avia-ajax.php:1109
 msgid "Error: Video ID is missing"
 msgstr "Errore: Manca l'ID video"
 
-#: framework/php/function-set-avia-ajax.php:1113
+#: framework/php/function-set-avia-ajax.php:1119
 msgid "Error: Cannot connect to Vimeo to read thummbnail info."
 msgstr ""
 "Errore: Impossibile connettersi a Vimeo per leggere le informazioni sulle "
 "miniature."
 
-#: framework/php/function-set-avia-ajax.php:1124
+#: framework/php/function-set-avia-ajax.php:1130
 msgid "Currently only Youtube and Vimeo are supported."
 msgstr "Attualmente sono supportati solo Youtube e Vimeo."
 
-#: framework/php/function-set-avia-ajax.php:1143
+#: framework/php/function-set-avia-ajax.php:1149
 #, php-format
 msgid "Could not create directory [%s] to store downloaded thumbnails."
 msgstr ""
 "Impossibile creare la directory [%s] per memorizzare le miniature scaricate."
 
-#: framework/php/function-set-avia-ajax.php:1166
+#: framework/php/function-set-avia-ajax.php:1172
 #, php-format
 msgid "Video thumbnail already exist in the media library (Attachment ID: %d)"
 msgstr ""
 "La miniatura del video è già presente nella libreria multimediale (ID "
 "allegato: %d)."
 
-#: framework/php/function-set-avia-ajax.php:1175
+#: framework/php/function-set-avia-ajax.php:1181
 msgid "Failed to create folder for thumbnails:"
 msgstr "Impossibile creare una cartella per le miniature:"
 
-#: framework/php/function-set-avia-ajax.php:1198
+#: framework/php/function-set-avia-ajax.php:1204
 #, php-format
 msgid "Error: Cannot connect to %s to read thummbnail info."
 msgstr ""
 "Errore: Impossibile connettersi a %s per leggere le informazioni sulle "
 "miniature."
 
-#: framework/php/function-set-avia-ajax.php:1219
+#: framework/php/function-set-avia-ajax.php:1225
 #, php-format
 msgid "Error: Unable to save downloaded thumbnail to [%s]."
 msgstr "Errore: Impossibile salvare la miniatura scaricata in [%s]."
 
-#: framework/php/function-set-avia-ajax.php:1248
+#: framework/php/function-set-avia-ajax.php:1254
 msgid "Video thumbnail is now available in the media library:"
 msgstr "La miniatura del video è ora disponibile nella libreria multimediale:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-ajax.php:1249
+#: framework/php/function-set-avia-ajax.php:1255
 #, php-format
 msgid "Attachment ID: %d"
 msgstr "ID Allegato: %d"
 
 # @ default
-#: framework/php/function-set-avia-ajax.php:1250
+#: framework/php/function-set-avia-ajax.php:1256
 #, php-format
 msgid "Original source: %s"
 msgstr "Sorgente originale: %s"
