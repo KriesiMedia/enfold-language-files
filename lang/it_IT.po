@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v6.0.8\n"
+"Project-Id-Version: Italian Enfold Language v6.0.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-14 07:32+0100\n"
-"PO-Revision-Date: 2024-12-14 07:32+0100\n"
+"POT-Creation-Date: 2024-12-30 10:09+0100\n"
+"PO-Revision-Date: 2024-12-30 10:14+0100\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -1716,7 +1716,7 @@ msgstr "Visualizzare un video"
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:38
 #: config-templatebuilder/avia-shortcodes/video/video.php:37
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:323
-#: includes/helper-assets.php:330
+#: includes/helper-assets.php:338
 msgid ""
 "This element is disabled in your theme options. You can enable it in Enfold "
 "&raquo; Performance"
@@ -8049,7 +8049,7 @@ msgstr "Mostrare la impaginazione?"
 #: config-templatebuilder/avia-shortcodes/gallery/gallery.php:333
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:314
 #: config-templatebuilder/avia-template-builder/config/meta.php:200
-#: functions.php:271
+#: functions.php:328
 msgid "Gallery"
 msgstr "Galleria"
 
@@ -10474,7 +10474,7 @@ msgstr ""
 # @ default
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:615
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:209
-#: framework/php/class-megamenu.php:559
+#: framework/php/class-megamenu.php:534
 msgid "Description"
 msgstr "Descrizione"
 
@@ -12357,7 +12357,7 @@ msgstr "Piccoli bordi arrotondati"
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:541
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:469
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:341
-#: functions.php:267
+#: functions.php:324
 msgid "Square"
 msgstr "Quadrato"
 
@@ -13358,7 +13358,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:337
 msgid "Touch Zoom"
-msgstr "Zoom tocco"
+msgstr "Zoom tattile"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:338
 msgid "Choose if the map should support zoom by touch and drag"
@@ -14163,7 +14163,7 @@ msgstr "Prestazione"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:56
-#: functions.php:290
+#: functions.php:347
 msgid "Magazine"
 msgstr "Rivista"
 
@@ -14518,7 +14518,7 @@ msgstr "Richiesta illegale."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:67
-#: functions.php:291
+#: functions.php:348
 msgid "Masonry"
 msgstr "Masonry"
 
@@ -21486,7 +21486,7 @@ msgid "Please check your API key"
 msgstr "Controlla la tua chiave API"
 
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
-#: functions.php:730 includes/admin/option_tabs/avia_avia.php:35
+#: functions.php:787 includes/admin/option_tabs/avia_avia.php:35
 msgid "here"
 msgstr "qui"
 
@@ -27335,7 +27335,7 @@ msgstr "Predefinito (circa 0.7 sec.)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3480
 msgid "Z-Index For Fold Overlay"
-msgstr "Z-Index per la sovrapposizione delle pieghe"
+msgstr "Z-Index per la sovrapposizione"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3481
 msgid ""
@@ -28870,7 +28870,7 @@ msgstr "Se non lo si fa, il risultato sarà un layout danneggiato."
 
 #: config-wpml/class-avia-wpml.php:632
 msgid "WPML Specific Options"
-msgstr "WPML Opzioni specifiche"
+msgstr "Opzioni specifiche di WPML"
 
 # @ avia_framework
 #: config-wpml/class-avia-wpml.php:641
@@ -29544,7 +29544,7 @@ msgstr "Sei in:"
 
 # @ avia_framework
 #: framework/php/class-breadcrumb-trail.php:88
-#: framework/php/class-megamenu.php:714
+#: framework/php/class-megamenu.php:682
 msgid "Home"
 msgstr "Home"
 
@@ -30340,29 +30340,29 @@ msgid "%s (Pending)"
 msgstr "%s (In attesa)"
 
 # @ avia_framework
-#: framework/php/class-megamenu.php:476
+#: framework/php/class-megamenu.php:477
 msgid "Column"
 msgstr "Colonna"
 
 # @ avia_framework
-#: framework/php/class-megamenu.php:477
+#: framework/php/class-megamenu.php:478
 msgid "(Mega Menu)"
 msgstr "(Mega menu)"
 
-#: framework/php/class-megamenu.php:505 framework/php/class-megamenu.php:507
+#: framework/php/class-megamenu.php:479 framework/php/class-megamenu.php:481
 msgid "Edit Menu Item"
 msgstr "Modifica voce menu"
 
-#: framework/php/class-megamenu.php:516
+#: framework/php/class-megamenu.php:491
 msgid "URL"
 msgstr "URL"
 
 # @ avia_framework
-#: framework/php/class-megamenu.php:523
+#: framework/php/class-megamenu.php:498
 msgid "Navigation Label"
 msgstr "Etichetta navigazione"
 
-#: framework/php/class-megamenu.php:524
+#: framework/php/class-megamenu.php:499
 msgid ""
 "Mega Menu Column Title <span class=\"avia_supersmall\">(if you dont want to "
 "display a title just enter a single dash: \"-\" )</span>"
@@ -30371,41 +30371,60 @@ msgstr ""
 "vuoi mostrare un titolo immettere un singolo trattino: \"-\" )</span>"
 
 # @ default
-#: framework/php/class-megamenu.php:532
+#: framework/php/class-megamenu.php:507
 msgid "Title Attribute"
 msgstr "Attributo del titolo"
 
 # @ avia_framework
-#: framework/php/class-megamenu.php:538
+#: framework/php/class-megamenu.php:513
 msgid "link Target"
 msgstr "obiettivo link"
 
 # @ default
-#: framework/php/class-megamenu.php:540
+#: framework/php/class-megamenu.php:515
 msgid "Same window or tab"
 msgstr "Stessa finestra o scheda"
 
 # @ default
-#: framework/php/class-megamenu.php:541
+#: framework/php/class-megamenu.php:516
 msgid "New window or tab"
 msgstr "Nuova finestra o scheda"
 
-#: framework/php/class-megamenu.php:547
+#: framework/php/class-megamenu.php:522
 msgid "CSS Classes (optional)"
 msgstr "Classi CSS (opzionale)"
 
-#: framework/php/class-megamenu.php:553
+#: framework/php/class-megamenu.php:528
 msgid "link Relationship (XFN)"
 msgstr "link a Relationship (XFN)"
 
+# @ avia_framework
+#: framework/php/class-megamenu.php:552
+msgid "Use as Mega Menu"
+msgstr "Utilizzare come Mega Menu"
+
+#: framework/php/class-megamenu.php:571
+msgid "This column should start a new row"
+msgstr "Questa colonna deve iniziare una nuova riga"
+
+#: framework/php/class-megamenu.php:592
+msgid ""
+"Use the description to create a Text Block. Dont display this item as a "
+"link. (note: dont remove the label text, otherwise wordpress will delete the "
+"item)"
+msgstr ""
+"Utilizzare la descrizione per creare un blocco di testo. Non visualizzare "
+"questo elemento come un link. (nota: non rimuovere il testo dell'etichetta, "
+"altrimenti wordpress cancellerà l'elemento)"
+
 # @ default
-#: framework/php/class-megamenu.php:648
+#: framework/php/class-megamenu.php:620
 #, php-format
 msgid "Original: %s"
 msgstr "Originale: %s"
 
 # @ avia_framework
-#: framework/php/class-megamenu.php:661
+#: framework/php/class-megamenu.php:633
 msgid "Remove"
 msgstr "Rimuovi"
 
@@ -32110,46 +32129,46 @@ msgid "Display the footer widgets?"
 msgstr "Visualizzare i widgets del Pié di pagina?"
 
 # @ avia_framework
-#: functions.php:268
+#: functions.php:325
 msgid "Featured Thin"
 msgstr "In primo piano sottile"
 
 # @ avia_framework
-#: functions.php:269
+#: functions.php:326
 msgid "Featured Large"
 msgstr "In primo piano grande"
 
 # @ avia_framework
-#: functions.php:270 template-archives.php:164
+#: functions.php:327 template-archives.php:164
 msgid "Portfolio"
 msgstr "Portfolio"
 
 # @ avia_framework
-#: functions.php:272
+#: functions.php:329
 msgid "Entry with Sidebar"
 msgstr "Entrata con barra laterale"
 
 # @ avia_framework
-#: functions.php:273
+#: functions.php:330
 msgid "Entry without Sidebar"
 msgstr "Entrata senza barra laterale"
 
 # @ avia_framework
-#: functions.php:274
+#: functions.php:331
 msgid "Fullscreen Sections/Sliders"
 msgstr "Sezioni/Sliders a schermo intero"
 
-#: functions.php:288 includes/admin/register-backend-advanced-styles.php:600
+#: functions.php:345 includes/admin/register-backend-advanced-styles.php:600
 msgid "Widget"
 msgstr "Widget"
 
 # @ avia_framework
-#: functions.php:289
+#: functions.php:346
 msgid "Portfolio small"
 msgstr "Portfolio piccolo"
 
 # @ avia_framework
-#: functions.php:727 includes/admin/option_tabs/avia_customizer.php:28
+#: functions.php:784 includes/admin/option_tabs/avia_customizer.php:28
 #: includes/admin/register-admin-options.php:87
 #: includes/admin/register-backend-advanced-styles.php:273
 #: includes/admin/register-backend-advanced-styles.php:302
@@ -32161,19 +32180,19 @@ msgid "Main Menu"
 msgstr "Menu principale"
 
 # @ avia_framework
-#: functions.php:730
+#: functions.php:787
 msgid "Secondary Menu"
 msgstr "Menu Secondario"
 
 # @ avia_framework
-#: functions.php:730
+#: functions.php:787
 msgid ""
 "Will be displayed if you selected a header layout that supports a submenu"
 msgstr ""
 "Verrà visualizzato se si seleziona un header layout che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:731
+#: functions.php:788
 msgid ""
 "Secondary Menu - will be displayed if you selected a header layout that "
 "supports a submenu"
@@ -32182,12 +32201,12 @@ msgstr ""
 "intestazione che supporta un sottomenu"
 
 # @ avia_framework
-#: functions.php:734
+#: functions.php:791
 msgid "Footer Menu <br/><small>(no dropdowns)</small>"
 msgstr "Footer Menu <br/><small>(nessun menu a discesa)</ small>"
 
 # @ avia_framework
-#: functions.php:735
+#: functions.php:792
 msgid "Footer Menu (no dropdowns)"
 msgstr "Footer Menu (nessun menù a discesa)"
 
