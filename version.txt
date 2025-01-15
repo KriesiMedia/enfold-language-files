@@ -1,3 +1,6 @@
+2025_01_15
+- sync all language files (7.0-dev-3)
+
 2024_12_30
 - Italian language files it_IT (version 6.0.9, provided by BigBatT - info@luigicircello.it)
 
