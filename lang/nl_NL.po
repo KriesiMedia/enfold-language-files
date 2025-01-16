@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-19 19:44+0200\n"
-"PO-Revision-Date: 2025-01-15 16:48+0000\n"
+"PO-Revision-Date: 2025-01-16 17:51+0000\n"
 "Last-Translator: Roger Hoen\n"
-"Language-Team: Dutch\n"
+"Language-Team: Nederlands\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -826,11 +826,11 @@ msgstr "500px profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:523
 msgid "500px SVG Link"
-msgstr ""
+msgstr "500px SVG Link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1059
 msgid "500px SVG Profile Link"
-msgstr ""
+msgstr "500px SVG Profiel link"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:550
 msgid "50px * 50px"
@@ -1683,7 +1683,6 @@ msgstr ""
 "browsers getoond als tooltip popup en wordt ook gebruikt voor aria-label."
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:209
-#, fuzzy
 #| msgid "Add a tooltip for this Icon. The tooltip will appear on mouse over"
 msgid "Add a tooltip for this icon. The tooltip will appear on mouse over"
 msgstr "Tekstkader aan icoon toevoegen. Deze tooltip verschijnt bij muis-over"
@@ -1945,7 +1944,7 @@ msgstr "Titel toevoegen"
 
 #: config-woocommerce/config.php:669
 msgid "Add to cart"
-msgstr ""
+msgstr "Toevoegen aan winkelwagen"
 
 #: framework/php/class-media.php:226
 msgid "Add to Gallery"
@@ -2271,7 +2270,7 @@ msgstr "Geavanceerde Lay-out bewerker"
 
 #: includes/admin/option_tabs/avia_builder.php:15
 msgid "Advanced Layout Builder Options"
-msgstr ""
+msgstr "Geavanceerde Lay-out Builder opties"
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2919
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2838
@@ -2549,7 +2548,7 @@ msgstr "Alle titels"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:849
 msgid "All icons"
-msgstr ""
+msgstr "Alle iconen"
 
 #: config-wpml/class-avia-wpml.php:720
 msgid "All other options have to be set for each language separately."
@@ -3599,11 +3598,11 @@ msgstr "Geavanceerde lay-out bewerker"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:260
 msgid "avia_font_added:"
-msgstr ""
+msgstr "avia_font_added:"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:289
 msgid "avia_font_removed"
-msgstr ""
+msgstr "avia_font_removed"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:476
 msgid "Backend"
@@ -3933,11 +3932,11 @@ msgstr "Behance profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:534
 msgid "Behance SVG Link"
-msgstr ""
+msgstr "Behance SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1069
 msgid "Behance SVG Profile Link"
-msgstr ""
+msgstr "Behance SVG Profiel link"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:322
 msgid "Behavior"
@@ -5305,7 +5304,7 @@ msgstr "Tekst in midden-kolom "
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:786
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:820
 msgid "Center without Frame"
-msgstr "Gecentreerd zonder Kader"
+msgstr "Gecentreerd zonder kader"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:507
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:413
@@ -7105,7 +7104,7 @@ msgstr "Klik om popup te openen"
 
 #: includes/config-enfold/functions-enfold.php:118
 msgid "Click to open the search input field"
-msgstr ""
+msgstr "Klik om het zoekinvoerveld te openen"
 
 #: config-woocommerce/config-356.php:1363 config-woocommerce/config.php:2261
 msgid "Click to order products ascending"
@@ -7958,7 +7957,6 @@ msgid "Copyright Text Font Sizes"
 msgstr "Copyright tekst lettergroottes"
 
 #: framework/php/font-management/class-avia-font-management-base.php:151
-#, fuzzy
 #| msgid ""
 #| "Couldn't add/remove the font.<br/>The script returned the following error:"
 #| " <br/><br/>"
@@ -8624,6 +8622,8 @@ msgstr "Aangepaste elementen"
 msgid ""
 "Custom Elements (Custom Element Templates - CET) For Advanced Layout Builder"
 msgstr ""
+"Aangepaste elementen (Custom Element Templates - CET) voor geavanceerde lay-"
+"out builder"
 
 #: includes/admin/option_tabs/avia_element_templates.php:170
 msgid "Custom Elements For Subitems"
@@ -8914,7 +8914,6 @@ msgid "Custom Top And Bottom Margin"
 msgstr "Aangepaste boven en onder marges"
 
 #: includes/admin/option_tabs/avia_upload.php:217
-#, fuzzy
 #| msgid "Custom Font Manager"
 msgid "Custom Type Fonts Manager"
 msgstr "Beheer van aangepaste lettertypen"
@@ -10739,7 +10738,7 @@ msgstr "Toon de voettekst widgets of pagina?"
 
 #: includes/config-enfold/functions-alb.php:39
 msgid "Display the footer widgets?"
-msgstr "Wenst u footer & socket in beeld?"
+msgstr "Wilt u de footer widgets tonen?"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_tabs.php:33
 msgid "Display the info and review tab for the current product"
@@ -11270,7 +11269,7 @@ msgstr "Toon geen Captcha"
 #: config-templatebuilder/avia-template-builder/config/meta.php:313
 #: includes/admin/option_tabs/avia_footer.php:31
 msgid "Don't display the socket & footer widgets"
-msgstr "Toon de socket noch de footer widgets"
+msgstr "Verberg de footer en de socker"
 
 #: includes/config-enfold/functions-alb.php:34
 msgid "Don't display the socket & page"
@@ -11426,11 +11425,11 @@ msgstr "Dribbble profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:545
 msgid "Dribbble SVG Link"
-msgstr ""
+msgstr "Dribbble SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1079
 msgid "Dribbble SVG Profile Link"
-msgstr ""
+msgstr "Dribbble SVG Profiel link"
 
 #: config-templatebuilder/avia-shortcodes/dropcaps.php:24
 msgid "Dropcap 1 (Big Letter)"
@@ -11523,7 +11522,7 @@ msgstr "E-mail onderwerp"
 #: includes/admin/option_tabs/avia_blog.php:364
 #: includes/admin/option_tabs/avia_blog.php:424
 msgid "E-Mail SVG"
-msgstr ""
+msgstr "E-Mail SVG"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:584
 msgid "E-Mail to:"
@@ -12117,11 +12116,11 @@ msgstr "E-mail profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:341
 msgid "Email SVG link"
-msgstr ""
+msgstr "E-Mail SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:919
 msgid "Email SVG Profile Link"
-msgstr ""
+msgstr "E-Mail SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/table/table.php:250
 msgid "Empty Cells"
@@ -12287,7 +12286,7 @@ msgstr "Enfold aangepaste lay-out instellingen info-venster"
 
 #: includes/admin/option_tabs/avia_avia.php:47
 msgid "Enfold documentation."
-msgstr ""
+msgstr "Enfold documentatie."
 
 #: includes/admin/option_tabs/avia_customizer.php:21
 msgid "Enfold Feature Requests"
@@ -13670,11 +13669,11 @@ msgstr "Facebook profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:231
 msgid "Facebook SVG link"
-msgstr ""
+msgstr "Facebook SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:819
 msgid "Facebook SVG Profile Link"
-msgstr ""
+msgstr "Facebook SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:545
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1516
@@ -13967,11 +13966,11 @@ msgstr "Flickr profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:556
 msgid "Flickr SVG Link"
-msgstr ""
+msgstr "Flickr SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1089
 msgid "Flickr SVG Profile Link"
-msgstr ""
+msgstr "Flickr SVG profiel link"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:1159
 msgid "Flip"
@@ -14354,7 +14353,7 @@ msgstr "Footer"
 #: config-templatebuilder/avia-template-builder/config/meta.php:334
 #: includes/admin/option_tabs/avia_footer.php:77
 msgid "Footer Behavior (currently in beta)"
-msgstr "Footer gedrag (momenteel in beta)"
+msgstr "Footer gedrag"
 
 #: includes/admin/option_tabs/avia_footer.php:144
 msgid "Footer Columns"
@@ -14558,6 +14557,8 @@ msgid ""
 "Found no svg files in svg folder. Unable to add the svg icon set. Remove the "
 "svg folder if this is an icon font."
 msgstr ""
+"Geen svg-bestanden gevonden in de svg-map. Kan de svg icon set niet "
+"toevoegen. Verwijder de svg-map als dit een pictogramlettertype is."
 
 #: includes/admin/option_tabs/avia_layout.php:159
 msgid "Frame Width"
@@ -16554,7 +16555,7 @@ msgstr "Icoon-box titel"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:882
 msgid "Iconfonts"
-msgstr ""
+msgstr "Pictogramlettertypen"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:346
 msgid "Icons Background Color"
@@ -17972,11 +17973,11 @@ msgstr "Instagram retourneerde fout %d (= %s)."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:567
 msgid "Instagram SVG Link"
-msgstr ""
+msgstr "Instagram SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1099
 msgid "Instagram SVG Profile Link"
-msgstr ""
+msgstr "Instagram SVG Profiel link"
 
 #: framework/php/class-htmlhelper.php:2329
 msgid "Install Plugin"
@@ -18763,7 +18764,7 @@ msgstr "Linksboven naar rechtsonder"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:784
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:818
 msgid "Left without Frame"
-msgstr "Links zonder Kader"
+msgstr "Links zonder kader"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:410
 msgid "Legend Text Color"
@@ -19108,11 +19109,11 @@ msgstr "LinkedIn profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:308
 msgid "LinkedIn SVG link"
-msgstr ""
+msgstr "LinkedIn SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:889
 msgid "LinkedIn SVG Profile Link"
-msgstr ""
+msgstr "LinkedIn SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:726
 msgid "Linktext for the above Link"
@@ -19185,7 +19186,7 @@ msgstr "Lijst Titel 3"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:270
 msgid "List Title 4"
-msgstr ""
+msgstr "Lijst titel 4"
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:364
 msgid "Lists"
@@ -19531,6 +19532,8 @@ msgid ""
 "Make sure to delete any iconfonts that you are not using, to keep the "
 "loading time for your visitors low."
 msgstr ""
+"Zorg ervoor dat je alle pictogramlettertypen verwijdert die je niet gebruikt,"
+" om de laadtijd voor je bezoekers laag te houden."
 
 #: includes/admin/option_tabs/avia_cookie.php:275
 msgid ""
@@ -19619,7 +19622,7 @@ msgstr "Marge (bijv. 0 0 10px 0 ):"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1164
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1468
 msgid "Margin And Padding"
-msgstr "Marge en opvulling"
+msgstr "Marges en padding"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:470
 msgid "Margin and Padding"
@@ -20183,7 +20186,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1682
 msgid "missing svg file for this icon"
-msgstr ""
+msgstr "ontbrekend svg-bestand voor dit pictogram"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:86
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:221
@@ -20761,10 +20764,9 @@ msgid "No cache, Envato API request started"
 msgstr "Geen cache, Envato API verzoek gestart"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:231
-#, fuzzy
 #| msgid "No Close Button "
 msgid "No close button "
-msgstr "Geen Sluiten Knop"
+msgstr "Geen Sluiten knop"
 
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:1068
 msgid "No comments"
@@ -21320,7 +21322,7 @@ msgstr "Het berichtvak is verwijderd uit de weergavelijst:"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:211
 msgid "Notice Icon"
-msgstr ""
+msgstr "Pictogram voor kennisgeving"
 
 #: includes/admin/option_tabs/avia_demo.php:21
 msgid ""
@@ -21676,7 +21678,7 @@ msgstr "Open Google Maps in een nieuw venster"
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:797
 msgid "Open image in lightbox"
-msgstr ""
+msgstr "Open afbeelding in Lightbox"
 
 #: includes/admin/option_tabs/avia_cookie.php:539
 msgid "Open immediately on pageload"
@@ -22363,11 +22365,11 @@ msgstr "Pinterest profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:275
 msgid "Pinterest SVG link"
-msgstr ""
+msgstr "Pinterest SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:869
 msgid "Pinterest SVG Profile Link"
-msgstr ""
+msgstr "Pinterest SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:213
 msgid "Placeholder"
@@ -23186,7 +23188,7 @@ msgstr "Profielen"
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:238
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:453
 msgid "Progress"
-msgstr ""
+msgstr "Voortgang"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:343
 msgid "Progress Bar Animation enabled?"
@@ -23206,7 +23208,7 @@ msgstr "Voortgangsbalk hoogte?"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:482
 msgid "Progress Bar Icon"
-msgstr ""
+msgstr "Voortgangsbalk pictogram"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:80
 msgid "Progress Bar Item"
@@ -23508,11 +23510,11 @@ msgstr "Reddit profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:286
 msgid "Reddit SVG link"
-msgstr ""
+msgstr "Reddit SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:879
 msgid "Reddit SVG Profile Link"
-msgstr ""
+msgstr "Reddit SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:286
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:415
@@ -23939,7 +23941,7 @@ msgstr "Rechtsboven naar linksonder"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.php:783
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:817
 msgid "Right without Frame"
-msgstr "Rechts zonder Kader"
+msgstr "Rechts zonder kader"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:294
 msgid "Roadmap"
@@ -24067,7 +24069,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_blog.php:416
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:128
 msgid "RSS Feed URL:"
@@ -24080,7 +24082,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_blog.php:412
 msgid "RSS SVG"
-msgstr ""
+msgstr "RSS SVG"
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1252
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:970
@@ -24253,7 +24255,7 @@ msgstr "Scroll-omlaag pijl"
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-slideshow.php:631
 #: config-templatebuilder/avia-shortcodes/section/section.php:1495
 msgid "Scroll to next section"
-msgstr ""
+msgstr "Scroll naar de volgende sectie"
 
 #: footer.php:337
 msgid "Scroll to top"
@@ -24887,6 +24889,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:334
 msgid "Select a custom color for the icon. Leave empty to use the default"
 msgstr ""
+"Selecteer een aangepaste kleur voor het pictogram. Leeg laten om de "
+"standaard te gebruiken"
 
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:355
 msgid ""
@@ -25857,22 +25861,23 @@ msgstr "Kies hieronder een icoon"
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:212
 msgid "Select an icon below to be shown left of the notification text"
 msgstr ""
+"Selecteer hieronder een pictogram dat links van de meldingstekst moet worden "
+"weergegeven"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:235
-#, fuzzy
 #| msgid "Select an icon for the element here"
 msgid "Select an icon for the number here"
-msgstr "Kies hier een icoon voor het element"
+msgstr "Kies hier een pictogram voor het nummer"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:483
 msgid "Select an icon for the progress bar below"
-msgstr ""
+msgstr "Selecteer hieronder een pictogram voor de voortgangsbalk"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:530
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:245
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:269
 msgid "Select an icon for your Button below"
-msgstr "Selecteer een icoon voor in de knop"
+msgstr "Selecteer hieronder een pictogram voor uw knop"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:255
 msgid "Select an icon for your button below"
@@ -25880,7 +25885,7 @@ msgstr "Selecteer hieronder een pictogram voor uw knop"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:598
 msgid "Select an icon for your circle icon entry"
-msgstr "Selecteer een icoon voor uw cirkel icoon item"
+msgstr "Selecteer een pictogram voor uw cirkel icoon item"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1069
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:994
@@ -25889,11 +25894,11 @@ msgstr "Selecteer hieronder een pictogram voor uw rasteritem"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:652
 msgid "Select an icon for your list item below"
-msgstr "Kies een icoon voor het lijst item"
+msgstr "Selecteer hieronder een pictogram voor uw lijst item"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:809
 msgid "Select an icon for your milestone below"
-msgstr "Selecteer hieronder een icoon voor de mijlpaal"
+msgstr "Selecteer hieronder een pictogram voor de mijlpaal"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:186
 msgid "Select an icon for your slide title tab"
@@ -25901,16 +25906,17 @@ msgstr "Selecteer een pictogram voor de titeltab van uw dia"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:635
 msgid "Select an icon for your social service, job, etc. below"
-msgstr "Kies hieronder een icoon voor uw sociale dienstverlening, baan, enz."
+msgstr ""
+"Selecteer hieronder een pictogram voor uw sociale dienstverlening, baan, enz."
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:416
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:187
 msgid "Select an icon for your tab title below"
-msgstr "Selecteer een tabblad-icoon"
+msgstr "Selecteer hieronder een pictogram voor uw tabblad-titel"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:259
 msgid "Select an icon to display above the headline"
-msgstr "Selecteer een icoon dat boven de kop moet worden weergegeven"
+msgstr "Selecteer een pictogram dat boven de kop moet worden weergegeven"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:179
 msgid "Select an IconBox Icon below"
@@ -27065,6 +27071,9 @@ msgid ""
 "Select the visibility of WooCommerce products which have a sale price. "
 "Variable products are considered on sale, if one of them has a sale price."
 msgstr ""
+"Selecteer de zichtbaarheid van WooCommerce producten met een verkoopprijs. "
+"Variabele producten worden als te koop beschouwd als een ervan een "
+"verkoopprijs heeft."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:280
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:412
@@ -28546,6 +28555,8 @@ msgstr "Moet een icoon naast de knop worden getoond?"
 msgid ""
 "Should an icon be displayed at the left side of the notification message"
 msgstr ""
+"Moet er een pictogram worden weergegeven aan de linkerkant van het "
+"meldingsbericht"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:470
 msgid "Should an icon be displayed at the left side of the progress bar"
@@ -28834,7 +28845,7 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:334
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:463
 msgid "Show not on sale products only"
-msgstr ""
+msgstr "Toon enkel producten die niet te koop zijn"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3127
 msgid "Show on left bottom of image"
@@ -28876,7 +28887,7 @@ msgstr "Toon 'opnieuw openen'-badge"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:333
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:462
 msgid "Show sale products only"
-msgstr ""
+msgstr "Toon enkel producten die te koop zijn"
 
 #: includes/admin/option_tabs/avia_sidebars.php:82
 msgid "Show separate 'Archive Sidebar' on Archive Pages"
@@ -29274,11 +29285,11 @@ msgstr "Skype profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:578
 msgid "Skype SVG Link"
-msgstr ""
+msgstr "Skype SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1109
 msgid "Skype SVG Profile Link"
-msgstr ""
+msgstr "Skype SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/section/section.php:396
 msgid "Slanting from left to right"
@@ -29950,11 +29961,11 @@ msgstr "Soundcloud profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:589
 msgid "Soundcloud SVG Link"
-msgstr ""
+msgstr "Soundcloud SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1119
 msgid "Soundcloud SVG Profile Link"
-msgstr ""
+msgstr "Soundcloud SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:288
 msgid "Space between buttons"
@@ -30006,6 +30017,8 @@ msgstr ""
 #: includes/admin/option_tabs/avia_blog.php:89
 msgid "Special: Email Icon SVG (add your own URL to link to a contact form)"
 msgstr ""
+"Speciaal: E-mail pictogram SVG (voeg je eigen URL toe om te linken naar een "
+"contactformulier)"
 
 #: includes/admin/option_tabs/avia_blog.php:65
 msgid ""
@@ -30020,6 +30033,8 @@ msgid ""
 "Special: RSS SVG (add RSS URL, leave blank if you want to use default "
 "WordPress RSS feed)"
 msgstr ""
+"Speciaal: RSS SVG (RSS URL toevoegen, leeg laten als je de standaard "
+"WordPress RSS feed wilt gebruiken)"
 
 #: includes/admin/option_tabs/avia_avia.php:135
 msgid "Specify a favicon for your site."
@@ -30046,7 +30061,7 @@ msgstr "Square-X-Twitter snelkoppeling"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:253
 msgid "Square-X-Twitter SVG link"
-msgstr ""
+msgstr "X/Twitter SVG link"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:238
 msgid "Standalone Icon with border and optional caption"
@@ -30421,15 +30436,15 @@ msgstr "SVG verdelers"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1682
 msgid "SVG Icon"
-msgstr ""
+msgstr "SVG pictogram"
 
 #: includes/admin/option_tabs/avia_upload.php:197
 msgid "SVG Iconset and Iconfont Manager"
-msgstr ""
+msgstr "SVG pictogram set en pictogramlettertype manager"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:870
 msgid "SVG Iconsets"
-msgstr ""
+msgstr "SVG pictogramsets"
 
 #: framework/php/class-svg-images.php:584
 msgid "SVG Image"
@@ -30437,7 +30452,7 @@ msgstr "SVG afbeelding"
 
 #: framework/php/class-svg-images.php:558
 msgid "SVG Image: "
-msgstr ""
+msgstr "SVG afbeelding:"
 
 #: includes/admin/option_tabs/avia_performance.php:214
 msgid "swap"
@@ -30706,7 +30721,7 @@ msgstr "Telegram link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:297
 msgid "Telegram SVG link"
-msgstr ""
+msgstr "Telegram SVG link"
 
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:148
 msgid ""
@@ -30952,7 +30967,7 @@ msgstr "Bedankt voor uw bericht!"
 
 #: includes/admin/option_tabs/avia_upload.php:192
 msgid "The &quot;Default Font&quot; cannot be deleted."
-msgstr ""
+msgstr "Het &quot;Standaard lettertype&quot; kan niet verwijderd worden."
 
 #: template-archives.php:71
 msgid "The 20 latest Blog Posts"
@@ -31380,7 +31395,6 @@ msgstr ""
 "frontend is geladen."
 
 #: includes/admin/option_tabs/avia_blog.php:344
-#, fuzzy
 #| msgid ""
 #| "The theme allows you to display share links to various social networks at "
 #| "the bottom of your blog posts. Check which links you want to display:"
@@ -31389,7 +31403,7 @@ msgid ""
 "the bottom of your blog posts. Check which links you want to display."
 msgstr ""
 "Met dit thema kun je links naar verschillende sociale netwerken onderaan je "
-"blogposts weergeven. Controleer welke links u wilt weergeven:"
+"blogberichten weergeven. Controleer welke links u wilt weergeven:"
 
 #: config-layerslider/config.php:219
 msgid ""
@@ -32006,6 +32020,9 @@ msgid ""
 "Fontello&quot; with a theme option to speed up page loading in future when "
 "all core icons have been replaced."
 msgstr ""
+"Hiermee kun je het laden van het standaardlettertype &quot;Entypo "
+"Fontello&quot; uitschakelen met een thema-optie om het laden van pagina's in "
+"de toekomst te versnellen wanneer alle basispictogrammen zijn vervangen."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:624
 msgid ""
@@ -32030,6 +32047,8 @@ msgstr ""
 msgid ""
 "Those icons can then be used in the &quot;Layout Builder&quot; elements."
 msgstr ""
+"Deze pictogrammen kunnen dan worden gebruikt in de &quot;Lay-out "
+"builder&quot; elementen."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:732
 msgid "Threads Link"
@@ -32041,11 +32060,11 @@ msgstr "Threads profiel-link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:600
 msgid "Threads SVG Link"
-msgstr ""
+msgstr "Threads SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:839
 msgid "Threads SVG Profile Link"
-msgstr ""
+msgstr "Threads SVG profiel link"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:286
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:374
@@ -32079,11 +32098,11 @@ msgstr "TikTok profiel-link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:611
 msgid "TikTok SVG Link"
-msgstr ""
+msgstr "TikTok SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:849
 msgid "TikTok SVG Profile Link"
-msgstr ""
+msgstr "TikTok SVG profiel link"
 
 #: includes/admin/option_tabs/avia_styling.php:361
 #: includes/admin/option_tabs/avia_styling.php:501
@@ -32904,11 +32923,11 @@ msgstr "Tumblr profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:319
 msgid "Tumblr SVG link"
-msgstr ""
+msgstr "Tumblr SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:899
 msgid "Tumblr SVG Profile Link"
-msgstr ""
+msgstr "Tumblr SVG profiel link"
 
 #: includes/admin/option_tabs/avia_google.php:69
 msgid "Tutorial: How to create an API key"
@@ -32977,7 +32996,7 @@ msgstr "Kon het bestand %s niet verwijderen."
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:424
 msgid "Unable to extract the file"
-msgstr ""
+msgstr "Kan het bestand niet uitpakken"
 
 #: framework/php/font-management/class-avia-font-management-base.php:610
 msgid "Unable to extract the file."
@@ -33240,10 +33259,9 @@ msgid "Upload/Select Font Zip File"
 msgstr "Upload/selecteer lettertype zip-bestand"
 
 #: includes/admin/option_tabs/avia_upload.php:202
-#, fuzzy
 #| msgid "Upload/Select Fontello Font Zip"
 msgid "Upload/Select SVG or Fontello Font Zip"
-msgstr "Upload/selecteer Fontello lettertype Zip"
+msgstr "Upload/selecteer SVG of Fontello lettertype Zip"
 
 #: framework/php/font-management/class-avia-type-fonts.php:972
 msgid "Uploaded Fonts (located at Enfold -> Import/Export)"
@@ -34309,11 +34327,11 @@ msgstr "Vimeo profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:622
 msgid "Vimeo SVG Link"
-msgstr ""
+msgstr "Vimeo SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1129
 msgid "Vimeo SVG Profile Link"
-msgstr ""
+msgstr "Vimeo SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:774
 msgid "Visibility"
@@ -34342,11 +34360,11 @@ msgstr "VK profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:330
 msgid "VK SVG link"
-msgstr ""
+msgstr "VK SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:909
 msgid "VK SVG Profile Link"
-msgstr ""
+msgstr "VK SVG profiel link"
 
 #: framework/php/class-breadcrumb-trail.php:390
 msgid "W"
@@ -34394,27 +34412,25 @@ msgstr "is toegevoegd aan de winkelwagen"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:320
 msgid "Was not able to create temp folder"
-msgstr ""
+msgstr "Kon geen tijdelijke map maken"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:355
 msgid "Was not able to create ZIP subfolder"
-msgstr ""
+msgstr "Kon geen ZIP subfolder maken"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:292
-#, fuzzy
 #| msgid "Was not able to remove Font"
 msgid "Was not able to remove font"
 msgstr "Kon het lettertype niet verwijderen"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:257
-#, fuzzy
 #| msgid "Was not able to retrieve the Font name from your Uploaded Folder"
 msgid "Was not able to retrieve the font name from your uploaded folder"
 msgstr "Kon de naam van het lettertype niet ophalen uit uw geüploade map"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:328
 msgid "Was not able to work with Zip Archive"
-msgstr ""
+msgstr "Kon niet werken met Zip archief"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:789
 msgid "Was not able to write a config file"
@@ -34422,7 +34438,7 @@ msgstr "Kon geen configuratiebestand schrijven"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:653
 msgid "Was not able to write a config file for svg icon set"
-msgstr ""
+msgstr "Kon geen configuratiebestand schrijven voor SVG pictogrammenset"
 
 #: framework/php/wordpress-importer/avia-import-class.php:274
 msgid "Wasn't able to create sub-folder for font files"
@@ -34590,6 +34606,9 @@ msgid ""
 "on existing sites because the default icon font might get deprecated in a "
 "future version."
 msgstr ""
+"We raden je aan om SVG-pictogrammen te gebruiken op nieuwe sites en over te "
+"schakelen op de SVG-pictogrammen op bestaande sites, omdat het standaard "
+"lettertype voor pictogrammen in een toekomstige versie verouderd kan raken."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:149
 msgid "We recommend to enter each option in a new line like:"
@@ -34612,6 +34631,10 @@ msgid ""
 "&quot;Iconfont: Entypo Fontello&quot; for new sites and to switch to SVG "
 "iconset for existing sites."
 msgstr ""
+"We raden aan om SVG pictogrammenset: &quot;Entypo Fontello&quot; te "
+"gebruiken in plaats van pictogramlettertype &quot;Entypo Fontello&quot; voor "
+"nieuwe sites en om over te schakelen naar SVG pictogrammenset voor bestaande "
+"sites."
 
 #: includes/admin/option_tabs/avia_demo.php:19
 msgid ""
@@ -34839,11 +34862,11 @@ msgstr "WhatsApp profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:264
 msgid "WhatsApp SVG link"
-msgstr ""
+msgstr "WhatsApp SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:859
 msgid "WhatsApp SVG Profile Link"
-msgstr ""
+msgstr "WhatsApp SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:541
 msgid ""
@@ -35276,7 +35299,7 @@ msgstr "WooCommerce Verborgen Producten zichtbaarheid"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:324
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:454
 msgid "WooCommerce On Sale Products Visibility"
-msgstr ""
+msgstr "WooCommerce zichtbaarheid van producten die te koop zijn"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:279
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:411
@@ -35399,11 +35422,11 @@ msgstr "Snelkoppeling naar X-profiel"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:242
 msgid "X SVG link"
-msgstr ""
+msgstr "X SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:829
 msgid "X SVG Profile Link"
-msgstr ""
+msgstr "X SVG profiel link"
 
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:129
 #: framework/php/widgets/widget-classes/class-avia-socialcount.php:169
@@ -35445,11 +35468,11 @@ msgstr "Xing profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:633
 msgid "Xing SVG Link"
-msgstr ""
+msgstr "Xing SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1139
 msgid "Xing SVG Profile Link"
-msgstr ""
+msgstr "Xing SVG profiel link"
 
 #: framework/php/class-breadcrumb-trail.php:383
 #: framework/php/class-breadcrumb-trail.php:389
@@ -35503,15 +35526,15 @@ msgstr "Yelp delen link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:352
 msgid "Yelp SVG"
-msgstr ""
+msgstr "Yelp SVP"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:929
 msgid "Yelp SVG Profile Link"
-msgstr ""
+msgstr "Yelp SVG profiel link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:495
 msgid "Yelp SVG Share Link"
-msgstr ""
+msgstr "Yelp SVG delen link"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:374
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:390
@@ -35575,13 +35598,11 @@ msgid "Yes, always display copyright info"
 msgstr "Ja, toon altijd de auteursrechtinformatie"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:232
-#, fuzzy
 #| msgid "Yes, display a Close Button - Set Cookie for the current Session"
 msgid "Yes, display a close button - set cookie for the current Session"
 msgstr "Ja, toon een sluiten knop - Zet cookie voor de huidige sessie"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:233
-#, fuzzy
 #| msgid "Yes, display a Close Button - Set Cookie with a custom Lifetime"
 msgid "Yes, display a close button - set cookie with a custom Lifetime"
 msgstr "Ja, toon een Sluiten Knop - Zet cookie met een aangepaste levensduur"
@@ -35700,10 +35721,9 @@ msgstr ""
 "mp4, .webm, .ogv) ondersteund"
 
 #: includes/admin/option_tabs/avia_upload.php:188
-#, fuzzy
 #| msgid "You can upload additional Iconfont Packages generated with"
 msgid "You can also upload additional Iconfont packages generated with"
-msgstr "U kunt extra iconfont-pakketten uploaden die zijn gegenereerd met"
+msgstr "U kunt ook extra iconfont-pakketten uploaden die zijn gegenereerd met"
 
 #: includes/admin/option_tabs/avia_cookie.php:277
 msgid ""
@@ -35919,6 +35939,8 @@ msgstr ""
 msgid ""
 "You can learn more about Responsive Images and SVG Files support in the "
 msgstr ""
+"Je kunt meer te weten komen over de ondersteuning van responsieve "
+"afbeeldingen en SVG-bestanden in de "
 
 #: config-templatebuilder/avia-shortcodes/mailchimp/mailchimp.php:351
 msgid "You can only hide form fields that are not required"
@@ -35989,9 +36011,11 @@ msgid ""
 "You can upload additional SVG iconset zip packages (added with 7.0). Also "
 "colored svg can be used. For more detailed information check our"
 msgstr ""
+"Je kunt extra SVG iconset zip-pakketten uploaden (toegevoegd met 7.0). Ook "
+"gekleurde SVG's kunnen worden gebruikt. Voor meer gedetailleerde informatie "
+"bekijk onze"
 
 #: includes/admin/option_tabs/avia_upload.php:210
-#, fuzzy
 #| msgid ""
 #| "You can upload your custom Font zip files. Intended for <a href=\"https:"
 #| "//fonts.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">"
@@ -36160,7 +36184,7 @@ msgid ""
 "entry in frontend."
 msgstr ""
 "Je geselecteerde item mag geen &quot;Aangepaste lay-out&quot; element "
-"bevatten. Om eindeloze lussen en gebroken lay-outs te voorkomen, wordt deze "
+"bevatten. Om eindeloze lussen en defect lay-outs te voorkomen, wordt deze "
 "genegeerd in het geselecteerde item in de website."
 
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:128
@@ -36216,11 +36240,11 @@ msgstr "YouTube profiellink"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:644
 msgid "YouTube SVG Link"
-msgstr ""
+msgstr "YouTube SVG link"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1149
 msgid "YouTube SVG Profile Link"
-msgstr ""
+msgstr "YouTube SVG profiel link"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:767
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:785
