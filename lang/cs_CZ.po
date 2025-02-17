@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-17 16:40+0000\n"
-"PO-Revision-Date: 2025-01-15 16:44+0000\n"
+"PO-Revision-Date: 2025-02-17 13:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -42,11 +42,11 @@ msgstr ""
 msgid " - Customize: %s"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2472
+#: framework/php/class-htmlhelper.php:2484
 msgid " - in use"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2476
+#: framework/php/class-htmlhelper.php:2488
 msgid " - unused"
 msgstr ""
 
@@ -311,7 +311,7 @@ msgid ""
 "Product -&gt; Product -&gt; Enable reviews)"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2082
+#: framework/php/class-htmlhelper.php:2094
 msgid "( %d templates found )"
 msgstr ""
 
@@ -337,6 +337,10 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-svg-shapes.php:336
 msgid "(Custom SVG)"
+msgstr ""
+
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:850
+msgid "(Default)"
 msgstr ""
 
 #: config-woocommerce/config-356.php:1741 config-woocommerce/config.php:2910
@@ -877,7 +881,7 @@ msgid ""
 "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Settings</a>"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1960
+#: framework/php/class-htmlhelper.php:1953
 msgid "<br/><br/>The script returned the following message: <br/>"
 msgstr ""
 
@@ -1251,11 +1255,11 @@ msgstr ""
 msgid "Activate only for Smartphones (browser width below 768px)"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2343
+#: framework/php/class-htmlhelper.php:2355
 msgid "Activate Plugin"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:99
+#: includes/admin/option_tabs/avia_upload.php:103
 msgid "Activate reset all options button"
 msgstr ""
 
@@ -1694,11 +1698,11 @@ msgstr ""
 msgid "Add Tab"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2824
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2859
 msgid "Add Table Column"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2823
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2858
 msgid "Add Table Row"
 msgstr ""
 
@@ -2073,7 +2077,7 @@ msgid "Advanced Layout Builder Options"
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-shortcode-parser.php:2919
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2838
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2850
 msgid "Advanced Layout Editor"
 msgstr "Pokročilý editor vzhledu"
 
@@ -2326,7 +2330,7 @@ msgstr ""
 msgid "All Headings"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:849
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:839
 msgid "All icons"
 msgstr ""
 
@@ -2437,19 +2441,19 @@ msgid ""
 "intended."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:669
+#: framework/php/function-set-avia-ajax.php:612
 #, php-format
 msgid ""
 "Alright!<br/>Download worked for demo %s. <br/>You can import the demo "
 "content now."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:726
+#: framework/php/function-set-avia-ajax.php:669
 #, php-format
 msgid "Alright!<br/>Downloaded files for demo %s deleted"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:675
+#: framework/php/function-set-avia-ajax.php:618
 #, php-format
 msgid ""
 "Alright!<br/>Import worked out for demo %s, no problems whatsoever. <br/>The "
@@ -2861,11 +2865,11 @@ msgstr ""
 msgid "Apply link to title only"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2996
+#: framework/php/class-htmlhelper.php:3008
 msgid "Apply only to active state"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2983
+#: framework/php/class-htmlhelper.php:2995
 msgid "Apply only to mouse hover state"
 msgstr ""
 
@@ -2873,7 +2877,7 @@ msgstr ""
 msgid "Apply the same value to all?"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2965
+#: framework/php/class-htmlhelper.php:2977
 msgid "Apply to Section: "
 msgstr ""
 
@@ -3027,7 +3031,7 @@ msgstr ""
 msgid "Attachment"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1264
+#: framework/php/function-set-avia-ajax.php:1207
 msgid "Attachment ID: %d"
 msgstr ""
 
@@ -3194,7 +3198,7 @@ msgstr ""
 msgid "Auto Repair"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3118
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3130
 msgid ""
 "Auto Repair Function enabled - Repairs errors in shortcode structure during "
 "update"
@@ -3271,7 +3275,7 @@ msgstr ""
 msgid "Available Pages"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2520
+#: framework/php/class-htmlhelper.php:2532
 msgid "Available Template Builder Elements:"
 msgstr ""
 
@@ -3289,10 +3293,6 @@ msgstr "Avia builder vzhledu"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:260
 msgid "avia_font_added:"
-msgstr ""
-
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:289
-msgid "avia_font_removed"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:476
@@ -3696,7 +3696,7 @@ msgstr ""
 msgid "block"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:100
+#: includes/admin/option_tabs/avia_upload.php:104
 msgid "Block and hide reset all options button"
 msgstr ""
 
@@ -4249,7 +4249,7 @@ msgstr ""
 msgid "Build simple custom menu"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1175
+#: framework/php/class-htmlhelper.php:1168
 msgid "built in"
 msgstr ""
 
@@ -4467,12 +4467,12 @@ msgstr ""
 msgid "Button Style"
 msgstr ""
 
-#: includes/config-enfold/functions-enfold.php:1876
+#: includes/config-enfold/functions-enfold.php:1890
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:467
 msgid "Button Style (Bordered)"
 msgstr ""
 
-#: includes/config-enfold/functions-enfold.php:1875
+#: includes/config-enfold/functions-enfold.php:1889
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:466
 msgid "Button Style (Colored)"
 msgstr ""
@@ -4533,13 +4533,13 @@ msgstr ""
 msgid "Buttons"
 msgstr ""
 
-#: includes/loop-author.php:205 includes/loop-index.php:546
+#: includes/loop-author.php:205 includes/loop-index.php:548
 #: includes/loop-search.php:163
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-masonry.php:1012
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1416
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1418
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1149
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1154
 #: framework/php/widgets/legacy/class-avia-combo.php:512
 #: framework/php/widgets/widget-classes/class-avia-combo.php:625
 msgid "by"
@@ -4639,18 +4639,18 @@ msgid ""
 "using &quot;Edit Custom Elements&quot; button"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3020
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3040
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3032
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3052
 msgid "By name (ascending)"
 msgstr "Podle jména (vzrůstající)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3021
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3043
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3033
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3055
 msgid "By name (descending)"
 msgstr "Podle jména (klesající)"
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3022
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3046
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3034
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3058
 msgid "By usage"
 msgstr "Podle použití"
 
@@ -5170,7 +5170,7 @@ msgstr ""
 msgid "Changes will take effect once you reload the page."
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1702
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1938
 msgid "Charcode"
 msgstr ""
 
@@ -5230,7 +5230,7 @@ msgstr ""
 msgid "Check API key here"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3117
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3129
 msgid "Check enabled on update - checks the structure only"
 msgstr ""
 
@@ -5262,7 +5262,7 @@ msgstr ""
 msgid "Check if you do not use Youtube or Vimeo video features."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:44
+#: includes/admin/option_tabs/avia_upload.php:48
 msgid ""
 "Check if you do not want to import all settings from an exported theme "
 "settings file. Please read the <a href=\"https://kriesi."
@@ -5271,7 +5271,7 @@ msgid ""
 "customize import."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:115
+#: includes/admin/option_tabs/avia_upload.php:119
 msgid ""
 "Check if you do not want to reset all options. Please read the <a "
 "href=\"https://kriesi.at/documentation/enfold/backup-theme-settings\" "
@@ -5411,7 +5411,7 @@ msgstr ""
 msgid "Check if you want to horizontal flip the divider."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:53
+#: includes/admin/option_tabs/avia_upload.php:57
 msgid ""
 "Check if you want to keep your added CSS stylings in &quot;General Styling ->"
 " Quick CSS&quot;. In case you select single tabs to import below your Quick "
@@ -5419,7 +5419,7 @@ msgid ""
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:124
+#: includes/admin/option_tabs/avia_upload.php:128
 msgid ""
 "Check if you want to keep your added CSS stylings in &quot;General Styling ->"
 " Quick CSS&quot;. In case you select single tabs to reset below your Quick "
@@ -5561,7 +5561,7 @@ msgid ""
 "keep it editable: %s"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2451
+#: framework/php/class-htmlhelper.php:2463
 msgid "Check to disable"
 msgstr ""
 
@@ -6301,7 +6301,7 @@ msgstr ""
 msgid "Circle Size"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2619
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2654
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:65
 msgid "City"
 msgstr ""
@@ -6364,25 +6364,29 @@ msgstr ""
 msgid "Click me"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:35
+#: includes/admin/option_tabs/avia_upload.php:31
 msgid ""
 "Click the button to generate and download a config file which contains the "
 "theme settings. You can use the config file to import the theme settings on "
 "another sever."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:165
+#: includes/admin/option_tabs/avia_upload.php:169
 msgid ""
 "Click the button to generate and download a file which contains the Layout "
 "Builder saved templates. You can use this file to import the templates on "
 "another server."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:147
+#: includes/admin/option_tabs/avia_upload.php:151
 msgid ""
 "Click the button to reset selected options to theme factory default values. "
 "Note that this will overwrite your current configuration and you cannot "
 "restore the current configuration afterwards."
+msgstr ""
+
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1079
+msgid "Click to activate"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:204
@@ -6393,11 +6397,15 @@ msgstr ""
 msgid "Click to collapse:"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1884
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1080
+msgid "Click to deactivate"
+msgstr ""
+
+#: framework/php/class-htmlhelper.php:1877
 msgid "Click to download"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1895
+#: framework/php/class-htmlhelper.php:1888
 msgid "Click to download and import"
 msgstr ""
 
@@ -6434,7 +6442,7 @@ msgstr ""
 msgid "Click to expand:"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1885
+#: framework/php/class-htmlhelper.php:1878
 msgid "Click to import"
 msgstr ""
 
@@ -6481,7 +6489,7 @@ msgstr ""
 msgid "Clone Cell"
 msgstr "Kolonovat buňku"
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1047
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1048
 msgid "Clone Column"
 msgstr "Klonovat sloupec"
 
@@ -6489,7 +6497,7 @@ msgstr "Klonovat sloupec"
 msgid "Clone Custom Element"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2078
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2079
 msgid "Clone Element"
 msgstr "Klonovat prvek"
 
@@ -6497,7 +6505,7 @@ msgstr "Klonovat prvek"
 msgid "Clone Row"
 msgstr "Klonovat řádek"
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:862
+#: config-templatebuilder/avia-shortcodes/section/section.php:864
 msgid "Clone Section"
 msgstr ""
 
@@ -6526,7 +6534,7 @@ msgstr ""
 #: framework/php/class-form-generator.php:767
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:18
 #: config-templatebuilder/avia-template-builder/php/class-meta-box.php:230
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1095
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1130
 msgid "Close"
 msgstr ""
 
@@ -6735,15 +6743,15 @@ msgid "Column Position"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:170
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2288
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2320
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2351
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2382
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2413
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2444
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2475
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2506
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2537
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2289
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2321
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2352
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2383
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2414
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2445
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2476
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2507
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2538
 msgid "Column Template"
 msgstr ""
 
@@ -6787,9 +6795,9 @@ msgstr ""
 msgid "Combo Widget"
 msgstr ""
 
-#: includes/loop-author.php:170 includes/loop-index.php:511
+#: includes/loop-author.php:170 includes/loop-index.php:513
 #: includes/loop-search.php:100
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1181
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1186
 msgid "Comment"
 msgstr "Komentář"
 
@@ -6804,10 +6812,10 @@ msgid "Comment Info"
 msgstr ""
 
 #: includes/loop-author.php:169 includes/loop-author.php:171
-#: includes/loop-index.php:510 includes/loop-index.php:512
+#: includes/loop-index.php:512 includes/loop-index.php:514
 #: includes/loop-search.php:99 includes/loop-search.php:101
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:26
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1181
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1186
 #: framework/php/widgets/legacy/class-avia-combo.php:195
 #: framework/php/widgets/widget-classes/class-avia-combo.php:205
 msgid "Comments"
@@ -6821,7 +6829,7 @@ msgstr "Komentáře jsou uzavřeny."
 msgid "Comments Count"
 msgstr ""
 
-#: includes/loop-author.php:173 includes/loop-index.php:514
+#: includes/loop-author.php:173 includes/loop-index.php:516
 #: includes/loop-search.php:103
 msgid "Comments Disabled"
 msgstr ""
@@ -7112,7 +7120,7 @@ msgstr ""
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:262
 #: framework/php/widgets/widget-classes/class-avia-instagram.php:502
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:116
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:130
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:134
 msgid "Content is only rendered in frontend."
 msgstr ""
 
@@ -7256,13 +7264,13 @@ msgstr ""
 msgid "Copy to a new draft"
 msgstr ""
 
-#: footer.php:205 includes/config-enfold/functions-enfold.php:1992
+#: footer.php:215 includes/config-enfold/functions-enfold.php:2006
 #: includes/admin/option_tabs/avia_footer.php:163
 #: includes/admin/option_tabs/avia_footer.php:164
 msgid "Copyright"
 msgstr ""
 
-#: footer.php:232
+#: footer.php:242
 msgid "Copyright and company info"
 msgstr ""
 
@@ -7315,7 +7323,7 @@ msgid ""
 "Could not connect to the internet. Please reload the page and try again."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1158
+#: framework/php/function-set-avia-ajax.php:1101
 #, php-format
 msgid "Could not create directory [%s] to store downloaded thumbnails."
 msgstr ""
@@ -7341,7 +7349,7 @@ msgstr ""
 msgid "Countdown Finished Message"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2622
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2657
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:73
 msgid "Country"
 msgstr ""
@@ -7481,48 +7489,48 @@ msgstr ""
 msgid "Creates a simple text block with collapse support"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2432
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:945
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2433
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:946
 msgid "Creates a single column with 20&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2369
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:898
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2370
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:899
 msgid "Creates a single column with 25&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2308
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:853
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2309
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:854
 msgid "Creates a single column with 33&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2463
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:968
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2464
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:969
 msgid "Creates a single column with 40&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2276
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:830
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2277
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:831
 msgid "Creates a single column with 50&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2494
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:991
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2495
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:992
 msgid "Creates a single column with 60&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2339
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:876
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2340
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:877
 msgid "Creates a single column with 67&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2400
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:921
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2401
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:922
 msgid "Creates a single column with 75&percnt; width"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2525
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:1014
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2526
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:1015
 msgid "Creates a single column with 80&percnt; width"
 msgstr ""
 
@@ -7595,7 +7603,7 @@ msgstr ""
 msgid "Current window (_self)"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2395
+#: framework/php/class-htmlhelper.php:2407
 msgid "Currently active:"
 msgstr ""
 
@@ -7607,7 +7615,7 @@ msgstr ""
 msgid "Currently only text and dropdown elements are supported properly"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1139
+#: framework/php/function-set-avia-ajax.php:1082
 msgid "Currently only Youtube and Vimeo are supported."
 msgstr ""
 
@@ -8193,7 +8201,7 @@ msgstr ""
 msgid "Custom Top And Bottom Margin"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:217
+#: includes/admin/option_tabs/avia_upload.php:222
 msgid "Custom Type Fonts Manager"
 msgstr ""
 
@@ -8312,7 +8320,7 @@ msgstr ""
 msgid "Debug Mode (Backend Only)"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1041
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1042
 msgid "Decrease Column Size"
 msgstr "Zmenšit šířku sloupce"
 
@@ -8390,8 +8398,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2496
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2697
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2856
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3019
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3037
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3031
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3049
 #: framework/php/font-management/class-avia-type-fonts.php:953
 #: includes/admin/option_tabs/avia_menu.php:290
 #: includes/admin/option_tabs/avia_shop.php:68
@@ -8484,7 +8492,7 @@ msgstr ""
 msgid "Default display (at the bottom of the elements image)"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2839
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2851
 msgid "Default Editor"
 msgstr "Výchozí editor"
 
@@ -8563,7 +8571,7 @@ msgstr ""
 msgid "Default Size"
 msgstr ""
 
-#: includes/config-enfold/functions-enfold.php:1874
+#: includes/config-enfold/functions-enfold.php:1888
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:205
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:465
 msgid "Default Style"
@@ -8820,7 +8828,7 @@ msgstr ""
 msgid "Defines the styling of the iconbox and the position of the icon"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:988
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1071
 #: framework/php/font-management/class-avia-type-fonts.php:664
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:650
 msgid "Delete"
@@ -8830,7 +8838,7 @@ msgstr ""
 msgid "Delete Cell"
 msgstr "Smazat buňku"
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1044
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1045
 msgid "Delete Column"
 msgstr "Smazat sloupec"
 
@@ -8838,11 +8846,11 @@ msgstr "Smazat sloupec"
 msgid "Delete Custom Element"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2011
+#: framework/php/class-htmlhelper.php:2004
 msgid "Delete downloaded files"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2077
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2078
 msgid "Delete Element"
 msgstr "Smazat prvek"
 
@@ -8874,14 +8882,14 @@ msgstr ""
 msgid "Delete Tab Section"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2007
+#: framework/php/class-htmlhelper.php:2000
 #, php-format
 msgid ""
 "Deleting the downloaded demo files %s didn't work! <br/> You might want to "
 "try reloading the page and then try again"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2008
+#: framework/php/class-htmlhelper.php:2001
 #, php-format
 msgid ""
 "Deleting the downloaded demo files %s didn't work! <br/> You might want to "
@@ -8889,7 +8897,7 @@ msgid ""
 "following message: <br/>"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1996
+#: framework/php/class-htmlhelper.php:1989
 msgid "Deleting..."
 msgstr ""
 
@@ -9262,7 +9270,7 @@ msgstr ""
 msgid "Disabled"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3116
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3128
 msgid "Disabled - No checks are done on update"
 msgstr ""
 
@@ -10230,7 +10238,7 @@ msgstr ""
 msgid "Do not scan widgets"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:63
+#: includes/admin/option_tabs/avia_upload.php:67
 msgid ""
 "Do not select any tabs to import all or select which tabs of the theme "
 "options you want to import from the uploaded settings file. All options in "
@@ -10238,7 +10246,7 @@ msgid ""
 "modified."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:134
+#: includes/admin/option_tabs/avia_upload.php:138
 msgid ""
 "Do not select any tabs to reset all options or select which tabs of the "
 "theme options you want to reset. All options in these selected tabs will be "
@@ -10374,7 +10382,7 @@ msgid "Do you want to use a grid or a slider to display the logos?"
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3347
-#: includes/admin/option_tabs/avia_upload.php:187
+#: includes/admin/option_tabs/avia_upload.php:191
 msgid "documentation"
 msgstr ""
 
@@ -10432,7 +10440,7 @@ msgstr ""
 msgid "Download latest library files here"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1959
+#: framework/php/class-htmlhelper.php:1952
 #, php-format
 msgid ""
 "Download of files for demo %s didn't work! <br/> You might want to try "
@@ -10475,12 +10483,12 @@ msgstr ""
 msgid "Downloaded File Name"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:722
+#: framework/php/function-set-avia-ajax.php:665
 #, php-format
 msgid "Downloaded files for demo %s could not be deleted."
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1991
+#: framework/php/class-htmlhelper.php:1984
 msgid "Downloading..."
 msgstr ""
 
@@ -10574,8 +10582,8 @@ msgid ""
 "this info. Please check the frontend."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1863
-#: config-templatebuilder/avia-shortcodes/section/section.php:1357
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1864
+#: config-templatebuilder/avia-shortcodes/section/section.php:1359
 msgid "Dummy Content to demonstrate &quot;Bring To Front&quot; option"
 msgstr ""
 
@@ -10655,7 +10663,7 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1052
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1053
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:438
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:477
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:650
@@ -10726,7 +10734,7 @@ msgid "Edit Cell"
 msgstr "Upravit buňku"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:991
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1052
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1053
 msgid "Edit Column"
 msgstr "Upravit sloupec"
 
@@ -10754,8 +10762,8 @@ msgstr ""
 msgid "Edit Dataset"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2868
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2073
+#: framework/php/class-htmlhelper.php:2880
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2074
 msgid "Edit Element"
 msgstr "Upravit prvek"
 
@@ -10869,7 +10877,7 @@ msgstr ""
 msgid "Edit Row"
 msgstr "Upravit řádek"
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:858
+#: config-templatebuilder/avia-shortcodes/section/section.php:860
 msgid "Edit Section"
 msgstr ""
 
@@ -11141,7 +11149,7 @@ msgstr ""
 msgid "Element Position"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1368
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1380
 msgid "Element Preview"
 msgstr "Náhled"
 
@@ -11607,7 +11615,7 @@ msgid ""
 "predefined options."
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2625
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2660
 msgid "Enter Address, then fetch coordinates"
 msgstr ""
 
@@ -11783,7 +11791,7 @@ msgstr ""
 msgid "Enter static text that should be displayed before the rotating text"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:844
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:834
 msgid "Enter string to filter icons"
 msgstr ""
 
@@ -12119,7 +12127,7 @@ msgstr ""
 msgid "Enter your description here"
 msgstr ""
 
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:174
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:178
 msgid "Enter your feed url:"
 msgstr ""
 
@@ -12245,12 +12253,12 @@ msgstr ""
 msgid "Error(s) returned:"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1213
+#: framework/php/function-set-avia-ajax.php:1156
 #, php-format
 msgid "Error: Cannot connect to %s to read thummbnail info."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1128
+#: framework/php/function-set-avia-ajax.php:1071
 msgid "Error: Cannot connect to Vimeo to read thummbnail info."
 msgstr ""
 
@@ -12268,13 +12276,13 @@ msgstr ""
 msgid "Error: Template does not exist."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1234
+#: framework/php/function-set-avia-ajax.php:1177
 #, php-format
 msgid "Error: Unable to save downloaded thumbnail to [%s]."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1100
-#: framework/php/function-set-avia-ajax.php:1118
+#: framework/php/function-set-avia-ajax.php:1043
+#: framework/php/function-set-avia-ajax.php:1061
 msgid "Error: Video ID is missing"
 msgstr ""
 
@@ -12435,20 +12443,20 @@ msgstr ""
 msgid "Expired nonce"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2051
+#: framework/php/class-htmlhelper.php:2061
 msgid "Export Demo Settings File"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:164
+#: includes/admin/option_tabs/avia_upload.php:168
 msgid "Export Layout Builder Templates"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2080
+#: framework/php/class-htmlhelper.php:2092
 msgid "Export Layout Builder Templates File"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2055
-#: includes/admin/option_tabs/avia_upload.php:34
+#: framework/php/class-htmlhelper.php:2065
+#: includes/admin/option_tabs/avia_upload.php:38
 msgid "Export Theme Settings File"
 msgstr ""
 
@@ -12553,7 +12561,7 @@ msgstr ""
 msgid "Fade to another image"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1190
+#: framework/php/function-set-avia-ajax.php:1133
 msgid "Failed to create folder for thumbnails:"
 msgstr ""
 
@@ -12705,7 +12713,7 @@ msgstr ""
 msgid "Filter extended to filter images or videos"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:847
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:837
 msgid "Filter Icons By Font Family And/Or Name/Charactercode:"
 msgstr ""
 
@@ -12886,7 +12894,7 @@ msgstr ""
 msgid "Fold/Unfold Animation"
 msgstr ""
 
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:96
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:97
 msgid "Follow"
 msgstr ""
 
@@ -13183,11 +13191,11 @@ msgstr ""
 msgid "Footer Columns"
 msgstr ""
 
-#: includes/config-enfold/init-base-data.php:349
+#: includes/config-enfold/init-base-data.php:366
 msgid "Footer Menu (no dropdowns)"
 msgstr ""
 
-#: includes/config-enfold/init-base-data.php:348
+#: includes/config-enfold/init-base-data.php:365
 msgid "Footer Menu <br/><small>(no dropdowns)</small>"
 msgstr ""
 
@@ -13352,13 +13360,13 @@ msgstr ""
 msgid "Found errors in the following field(s):"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:469
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:478
 msgid ""
 "Found no SVG file with font information in your folder. Was not able to "
 "create the necessary config files"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:591
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:600
 msgid ""
 "Found no svg files in svg folder. Unable to add the svg icon set. Remove the "
 "svg folder if this is an icon font."
@@ -14169,7 +14177,7 @@ msgstr ""
 msgid "Hello"
 msgstr ""
 
-#: includes/config-enfold/init-base-data.php:344
+#: includes/config-enfold/init-base-data.php:361
 #: config-templatebuilder/avia-template-builder/config/javascript_strings.php:33
 #: includes/admin/option_tabs/avia_avia.php:35
 msgid "here"
@@ -15228,9 +15236,9 @@ msgstr ""
 msgid "Icon/Flipbox Grid"
 msgstr "Mřížka ikon/flipbox"
 
-#: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:766
-#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:2265
-#: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:1180
+#: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:767
+#: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:2266
+#: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:1181
 msgid "Icon:"
 msgstr ""
 
@@ -15246,7 +15254,7 @@ msgstr ""
 msgid "IconBox Title"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:882
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:884
 msgid "Iconfonts"
 msgstr ""
 
@@ -15480,6 +15488,15 @@ msgid ""
 "caching."
 msgstr ""
 
+#: includes/admin/option_tabs/avia_upload.php:197
+msgid ""
+"If you deactivate the iconfont &quot;Entypo Fontello&quot;, all iconfont "
+"icons and social icons you have used will be replaced with svg icons on the "
+"fly during pageload and the font will not be loaded any longer. Please check "
+"the layout. We recommend to replace the icons with svg icons before doing "
+"this."
+msgstr ""
+
 #: includes/admin/option_tabs/avia_performance.php:459
 msgid ""
 "If you disable lazy loading here this will override any specific element "
@@ -15616,11 +15633,11 @@ msgstr ""
 msgid "Ignore filters"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:876
+#: framework/php/function-set-avia-ajax.php:819
 msgid "Illegal call to import Layout Builder Template file."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:935
+#: framework/php/function-set-avia-ajax.php:878
 msgid "Illegal call to import settings file."
 msgstr ""
 
@@ -15840,19 +15857,23 @@ msgstr ""
 msgid "Images keeping original aspect ratio"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1971
+#: framework/php/class-htmlhelper.php:1964
 msgid "Import dummy data"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1958
+#: framework/php/class-htmlhelper.php:1951
 #, php-format
 msgid ""
 "Import for demo %s didn't work! <br/> You might want to try reloading the "
 "page and then try again."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:172
+#: includes/admin/option_tabs/avia_upload.php:176
 msgid "Import Layout Builder Templates File"
+msgstr ""
+
+#: framework/php/class-htmlhelper.php:2024
+msgid "Import Parent Theme Settings"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:24
@@ -15863,7 +15884,7 @@ msgstr ""
 msgid "Import started"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:75
+#: includes/admin/option_tabs/avia_upload.php:79
 msgid "Import Theme Settings File"
 msgstr ""
 
@@ -16031,7 +16052,7 @@ msgstr ""
 msgid "Important Info for WPML:"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2516
+#: framework/php/class-htmlhelper.php:2528
 msgid "Important: "
 msgstr ""
 
@@ -16041,7 +16062,7 @@ msgid ""
 "compatibility bug)"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1957
+#: framework/php/class-htmlhelper.php:1950
 #, php-format
 msgid ""
 "Importing demo content %s will overwrite your current Theme Option Settings. "
@@ -16049,11 +16070,11 @@ msgid ""
 "avoid conflict with existing content and break the import. Proceed anyways?"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1986
+#: framework/php/class-htmlhelper.php:1979
 msgid "Importing..."
 msgstr ""
 
-#: includes/loop-author.php:187 includes/loop-index.php:528
+#: includes/loop-author.php:187 includes/loop-index.php:530
 #: includes/loop-search.php:145
 msgid "in"
 msgstr "v"
@@ -16159,7 +16180,7 @@ msgstr ""
 msgid "Inconsistent usage of filter name."
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1043
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1044
 msgid "Increase Column Size"
 msgstr "Zvětšit šířku sloupce"
 
@@ -16225,7 +16246,7 @@ msgid ""
 "changes might break intended site layout when reactivated."
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3055
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3067
 msgid "Information"
 msgstr ""
 
@@ -16390,7 +16411,7 @@ msgstr "Vložit obrázek"
 msgid "Insert Images"
 msgstr "Vložit obrázky"
 
-#: includes/admin/option_tabs/avia_upload.php:178
+#: includes/admin/option_tabs/avia_upload.php:182
 msgid "Insert Layout Builder Templates File"
 msgstr ""
 
@@ -16403,11 +16424,11 @@ msgstr ""
 msgid "Insert Pattern"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:81
+#: includes/admin/option_tabs/avia_upload.php:85
 msgid "Insert Settings File"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2104
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2116
 msgid "Insert Theme Shortcode"
 msgstr ""
 
@@ -16415,8 +16436,8 @@ msgstr ""
 msgid "Insert Video"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:203
-#: includes/admin/option_tabs/avia_upload.php:223
+#: includes/admin/option_tabs/avia_upload.php:208
+#: includes/admin/option_tabs/avia_upload.php:228
 msgid "Insert Zip File"
 msgstr ""
 
@@ -16493,7 +16514,7 @@ msgstr ""
 msgid "Instagram SVG Profile Link"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2329
+#: framework/php/class-htmlhelper.php:2341
 msgid "Install Plugin"
 msgstr ""
 
@@ -16523,7 +16544,7 @@ msgid ""
 "report to our support staff."
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1002
+#: framework/php/function-set-avia-ajax.php:945
 msgid ""
 "Internal error: Importer class could not be loaded - no settings could be "
 "imported."
@@ -16613,7 +16634,7 @@ msgstr ""
 msgid "It seems that your Google API key is not configured correctly"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1367
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1379
 msgid ""
 "It seems you are currently adding some HTML markup or other special "
 "characters. Once all HTML tags are closed the preview will be available "
@@ -16732,8 +16753,8 @@ msgstr ""
 msgid "Keep original"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:52
-#: includes/admin/option_tabs/avia_upload.php:123
+#: includes/admin/option_tabs/avia_upload.php:56
+#: includes/admin/option_tabs/avia_upload.php:127
 msgid "Keep Quick CSS Content"
 msgstr ""
 
@@ -16886,7 +16907,7 @@ msgstr ""
 msgid "Latest Portfolio"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2630
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2665
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:115
 msgid "Latitude"
 msgstr ""
@@ -16950,26 +16971,26 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/page_split.php:61
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:154
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2271
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2303
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2334
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2365
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2396
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2427
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2458
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2489
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:2520
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2272
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2304
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2335
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2366
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2397
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2428
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2459
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2490
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:2521
 #: config-templatebuilder/avia-shortcodes/custom_layout/custom_layout.php:97
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:89
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:824
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:848
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:871
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:894
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:917
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:940
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:963
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:986
-#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:1009
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:825
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:849
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:872
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:895
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:918
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:941
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:964
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:987
+#: config-templatebuilder/avia-shortcodes/grid_row/cell.php:1010
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:52
 #: config-templatebuilder/avia-shortcodes/postcontent/postcontent.php:76
 #: config-templatebuilder/avia-shortcodes/section/section.php:123
@@ -17309,7 +17330,7 @@ msgid ""
 "not use HTML markup !!!"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2095
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2107
 msgid "Line Break"
 msgstr ""
 
@@ -17443,7 +17464,7 @@ msgid "Link Title"
 msgstr ""
 
 #: includes/classes/class-social-media-icons.php:869
-#: includes/config-enfold/functions-enfold.php:846
+#: includes/config-enfold/functions-enfold.php:860
 msgid "Link to"
 msgstr ""
 
@@ -17765,7 +17786,7 @@ msgstr ""
 msgid "Logo Slider Or Logo Grid Layout"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2628
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2663
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:107
 msgid "Longitude"
 msgstr ""
@@ -17869,7 +17890,7 @@ msgstr ""
 #: includes/admin/register-backend-advanced-styles.php:335
 #: includes/admin/register-backend-advanced-styles.php:365
 #: includes/admin/register-backend-advanced-styles.php:391
-#: includes/config-enfold/init-base-data.php:341
+#: includes/config-enfold/init-base-data.php:358
 #: includes/admin/option_tabs/avia_customizer.php:28
 msgid "Main Menu"
 msgstr ""
@@ -17920,16 +17941,16 @@ msgid ""
 "Make sure to add the profile link here in &quot;Profile Tab&quot; or in "
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:213
+#: includes/admin/option_tabs/avia_upload.php:218
 msgid ""
 "Make sure to delete any fonts that you are not using, to keep the loading "
 "time for your visitors low"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:191
+#: includes/admin/option_tabs/avia_upload.php:195
 msgid ""
 "Make sure to delete any iconfonts that you are not using, to keep the "
-"loading time for your visitors low."
+"loading time low for your visitors."
 msgstr ""
 
 #: includes/admin/option_tabs/avia_cookie.php:275
@@ -18272,7 +18293,7 @@ msgstr ""
 msgid "Menu Position"
 msgstr ""
 
-#: includes/config-enfold/functions-enfold.php:1872
+#: includes/config-enfold/functions-enfold.php:1886
 msgid "Menu Style"
 msgstr ""
 
@@ -18407,7 +18428,7 @@ msgstr ""
 msgid "Milestone Title"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/timeline/timeline.php:1577
+#: config-templatebuilder/avia-shortcodes/timeline/timeline.php:1578
 msgid "Milestone:"
 msgstr ""
 
@@ -18557,7 +18578,7 @@ msgstr ""
 msgid "Missing opening tag [%s] found for a closing tag at index %d."
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1682
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1918
 msgid "missing svg file for this icon"
 msgstr ""
 
@@ -18717,19 +18738,19 @@ msgstr ""
 msgid "Move"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2868
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2903
 msgid "move down"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2869
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2904
 msgid "move left"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2870
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2905
 msgid "move right"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2867
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2902
 msgid "move up"
 msgstr ""
 
@@ -18975,7 +18996,7 @@ msgstr ""
 
 #: framework/php/class-form-generator.php:769
 #: config-templatebuilder/avia-template-builder/php/class-front-templates.php:35
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1097
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1132
 msgid "Next"
 msgstr ""
 
@@ -19306,7 +19327,7 @@ msgstr ""
 msgid "No Padding (0px)"
 msgstr ""
 
-#: includes/loop-page.php:99
+#: includes/loop-page.php:101
 msgid "No Page Found"
 msgstr ""
 
@@ -19314,11 +19335,11 @@ msgstr ""
 msgid "No Pagination"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:773
+#: framework/php/function-set-avia-ajax.php:716
 msgid "No Parent Theme found"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:766
+#: framework/php/function-set-avia-ajax.php:709
 msgid "No Parent Theme Options Found. There is nothing to import"
 msgstr ""
 
@@ -19334,7 +19355,7 @@ msgstr ""
 msgid "No Portfolio Entries found in Trash"
 msgstr ""
 
-#: includes/loop-portfolio-single.php:93
+#: includes/loop-portfolio-single.php:95
 msgid "No Portfolio Found"
 msgstr ""
 
@@ -19342,7 +19363,7 @@ msgstr ""
 msgid "No post ID to duplicate has been supplied!"
 msgstr ""
 
-#: includes/loop-index.php:680
+#: includes/loop-index.php:682
 msgid "No Posts Found"
 msgstr ""
 
@@ -19634,8 +19655,8 @@ msgid ""
 msgstr ""
 
 #: includes/error404.php:5 includes/loop-author.php:278
-#: includes/loop-index.php:695 includes/loop-page.php:114
-#: includes/loop-portfolio-single.php:107 includes/loop-search.php:229
+#: includes/loop-index.php:697 includes/loop-page.php:116
+#: includes/loop-portfolio-single.php:109 includes/loop-search.php:229
 msgid "Nothing Found"
 msgstr "Nenalezeno"
 
@@ -19847,7 +19868,7 @@ msgstr ""
 msgid "On tablets (at a screen width of 989px or lower)"
 msgstr ""
 
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:97
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:98
 msgid "on X"
 msgstr ""
 
@@ -20011,20 +20032,20 @@ msgid "Open In New Window"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:629
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3090
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3100
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3125
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3135
 msgid "Open in new window"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3092
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3127
 msgid "Open in new window and use rel=\"nofollow sponsored\""
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3093
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3128
 msgid "Open in new window and use rel=\"nofollow ugc\""
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3091
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3126
 msgid "Open in new window and use rel=\"nofollow\""
 msgstr ""
 
@@ -20032,20 +20053,20 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.php:461
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:557
 #: config-templatebuilder/avia-shortcodes/team/team.php:628
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3086
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3099
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3121
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3134
 msgid "Open in same window"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3088
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3123
 msgid "Open in same window and use rel=\"nofollow sponsored\""
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3089
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3124
 msgid "Open in same window and use rel=\"nofollow ugc\""
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3087
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3122
 msgid "Open in same window and use rel=\"nofollow\""
 msgstr ""
 
@@ -20194,7 +20215,7 @@ msgstr ""
 msgid "or the Enfold Child theme."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:189
+#: includes/admin/option_tabs/avia_upload.php:193
 msgid "or use monocolored icon sets from"
 msgstr ""
 
@@ -20228,7 +20249,7 @@ msgstr ""
 msgid "Original LayerSlider Plugin is used"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1265
+#: framework/php/function-set-avia-ajax.php:1208
 #, php-format
 msgid "Original source: %s"
 msgstr ""
@@ -20403,7 +20424,7 @@ msgstr ""
 msgid "Page Content"
 msgstr "Obsah stránky"
 
-#: includes/loop-page.php:18
+#: includes/loop-page.php:20
 msgid "Page Content for:"
 msgstr ""
 
@@ -20452,8 +20473,8 @@ msgid ""
 "change it."
 msgstr ""
 
-#: template-builder.php:108 includes/loop-index.php:625
-#: includes/loop-portfolio-single.php:52
+#: template-builder.php:108 includes/loop-index.php:627
+#: includes/loop-portfolio-single.php:54
 msgid "Pages:"
 msgstr ""
 
@@ -20575,11 +20596,11 @@ msgstr ""
 msgid "Period Before"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2089
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:2101
 msgid "Permanent Line Break"
 msgstr ""
 
-#: template-archives.php:78 includes/config-enfold/functions-enfold.php:558
+#: template-archives.php:78 includes/config-enfold/functions-enfold.php:572
 #: includes/helpers/helper-post-format.php:83
 msgid "Permanent Link:"
 msgstr ""
@@ -20732,19 +20753,19 @@ msgstr ""
 msgid "Please check your API key"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1997
+#: framework/php/class-htmlhelper.php:1990
 msgid ""
 "Please don't reload the page. You will be notified as soon as deleting the "
 "downloaded file has finished! (Usually within a few minutes) :)"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1992
+#: framework/php/class-htmlhelper.php:1985
 msgid ""
 "Please don't reload the page. You will be notified as soon as the download "
 "has finished! (Usually within a few minutes) :)"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1987
+#: framework/php/class-htmlhelper.php:1980
 msgid ""
 "Please don't reload the page. You will be notified as soon as the import has "
 "finished! (Usually within a few minutes) :)"
@@ -20889,7 +20910,7 @@ msgstr ""
 msgid "Please provide a valid email address."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:212
+#: includes/admin/option_tabs/avia_upload.php:217
 msgid ""
 "Please read our <a href=\"https://kriesi."
 "at/documentation/enfold/typography/#using-variable-fonts\" target=\"_blank\" "
@@ -20954,7 +20975,7 @@ msgstr ""
 msgid "Plugin Additions"
 msgstr "Doplňky pluginů"
 
-#: framework/php/class-htmlhelper.php:2359
+#: framework/php/class-htmlhelper.php:2371
 msgid "Plugin Details"
 msgstr ""
 
@@ -21002,7 +21023,7 @@ msgstr "Kategorie"
 msgid "Portfolio Category"
 msgstr "Kategorie"
 
-#: includes/loop-portfolio-single.php:17
+#: includes/loop-portfolio-single.php:19
 msgid "Portfolio Content for:"
 msgstr ""
 
@@ -21144,7 +21165,7 @@ msgstr ""
 msgid "Post Usage - which elements are used in this post"
 msgstr ""
 
-#: includes/loop-index.php:126
+#: includes/loop-index.php:128
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1566
 msgid "Post:"
 msgstr ""
@@ -21153,7 +21174,7 @@ msgstr ""
 msgid "Postalcode (Zip Code)"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2618
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2653
 msgid "Postcode"
 msgstr ""
 
@@ -21161,7 +21182,7 @@ msgstr ""
 msgid "Postcode:"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1145
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1150
 #, php-format
 msgid "Posts by %s"
 msgstr ""
@@ -21209,7 +21230,7 @@ msgid "Press TAB to navigate trough the various form fields of a popup window."
 msgstr ""
 
 #: framework/php/class-form-generator.php:770
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1098
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1133
 msgid "Prev"
 msgstr ""
 
@@ -21221,7 +21242,7 @@ msgstr ""
 msgid "Preview Image"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1979
+#: framework/php/class-htmlhelper.php:1972
 #, php-format
 msgid "Preview image for: %s"
 msgstr ""
@@ -21569,11 +21590,11 @@ msgstr ""
 msgid "Read More"
 msgstr ""
 
-#: includes/loop-index.php:149 includes/loop-index.php:150
-#: includes/loop-index.php:595 includes/loop-index.php:611
-#: includes/loop-page.php:47 includes/loop-portfolio-single.php:46
+#: includes/loop-index.php:151 includes/loop-index.php:152
+#: includes/loop-index.php:597 includes/loop-index.php:613
+#: includes/loop-page.php:49 includes/loop-portfolio-single.php:48
 #: framework/php/function-set-avia-frontend.php:1784
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:883
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:884
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1225
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3283
 msgid "Read more"
@@ -21821,7 +21842,7 @@ msgstr ""
 msgid "Remove"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3043
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3078
 msgid "Remove Animation"
 msgstr ""
 
@@ -21836,7 +21857,7 @@ msgid ""
 "Remove element if the user navigated away from page 1 to page 2,3,4 etc "
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3014
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:3049
 msgid "Remove Image"
 msgstr ""
 
@@ -21903,12 +21924,12 @@ msgstr ""
 msgid "Required Plugins:"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2715
+#: framework/php/class-htmlhelper.php:2727
 msgid "Reset all options"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2122
-#: includes/admin/option_tabs/avia_upload.php:146
+#: framework/php/class-htmlhelper.php:2134
+#: includes/admin/option_tabs/avia_upload.php:150
 msgid "Reset Selected Options"
 msgstr ""
 
@@ -21980,7 +22001,7 @@ msgstr ""
 msgid "Retro flip clock bouncing"
 msgstr ""
 
-#: includes/config-enfold/functions-enfold.php:692
+#: includes/config-enfold/functions-enfold.php:706
 msgid "Return values handling has changed"
 msgstr ""
 
@@ -22243,7 +22264,7 @@ msgstr ""
 msgid "RSS"
 msgstr ""
 
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:128
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:132
 msgid "RSS Feed URL:"
 msgstr ""
 
@@ -22296,7 +22317,7 @@ msgstr ""
 msgid "Save"
 msgstr "Uložit"
 
-#: framework/php/class-htmlhelper.php:2699
+#: framework/php/class-htmlhelper.php:2711
 msgid "Save all changes"
 msgstr ""
 
@@ -22308,12 +22329,12 @@ msgstr ""
 msgid "Save As New Custom Element"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/columns/columns.php:1045
+#: config-templatebuilder/avia-shortcodes/columns/columns.php:1046
 #: config-templatebuilder/avia-shortcodes/grid_row/grid_row.php:480
-#: config-templatebuilder/avia-shortcodes/section/section.php:861
+#: config-templatebuilder/avia-shortcodes/section/section.php:863
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:653
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:570
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2076
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2077
 msgid "Save Element as Template"
 msgstr "Uložit prvek do šablon"
 
@@ -22368,7 +22389,7 @@ msgstr ""
 msgid "Scale Z-Axis"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1368
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1380
 msgid "Scaled to:"
 msgstr ""
 
@@ -22417,11 +22438,11 @@ msgid "Scroll Down Arrow"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-slideshow.php:631
-#: config-templatebuilder/avia-shortcodes/section/section.php:1495
+#: config-templatebuilder/avia-shortcodes/section/section.php:1497
 msgid "Scroll to next section"
 msgstr ""
 
-#: footer.php:337
+#: footer.php:347
 msgid "Scroll to top"
 msgstr ""
 
@@ -22543,11 +22564,11 @@ msgstr ""
 msgid "Secondary Font Color"
 msgstr ""
 
-#: includes/config-enfold/init-base-data.php:344
+#: includes/config-enfold/init-base-data.php:361
 msgid "Secondary Menu"
 msgstr ""
 
-#: includes/config-enfold/init-base-data.php:345
+#: includes/config-enfold/init-base-data.php:362
 msgid ""
 "Secondary Menu - will be displayed if you selected a header layout that "
 "supports a submenu"
@@ -22582,7 +22603,7 @@ msgstr ""
 msgid "Section Colors"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/section/section.php:877
+#: config-templatebuilder/avia-shortcodes/section/section.php:879
 msgid "Section content hidden. Click here to show it"
 msgstr ""
 
@@ -23738,11 +23759,11 @@ msgstr ""
 msgid "Select alignment of the social buttons bar"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1285
+#: framework/php/class-htmlhelper.php:1278
 msgid "Select all ......"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2844
+#: framework/php/class-htmlhelper.php:2856
 msgid "Select an element to customize"
 msgstr ""
 
@@ -23862,7 +23883,7 @@ msgid ""
 "colors might not always work properly when using custom border stylings)."
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1112
+#: framework/php/class-htmlhelper.php:1105
 msgid "Select category"
 msgstr ""
 
@@ -24057,7 +24078,7 @@ msgid ""
 "must edit these elements and save the page."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:93
+#: includes/admin/option_tabs/avia_upload.php:97
 msgid ""
 "Select if you want to block reset of theme options and hide the reset button."
 " You must select activate button before you can reset theme options."
@@ -24230,7 +24251,7 @@ msgstr ""
 msgid "Select Page"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1023
+#: framework/php/class-htmlhelper.php:1016
 msgid "Select page"
 msgstr ""
 
@@ -24255,7 +24276,7 @@ msgstr ""
 msgid "Select Post"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1066
+#: framework/php/class-htmlhelper.php:1059
 msgid "Select post"
 msgstr ""
 
@@ -24267,7 +24288,7 @@ msgstr ""
 msgid "Select post types to be included in the search."
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1137
+#: framework/php/class-htmlhelper.php:1130
 msgid "Select post types..."
 msgstr ""
 
@@ -24806,19 +24827,19 @@ msgstr ""
 msgid "Select the width of the tooltip. Height is based on the content"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:62
+#: includes/admin/option_tabs/avia_upload.php:66
 msgid "Select Theme Options Tabs For Import"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:133
+#: includes/admin/option_tabs/avia_upload.php:137
 msgid "Select Theme Options Tabs To Reset"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:43
+#: includes/admin/option_tabs/avia_upload.php:47
 msgid "Select Theme Options To Import"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:114
+#: includes/admin/option_tabs/avia_upload.php:118
 msgid "Select Theme Options To Reset"
 msgstr ""
 
@@ -25284,8 +25305,8 @@ msgstr ""
 msgid "Select, where to show an additional description"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:1228
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2097
+#: framework/php/class-htmlhelper.php:1221
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2132
 msgid "Select..."
 msgstr ""
 
@@ -25524,7 +25545,7 @@ msgstr ""
 msgid "Set Opacity For Color Overlay"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1368
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:1380
 msgid "Set preview background:"
 msgstr ""
 
@@ -25945,7 +25966,7 @@ msgstr ""
 msgid "Shortcode version for ALB element"
 msgstr ""
 
-#: framework/php/class-htmlhelper.php:2517
+#: framework/php/class-htmlhelper.php:2529
 msgid ""
 "Shortcodes that are added with filter or used e.g. in plugins are NOT "
 "recognised as &quot;in use&quot;."
@@ -26291,7 +26312,7 @@ msgstr ""
 msgid "Show on single entry"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3122
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3134
 msgid "Show Parser Info"
 msgstr ""
 
@@ -26536,6 +26557,12 @@ msgid ""
 "the functionality and appearance of our site."
 msgstr ""
 
+#: includes/admin/option_tabs/avia_upload.php:33
+msgid ""
+"Since x.x.x this is restricted to admins only (vulnerability report by "
+"WordFence) !!"
+msgstr ""
+
 #: includes/admin/option_tabs/avia_menu.php:265
 msgid ""
 "Since you selected to display submenu items on click or on hover, the parent "
@@ -26708,7 +26735,7 @@ msgstr ""
 msgid "Slanting from right to left"
 msgstr ""
 
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:956
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:961
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:668
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:973
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:480
@@ -27208,7 +27235,7 @@ msgid ""
 "page content and reload page to see icon for the new element."
 msgstr ""
 
-#: includes/loop-author.php:281 includes/loop-index.php:699
+#: includes/loop-author.php:281 includes/loop-index.php:701
 #: includes/config-enfold/functions-enfold.php:307
 msgid "Sorry, no posts matched your criteria"
 msgstr ""
@@ -27291,19 +27318,19 @@ msgstr ""
 msgid "Sort randomly"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3040
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3052
 msgid "Sort shortcode buttons by name ascending"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3043
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3055
 msgid "Sort shortcode buttons by name descending"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3037
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3049
 msgid "Sort shortcode buttons by theme default sorting"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3046
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3058
 msgid "Sort shortcode buttons by usage"
 msgstr ""
 
@@ -27315,7 +27342,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:393
 #: config-templatebuilder/avia-shortcodes/portfolio/portfolio.php:351
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:335
-#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3033
+#: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3045
 msgid "Sorting"
 msgstr "Řazení"
 
@@ -27481,7 +27508,7 @@ msgid ""
 " In this case you must include your own @font-face rules in head."
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2621
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2656
 msgid "State"
 msgstr ""
 
@@ -27544,7 +27571,7 @@ msgstr ""
 msgid "Strech fullwidth"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2616
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2651
 msgid "Street address"
 msgstr ""
 
@@ -27735,9 +27762,9 @@ msgstr ""
 msgid "Submit Button Label"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2760
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:2795
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:43
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:105
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:108
 msgid "Subscribe"
 msgstr ""
 
@@ -27787,23 +27814,23 @@ msgstr ""
 msgid "SVG Dividers"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1682
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1918
 msgid "SVG Icon"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:197
+#: includes/admin/option_tabs/avia_upload.php:202
 msgid "SVG Iconset and Iconfont Manager"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:870
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:872
 msgid "SVG Iconsets"
 msgstr ""
 
-#: framework/php/class-svg-images.php:584
+#: framework/php/class-svg-images.php:603
 msgid "SVG Image"
 msgstr ""
 
-#: framework/php/class-svg-images.php:558
+#: framework/php/class-svg-images.php:577
 msgid "SVG Image: "
 msgstr ""
 
@@ -28004,10 +28031,10 @@ msgstr[2] ""
 msgid "Tags"
 msgstr "Značky"
 
-#: includes/loop-index.php:574 includes/loop-index.php:639
-#: includes/loop-portfolio-single.php:62
+#: includes/loop-index.php:576 includes/loop-index.php:641
+#: includes/loop-portfolio-single.php:64
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1477
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1208
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1213
 msgid "Tags:"
 msgstr "Značky:"
 
@@ -28311,8 +28338,8 @@ msgstr ""
 msgid "Thank you for your Message!"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:192
-msgid "The &quot;Default Font&quot; cannot be deleted."
+#: includes/admin/option_tabs/avia_upload.php:196
+msgid "The &quot;Default&quot; icons cannot be deleted."
 msgstr ""
 
 #: template-archives.php:71
@@ -28767,7 +28794,7 @@ msgstr ""
 msgid "Theme Options"
 msgstr "Nastavení šablony"
 
-#: includes/admin/option_tabs/avia_upload.php:92
+#: includes/admin/option_tabs/avia_upload.php:96
 msgid "Theme Reset All Options Button"
 msgstr ""
 
@@ -29145,8 +29172,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:822
 msgid ""
 "This will allow you to disable loading the default font &quot;Entypo "
-"Fontello&quot; with a theme option to speed up page loading in future when "
-"all core icons have been replaced."
+"Fontello&quot; in theme option &quot;SVG Iconset and Iconfont Manager&quot; "
+"to speed up page loading."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:624
@@ -29162,7 +29189,7 @@ msgid ""
 " you will need to uncheck this option first"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:190
+#: includes/admin/option_tabs/avia_upload.php:194
 msgid ""
 "Those icons can then be used in the &quot;Layout Builder&quot; elements."
 msgstr ""
@@ -29514,7 +29541,7 @@ msgstr ""
 msgid "To reflect your cookie selections we need to reload the page."
 msgstr ""
 
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:106
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:109
 msgid "to RSS Feed"
 msgstr ""
 
@@ -29573,7 +29600,7 @@ msgid "To which page do you want the user send to?"
 msgstr ""
 
 #: framework/php/class-form-generator.php:768
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1096
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1131
 msgid "Today"
 msgstr ""
 
@@ -30043,7 +30070,7 @@ msgstr ""
 msgid "Unable to delete file %s."
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:424
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:433
 msgid "Unable to extract the file"
 msgstr ""
 
@@ -30129,7 +30156,7 @@ msgstr ""
 msgid "Unknown error code"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1702
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1938
 msgid "unknown iconname"
 msgstr ""
 
@@ -30218,7 +30245,7 @@ msgid ""
 "shop description or as a responsive image. Select the size in media library."
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:173
+#: includes/admin/option_tabs/avia_upload.php:177
 msgid ""
 "Upload a Layout Builder Templates file here. The uploaded templates will be "
 "added to the existing templates. Same named templates will not be "
@@ -30242,7 +30269,7 @@ msgstr ""
 msgid "Upload a logo or enter the URL"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:76
+#: includes/admin/option_tabs/avia_upload.php:80
 msgid ""
 "Upload a theme configuration file here. Note that the configuration file "
 "settings will overwrite your current configuration and you can't restore the "
@@ -30264,7 +30291,7 @@ msgstr ""
 msgid "Upload custom image"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:177
+#: includes/admin/option_tabs/avia_upload.php:181
 msgid "Upload Layout Builder Templates File"
 msgstr ""
 
@@ -30274,7 +30301,7 @@ msgid ""
 "or until the map is loaded"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:80
+#: includes/admin/option_tabs/avia_upload.php:84
 msgid "Upload Theme Settings File"
 msgstr ""
 
@@ -30283,11 +30310,11 @@ msgstr ""
 msgid "Upload your own seamless pattern"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:222
+#: includes/admin/option_tabs/avia_upload.php:227
 msgid "Upload/Select Font Zip File"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:202
+#: includes/admin/option_tabs/avia_upload.php:207
 msgid "Upload/Select SVG or Fontello Font Zip"
 msgstr ""
 
@@ -31083,10 +31110,10 @@ msgid ""
 "&raquo; Performance"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:866
-#: framework/php/function-set-avia-ajax.php:927
+#: framework/php/function-set-avia-ajax.php:809
+#: framework/php/function-set-avia-ajax.php:870
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:231
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:275
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:276
 #: framework/php/font-management/class-avia-font-management-base.php:270
 #: framework/php/font-management/class-avia-font-management-base.php:338
 msgid ""
@@ -31132,7 +31159,7 @@ msgstr ""
 msgid "Valid values x,y,z: 0-1, Angle: e.g. 45deg"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:211
+#: includes/admin/option_tabs/avia_upload.php:216
 msgid ""
 "Variable fonts can be uploaded, but currently only <a href=\"https://fonts."
 "google.com/knowledge/glossary/instance/\" target=\"_blank\" rel=\"noopener "
@@ -31226,11 +31253,11 @@ msgstr ""
 msgid "Video Slide"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1181
+#: framework/php/function-set-avia-ajax.php:1124
 msgid "Video thumbnail already exist in the media library (Attachment ID: %d)"
 msgstr ""
 
-#: framework/php/function-set-avia-ajax.php:1263
+#: framework/php/function-set-avia-ajax.php:1206
 msgid "Video thumbnail is now available in the media library:"
 msgstr ""
 
@@ -31264,8 +31291,8 @@ msgstr ""
 msgid "View Portfolio Entry"
 msgstr ""
 
-#: includes/config-enfold/functions-enfold.php:437
-#: config-templatebuilder/avia-shortcodes/search/search.php:1094
+#: includes/config-enfold/functions-enfold.php:448
+#: config-templatebuilder/avia-shortcodes/search/search.php:1096
 msgid "View results on search page"
 msgstr ""
 
@@ -31364,15 +31391,15 @@ msgstr ""
 msgid "was added to the cart"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:320
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:329
 msgid "Was not able to create temp folder"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:355
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:364
 msgid "Was not able to create ZIP subfolder"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:292
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:287
 msgid "Was not able to remove font"
 msgstr ""
 
@@ -31380,15 +31407,15 @@ msgstr ""
 msgid "Was not able to retrieve the font name from your uploaded folder"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:328
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:337
 msgid "Was not able to work with Zip Archive"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:789
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:798
 msgid "Was not able to write a config file"
 msgstr ""
 
-#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:653
+#: config-templatebuilder/avia-template-builder/php/class-font-manager.php:662
 msgid "Was not able to write a config file for svg icon set"
 msgstr ""
 
@@ -32045,7 +32072,7 @@ msgstr ""
 msgid "Width:"
 msgstr ""
 
-#: includes/config-enfold/init-base-data.php:344
+#: includes/config-enfold/init-base-data.php:361
 msgid ""
 "Will be displayed if you selected a header layout that supports a submenu"
 msgstr ""
@@ -32228,8 +32255,8 @@ msgstr ""
 msgid "X SVG Profile Link"
 msgstr ""
 
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:129
-#: framework/php/widgets/widget-classes/class-avia-socialcount.php:169
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:133
+#: framework/php/widgets/widget-classes/class-avia-socialcount.php:173
 msgid "X Username:"
 msgstr ""
 
@@ -32504,7 +32531,7 @@ msgid ""
 "video files (mp4, webm, ogv)"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:188
+#: includes/admin/option_tabs/avia_upload.php:192
 msgid "You can also upload additional Iconfont packages generated with"
 msgstr ""
 
@@ -32727,13 +32754,13 @@ msgstr ""
 msgid "You can set when the gallery thumbnail animation starts"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:186
+#: includes/admin/option_tabs/avia_upload.php:190
 msgid ""
 "You can upload additional SVG iconset zip packages (added with 7.0). Also "
 "colored svg can be used. For more detailed information check our"
 msgstr ""
 
-#: includes/admin/option_tabs/avia_upload.php:210
+#: includes/admin/option_tabs/avia_upload.php:215
 msgid ""
 "You can upload your custom type font zip files. Intended for <a href=\"https:"
 "//fonts.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google "
