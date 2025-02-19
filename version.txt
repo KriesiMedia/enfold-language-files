@@ -1,3 +1,6 @@
+2025_02_19
+- Italian language files it_IT (version 7.0, provided by BigBatT - info@luigicircello.it)
+
 2025_02_18
 - Dutch language files nl_NL (version 7.0, provided by EZWebdesign - Roger Hoen )
 
