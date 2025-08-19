@@ -1,3 +1,6 @@
+2025_08_19
+- Dutch language files nl_NL (version 7.1.1, provided by EZWebdesign - Roger Hoen )
+
 2025_05_27
 - Italian language files it_IT (version 7.1.1, provided by BigBatT - info@luigicircello.it)
 
@@ -392,3 +395,4 @@ fixed: translation error in Dutch language file which was causing critical error
 
 2020-06-01 Enfold v4.7.5 
 - Initial Upload
+
