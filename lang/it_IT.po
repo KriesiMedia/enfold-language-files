@@ -1,20 +1,20 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v7.1.1\n"
+"Project-Id-Version: Italian Enfold Language v7.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-11 06:50+0200\n"
-"PO-Revision-Date: 2025-04-11 06:52+0200\n"
+"POT-Creation-Date: 2025-08-22 13:40+0300\n"
+"PO-Revision-Date: 2025-08-22 13:42+0300\n"
 "Last-Translator: \n"
-"Language-Team: BigBatT (info@luigicircello.it\n"
+"Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: "
-"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Textdomain-Support: yes\n"
 "X-Loco-Version: 2.5.4; wp-5.8.1\n"
@@ -189,16 +189,19 @@ msgstr "Editore classico"
 msgid "Advanced Layout Builder"
 msgstr "Generatore di layout avanzato"
 
+#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:814
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Classic Editor"
 msgstr "Modifica&#8220;%s&#8221; con Editore classico"
 
+#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:824
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Block Editor"
 msgstr "Modifica &#8220;%s&#8221; con Editore blocchi"
 
+#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:830
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Gutenberg Editor"
@@ -407,7 +410,7 @@ msgstr "Titolo del widget:"
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:149
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:589
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:72
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:183
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:184
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:120
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:629
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:156
@@ -440,8 +443,8 @@ msgstr "Nome utente:"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:163
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:242
 msgid ""
-"Your Instagram User Name. This must be from a connected account on the "
-"&quot;Configure&quot; tab of the plugin."
+"Your Instagram User Name. This must be from a connected account on the &quot;"
+"Configure&quot; tab of the plugin."
 msgstr ""
 "Il tuo nome utente Instagram. Deve provenire da un account collegato su "
 "&quot;Configura&quot; scheda del plugin."
@@ -732,11 +735,11 @@ msgstr "Seleziona Media:"
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:442
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:443
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:444
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:232
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:233
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:234
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:235
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:236
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:237
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:367
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:368
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:369
@@ -1492,15 +1495,6 @@ msgstr "Carica altre foto"
 msgid "Follow Me"
 msgstr "Seguimi"
 
-# @ avia_framework
-#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
-msgid "number"
-msgstr "numero"
-
-#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
-msgid "shadow"
-msgstr "ombra"
-
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:87
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-mailchimp.php:100
 msgid "Please provide a valid email address."
@@ -1640,9 +1634,9 @@ msgstr "Carica di più"
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-masonry.php:748
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1416
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1418
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1154
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1159
 #: framework/php/widgets/legacy/class-avia-combo.php:512
-#: framework/php/widgets/widget-classes/class-avia-combo.php:625
+#: framework/php/widgets/widget-classes/class-avia-combo.php:694
 #: includes/loop-author.php:205 includes/loop-index.php:548
 #: includes/loop-search.php:163
 msgid "by"
@@ -1912,7 +1906,7 @@ msgstr "Stile"
 #: config-templatebuilder/avia-shortcodes/team/team.php:139
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:189
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:605
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:117
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:118
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:158
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:671
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:199
@@ -2026,8 +2020,8 @@ msgstr "Loop Video Player"
 msgid ""
 "Check if you want to loop the video and play it from the beginning again"
 msgstr ""
-"Controllare se si vuole far girare il video in loop e riprodurlo "
-"dall&rsquo;inizio"
+"Controllare se si vuole far girare il video in loop e riprodurlo dall&rsquo;"
+"inizio"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcode-legacy/video.php:267
@@ -2446,16 +2440,16 @@ msgstr "Minimal (senza bordi, senza sfondo)"
 #: includes/admin/register-backend-advanced-styles.php:221
 #: includes/admin/register-backend-advanced-styles.php:240
 #: includes/admin/register-backend-advanced-styles.php:259
-#: includes/admin/register-backend-advanced-styles.php:287
-#: includes/admin/register-backend-advanced-styles.php:308
-#: includes/admin/register-backend-advanced-styles.php:353
-#: includes/admin/register-backend-advanced-styles.php:379
-#: includes/admin/register-backend-advanced-styles.php:412
-#: includes/admin/register-backend-advanced-styles.php:490
-#: includes/admin/register-backend-advanced-styles.php:588
-#: includes/admin/register-backend-advanced-styles.php:663
-#: includes/admin/register-backend-advanced-styles.php:711
-#: includes/admin/register-backend-advanced-styles.php:795
+#: includes/admin/register-backend-advanced-styles.php:288
+#: includes/admin/register-backend-advanced-styles.php:309
+#: includes/admin/register-backend-advanced-styles.php:354
+#: includes/admin/register-backend-advanced-styles.php:380
+#: includes/admin/register-backend-advanced-styles.php:413
+#: includes/admin/register-backend-advanced-styles.php:491
+#: includes/admin/register-backend-advanced-styles.php:589
+#: includes/admin/register-backend-advanced-styles.php:664
+#: includes/admin/register-backend-advanced-styles.php:712
+#: includes/admin/register-backend-advanced-styles.php:796
 msgid "Font Color"
 msgstr "Colore carattere"
 
@@ -2496,7 +2490,7 @@ msgstr "Colore personalizzato"
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:365
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:325
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:381
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:269
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:270
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:408
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3401
 msgid "Custom Font Color"
@@ -2526,6 +2520,7 @@ msgstr "Seleziona un colore personalizzato per il tuo lettore qui"
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:571
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:507
 #: config-templatebuilder/avia-shortcodes/section/section.php:513
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:287
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:502
 #: includes/admin/option_tabs/avia_styling.php:186
 #: includes/admin/register-backend-advanced-styles.php:75
@@ -2538,13 +2533,13 @@ msgstr "Seleziona un colore personalizzato per il tuo lettore qui"
 #: includes/admin/register-backend-advanced-styles.php:222
 #: includes/admin/register-backend-advanced-styles.php:241
 #: includes/admin/register-backend-advanced-styles.php:260
-#: includes/admin/register-backend-advanced-styles.php:288
-#: includes/admin/register-backend-advanced-styles.php:309
-#: includes/admin/register-backend-advanced-styles.php:326
-#: includes/admin/register-backend-advanced-styles.php:354
-#: includes/admin/register-backend-advanced-styles.php:413
-#: includes/admin/register-backend-advanced-styles.php:710
-#: includes/admin/register-backend-advanced-styles.php:794
+#: includes/admin/register-backend-advanced-styles.php:289
+#: includes/admin/register-backend-advanced-styles.php:310
+#: includes/admin/register-backend-advanced-styles.php:327
+#: includes/admin/register-backend-advanced-styles.php:355
+#: includes/admin/register-backend-advanced-styles.php:414
+#: includes/admin/register-backend-advanced-styles.php:711
+#: includes/admin/register-backend-advanced-styles.php:795
 msgid "Background Color"
 msgstr "Colore di sfondo"
 
@@ -2570,6 +2565,7 @@ msgstr "Seleziona un colore di sfondo"
 #: config-templatebuilder/avia-shortcodes/section/section.php:519
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:294
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:297
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:293
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:532
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:420
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3390
@@ -2589,19 +2585,19 @@ msgstr "Scegliere un colore di sfondo personalizzato per il lettore qui"
 #: config-templatebuilder/avia-shortcodes/search/search.php:497
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:172
 #: includes/admin/register-backend-advanced-styles.php:89
-#: includes/admin/register-backend-advanced-styles.php:289
-#: includes/admin/register-backend-advanced-styles.php:310
-#: includes/admin/register-backend-advanced-styles.php:355
-#: includes/admin/register-backend-advanced-styles.php:380
-#: includes/admin/register-backend-advanced-styles.php:414
-#: includes/admin/register-backend-advanced-styles.php:495
-#: includes/admin/register-backend-advanced-styles.php:709
-#: includes/admin/register-backend-advanced-styles.php:815
-#: includes/admin/register-backend-advanced-styles.php:833
-#: includes/admin/register-backend-advanced-styles.php:851
-#: includes/admin/register-backend-advanced-styles.php:869
-#: includes/admin/register-backend-advanced-styles.php:887
-#: includes/admin/register-backend-advanced-styles.php:905
+#: includes/admin/register-backend-advanced-styles.php:290
+#: includes/admin/register-backend-advanced-styles.php:311
+#: includes/admin/register-backend-advanced-styles.php:356
+#: includes/admin/register-backend-advanced-styles.php:381
+#: includes/admin/register-backend-advanced-styles.php:415
+#: includes/admin/register-backend-advanced-styles.php:496
+#: includes/admin/register-backend-advanced-styles.php:710
+#: includes/admin/register-backend-advanced-styles.php:816
+#: includes/admin/register-backend-advanced-styles.php:834
+#: includes/admin/register-backend-advanced-styles.php:852
+#: includes/admin/register-backend-advanced-styles.php:870
+#: includes/admin/register-backend-advanced-styles.php:888
+#: includes/admin/register-backend-advanced-styles.php:906
 msgid "Border Color"
 msgstr "Colore del bordo"
 
@@ -2656,7 +2652,7 @@ msgstr "Colore del bordo personalizzato"
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:458
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:311
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:523
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:284
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:318
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:572
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:909
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:395
@@ -3521,9 +3517,9 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:442
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:443
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:444
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:234
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:235
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:236
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:237
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:369
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:370
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:371
@@ -3568,7 +3564,7 @@ msgstr "Nascosto"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:889
 #: config-templatebuilder/avia-shortcodes/team/team.php:416
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:461
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:246
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:247
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:435
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:642
 msgid "Font Sizes"
@@ -3582,6 +3578,7 @@ msgstr "Dimensioni dei caratteri"
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:526
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:466
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:392
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:344
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:298
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1177
 msgid "Padding"
@@ -4823,8 +4820,8 @@ msgstr "Dataset Datapoints"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:739
 msgid ""
-"Allowed color formats are string in hexadecimal, RGB, named colors or HSL "
-"(e.g. #fefefe, rgba(214,87,153,0.58), green)."
+"Allowed color formats are string in hexadecimal, RGB, named colors or HSL (e."
+"g. #fefefe, rgba(214,87,153,0.58), green)."
 msgstr ""
 "I formati di colore consentiti sono stringa in esadecimale, RGB, colori "
 "denominati o HSL (ad esempio, #fefefe, rgba(214,87,153,0.58), verde)."
@@ -4834,9 +4831,8 @@ msgid ""
 "Add a color for each datapoint, separate by ; (e.g. #fefefe;#efefef;green). "
 "Missing colors will loop from the beginning again."
 msgstr ""
-"Aggiungere un colore per ogni punto dati, separato da ; (ad esempio, "
-"#fefefe;#efefef;verde). I colori mancanti verranno rimessi in ciclo "
-"dall'inizio."
+"Aggiungere un colore per ogni punto dati, separato da ; (ad esempio, #fefefe;"
+"#efefef;verde). I colori mancanti verranno rimessi in ciclo dall'inizio."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:741
 msgid "Depending on the selected chart type not all settings will be used."
@@ -4902,9 +4898,9 @@ msgstr "Selezionare la larghezza del bordo o della linea."
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:791
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:583
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:252
-#: includes/admin/register-backend-advanced-styles.php:356
-#: includes/admin/register-backend-advanced-styles.php:381
-#: includes/admin/register-backend-advanced-styles.php:564
+#: includes/admin/register-backend-advanced-styles.php:357
+#: includes/admin/register-backend-advanced-styles.php:382
+#: includes/admin/register-backend-advanced-styles.php:565
 msgid "Border Radius"
 msgstr "Arrotondamento Bordo"
 
@@ -5524,6 +5520,7 @@ msgstr "Altezza"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:645
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:333
 msgid "Inner Padding"
 msgstr "Padding Interno"
 
@@ -5603,6 +5600,7 @@ msgstr "Seleziona il tipo di sfondo per la colonna."
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1142
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1181
 #: config-templatebuilder/avia-shortcodes/section/section.php:514
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:288
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:503
 msgid "Background Gradient"
 msgstr "Sfondo Sfumato"
@@ -5611,6 +5609,7 @@ msgstr "Sfondo Sfumato"
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:750
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:273
 #: config-templatebuilder/avia-shortcodes/section/section.php:520
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:294
 msgid ""
 "Select a custom background color for this cell here. Leave empty for default "
 "color"
@@ -5636,8 +5635,8 @@ msgid ""
 "Leave empty if you don't want to use a background image"
 msgstr ""
 "Caricate una nuova immagine o scegliete un&rsquo;immagine esistente dalla "
-"libreria multimediale. Lasciare vuoto se non si desidera utilizzare "
-"un&rsquo;immagine di sfondo"
+"libreria multimediale. Lasciare vuoto se non si desidera utilizzare un&rsquo;"
+"immagine di sfondo"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:773
@@ -5797,7 +5796,7 @@ msgstr "Cancellare Colonna"
 #: config-templatebuilder/avia-shortcodes/section/section.php:863
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:653
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:570
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2079
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2085
 msgid "Save Element as Template"
 msgstr "Salva Elemento come Modello"
 
@@ -5875,9 +5874,9 @@ msgstr "Crea una singola colonna con l'80&percnt; di larghezza"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/comments/comments.php:26
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1186
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1191
 #: framework/php/widgets/legacy/class-avia-combo.php:195
-#: framework/php/widgets/widget-classes/class-avia-combo.php:205
+#: framework/php/widgets/widget-classes/class-avia-combo.php:256
 #: includes/loop-author.php:169 includes/loop-author.php:171
 #: includes/loop-index.php:512 includes/loop-index.php:514
 #: includes/loop-search.php:99 includes/loop-search.php:101
@@ -6231,8 +6230,8 @@ msgid ""
 msgstr ""
 "Un punteggio di 1.0 è molto probabilmente una buona interazione, 0.0 è molto "
 "probabilmente un bot. Google raccomanda una soglia di 0.5 per impostazione "
-"predefinita. Nel caso in cui incontriamo un non umano chiediamo "
-"all&rsquo;utente di verificare con la casella di controllo della versione 2."
+"predefinita. Nel caso in cui incontriamo un non umano chiediamo all&rsquo;"
+"utente di verificare con la casella di controllo della versione 2."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:378
@@ -6282,7 +6281,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/table/table.php:244
 #: config-templatebuilder/avia-shortcodes/team/team.php:433
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:477
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:263
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:264
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:452
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:476
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:526
@@ -6317,7 +6316,7 @@ msgstr ""
 #: includes/admin/register-admin-option-values.php:64
 #: includes/admin/register-admin-option-values.php:73
 #: includes/admin/register-admin-option-values.php:146
-#: includes/admin/register-backend-advanced-styles.php:524
+#: includes/admin/register-backend-advanced-styles.php:525
 msgid "Default"
 msgstr "Predefinito"
 
@@ -6551,9 +6550,9 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:643
 msgid ""
-"When selecting &quot;Valid E-Mail address with German Umlaut&quot; or "
-"&quot;Valid E-Mail address, extended characterset&quot; keep in mind, that "
-"not all E-Mail systems support these characters properly."
+"When selecting &quot;Valid E-Mail address with German Umlaut&quot; or &quot;"
+"Valid E-Mail address, extended characterset&quot; keep in mind, that not all "
+"E-Mail systems support these characters properly."
 msgstr ""
 "Quando selezioni &quot;Indirizzo e-mail valido con la dieresi tedesca&quot; "
 "o &quot;Indirizzo e-mail valido, insiemi di caratteri estesi&quot; tieni "
@@ -6979,7 +6978,7 @@ msgstr "Colori Font"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:899
 #: config-templatebuilder/avia-shortcodes/team/team.php:427
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:471
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:257
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:258
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:470
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:520
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:881
@@ -7016,7 +7015,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:906
 #: config-templatebuilder/avia-shortcodes/team/team.php:434
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:478
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:264
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:265
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:453
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:477
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:527
@@ -7062,7 +7061,7 @@ msgstr "Definisci colori personalizzati"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:923
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:484
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:508
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:270
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:271
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:484
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:496
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:508
@@ -7457,8 +7456,8 @@ msgstr "Colori solo numeri"
 msgid ""
 "Select predefined colors or use custom colors for &quot;Numbers only&quot;"
 msgstr ""
-"Selezionare i colori predefiniti o utilizzare colori personalizzati  "
-"&quot;Solo per i numeri&quot;"
+"Selezionare i colori predefiniti o utilizzare colori personalizzati  &quot;"
+"Solo per i numeri&quot;"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:496
@@ -8956,7 +8955,7 @@ msgstr "Indirizzo"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:656
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:974
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1333
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1339
 #: includes/loop-index.php:11
 msgid "Admin notice for:"
 msgstr "Avviso di amministrazione per:"
@@ -9005,8 +9004,8 @@ msgid ""
 "Leave empty if you don't want to use a background image."
 msgstr ""
 "Caricate una nuova immagine o scegliete un&rsquo;immagine esistente dalla "
-"libreria multimediale. Lasciare vuoto se non si desidera utilizzare "
-"un&rsquo;immagine di sfondo."
+"libreria multimediale. Lasciare vuoto se non si desidera utilizzare un&rsquo;"
+"immagine di sfondo."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:301
@@ -9516,8 +9515,8 @@ msgstr "Dimensioni dei caratteri di intestazione"
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:304
 msgid "Select a custom font size for the heading."
 msgstr ""
-"Selezionare una dimensione di carattere personalizzata per "
-"l&rsquo;intestazione."
+"Selezionare una dimensione di carattere personalizzata per l&rsquo;"
+"intestazione."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:327
@@ -9775,21 +9774,21 @@ msgstr ""
 #: includes/admin/register-backend-advanced-styles.php:223
 #: includes/admin/register-backend-advanced-styles.php:242
 #: includes/admin/register-backend-advanced-styles.php:261
-#: includes/admin/register-backend-advanced-styles.php:290
-#: includes/admin/register-backend-advanced-styles.php:311
-#: includes/admin/register-backend-advanced-styles.php:497
-#: includes/admin/register-backend-advanced-styles.php:572
-#: includes/admin/register-backend-advanced-styles.php:589
-#: includes/admin/register-backend-advanced-styles.php:665
-#: includes/admin/register-backend-advanced-styles.php:714
-#: includes/admin/register-backend-advanced-styles.php:776
-#: includes/admin/register-backend-advanced-styles.php:796
-#: includes/admin/register-backend-advanced-styles.php:816
-#: includes/admin/register-backend-advanced-styles.php:834
-#: includes/admin/register-backend-advanced-styles.php:852
-#: includes/admin/register-backend-advanced-styles.php:870
-#: includes/admin/register-backend-advanced-styles.php:888
-#: includes/admin/register-backend-advanced-styles.php:906
+#: includes/admin/register-backend-advanced-styles.php:291
+#: includes/admin/register-backend-advanced-styles.php:312
+#: includes/admin/register-backend-advanced-styles.php:498
+#: includes/admin/register-backend-advanced-styles.php:573
+#: includes/admin/register-backend-advanced-styles.php:590
+#: includes/admin/register-backend-advanced-styles.php:666
+#: includes/admin/register-backend-advanced-styles.php:715
+#: includes/admin/register-backend-advanced-styles.php:777
+#: includes/admin/register-backend-advanced-styles.php:797
+#: includes/admin/register-backend-advanced-styles.php:817
+#: includes/admin/register-backend-advanced-styles.php:835
+#: includes/admin/register-backend-advanced-styles.php:853
+#: includes/admin/register-backend-advanced-styles.php:871
+#: includes/admin/register-backend-advanced-styles.php:889
+#: includes/admin/register-backend-advanced-styles.php:907
 msgid "Font Size"
 msgstr "Dimensione carattere"
 
@@ -10126,7 +10125,7 @@ msgstr "Scegli l&rsquo;allineamento della vostra icona qui"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:290
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:639
-#: includes/admin/register-backend-advanced-styles.php:525
+#: includes/admin/register-backend-advanced-styles.php:526
 msgid "Icon Color"
 msgstr "Colore icona"
 
@@ -12182,7 +12181,7 @@ msgstr "Dopo"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1281
 #: includes/admin/option_tabs/avia_blog.php:465
 #: includes/admin/option_tabs/avia_cookie.php:393
-#: includes/admin/register-backend-advanced-styles.php:534
+#: includes/admin/register-backend-advanced-styles.php:535
 msgid "Buttons"
 msgstr "Pulsanti"
 
@@ -12595,8 +12594,8 @@ msgid ""
 "Enter a short descriptive text that appears if the user places his mouse "
 "above the hotspot"
 msgstr ""
-"Immettere un breve testo descrittivo che viene visualizzato se "
-"l&rsquo;utente posiziona il suo mouse sopra l&rsquo;hotspot"
+"Immettere un breve testo descrittivo che viene visualizzato se l&rsquo;"
+"utente posiziona il suo mouse sopra l&rsquo;hotspot"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:494
@@ -12896,7 +12895,7 @@ msgstr "Selezionare la risoluzione delle immagini."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:387
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1847
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1853
 msgid "Custom CSS Class"
 msgstr "Classe CSS personalizzata"
 
@@ -13638,7 +13637,7 @@ msgstr "Stile marcatore"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:761
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1474
-#: includes/admin/register-backend-advanced-styles.php:327
+#: includes/admin/register-backend-advanced-styles.php:328
 msgid "Opacity"
 msgstr "Opacità"
 
@@ -13736,8 +13735,8 @@ msgstr "Dimensione dell'immagine del partner/logo"
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:367
 msgid ""
 "Choose the image size. When using svg images you must select an image size. "
-"If &quot;No scaling&quot; is used we make a fallback to WP default "
-"&quot;Medium&quot;."
+"If &quot;No scaling&quot; is used we make a fallback to WP default &quot;"
+"Medium&quot;."
 msgstr ""
 "Scegli la dimensione dell'immagine. Quando usi immagini svg devi selezionare "
 "una dimensione dell'immagine. Se selezionato &quot;No scaling&quot; sarà "
@@ -13763,8 +13762,8 @@ msgstr "L'immagine si estende per riempire lo spazio disponibile"
 msgid ""
 "Do not stretch image. If more space is available image will be centered."
 msgstr ""
-"Non allungare l&rsquo;immagine. Se è disponibile più spazio, "
-"l&rsquo;immagine sarà centrata."
+"Non allungare l&rsquo;immagine. Se è disponibile più spazio, l&rsquo;"
+"immagine sarà centrata."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:405
@@ -13889,12 +13888,12 @@ msgstr "Impostare una posizione per l'animazione."
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:278
 msgid ""
 "Either upload a new or choose an existing lottie animation from your media "
-"library. Supported filetype extensions are &quot;.lottie&quot; and "
-"&quot;.json&quot;."
+"library. Supported filetype extensions are &quot;.lottie&quot; and &quot;."
+"json&quot;."
 msgstr ""
 "Caricare una nuova animazione lottie o sceglierne una esistente dalla "
-"propria libreria multimediale. Le estensioni di file supportate sono "
-"&quot;.lottie&quot; e &quot;.json&quot;."
+"propria libreria multimediale. Le estensioni di file supportate sono &quot;."
+"lottie&quot; e &quot;.json&quot;."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:279
 #, php-format
@@ -14362,7 +14361,7 @@ msgstr "Link a:"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/magazine/magazine.php:1477
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1213
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1218
 #: includes/loop-index.php:576 includes/loop-index.php:641
 #: includes/loop-portfolio-single.php:64
 msgid "Tags:"
@@ -14883,10 +14882,10 @@ msgid ""
 msgstr ""
 "Perfetto Masonry automatico: Visualizzare una griglia dove la maggior parte "
 "delle immagini hanno la stessa dimensione, solo le immagini molto larghe "
-"hanno il doppio della larghezza e quelle molto alte il doppio "
-"dell&rsquo;altezza. Per qualificarsi per &quot;very wide&quot; o &quot;very "
-"high&quot;very high&quot; l&rsquo;immagine deve avere un rapporto di aspetto "
-"di 16:9 o superiore"
+"hanno il doppio della larghezza e quelle molto alte il doppio dell&rsquo;"
+"altezza. Per qualificarsi per &quot;very wide&quot; o &quot;very high&quot;"
+"very high&quot; l&rsquo;immagine deve avere un rapporto di aspetto di 16:9 o "
+"superiore"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:405
@@ -15880,7 +15879,7 @@ msgstr "Categorie"
 #: config-woocommerce/admin-import.php:179
 #: config-woocommerce/admin-import.php:181
 #: framework/php/widgets/legacy/class-avia-combo.php:207
-#: framework/php/widgets/widget-classes/class-avia-combo.php:217
+#: framework/php/widgets/widget-classes/class-avia-combo.php:268
 #: includes/admin/register-portfolio.php:175
 msgid "Tags"
 msgstr "Tags"
@@ -16167,7 +16166,7 @@ msgstr "Anteprima immagine"
 #: config-templatebuilder/avia-shortcodes/postslider/postslider.php:884
 #: config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.php:1225
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3283
-#: framework/php/function-set-avia-frontend.php:1784
+#: framework/php/function-set-avia-frontend.php:1792
 #: includes/loop-index.php:151 includes/loop-index.php:152
 #: includes/loop-index.php:597 includes/loop-index.php:613
 #: includes/loop-page.php:49 includes/loop-portfolio-single.php:48
@@ -16176,7 +16175,7 @@ msgstr "Continua a leggere"
 
 # @ LayerSlider
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:961
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:966
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:668
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:973
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:480
@@ -16184,13 +16183,13 @@ msgid "Slide"
 msgstr "Diapositiva"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1150
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1155
 #, php-format
 msgid "Posts by %s"
 msgstr "Articoli scritti da: %s"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1186
+#: config-templatebuilder/avia-shortcodes/postslider/postslider.php:1191
 #: includes/loop-author.php:170 includes/loop-index.php:513
 #: includes/loop-search.php:100
 msgid "Comment"
@@ -16350,6 +16349,8 @@ msgid "Display the price for the current product."
 msgstr "Mostra il prezzo per il prodotto corrente."
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_review.php:44
+#: framework/php/widgets/widget-classes/class-avia-combo.php:74
+#: framework/php/widgets/widget-classes/class-avia-combo.php:245
 msgid "Product Reviews"
 msgstr "Recensioni Prodotto"
 
@@ -16360,8 +16361,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_review.php:69
 msgid ""
-"Display and allow reviews for this product. Needs to enable reviews in WC "
-"-&gt; Settings -&gt; Product -&gt; Product -&gt; Enable reviews"
+"Display and allow reviews for this product. Needs to enable reviews in WC -"
+"&gt; Settings -&gt; Product -&gt; Product -&gt; Enable reviews"
 msgstr ""
 "Visualizza e permette le recensioni per questo prodotto. Deve abilitare le "
 "recensioni in WC -&gt; Impostazioni -&gt; Prodotto -&gt; Prodotto -&gt; "
@@ -17062,8 +17063,8 @@ msgstr "Imposta il raggio del bordo del campo di input e del pulsante"
 #: config-templatebuilder/avia-shortcodes/search/search.php:445
 msgid "Select a custom border width for the search input and button"
 msgstr ""
-"Seleziona una larghezza del bordo personalizzata per il pulsante e "
-"l&rsquo;input di ricerca"
+"Seleziona una larghezza del bordo personalizzata per il pulsante e l&rsquo;"
+"input di ricerca"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:458
 msgid "Form Container"
@@ -17158,12 +17159,12 @@ msgstr "Colore Icona/Font Pulsante personalizzato"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/search/search.php:585
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1161
-#: includes/admin/register-backend-advanced-styles.php:813
-#: includes/admin/register-backend-advanced-styles.php:831
-#: includes/admin/register-backend-advanced-styles.php:849
-#: includes/admin/register-backend-advanced-styles.php:867
-#: includes/admin/register-backend-advanced-styles.php:885
-#: includes/admin/register-backend-advanced-styles.php:903
+#: includes/admin/register-backend-advanced-styles.php:814
+#: includes/admin/register-backend-advanced-styles.php:832
+#: includes/admin/register-backend-advanced-styles.php:850
+#: includes/admin/register-backend-advanced-styles.php:868
+#: includes/admin/register-backend-advanced-styles.php:886
+#: includes/admin/register-backend-advanced-styles.php:904
 msgid "Button Background Color"
 msgstr "Colore sfondo del pulsante"
 
@@ -17490,8 +17491,8 @@ msgid ""
 "defined above"
 msgstr ""
 "Carica una nuova, oppure scegliere un&rsquo;immagine esistente dalla "
-"libreria multimediale. Lasciare vuoto se si desidera utilizzare "
-"l&rsquo;immagine dello schema colore di sfondo definito sopra"
+"libreria multimediale. Lasciare vuoto se si desidera utilizzare l&rsquo;"
+"immagine dello schema colore di sfondo definito sopra"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:572
@@ -17623,8 +17624,8 @@ msgstr "Opacità Overlay"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:687
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:907
-#: includes/admin/register-backend-advanced-styles.php:491
-#: includes/admin/register-backend-advanced-styles.php:527
+#: includes/admin/register-backend-advanced-styles.php:492
+#: includes/admin/register-backend-advanced-styles.php:528
 msgid "Overlay Color"
 msgstr "Sovrapposizione colore"
 
@@ -18864,9 +18865,9 @@ msgstr "Transizione diapositiva"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:538
 msgid ""
-"Define a transition when switching between the slides. Fade forces "
-"&quot;Same Height&quot; for all slides. We recommend this setting in "
-"general. Slide Up/Down disables animations on elements in slides."
+"Define a transition when switching between the slides. Fade forces &quot;"
+"Same Height&quot; for all slides. We recommend this setting in general. "
+"Slide Up/Down disables animations on elements in slides."
 msgstr ""
 "Definire una transizione quando si passa da una diapositiva all'altra. "
 "Dissolvenza forza &quot;Stessa altezza&quot; per tutte le diapositive. Si "
@@ -20770,29 +20771,45 @@ msgid "Creates a simple text block with collapse support"
 msgstr "Crea un blocco di testo semplice con supporto per la compressione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:184
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:185
 msgid "Enter some content for this textblock"
 msgstr "Immettere qualche contenuto per questo blocco di testo"
 
 # @ avia_framework
 # @ avia_builder
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:187
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:188
 msgid "Click here to add your own text"
 msgstr "Clicca qui per aggiungere il proprio testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:199
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:200
 msgid "Textblock"
 msgstr "Blocco di testo"
 
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:228
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:229
 msgid "Textblock Font Sizes"
 msgstr "Dimensioni dei caratteri del blocco testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:256
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:257
 msgid "Textblock Font Colors"
 msgstr "Colori dei caratteri del blocco testo"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:280
+msgid "Textblock Background Color"
+msgstr "Colore di sfondo del blocco testo"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:281
+msgid "Select the type of background color for the textblock."
+msgstr "Selezionare il tipo di colore di sfondo per il blocco di testo."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:334
+msgid ""
+"Set the distance from the text content to the border of the textblock here."
+msgstr "Impostare qui la distanza tra il contenuto della colonna e il bordo."
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:68
 msgid "Timeline"
@@ -21397,8 +21414,8 @@ msgstr "Colore personalizzato +/- al passaggio del mouse"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:566
 msgid ""
-"Select a custom hover color for the toggle icon. Leave empty to use "
-"&quot;Custom Hover Font Color&quot;"
+"Select a custom hover color for the toggle icon. Leave empty to use &quot;"
+"Custom Hover Font Color&quot;"
 msgstr ""
 "Seleziona un colore personalizzato per le icone toggle. Lasciare vuoto per "
 "usare &quot;Nome colore carattere&quot;"
@@ -21483,9 +21500,9 @@ msgid ""
 "Enter any number of comma separated tags here. If sorting is active the user "
 "can filter the visible toggles with the help of these tags"
 msgstr ""
-"Inserisci qualsiasi numero di etichette separate da virgola qui. Se "
-"l&rsquo;ordinamento è attivo l&rsquo;utente può filtrare i toggles  visibili "
-"con l&rsquo;aiuto di questi tag"
+"Inserisci qualsiasi numero di etichette separate da virgola qui. Se l&rsquo;"
+"ordinamento è attivo l&rsquo;utente può filtrare i toggles  visibili con "
+"l&rsquo;aiuto di questi tag"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:810
@@ -22696,9 +22713,9 @@ msgid ""
 "Fontello&quot; in theme option &quot;SVG Iconset and Iconfont Manager&quot; "
 "to speed up page loading."
 msgstr ""
-"Ciò consente di disabilitare il caricamento del font predefinito "
-"&quot;Entypo Fontello&quot; nell'opzione del tema &quot;SVG Iconset and "
-"Iconfont Manager&quot; per velocizzare il caricamento della pagina."
+"Ciò consente di disabilitare il caricamento del font predefinito &quot;"
+"Entypo Fontello&quot; nell'opzione del tema &quot;SVG Iconset and Iconfont "
+"Manager&quot; per velocizzare il caricamento della pagina."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:43
 #: framework/php/base-classes/class-object-properties.php:41
@@ -22738,7 +22755,7 @@ msgstr ""
 "diventerà non disponibile in una release futura. Verificare la presenza di "
 "un metodo set o di un filtro."
 
-#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-base.php:185
+#: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-base.php:188
 #, php-format
 msgid ""
 "Already existing template %1$s is overwritten (%2$s). Make sure this is "
@@ -24099,8 +24116,8 @@ msgstr "Visibilità dei prodotti WooCommerce in primo piano"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:310
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:441
 msgid ""
-"Select the visibility of WooCommerce products depending on checkbox "
-"&quot;This is a featured product&quot; in catalog visibility. Can be set "
+"Select the visibility of WooCommerce products depending on checkbox &quot;"
+"This is a featured product&quot; in catalog visibility. Can be set "
 "independently for each product: Edit Product -&gt Publish panel -&gt Catalog "
 "visibility"
 msgstr ""
@@ -24211,8 +24228,8 @@ msgstr "Filtri di WooCommerce Sidebar"
 msgid ""
 "Allow to filter products for this element using the 3 WooCommerce sidebar "
 "filters: Filter Products by Price, Rating, Attribute. These filters are only "
-"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings "
-"-&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
+"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -"
+"&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
 "You may also use a custom widget area for the sidebar."
 msgstr ""
 "Consenti di filtrare i prodotti per questo elemento utilizzando i 3 filtri "
@@ -24442,8 +24459,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:358
 msgid ""
-"Please note that changing the default will overwrite any individual "
-"&quot;landscape&quot; width settings. Each item will have the same width"
+"Please note that changing the default will overwrite any individual &quot;"
+"landscape&quot; width settings. Each item will have the same width"
 msgstr ""
 "Si prega di notare che la modifica del valore predefinito sovrascriverà "
 "qualsiasi impostazione di larghezza individuale &quot;landscape&quot;. Ogni "
@@ -26041,8 +26058,8 @@ msgstr "Posizione di breakpoint mobile"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:248
 msgid ""
-"Select position of column when switching to fullwidth. Only used when "
-"&quot;Column Behaviour&quot; set to individual."
+"Select position of column when switching to fullwidth. Only used when &quot;"
+"Column Behaviour&quot; set to individual."
 msgstr ""
 "Seleziona la posizione della colonna quando si passa alla larghezza totale. "
 "Utilizzato solo quando &quot;Comportamento della colonna&quot; è impostato "
@@ -26135,11 +26152,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:467
 msgid ""
-"an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. "
-"mailto:test@admin.com)"
+"an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. mailto:"
+"test@admin.com)"
 msgstr ""
-"un messaggio di posta elettronica contenente @, può iniziare con "
-"&quot;mailto:&quot; (ad es. mailto:test@admin.com)"
+"un messaggio di posta elettronica contenente @, può iniziare con &quot;"
+"mailto:&quot; (ad es. mailto:test@admin.com)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:472
 msgid "link to a post: &quot;{post_type},{postID}&quot; (e.g. post,1058)"
@@ -26522,12 +26539,12 @@ msgstr "Colore di sfondo del pulsante personalizzato su Hover"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1169
-#: includes/admin/register-backend-advanced-styles.php:814
-#: includes/admin/register-backend-advanced-styles.php:832
-#: includes/admin/register-backend-advanced-styles.php:850
-#: includes/admin/register-backend-advanced-styles.php:868
-#: includes/admin/register-backend-advanced-styles.php:886
-#: includes/admin/register-backend-advanced-styles.php:904
+#: includes/admin/register-backend-advanced-styles.php:815
+#: includes/admin/register-backend-advanced-styles.php:833
+#: includes/admin/register-backend-advanced-styles.php:851
+#: includes/admin/register-backend-advanced-styles.php:869
+#: includes/admin/register-backend-advanced-styles.php:887
+#: includes/admin/register-backend-advanced-styles.php:905
 msgid "Button Font Color"
 msgstr "Colore Font Pulsante"
 
@@ -26769,8 +26786,8 @@ msgstr "Stile controllo Slider"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1721
 msgid ""
 "Select styling for the slider controls. Hiding will also disable all user "
-"interaction with the slider. Make sure to set the proper behaviour in "
-"&quot;Advanced - Animation&quot;."
+"interaction with the slider. Make sure to set the proper behaviour in &quot;"
+"Advanced - Animation&quot;."
 msgstr ""
 "Selezionare lo stile per i controlli del dispositivo di scorrimento. "
 "Nascondere disabiliterà anche tutte le interazioni dell'utente con il "
@@ -26832,8 +26849,8 @@ msgstr "Elementi di navigazione slider"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1777
 msgid ""
-"Select the navigation elements to loop through the slides. Default is "
-"&quot;Navigation Arrows&quot;"
+"Select the navigation elements to loop through the slides. Default is &quot;"
+"Navigation Arrows&quot;"
 msgstr ""
 "Selezionare gli elementi di navigazione da scorrere tra le diapositive. Il "
 "valore predefinito è &quot;Frecce di navigazione&quot;"
@@ -26863,8 +26880,8 @@ msgid ""
 "behaviour in &quot;Advanced - Animation&quot; when hiding controls."
 msgstr ""
 "Selezionare i controlli del dispositivo di scorrimento che si desidera "
-"visualizzare. Assicurati di impostare il comportamento corretto in "
-"&quot;Avanzate - Animazione&quot; quando nascondi i controlli."
+"visualizzare. Assicurati di impostare il comportamento corretto in &quot;"
+"Avanzate - Animazione&quot; quando nascondi i controlli."
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1826
@@ -27656,8 +27673,8 @@ msgstr "Colore di sovrapposizione della piega"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3362
 msgid ""
 "Select a custom color to hide the folded area. We recommend to use "
-"background color of surrounding container. ONLY valid hex values allowed "
-"(e.g. #fefefe or #fff). Leave empty to use the default"
+"background color of surrounding container. ONLY valid hex values allowed (e."
+"g. #fefefe or #fff). Leave empty to use the default"
 msgstr ""
 "Selezionare un colore personalizzato per nascondere l'area piegata. Si "
 "consiglia di utilizzare il colore di sfondo del contenitore circostante. "
@@ -27736,8 +27753,8 @@ msgid ""
 "Manage static templates. For editable templates use &quot;Custom "
 "Elements&quot;"
 msgstr ""
-"Gestire i modelli statici. Per i modelli modificabili, utilizzare "
-"&quot;Elementi personalizzati&quot;"
+"Gestire i modelli statici. Per i modelli modificabili, utilizzare &quot;"
+"Elementi personalizzati&quot;"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:84
@@ -28120,7 +28137,7 @@ msgstr "ID univoco per l'elemento ALB"
 msgid "Stores the unique ID for the element"
 msgstr "Memorizza l'ID univoco per l'elemento"
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1335
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1341
 #: includes/loop-index.php:13
 msgid ""
 "This element was disabled in your theme settings. You can activate it here:"
@@ -28128,13 +28145,13 @@ msgstr ""
 "Questo elemento è stato disabilitato nelle impostazioni del tema. Puoi "
 "attivarlo da qui:"
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1336
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1342
 #: includes/loop-index.php:14
 msgid "Performance Settings"
 msgstr "Impostazioni Prestazioni"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1739
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1745
 msgid ""
 "Enter a valid string (case insensitive) to open via URL hashtag. Make sure "
 "to only use allowed characters (latin characters, underscores, dashes and "
@@ -28147,11 +28164,11 @@ msgstr ""
 "possibile utilizzare caratteri speciali) e che sia una stringa hash valida. "
 "Non c'è un controllo per questo."
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1742
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1748
 msgid "Deeplink String"
 msgstr "Stringa Deeplink"
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1772
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1778
 msgid ""
 "Add a short content description to identify the element in backend when "
 "editing ALB content"
@@ -28160,12 +28177,12 @@ msgstr ""
 "si modifica il contenuto ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1775
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1781
 msgid "Short description for backend"
 msgstr "Breve descrizione per il backend"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1809
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1815
 msgid ""
 "Apply a custom id attribute to this element. Useful to apply individual "
 "styling via CSS or if you want to use anchor links to scroll to the element "
@@ -28176,7 +28193,7 @@ msgstr ""
 "riferimento per scorrere l'elemento quando si clicca su un link."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1810
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1816
 msgid ""
 "Use with caution, be sure to have a unique value on the page and also make "
 "sure to only use allowed characters (latin characters, underscores, dashes "
@@ -28187,12 +28204,12 @@ msgstr ""
 "trattini e numeri, non è possibile utilizzare caratteri speciali)."
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1813
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1819
 msgid "Custom ID Attribute"
 msgstr "Attributo ID personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1848
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1854
 msgid ""
 "Add a custom css class for the element here. Make sure to only use allowed "
 "characters (latin characters, underscores, dashes and numbers, no special "
@@ -28203,12 +28220,12 @@ msgstr ""
 "e numeri, nessun carattere speciale può essere usato)."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1856
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1862
 msgid "Lockable Custom CSS Class"
 msgstr "Classe CSS personalizzata bloccabile"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1857
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1863
 msgid ""
 "Add additional custom css classes for the element here. This field can be "
 "locked in template elements. Make sure to only use allowed characters (latin "
@@ -28220,11 +28237,11 @@ msgstr ""
 "solo i caratteri consentiti (caratteri latini, sottolineature, trattini e "
 "numeri, nessun carattere speciale può essere usato)"
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1889
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1895
 msgid "Aria Label Text"
 msgstr "Testo dell&rsquo;etichetta Aria"
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1890
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1896
 msgid ""
 "Add a custom text for the element here. This text will be added to the aria-"
 "label attribute and can be used by accessibility tree and screen readers. "
@@ -28235,23 +28252,23 @@ msgstr ""
 "lettori dell&rsquo;albero dell&rsquo;accessibilità e dagli screen reader. "
 "Lasciare vuoto se non necessario."
 
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1915
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:1921
 msgid "Developer"
 msgstr "Sviluppatore"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2076
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2082
 #: framework/php/class-htmlhelper.php:3007
 msgid "Edit Element"
 msgstr "Modifica elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2080
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2086
 msgid "Delete Element"
 msgstr "Elimina Elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2081
+#: config-templatebuilder/avia-template-builder/php/class-shortcode-template.php:2087
 msgid "Clone Element"
 msgstr "Clonare elemento"
 
@@ -29027,7 +29044,7 @@ msgstr "Accedere"
 
 # @ avia_framework
 #: config-woocommerce/config-356.php:611 config-woocommerce/config.php:1026
-#: framework/php/function-set-avia-frontend.php:1721
+#: framework/php/function-set-avia-frontend.php:1729
 msgid "Search results for:"
 msgstr "Cerca risultati per:"
 
@@ -29263,8 +29280,8 @@ msgid ""
 "shortcode buttons, which allows to skip use of the dashboard. Visible when "
 "using &quot;Edit Custom Elements&quot; button"
 msgstr ""
-"Per default WPML permette di tradurre gli elementi personalizzati da "
-"&quot;WPML-&gt; dashboard Gestione delle traduzioni&quot;. Controlla per "
+"Per default WPML permette di tradurre gli elementi personalizzati da &quot;"
+"WPML-&gt; dashboard Gestione delle traduzioni&quot;. Controlla per "
 "aggiungere un'icona di traduzione ai pulsanti shortcode, che permette di "
 "saltare l'uso della dashboard. Visibile quando si usa il pulsante \"Modifica "
 "elementi personalizzati\""
@@ -29953,7 +29970,7 @@ msgstr "g a"
 #: framework/php/class-breadcrumb-trail.php:389
 #: framework/php/class-breadcrumb-trail.php:394
 #: framework/php/class-breadcrumb-trail.php:399
-#: framework/php/function-set-avia-frontend.php:1700
+#: framework/php/function-set-avia-frontend.php:1708
 msgid "Y"
 msgstr "Y"
 
@@ -30586,6 +30603,19 @@ msgid "Import Parent Theme Settings"
 msgstr "Importazione delle impostazioni del tema genitore"
 
 # @ avia_framework
+#: framework/php/class-htmlhelper.php:1998
+msgid "Import started."
+msgstr "Importazione avviata"
+
+#: framework/php/class-htmlhelper.php:1998
+msgid ""
+"Please wait a few seconds and dont reload the page. You will be notified as "
+"soon as the import has finished! :)"
+msgstr ""
+"Attendere qualche secondo e non ricaricare la pagina. Verrai avvisato non "
+"appena l'importazione sarà terminata! :)"
+
+# @ avia_framework
 #: framework/php/class-htmlhelper.php:2033
 msgid "Export Demo Settings File"
 msgstr "Esportare il file delle impostazioni della demo"
@@ -30712,12 +30742,14 @@ msgstr "Dimensione w * h in px"
 msgid "viewBox"
 msgstr "viewBox"
 
+#. translators: %s: title of menu item which is invalid
 #: framework/php/class-megamenu.php:447
 #, php-format
 msgid "%s (Invalid)"
 msgstr "%s (Non valido)"
 
 # @ avia_framework
+#. translators: %s: title of menu item in draft status
 #: framework/php/class-megamenu.php:453
 #, php-format
 msgid "%s (Pending)"
@@ -30992,9 +31024,8 @@ msgid ""
 "Internal error: Importer class could not be loaded - no settings could be "
 "imported."
 msgstr ""
-"Errore interno: Non è stato possibile caricare la classe "
-"dell&rsquo;importatore - non è stato possibile importare nessuna "
-"impostazione."
+"Errore interno: Non è stato possibile caricare la classe dell&rsquo;"
+"importatore - non è stato possibile importare nessuna impostazione."
 
 #: framework/php/function-set-avia-ajax.php:1043
 #: framework/php/function-set-avia-ajax.php:1061
@@ -31072,97 +31103,97 @@ msgid "Unable to rename/move file %s to %s"
 msgstr "Impossibile rinominare/spostare il file %s in %s"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:744
-#: framework/php/function-set-avia-frontend.php:842
+#: framework/php/function-set-avia-frontend.php:752
+#: framework/php/function-set-avia-frontend.php:850
 #: framework/php/widgets/widget-classes/class-avia-fb-likebox.php:410
 #: includes/admin/option_tabs/avia_avia.php:52
 #: includes/helper-main-menu.php:194
 msgid "Logo"
 msgstr "Logo"
 
-#: framework/php/function-set-avia-frontend.php:777
+#: framework/php/function-set-avia-frontend.php:785
 #, php-format
 msgid "Logo for %s"
 msgstr "Logo per %s"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1514
+#: framework/php/function-set-avia-frontend.php:1522
 #, php-format
 msgid "Page %d of %d"
 msgstr "Pagina %d di %d"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1688
+#: framework/php/function-set-avia-frontend.php:1696
 msgid "Archive for category:"
 msgstr "Archivio per categoria:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1692
+#: framework/php/function-set-avia-frontend.php:1700
 msgid "Archive for date:"
 msgstr "Archivio per data:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1692
+#: framework/php/function-set-avia-frontend.php:1700
 msgid "F jS, Y"
 msgstr "F jS, Y"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1696
+#: framework/php/function-set-avia-frontend.php:1704
 msgid "Archive for month:"
 msgstr "Archivio per mese:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1696
+#: framework/php/function-set-avia-frontend.php:1704
 msgid "F, Y"
 msgstr "F, Y"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1700
+#: framework/php/function-set-avia-frontend.php:1708
 msgid "Archive for year:"
 msgstr "Archivio per anno:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1710
+#: framework/php/function-set-avia-frontend.php:1718
 msgid "search results for:"
 msgstr "risultati per la ricerca di:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1714
+#: framework/php/function-set-avia-frontend.php:1722
 msgid "search result for:"
 msgstr "risultati di ricerca per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1725
+#: framework/php/function-set-avia-frontend.php:1733
 msgid "To search the site please enter a valid term"
 msgstr "Per cercare nel sito si prega di inserire un termine valido"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1733
+#: framework/php/function-set-avia-frontend.php:1741
 msgid "Author Archive"
 msgstr "Archivio Autore"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1738
+#: framework/php/function-set-avia-frontend.php:1746
 msgid "for:"
 msgstr "di:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1743 tag.php:99 tag.php:166
+#: framework/php/function-set-avia-frontend.php:1751 tag.php:99 tag.php:166
 msgid "Tag Archive for:"
 msgstr "Tag Archivio per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1748
+#: framework/php/function-set-avia-frontend.php:1756
 msgid "Archive for:"
 msgstr "Archivio per:"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1752
+#: framework/php/function-set-avia-frontend.php:1760
 msgid "Archives"
 msgstr "Archivi"
 
 # @ avia_framework
-#: framework/php/function-set-avia-frontend.php:1758
+#: framework/php/function-set-avia-frontend.php:1766
 #: includes/classes/class-conditional-mega-menu.php:80
 msgid "Page"
 msgstr "Pagina"
@@ -31251,12 +31282,12 @@ msgstr "Contenuto del widget reso solo nel frontend."
 
 # @ avia_framework
 #: framework/php/widgets/legacy/class-avia-combo.php:43
-#: framework/php/widgets/widget-classes/class-avia-combo.php:37
+#: framework/php/widgets/widget-classes/class-avia-combo.php:38
 msgid "Combo Widget"
 msgstr "Widget combo"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:47
-#: framework/php/widgets/widget-classes/class-avia-combo.php:41
+#: framework/php/widgets/widget-classes/class-avia-combo.php:42
 msgid ""
 "A widget that displays your popular posts, recent posts, recent comments and "
 "a tagcloud"
@@ -31265,84 +31296,85 @@ msgstr ""
 "un tag cloud"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:55
-#: framework/php/widgets/widget-classes/class-avia-combo.php:49
+#: framework/php/widgets/widget-classes/class-avia-combo.php:50
 msgid "No content"
 msgstr "Nessun contenuto"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:56
-#: framework/php/widgets/widget-classes/class-avia-combo.php:50
+#: framework/php/widgets/widget-classes/class-avia-combo.php:51
 msgid "Popular posts"
 msgstr "Post popolari"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:57
-#: framework/php/widgets/widget-classes/class-avia-combo.php:51
+#: framework/php/widgets/widget-classes/class-avia-combo.php:52
 msgid "Recent posts"
 msgstr "Articoli recenti"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:58
-#: framework/php/widgets/widget-classes/class-avia-combo.php:52
+#: framework/php/widgets/widget-classes/class-avia-combo.php:53
 msgid "Newest comments"
 msgstr "Commenti più recenti"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:59
-#: framework/php/widgets/widget-classes/class-avia-combo.php:53
+#: framework/php/widgets/widget-classes/class-avia-combo.php:54
 msgid "Tag cloud"
 msgstr "Tag Cloud"
 
 # @ avia_framework
 #: framework/php/widgets/legacy/class-avia-combo.php:173
-#: framework/php/widgets/widget-classes/class-avia-combo.php:183
+#: framework/php/widgets/widget-classes/class-avia-combo.php:219
 msgid "Popular"
 msgstr "Popolare"
 
 # @ avia_framework
 #: framework/php/widgets/legacy/class-avia-combo.php:184
-#: framework/php/widgets/widget-classes/class-avia-combo.php:194
+#: framework/php/widgets/widget-classes/class-avia-combo.php:230
 msgid "Recent"
 msgstr "Recente"
 
 # @ avia_framework
 #: framework/php/widgets/legacy/class-avia-combo.php:254
-#: framework/php/widgets/widget-classes/class-avia-combo.php:264
+#: framework/php/widgets/widget-classes/class-avia-combo.php:315
 msgid "Tabs:"
 msgstr "Linguette:"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:256
-#: framework/php/widgets/widget-classes/class-avia-combo.php:266
+#: framework/php/widgets/widget-classes/class-avia-combo.php:317
 msgid "Tabs are only rendered in frontend."
 msgstr "Le schede sono rese solo nel frontend."
 
 #: framework/php/widgets/legacy/class-avia-combo.php:299
-#: framework/php/widgets/widget-classes/class-avia-combo.php:320
+#: framework/php/widgets/widget-classes/class-avia-combo.php:370
 msgid "Number of popular posts"
 msgstr "Numero di post popolari"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:306
-#: framework/php/widgets/widget-classes/class-avia-combo.php:327
+#: framework/php/widgets/widget-classes/class-avia-combo.php:377
 msgid "Number of recent posts"
 msgstr "Numero di Articoli recenti"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:313
-#: framework/php/widgets/widget-classes/class-avia-combo.php:334
+#: framework/php/widgets/widget-classes/class-avia-combo.php:384
 msgid "Number of newest comments"
 msgstr "Numero di commenti più recenti"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:320
-#: framework/php/widgets/widget-classes/class-avia-combo.php:341
+#: framework/php/widgets/widget-classes/class-avia-combo.php:400
 msgid "Number of tags for tag cloud"
 msgstr "Numero di tag per tag cloud"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:327
-#: framework/php/widgets/widget-classes/class-avia-combo.php:348
+#: framework/php/widgets/widget-classes/class-avia-combo.php:407
 msgid "Content of first tab"
 msgstr "Contenuto della prima scheda"
 
 #: framework/php/widgets/legacy/class-avia-combo.php:336
 #: framework/php/widgets/legacy/class-avia-combo.php:343
 #: framework/php/widgets/legacy/class-avia-combo.php:350
-#: framework/php/widgets/widget-classes/class-avia-combo.php:357
-#: framework/php/widgets/widget-classes/class-avia-combo.php:364
-#: framework/php/widgets/widget-classes/class-avia-combo.php:371
+#: framework/php/widgets/widget-classes/class-avia-combo.php:416
+#: framework/php/widgets/widget-classes/class-avia-combo.php:423
+#: framework/php/widgets/widget-classes/class-avia-combo.php:430
+#: framework/php/widgets/widget-classes/class-avia-combo.php:440
 msgid "Content of next tab"
 msgstr "Contenuto della scheda successiva"
 
@@ -31472,51 +31504,56 @@ msgstr "Traccia gerarchia"
 msgid "Enable Smooth Scrolling"
 msgstr "Abilita scorrimento uniforme"
 
+# @ avia_framework
+#: framework/php/widgets/widget-classes/class-avia-combo.php:392
+msgid "Number of newest reviews"
+msgstr "Numero di recensioni più recenti"
+
 # @ LayerSlider
-#: framework/php/widgets/widget-classes/class-avia-combo.php:380
+#: framework/php/widgets/widget-classes/class-avia-combo.php:449
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:438
 msgid "Show date and time"
 msgstr "Mostra data e ora"
 
-#: framework/php/widgets/widget-classes/class-avia-combo.php:383
+#: framework/php/widgets/widget-classes/class-avia-combo.php:452
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:441
 msgid "Show author"
 msgstr "Mostra autore"
 
 # @ woothemes
 # @ avia_framework
-#: framework/php/widgets/widget-classes/class-avia-combo.php:386
+#: framework/php/widgets/widget-classes/class-avia-combo.php:455
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:444
 msgid "Show categories"
 msgstr "Mostra categorie"
 
-#: framework/php/widgets/widget-classes/class-avia-combo.php:389
+#: framework/php/widgets/widget-classes/class-avia-combo.php:458
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:447
 msgid "Use Blog Metadata theme options (overrides above settings)"
 msgstr ""
 "Usa le opzioni del tema Blog Metadata (sovrascrive le impostazioni "
 "precedenti)"
 
-#: framework/php/widgets/widget-classes/class-avia-combo.php:507
+#: framework/php/widgets/widget-classes/class-avia-combo.php:576
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:240
 msgid "Read:"
 msgstr "Leggi:"
 
 # @ avia_framework
-#: framework/php/widgets/widget-classes/class-avia-combo.php:529
+#: framework/php/widgets/widget-classes/class-avia-combo.php:598
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:261
 msgid "by:"
 msgstr "di:"
 
 # @ avia_framework
-#: framework/php/widgets/widget-classes/class-avia-combo.php:550
+#: framework/php/widgets/widget-classes/class-avia-combo.php:619
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:283
 #, php-format
 msgid "Read more in: %s"
 msgstr "Leggi tutto in: %s"
 
 # @ avia_framework
-#: framework/php/widgets/widget-classes/class-avia-combo.php:560
+#: framework/php/widgets/widget-classes/class-avia-combo.php:629
 #: framework/php/widgets/widget-classes/class-avia-newsbox.php:293
 msgid "in:"
 msgstr "in:"
@@ -31796,8 +31833,8 @@ msgid ""
 "Display a Route by entering a address here. (If address is added Zoom will "
 "be ignored)"
 msgstr ""
-"Visualizzare un percorso inserendo un indirizzo qui. (Se si aggiunge "
-"l&rsquo;indirizzo dello zoom viene ignorato)"
+"Visualizzare un percorso inserendo un indirizzo qui. (Se si aggiunge l&rsquo;"
+"indirizzo dello zoom viene ignorato)"
 
 # @ avia_framework
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:568
@@ -32799,8 +32836,8 @@ msgstr "Disattiva Editor blocchi per tipi di post selezionati:"
 msgid ""
 "Only the classic WP editor will be used for the selected post types. The "
 "links to WP block editor (Gutenberg) will not be available. You can change "
-"this behaviour for certain pages/posts with Enfold&rsquo;s filter "
-"&quot;avf_use_block_editor_for_post&quot;"
+"this behaviour for certain pages/posts with Enfold&rsquo;s filter &quot;"
+"avf_use_block_editor_for_post&quot;"
 msgstr ""
 "Solo il classico WP Editor sarà utilizzato per i tipi di post selezionati. I "
 "collegamenti a WP Block Editor (Gutenberg) non saranno disponibili.  È "
@@ -33157,8 +33194,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:38
 msgid ""
-"Attention when using caching plugins: Whenever you make changes to a "
-"&quot;Custom Layout&quot; please clear your server cache to show the changes."
+"Attention when using caching plugins: Whenever you make changes to a &quot;"
+"Custom Layout&quot; please clear your server cache to show the changes."
 msgstr ""
 "Attenzione quando si utilizzano i plugin di cache: Ogni volta che si "
 "apportano modifiche a un &quot;Layout personalizzato&quot; si prega di "
@@ -33400,8 +33437,8 @@ msgid ""
 "you like, either &quot;#efefef&quot; or &quot;rgba(0,0,0,0.3)&quot;."
 msgstr ""
 "Puoi inserire fino a 22 colori, inserisci ogni colore in una nuova riga "
-"nell'ordine che preferisci, sia &quot;#efefef&quot; o "
-"&quot;rgba(0,0,0,0.3)&quot;."
+"nell'ordine che preferisci, sia &quot;#efefef&quot; o &quot;"
+"rgba(0,0,0,0.3)&quot;."
 
 #: includes/admin/option_tabs/avia_builder.php:298
 msgid "Default color palette is:"
@@ -33807,7 +33844,7 @@ msgstr ""
 "pagina, l&rsquo;utente deve scegliere l&rsquo;opzione"
 
 #: includes/admin/option_tabs/avia_cookie.php:346
-#: includes/admin/register-backend-advanced-styles.php:787
+#: includes/admin/register-backend-advanced-styles.php:788
 msgid "Cookie Consent Message Bar"
 msgstr "Barra dei messaggi di consenso per i cookie"
 
@@ -34376,44 +34413,44 @@ msgstr "Titoli"
 #: includes/admin/option_tabs/avia_customizer.php:28
 #: includes/admin/register-admin-options.php:87
 #: includes/admin/register-backend-advanced-styles.php:273
-#: includes/admin/register-backend-advanced-styles.php:302
-#: includes/admin/register-backend-advanced-styles.php:320
-#: includes/admin/register-backend-advanced-styles.php:335
-#: includes/admin/register-backend-advanced-styles.php:365
-#: includes/admin/register-backend-advanced-styles.php:391
+#: includes/admin/register-backend-advanced-styles.php:303
+#: includes/admin/register-backend-advanced-styles.php:321
+#: includes/admin/register-backend-advanced-styles.php:336
+#: includes/admin/register-backend-advanced-styles.php:366
+#: includes/admin/register-backend-advanced-styles.php:392
 #: includes/config-enfold/init-base-data.php:358
 msgid "Main Menu"
 msgstr "Menu principale"
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_customizer.php:29
-#: includes/admin/register-backend-advanced-styles.php:452
+#: includes/admin/register-backend-advanced-styles.php:453
 msgid "Main Menu (Icon)"
 msgstr "Menu Principale (Icona)"
 
 #: includes/admin/option_tabs/avia_customizer.php:30
-#: includes/admin/register-backend-advanced-styles.php:788
-#: includes/admin/register-backend-advanced-styles.php:807
-#: includes/admin/register-backend-advanced-styles.php:825
-#: includes/admin/register-backend-advanced-styles.php:843
-#: includes/admin/register-backend-advanced-styles.php:861
-#: includes/admin/register-backend-advanced-styles.php:879
-#: includes/admin/register-backend-advanced-styles.php:897
+#: includes/admin/register-backend-advanced-styles.php:789
+#: includes/admin/register-backend-advanced-styles.php:808
+#: includes/admin/register-backend-advanced-styles.php:826
+#: includes/admin/register-backend-advanced-styles.php:844
+#: includes/admin/register-backend-advanced-styles.php:862
+#: includes/admin/register-backend-advanced-styles.php:880
+#: includes/admin/register-backend-advanced-styles.php:898
 msgid "Cookie Consent Bar"
 msgstr "Barra di consenso per i cookie"
 
 # @ LayerSlider
 # @ avia_framework
 #: includes/admin/option_tabs/avia_customizer.php:31
-#: includes/admin/register-backend-advanced-styles.php:510
-#: includes/admin/register-backend-advanced-styles.php:535
-#: includes/admin/register-backend-advanced-styles.php:582
-#: includes/admin/register-backend-advanced-styles.php:601
-#: includes/admin/register-backend-advanced-styles.php:623
-#: includes/admin/register-backend-advanced-styles.php:677
-#: includes/admin/register-backend-advanced-styles.php:723
-#: includes/admin/register-backend-advanced-styles.php:741
-#: includes/admin/register-backend-advanced-styles.php:770
+#: includes/admin/register-backend-advanced-styles.php:511
+#: includes/admin/register-backend-advanced-styles.php:536
+#: includes/admin/register-backend-advanced-styles.php:583
+#: includes/admin/register-backend-advanced-styles.php:602
+#: includes/admin/register-backend-advanced-styles.php:624
+#: includes/admin/register-backend-advanced-styles.php:678
+#: includes/admin/register-backend-advanced-styles.php:724
+#: includes/admin/register-backend-advanced-styles.php:742
+#: includes/admin/register-backend-advanced-styles.php:771
 msgid "Misc"
 msgstr "Miscellaneo"
 
@@ -36813,18 +36850,17 @@ msgid ""
 "(If you are running an image optimization plugin that is not detected just "
 "ignore this message)"
 msgstr ""
-"(Se stai utilizzando un plug-in per l&rsquo;ottimizzazione "
-"dell&rsquo;immagine che non viene rilevato, ignora semplicemente questo "
-"messaggio)"
+"(Se stai utilizzando un plug-in per l&rsquo;ottimizzazione dell&rsquo;"
+"immagine che non viene rilevato, ignora semplicemente questo messaggio)"
 
 #: includes/admin/option_tabs/avia_performance.php:590
 msgid ""
 "We were not able to detect an active image optimization plugin. It is "
 "recommended to use one to speed up your site. Here are a few suggestions:"
 msgstr ""
-"Non siamo stati in grado di rilevare un plug-in di ottimizzazione "
-"dell&rsquo;immagine attivo. Si consiglia di usarne uno per accelerare il tuo "
-"sito. Ecco alcuni suggerimenti:"
+"Non siamo stati in grado di rilevare un plug-in di ottimizzazione dell&rsquo;"
+"immagine attivo. Si consiglia di usarne uno per accelerare il tuo sito. Ecco "
+"alcuni suggerimenti:"
 
 #: includes/admin/option_tabs/avia_performance.php:591
 msgid ""
@@ -36839,8 +36875,8 @@ msgid ""
 "We were able to detect multiple active image optimization plugins. It is "
 "recommended to use only one!"
 msgstr ""
-"Siamo stati in grado di rilevare più plug-in di ottimizzazione "
-"dell&rsquo;immagine attiva. Si consiglia di usarne solo uno!"
+"Siamo stati in grado di rilevare più plug-in di ottimizzazione dell&rsquo;"
+"immagine attiva. Si consiglia di usarne solo uno!"
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_performance.php:706
@@ -37002,8 +37038,8 @@ msgid ""
 msgstr ""
 "Verificare se si vogliono avere opzioni aggiuntive per qualificare "
 "l'attributo rel dei link (nofollow, sponsored, ugc) negli elementi ALB "
-"(dalla 4.8.6.3 questa opzione sostituisce il supporto del tema "
-"&quot;avia_rel_nofollow_for_links&quot;)"
+"(dalla 4.8.6.3 questa opzione sostituisce il supporto del tema &quot;"
+"avia_rel_nofollow_for_links&quot;)"
 
 #: includes/admin/option_tabs/avia_shop.php:15
 msgid "Header Shopping Cart Icon"
@@ -37317,9 +37353,8 @@ msgid ""
 "Choose the default page layout here. You can change the setting of each "
 "individual page when editing that page"
 msgstr ""
-"Scegli il layout di pagina predefinito. È possibile modificare "
-"l&rsquo;impostazione di ogni singola pagina durante la modifica di quella "
-"pagina"
+"Scegli il layout di pagina predefinito. È possibile modificare l&rsquo;"
+"impostazione di ogni singola pagina durante la modifica di quella pagina"
 
 #: includes/admin/option_tabs/avia_sidebars.php:81
 msgid "Separate Sidebars For Blog And Archive Pages"
@@ -37392,7 +37427,7 @@ msgstr "Con Bordo"
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_sidebars.php:131
-#: includes/admin/register-backend-advanced-styles.php:704
+#: includes/admin/register-backend-advanced-styles.php:705
 msgid "No Border"
 msgstr "Nessun Bordo"
 
@@ -37677,11 +37712,11 @@ msgstr "Serve più flessibilità per le unità CSS:"
 
 #: includes/admin/option_tabs/avia_styling.php:612
 msgid ""
-"To functions.php add: "
-"add_theme_support( &quot;avia_options_extended_typography&quot; );"
+"To functions.php add: add_theme_support( &quot;"
+"avia_options_extended_typography&quot; );"
 msgstr ""
-"In functions.php aggiungere: "
-"add_theme_support( &quot;avia_options_extended_typography&quot; );"
+"In functions.php aggiungere: add_theme_support( &quot;"
+"avia_options_extended_typography&quot; );"
 
 #: includes/admin/option_tabs/avia_styling.php:613
 msgid ""
@@ -37910,11 +37945,10 @@ msgstr "Mantenere il contenuto CSS rapido"
 
 #: includes/admin/option_tabs/avia_upload.php:61
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling "
-"-> Quick CSS&quot;. In case you select single tabs to import below your "
-"Quick CSS settings will be kept by default except you select the tab "
-"containing the Quick CSS field. In this case you must check here to keep "
-"them."
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to import below your Quick "
+"CSS settings will be kept by default except you select the tab containing "
+"the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
 "Controlla se vuoi mantenere i tuoi stili CSS aggiunti in &quot;General "
 "Styling -> Quick CSS&quot;. Nel caso in cui selezioniate singole schede da "
@@ -38007,8 +38041,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:136
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling "
-"-> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling -"
+"> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -38159,9 +38193,9 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:224
 msgid ""
-"Variable fonts can be uploaded, but currently only <a href=\"https://"
-"fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">named instances</a> are supported by default."
+"Variable fonts can be uploaded, but currently only <a href=\"https://fonts."
+"google.com/knowledge/glossary/instance/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">named instances</a> are supported by default."
 msgstr ""
 "È possibile caricare font variabili, ma attualmente solo <a href=\"https://"
 "fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
@@ -38683,13 +38717,13 @@ msgstr "Cambia lo stile per tutti i tag &lt;body&gt;."
 #: includes/admin/register-backend-advanced-styles.php:224
 #: includes/admin/register-backend-advanced-styles.php:243
 #: includes/admin/register-backend-advanced-styles.php:262
-#: includes/admin/register-backend-advanced-styles.php:312
-#: includes/admin/register-backend-advanced-styles.php:498
-#: includes/admin/register-backend-advanced-styles.php:590
-#: includes/admin/register-backend-advanced-styles.php:731
-#: includes/admin/register-backend-advanced-styles.php:760
-#: includes/admin/register-backend-advanced-styles.php:778
-#: includes/admin/register-backend-advanced-styles.php:798
+#: includes/admin/register-backend-advanced-styles.php:313
+#: includes/admin/register-backend-advanced-styles.php:499
+#: includes/admin/register-backend-advanced-styles.php:591
+#: includes/admin/register-backend-advanced-styles.php:732
+#: includes/admin/register-backend-advanced-styles.php:761
+#: includes/admin/register-backend-advanced-styles.php:779
+#: includes/admin/register-backend-advanced-styles.php:799
 msgid "Line Height"
 msgstr "Altezza linea"
 
@@ -38705,23 +38739,23 @@ msgstr "Altezza linea"
 #: includes/admin/register-backend-advanced-styles.php:226
 #: includes/admin/register-backend-advanced-styles.php:245
 #: includes/admin/register-backend-advanced-styles.php:264
-#: includes/admin/register-backend-advanced-styles.php:294
-#: includes/admin/register-backend-advanced-styles.php:418
-#: includes/admin/register-backend-advanced-styles.php:500
-#: includes/admin/register-backend-advanced-styles.php:573
-#: includes/admin/register-backend-advanced-styles.php:592
-#: includes/admin/register-backend-advanced-styles.php:666
-#: includes/admin/register-backend-advanced-styles.php:715
-#: includes/admin/register-backend-advanced-styles.php:730
-#: includes/admin/register-backend-advanced-styles.php:759
-#: includes/admin/register-backend-advanced-styles.php:777
-#: includes/admin/register-backend-advanced-styles.php:797
-#: includes/admin/register-backend-advanced-styles.php:817
-#: includes/admin/register-backend-advanced-styles.php:835
-#: includes/admin/register-backend-advanced-styles.php:853
-#: includes/admin/register-backend-advanced-styles.php:871
-#: includes/admin/register-backend-advanced-styles.php:889
-#: includes/admin/register-backend-advanced-styles.php:907
+#: includes/admin/register-backend-advanced-styles.php:295
+#: includes/admin/register-backend-advanced-styles.php:419
+#: includes/admin/register-backend-advanced-styles.php:501
+#: includes/admin/register-backend-advanced-styles.php:574
+#: includes/admin/register-backend-advanced-styles.php:593
+#: includes/admin/register-backend-advanced-styles.php:667
+#: includes/admin/register-backend-advanced-styles.php:716
+#: includes/admin/register-backend-advanced-styles.php:731
+#: includes/admin/register-backend-advanced-styles.php:760
+#: includes/admin/register-backend-advanced-styles.php:778
+#: includes/admin/register-backend-advanced-styles.php:798
+#: includes/admin/register-backend-advanced-styles.php:818
+#: includes/admin/register-backend-advanced-styles.php:836
+#: includes/admin/register-backend-advanced-styles.php:854
+#: includes/admin/register-backend-advanced-styles.php:872
+#: includes/admin/register-backend-advanced-styles.php:890
+#: includes/admin/register-backend-advanced-styles.php:908
 msgid "Font Weight"
 msgstr "Spessore del carattere"
 
@@ -38737,13 +38771,13 @@ msgstr "Spessore del carattere"
 #: includes/admin/register-backend-advanced-styles.php:225
 #: includes/admin/register-backend-advanced-styles.php:244
 #: includes/admin/register-backend-advanced-styles.php:263
-#: includes/admin/register-backend-advanced-styles.php:291
-#: includes/admin/register-backend-advanced-styles.php:415
-#: includes/admin/register-backend-advanced-styles.php:499
-#: includes/admin/register-backend-advanced-styles.php:570
-#: includes/admin/register-backend-advanced-styles.php:591
-#: includes/admin/register-backend-advanced-styles.php:729
-#: includes/admin/register-backend-advanced-styles.php:758
+#: includes/admin/register-backend-advanced-styles.php:292
+#: includes/admin/register-backend-advanced-styles.php:416
+#: includes/admin/register-backend-advanced-styles.php:500
+#: includes/admin/register-backend-advanced-styles.php:571
+#: includes/admin/register-backend-advanced-styles.php:592
+#: includes/admin/register-backend-advanced-styles.php:730
+#: includes/admin/register-backend-advanced-styles.php:759
 msgid "Font Family"
 msgstr "Tipo carattere"
 
@@ -38773,7 +38807,7 @@ msgstr "Modifica lo stile per tutti i tag &lt;u&gt; (sottolineato)"
 
 #: includes/admin/register-backend-advanced-styles.php:110
 #: includes/admin/register-backend-advanced-styles.php:131
-#: includes/admin/register-backend-advanced-styles.php:419
+#: includes/admin/register-backend-advanced-styles.php:420
 msgid "Text Decoration"
 msgstr "Decorazione del testo"
 
@@ -38798,23 +38832,23 @@ msgstr "Cambiare lo stile di tutti i tag Intestazione"
 #: includes/admin/register-backend-advanced-styles.php:227
 #: includes/admin/register-backend-advanced-styles.php:246
 #: includes/admin/register-backend-advanced-styles.php:265
-#: includes/admin/register-backend-advanced-styles.php:292
-#: includes/admin/register-backend-advanced-styles.php:416
-#: includes/admin/register-backend-advanced-styles.php:502
-#: includes/admin/register-backend-advanced-styles.php:574
-#: includes/admin/register-backend-advanced-styles.php:593
-#: includes/admin/register-backend-advanced-styles.php:664
-#: includes/admin/register-backend-advanced-styles.php:713
-#: includes/admin/register-backend-advanced-styles.php:733
-#: includes/admin/register-backend-advanced-styles.php:762
-#: includes/admin/register-backend-advanced-styles.php:780
-#: includes/admin/register-backend-advanced-styles.php:800
-#: includes/admin/register-backend-advanced-styles.php:818
-#: includes/admin/register-backend-advanced-styles.php:836
-#: includes/admin/register-backend-advanced-styles.php:854
-#: includes/admin/register-backend-advanced-styles.php:872
-#: includes/admin/register-backend-advanced-styles.php:890
-#: includes/admin/register-backend-advanced-styles.php:908
+#: includes/admin/register-backend-advanced-styles.php:293
+#: includes/admin/register-backend-advanced-styles.php:417
+#: includes/admin/register-backend-advanced-styles.php:503
+#: includes/admin/register-backend-advanced-styles.php:575
+#: includes/admin/register-backend-advanced-styles.php:594
+#: includes/admin/register-backend-advanced-styles.php:665
+#: includes/admin/register-backend-advanced-styles.php:714
+#: includes/admin/register-backend-advanced-styles.php:734
+#: includes/admin/register-backend-advanced-styles.php:763
+#: includes/admin/register-backend-advanced-styles.php:781
+#: includes/admin/register-backend-advanced-styles.php:801
+#: includes/admin/register-backend-advanced-styles.php:819
+#: includes/admin/register-backend-advanced-styles.php:837
+#: includes/admin/register-backend-advanced-styles.php:855
+#: includes/admin/register-backend-advanced-styles.php:873
+#: includes/admin/register-backend-advanced-styles.php:891
+#: includes/admin/register-backend-advanced-styles.php:909
 msgid "Text Transform"
 msgstr "Trasformazione Testo"
 
@@ -38858,71 +38892,71 @@ msgstr "Collegamenti del menu principale"
 msgid "Change the styling for your main menu links"
 msgstr "Cambia lo stile dei collegamenti del tuo menu principale"
 
-#: includes/admin/register-backend-advanced-styles.php:293
-#: includes/admin/register-backend-advanced-styles.php:417
-#: includes/admin/register-backend-advanced-styles.php:501
-#: includes/admin/register-backend-advanced-styles.php:575
-#: includes/admin/register-backend-advanced-styles.php:594
-#: includes/admin/register-backend-advanced-styles.php:667
-#: includes/admin/register-backend-advanced-styles.php:716
-#: includes/admin/register-backend-advanced-styles.php:732
-#: includes/admin/register-backend-advanced-styles.php:761
-#: includes/admin/register-backend-advanced-styles.php:779
-#: includes/admin/register-backend-advanced-styles.php:799
+#: includes/admin/register-backend-advanced-styles.php:294
+#: includes/admin/register-backend-advanced-styles.php:418
+#: includes/admin/register-backend-advanced-styles.php:502
+#: includes/admin/register-backend-advanced-styles.php:576
+#: includes/admin/register-backend-advanced-styles.php:595
+#: includes/admin/register-backend-advanced-styles.php:668
+#: includes/admin/register-backend-advanced-styles.php:717
+#: includes/admin/register-backend-advanced-styles.php:733
+#: includes/admin/register-backend-advanced-styles.php:762
+#: includes/admin/register-backend-advanced-styles.php:780
+#: includes/admin/register-backend-advanced-styles.php:800
 msgid "Letter Spacing"
 msgstr "Spaziatura Lettere"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:301
+#: includes/admin/register-backend-advanced-styles.php:302
 msgid "Main Menu sublevel Links"
 msgstr "Collegamenti sottolivello del menu principale"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:303
+#: includes/admin/register-backend-advanced-styles.php:304
 msgid "Change the styling for your main menu dropdown links"
 msgstr "Cambia lo stile dei collegamenti a tendina del tuo menu principale"
 
-#: includes/admin/register-backend-advanced-styles.php:319
+#: includes/admin/register-backend-advanced-styles.php:320
 msgid "Main Menu Indicator"
 msgstr "Indicatore del menu principale"
 
-#: includes/admin/register-backend-advanced-styles.php:321
+#: includes/admin/register-backend-advanced-styles.php:322
 msgid "Change the styling for your current menu item/hover indicator"
 msgstr "Modificare lo stile per la voce di menu corrente/indicatore hover"
 
-#: includes/admin/register-backend-advanced-styles.php:334
+#: includes/admin/register-backend-advanced-styles.php:335
 msgid "Menu Item Button"
 msgstr "Pulsante voce di menu"
 
-#: includes/admin/register-backend-advanced-styles.php:336
+#: includes/admin/register-backend-advanced-styles.php:337
 msgid "Change the styling for a button menu item"
 msgstr "Modificare lo stile per una voce di menu pulsante"
 
-#: includes/admin/register-backend-advanced-styles.php:357
-#: includes/admin/register-backend-advanced-styles.php:382
+#: includes/admin/register-backend-advanced-styles.php:358
+#: includes/admin/register-backend-advanced-styles.php:383
 msgid "Padding: left and right"
 msgstr "Padding: sinistra e destra"
 
-#: includes/admin/register-backend-advanced-styles.php:358
-#: includes/admin/register-backend-advanced-styles.php:383
+#: includes/admin/register-backend-advanced-styles.php:359
+#: includes/admin/register-backend-advanced-styles.php:384
 msgid "Padding: top and bottom"
 msgstr "Padding superiore e inferiore"
 
-#: includes/admin/register-backend-advanced-styles.php:364
+#: includes/admin/register-backend-advanced-styles.php:365
 msgid "Menu Item Button with Border"
 msgstr "Tasto della voce di menu con bordo"
 
-#: includes/admin/register-backend-advanced-styles.php:366
+#: includes/admin/register-backend-advanced-styles.php:367
 msgid "Change the styling for a button menu item with border"
 msgstr "Modificare lo stile per una voce di menu pulsante con bordo"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:390
+#: includes/admin/register-backend-advanced-styles.php:391
 msgid "Small bar above Main Menu"
 msgstr "Piccola barra sopra il Menu Principale"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:392
+#: includes/admin/register-backend-advanced-styles.php:393
 msgid ""
 "Change the styling for the small bar above the main menu which can contain "
 "social icons, a second menu and a phone number "
@@ -38930,12 +38964,12 @@ msgstr ""
 "Modificare lo stile per la piccola barra sopra il menu principale che può "
 "contenere le icone sociali, un secondo menu e un numero di telefono "
 
-#: includes/admin/register-backend-advanced-styles.php:451
+#: includes/admin/register-backend-advanced-styles.php:452
 msgid "Menu Links in overlay/slide out"
 msgstr "Link Menu in overlay/slide out"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:453
+#: includes/admin/register-backend-advanced-styles.php:454
 msgid ""
 "Change the styling for your main menu links once they are displayed in the "
 "page overlay/slide out"
@@ -38944,26 +38978,26 @@ msgstr ""
 "vengono visualizzati nella pagina di overlay/slide out"
 
 # @ LayerSlider
-#: includes/admin/register-backend-advanced-styles.php:492
+#: includes/admin/register-backend-advanced-styles.php:493
 msgid "Menu Background"
 msgstr "Sfondo Menu"
 
-#: includes/admin/register-backend-advanced-styles.php:493
+#: includes/admin/register-backend-advanced-styles.php:494
 msgid "Menu Hover BG"
 msgstr "Menu Hover BG"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:494
+#: includes/admin/register-backend-advanced-styles.php:495
 msgid "Font Hover Color"
 msgstr "Colore carattere hover"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:509
+#: includes/admin/register-backend-advanced-styles.php:510
 msgid "Linked Image Overlay"
 msgstr "Sovrapposizione immagine linkabile"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:511
+#: includes/admin/register-backend-advanced-styles.php:512
 msgid ""
 "Change the styling for the overlay that appears when you place your mouse "
 "cursor above a linked image"
@@ -38971,112 +39005,112 @@ msgstr ""
 "Modifica lo stile della sovrapposizione che appare quando si posiziona il "
 "cursore del mouse sopra una immagine collegata"
 
-#: includes/admin/register-backend-advanced-styles.php:524
-#: includes/admin/register-backend-advanced-styles.php:702
+#: includes/admin/register-backend-advanced-styles.php:525
+#: includes/admin/register-backend-advanced-styles.php:703
 msgid "Overlay Style"
 msgstr "Stile sovrapposizione"
 
-#: includes/admin/register-backend-advanced-styles.php:524
+#: includes/admin/register-backend-advanced-styles.php:525
 msgid "Minimal Overlay (No Icon)"
 msgstr "Sovrapposizione minima (senza icona)"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:524
+#: includes/admin/register-backend-advanced-styles.php:525
 msgid "Icon only"
 msgstr "Solo icona"
 
-#: includes/admin/register-backend-advanced-styles.php:524
+#: includes/admin/register-backend-advanced-styles.php:525
 msgid "Disable Overlay"
 msgstr "Disabilita sovrapposizione"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:526
+#: includes/admin/register-backend-advanced-styles.php:527
 msgid "Icon background"
 msgstr "Icona di sfondo"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:536
+#: includes/admin/register-backend-advanced-styles.php:537
 msgid "Change the styling of your buttons"
 msgstr "Modifica lo stile dei pulsanti"
 
-#: includes/admin/register-backend-advanced-styles.php:565
+#: includes/admin/register-backend-advanced-styles.php:566
 msgid "Border width"
 msgstr "Larghezza del bordo"
-
-#: includes/admin/register-backend-advanced-styles.php:566
-#: includes/admin/register-backend-advanced-styles.php:614
-#: includes/admin/register-backend-advanced-styles.php:668
-msgid "Padding: left/right"
-msgstr "Padding:  sinistra/destra"
 
 #: includes/admin/register-backend-advanced-styles.php:567
 #: includes/admin/register-backend-advanced-styles.php:615
 #: includes/admin/register-backend-advanced-styles.php:669
+msgid "Padding: left/right"
+msgstr "Padding:  sinistra/destra"
+
+#: includes/admin/register-backend-advanced-styles.php:568
+#: includes/admin/register-backend-advanced-styles.php:616
+#: includes/admin/register-backend-advanced-styles.php:670
 msgid "Padding: top/bottom"
 msgstr "Padding: superiore/inferiore"
 
-#: includes/admin/register-backend-advanced-styles.php:581
+#: includes/admin/register-backend-advanced-styles.php:582
 msgid "Breadcrumbs"
 msgstr "Breadcrumbs"
 
-#: includes/admin/register-backend-advanced-styles.php:583
+#: includes/admin/register-backend-advanced-styles.php:584
 msgid "Change the styling of the breadcrumb menu"
 msgstr "Modificare lo stile del menu di navigazione"
 
-#: includes/admin/register-backend-advanced-styles.php:600
+#: includes/admin/register-backend-advanced-styles.php:601
 #: includes/config-enfold/init-base-data.php:127
 msgid "Widget"
 msgstr "Widget"
 
-#: includes/admin/register-backend-advanced-styles.php:602
+#: includes/admin/register-backend-advanced-styles.php:603
 msgid "Change the styling of your widget"
 msgstr "Modifica lo stile del tuo widget"
 
-#: includes/admin/register-backend-advanced-styles.php:622
+#: includes/admin/register-backend-advanced-styles.php:623
 msgid "Widget Links"
 msgstr "Widget Links"
 
-#: includes/admin/register-backend-advanced-styles.php:624
+#: includes/admin/register-backend-advanced-styles.php:625
 msgid "Change the styling of your widget links"
 msgstr "Cambia lo stile dei collegamenti nei widget"
 
-#: includes/admin/register-backend-advanced-styles.php:676
+#: includes/admin/register-backend-advanced-styles.php:677
 msgid "Widget title"
 msgstr "Titolo widget"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:678
+#: includes/admin/register-backend-advanced-styles.php:679
 msgid "Change the styling of your widget title"
 msgstr "Modificare lo stile del vostro titolo del widget"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:705
+#: includes/admin/register-backend-advanced-styles.php:706
 msgid "Border on top and bottom"
 msgstr "Bordi in alto e in basso"
 
-#: includes/admin/register-backend-advanced-styles.php:706
+#: includes/admin/register-backend-advanced-styles.php:707
 msgid "Border around the widget title"
 msgstr "Bordo attorno al titolo del widget"
 
-#: includes/admin/register-backend-advanced-styles.php:712
+#: includes/admin/register-backend-advanced-styles.php:713
 msgid "Text Align"
 msgstr "Allineamento testo"
 
-#: includes/admin/register-backend-advanced-styles.php:722
+#: includes/admin/register-backend-advanced-styles.php:723
 msgid "Slideshow titles"
 msgstr "Titoli Slideshow"
 
-#: includes/admin/register-backend-advanced-styles.php:724
+#: includes/admin/register-backend-advanced-styles.php:725
 msgid "Change the styling for your fullscreen, fullwidth and easy slider title"
 msgstr ""
 "Cambiare lo stile del titolo del Easy Slider, Easy Slider Schermo Intero, "
 "Easy Slider Larghezza Completa"
 
-#: includes/admin/register-backend-advanced-styles.php:740
+#: includes/admin/register-backend-advanced-styles.php:741
 msgid "Slideshow caption"
 msgstr "Didascalia slideshow"
 
-#: includes/admin/register-backend-advanced-styles.php:742
+#: includes/admin/register-backend-advanced-styles.php:743
 msgid ""
 "Change the styling for your fullscreen, fullwidth and easy slider caption"
 msgstr ""
@@ -39084,32 +39118,32 @@ msgstr ""
 "Intero, Easy Slider Larghezza Completa"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:763
+#: includes/admin/register-backend-advanced-styles.php:764
 msgid "Container Width"
 msgstr "Larghezza Contenitore"
 
-#: includes/admin/register-backend-advanced-styles.php:769
+#: includes/admin/register-backend-advanced-styles.php:770
 msgid "Slideshow button"
 msgstr "Pulsante slideshow"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:771
+#: includes/admin/register-backend-advanced-styles.php:772
 msgid ""
 "Change the styling for your fullscreen, fullwidth and easy slider buttons"
 msgstr ""
 "Cambiare lo stile dei pulsanti di Easy Slider, Easy Slider Schermo Intero, "
 "Easy Slider Larghezza Completa"
 
-#: includes/admin/register-backend-advanced-styles.php:789
+#: includes/admin/register-backend-advanced-styles.php:790
 msgid "Change the styling for your cookie consent message bar"
 msgstr "Cambia lo stile per la barra dei messaggi di consenso dei cookie"
 
-#: includes/admin/register-backend-advanced-styles.php:806
+#: includes/admin/register-backend-advanced-styles.php:807
 msgid "Cookie Consent Accept Settings Button"
 msgstr "Impostazioni pulsante per il consenso dei cookie"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:808
+#: includes/admin/register-backend-advanced-styles.php:809
 msgid ""
 "Change the styling for your cookie consent accept settings and dismiss "
 "notification button"
@@ -39117,12 +39151,12 @@ msgstr ""
 "Cambiare lo stile per il consenso dei cookie accettare le impostazioni e "
 "disattivare il pulsante di notifica"
 
-#: includes/admin/register-backend-advanced-styles.php:824
+#: includes/admin/register-backend-advanced-styles.php:825
 msgid "Cookie Consent Accept All Cookies Button"
 msgstr "Pulsante per accettare tutti i cookie"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:826
+#: includes/admin/register-backend-advanced-styles.php:827
 msgid ""
 "Change the styling for your cookie consent accept all cookies and settings "
 "and dismiss notification button"
@@ -39130,12 +39164,12 @@ msgstr ""
 "Cambia lo stile per il tuo consenso ai cookie accetta tutti i cookie e le "
 "impostazioni e disattiva il pulsante di notifica"
 
-#: includes/admin/register-backend-advanced-styles.php:842
+#: includes/admin/register-backend-advanced-styles.php:843
 msgid "Cookie Consent Do Not Accept Cookies Button"
 msgstr "Pulsante per Non accettare cookies"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:844
+#: includes/admin/register-backend-advanced-styles.php:845
 msgid ""
 "Change the styling for your cookie consent do not accept and hide "
 "notification button"
@@ -39143,12 +39177,12 @@ msgstr ""
 "Cambiare lo stile per il consenso del cookie non accettare e nascondere il "
 "pulsante di notifica"
 
-#: includes/admin/register-backend-advanced-styles.php:860
+#: includes/admin/register-backend-advanced-styles.php:861
 msgid "Cookie Consent Open Modal Window Button"
 msgstr "Pulsante di apertura della finestra modale per il consenso dei cookie"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:862
+#: includes/admin/register-backend-advanced-styles.php:863
 msgid ""
 "Change the styling for your cookie consent open info modal on privacy and "
 "cookies button"
@@ -39156,22 +39190,22 @@ msgstr ""
 "Cambia lo stile per il tuo consenso ai cookie apri info modal sulla privacy "
 "e sul pulsante dei cookie"
 
-#: includes/admin/register-backend-advanced-styles.php:878
+#: includes/admin/register-backend-advanced-styles.php:879
 msgid "Cookie Consent Link Button"
 msgstr "Pulsante collegamento per il consenso dei cookie"
 
 # @ avia_framework
-#: includes/admin/register-backend-advanced-styles.php:880
+#: includes/admin/register-backend-advanced-styles.php:881
 msgid "Change the styling for your cookie consent Link to another page button"
 msgstr ""
 "Cambia lo stile per il tuo consenso al cookie Link ad un&rsquo;altra pagina "
 "pulsante"
 
-#: includes/admin/register-backend-advanced-styles.php:896
+#: includes/admin/register-backend-advanced-styles.php:897
 msgid "Cookie Consent Extra Button"
 msgstr "Pulsante extra per il consenso dei cookie"
 
-#: includes/admin/register-backend-advanced-styles.php:898
+#: includes/admin/register-backend-advanced-styles.php:899
 msgid ""
 "Change the styling for all your cookie consent extra buttons (not accept "
 "buttons )"
@@ -40644,8 +40678,8 @@ msgstr "Risultato della ricerca:"
 #: includes/loop-search.php:231
 msgid "Sorry, no posts matched your criteria. Please try another search"
 msgstr ""
-"Spiacente, nessun articolo corrisponde ai tuoi criteri. Prova con "
-"un&rsquo;altra ricerca"
+"Spiacente, nessun articolo corrisponde ai tuoi criteri. Prova con un&rsquo;"
+"altra ricerca"
 
 # @ avia_framework
 #: includes/loop-search.php:236
@@ -40674,19 +40708,6 @@ msgstr "Potrebbero interessarti"
 #: index.php:11 single.php:12
 msgid "Blog - Latest News"
 msgstr "Blog - Ultime notizie"
-
-# @ avia_framework
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "set"
-msgstr "imposta"
-
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "select_all"
-msgstr "select_all"
-
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "reset"
-msgstr "reimposta"
 
 # @ avia_framework
 #: search.php:40
@@ -40748,6 +40769,28 @@ msgstr "Mensile"
 #: template-archives.php:209
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
+
+# @ avia_framework
+#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
+msgid "number"
+msgstr "numero"
+
+#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
+msgid "shadow"
+msgstr "ombra"
+
+# @ avia_framework
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "set"
+msgstr "imposta"
+
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "select_all"
+msgstr "select_all"
+
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "reset"
+msgstr "reimposta"
 
 #~ msgid "Enfold documentation."
 #~ msgstr "Documentazione Enfold."
