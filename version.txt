@@ -1,3 +1,6 @@
+2025_08_25
+- French language files fr_FR (version 7.1.2, provided by comkapi - Patrick)
+
 2025_08_21
 - Italian language files it_IT (version 7.1.2, provided by BigBatT - info@luigicircello.it)
 
@@ -398,5 +401,6 @@ fixed: translation error in Dutch language file which was causing critical error
 
 2020-06-01 Enfold v4.7.5 
 - Initial Upload
+
 
 
