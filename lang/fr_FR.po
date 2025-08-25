@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-22 13:40+0300\n"
-"PO-Revision-Date: 2025-08-22 13:42+0300\n"
+"PO-Revision-Date: 2025-08-25 18:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: French (France)\n"
 "Language: fr_FR\n"
@@ -14636,11 +14636,10 @@ msgstr "SKU :"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_meta.php:135
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:973
-#, fuzzy
 msgid "Category:"
 msgid_plural "Categories:"
 msgstr[0] "Catégorie :"
-msgstr[1] ""
+msgstr[1] "Catégories :"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_meta.php:136
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:973
@@ -19984,29 +19983,29 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:336
 #: framework/php/class-htmlhelper.php:2628
 msgid "More"
-msgstr ""
+msgstr "Plus"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:337
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:339
 #: framework/php/class-htmlhelper.php:2629
 #: framework/php/class-htmlhelper.php:2631
 msgid "Less"
-msgstr ""
+msgstr "Moins"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:338
 #: framework/php/class-htmlhelper.php:2630
 msgid "Important"
-msgstr ""
+msgstr "Important"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:369
 #: framework/php/class-htmlhelper.php:2662
 msgid "Click to show/hide infobox"
-msgstr ""
+msgstr "Cliquer pour afficher/masquer l’infobulle"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:407
 #: framework/php/class-htmlhelper.php:2726
 msgid "Check our documentation for more info."
-msgstr ""
+msgstr "Consultez notre documentation pour plus d’information."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-base.php:638
 msgid "Add"
@@ -20078,11 +20077,11 @@ msgstr "Toutes les icônes"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:859
 msgid "(Default)"
-msgstr ""
+msgstr "(Par défaut)"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:870
 msgid "WordPress Media Library"
-msgstr ""
+msgstr "Bibliothèque de médias WordPress"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:888
 msgid "SVG Iconsets"
@@ -20230,6 +20229,9 @@ msgid ""
 "Fontello&quot; in theme option &quot;SVG Iconset and Iconfont Manager&quot; "
 "to speed up page loading."
 msgstr ""
+"Ceci vous permettra de désactiver le lazy loading par défaut pour la police "
+"&quot;Entypo Fontello&quot; dans l’option du thème &quot;SVG Iconset and "
+"Iconfont Manager&quot; afin d’accélérer le chargement de page."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:43
 #: framework/php/base-classes/class-object-properties.php:41
@@ -23167,11 +23169,11 @@ msgstr "Echec à l’écriture d’un fichier de configuration"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1079
 msgid "Click to activate"
-msgstr ""
+msgstr "Cliquer pour activer"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1080
 msgid "Click to deactivate"
-msgstr ""
+msgstr "Cliquer pour désactiver"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1918
 msgid "SVG Icon"
@@ -26436,16 +26438,12 @@ msgstr ""
 "dans notre %s documentation %s."
 
 #: framework/php/auto-updates/class-avia-auto-updates.php:343
-#, fuzzy
-#| msgid "Update your Theme from the WordPress Dashboard"
 msgid "Update Your Theme From The WordPress Dashboard"
-msgstr "Mettre à jour votre thème depuis le tableau de bord WP"
+msgstr "Mettre à jour votre thème depuis le tableau de bord WordPress"
 
 #: framework/php/auto-updates/class-avia-auto-updates.php:353
-#, fuzzy
-#| msgid "Enter a valid Envato private token"
 msgid "Enter A Valid Envato Private Token"
-msgstr "Entrer un jeton privé Envato valide"
+msgstr "Saisir un jeton personnel Envato valide"
 
 #: framework/php/auto-updates/class-avia-auto-updates.php:359
 msgid "Check the private token"
@@ -27461,7 +27459,7 @@ msgstr "Supprimer les fichiers téléchargés"
 
 #: framework/php/class-htmlhelper.php:1996
 msgid "Import Parent Theme Settings"
-msgstr ""
+msgstr "Importer les paramètres du thème parent"
 
 #: framework/php/class-htmlhelper.php:1998
 msgid "Import started."
@@ -29159,11 +29157,15 @@ msgid ""
 "Select which page to display on your Frontpage. If left blank the Blog will "
 "be displayed."
 msgstr ""
+"Choisir quelle page afficher en tant que page d’accueil. Si laissé vide le "
+"Blog sera affiché."
 
 #: includes/admin/option_tabs/avia_avia.php:18
 #: includes/admin/option_tabs/avia_avia.php:28
 msgid "In case you do not see a select box - you have to publish pages !!"
 msgstr ""
+"Dans le cas où vous ne voyez une liste déroulante - vous devez publier des "
+"pages !!"
 
 #: includes/admin/option_tabs/avia_avia.php:26
 msgid "Where Do You Want To Display The Blog"
@@ -29174,6 +29176,8 @@ msgid ""
 "Select which page to display as your blog page. If left blank no blog will "
 "be displayed."
 msgstr ""
+"Choisir quelle page afficher en tant que page de blog. Si laissé vide aucun "
+"blog ne sera affiché."
 
 #: includes/admin/option_tabs/avia_avia.php:37
 msgid "Notice: Your blog is currently disabled. You can enable it"
@@ -29204,21 +29208,16 @@ msgstr "Réglages du Header"
 
 #: includes/admin/option_tabs/avia_avia.php:48
 #: includes/admin/option_tabs/avia_avia.php:100
-#, fuzzy
-#| msgid "Since 4.8.6.4 (in beta) - support for svg files"
 msgid "Since 4.8.6.4 - support for svg files"
-msgstr "Support de fichiers SVG - (en beta) depuis 4.8.6.4"
+msgstr "Depuis 4.8.6.4 - support des fichiers svg"
 
 #: includes/admin/option_tabs/avia_avia.php:57
-#, fuzzy
-#| msgid ""
-#| "You can learn more about Responsive Images and SVG Files support in the "
 msgid ""
 "You can learn more about Responsive Images and SVG Files support in the "
 "documentation"
 msgstr ""
 "Vous pouvez en apprendre plus à propos de l’utilisation des images "
-"responsive et des fichiers SVG dans le "
+"responsive et des fichiers SVG dans la documentation"
 
 #: includes/admin/option_tabs/avia_avia.php:61
 #: includes/admin/option_tabs/avia_avia.php:110
@@ -29253,10 +29252,8 @@ msgstr ""
 "principal, ce qui peut être défini ici."
 
 #: includes/admin/option_tabs/avia_avia.php:95
-#, fuzzy
-#| msgid "(Show example Screenshot)"
 msgid "Show example Screenshot"
-msgstr "(Voir capture d’écran d’exemple)"
+msgstr "Voir capture écran d’exemple"
 
 #: includes/admin/option_tabs/avia_avia.php:99
 msgid ""
@@ -29321,7 +29318,7 @@ msgstr "Utiliser l’image comme Favicon"
 
 #: includes/admin/option_tabs/avia_avia.php:155
 msgid "What is a favicon"
-msgstr ""
+msgstr "Ce qu’est une favicon"
 
 #: includes/admin/option_tabs/avia_avia.php:171
 msgid "Page Preloading"
@@ -29367,23 +29364,17 @@ msgstr ""
 "plugin de fenêtre modale"
 
 #: includes/admin/option_tabs/avia_avia.php:236
-#, fuzzy
-#| msgid ""
-#| "Info: If a page is selected and this option is deactivated, the selected "
-#| "page will show a message in the page list, that this option is inactive, "
-#| "so that editors are reminded that it is a &quot;special&quot; page and "
-#| "making changes might break intended site layout when reactivated."
 msgid ""
 "If a page is selected and this option is deactivated, the selected page will "
 "show a message in the page list, that this option is inactive, so that "
 "editors are reminded that it is a &quot;special&quot; page and making "
 "changes might break intended site layout when reactivated."
 msgstr ""
-"Info : si une page est sélectionnée et que cette option es désactivée, la "
-"page en question affichera un message dans la liste des pages, comme quoi "
-"cette option est inactive, donc il est rappelé aux éditeurs de contenus "
-"qu’il s’agit d’une page &quot;speciale&quot; et qu’effectuer des "
-"modifications peut provoquer des problèmes de mise en page."
+"Si une page est sélectionnée et que cette option es désactivée, la page en "
+"question affichera un message dans la liste des pages, comme quoi cette "
+"option est inactive, il est donc rappelé aux éditeurs qu’il s’agit d’une "
+"page &quot;speciale&quot; et qu’effectuer des modifications pourrait "
+"provoquer des problèmes de mise en page lors de sa réactivation."
 
 #: includes/admin/option_tabs/avia_avia.php:237
 msgid ""
@@ -29898,7 +29889,7 @@ msgstr "Limiter le nombre des champs personnalisés par défaut de WP"
 
 #: includes/admin/option_tabs/avia_builder.php:88
 msgid "Read more in documentation to get more information."
-msgstr ""
+msgstr "En savoir plus dans la documentation pour obtenir plus d’information."
 
 #: includes/admin/option_tabs/avia_builder.php:120
 msgid "Disable Advanced Layout Builder Preview In Backend"
@@ -29997,10 +29988,15 @@ msgid ""
 "(Usually located in the \"advanced\" tab of the element and containing "
 "options like custom IDs and CSS classes)."
 msgstr ""
+"Activer afin de masquer les options pour développeur dans les éléments du "
+"constructeur de mise en page. (Habituellement situées dans l’onglet "
+"\"Avancé\" de l’élément contenant les options comme les IDs personnalisés et "
+"les classes CSS)."
 
 #: includes/admin/option_tabs/avia_builder.php:249
 msgid "Read more in documentation: Intro to Layout Builder."
 msgstr ""
+"En savoir plus dans la documentation : Intro au constructeur de mise en page."
 
 #: includes/admin/option_tabs/avia_builder.php:260
 msgid "Typography Input Fields"
@@ -30112,7 +30108,7 @@ msgstr "Activez vos Custom Post Types pour l’éditeur avancé"
 
 #: includes/admin/option_tabs/avia_cookie.php:18
 msgid "Privacy And Cookies"
-msgstr ""
+msgstr "Confidentialité et cookies"
 
 #: includes/admin/option_tabs/avia_cookie.php:44
 #: includes/admin/option_tabs/avia_cookie.php:54
@@ -30420,7 +30416,7 @@ msgstr "Messages de consentement et de gestion des cookies"
 
 #: includes/admin/option_tabs/avia_cookie.php:306
 msgid "Enable Cookie Consent Messages"
-msgstr ""
+msgstr "Activer les messages de consentement de cookie"
 
 #: includes/admin/option_tabs/avia_cookie.php:307
 msgid "Enable cookie consent messages to use message bar and modal popup."
@@ -30766,10 +30762,8 @@ msgstr ""
 "merci de consulter notre documentation :"
 
 #: includes/admin/option_tabs/avia_cookie.php:772
-#, fuzzy
-#| msgid "Select use of the message bar"
 msgid "Select Use Of The Message Bar"
-msgstr "Définir l’utilisation de la barre de message"
+msgstr "Sélectionner pour utiliser la barre de message"
 
 #: includes/admin/option_tabs/avia_cookie.php:780
 msgid "Display message bar and use cookie logic"
@@ -30781,10 +30775,8 @@ msgstr ""
 "Utiliser une simple barre de message sans process concernant les cookies"
 
 #: includes/admin/option_tabs/avia_cookie.php:808
-#, fuzzy
-#| msgid "Show reopen badge"
 msgid "Show Reopen Badge"
-msgstr "Afficher un indicateur de réouverture"
+msgstr "Afficher le badge de réouverture"
 
 #: includes/admin/option_tabs/avia_cookie.php:809
 msgid "Select to show a badge to reopen the message bar"
@@ -31098,6 +31090,8 @@ msgid ""
 "Changes to these custom element templates will be used in the elements based "
 "on these templates."
 msgstr ""
+"Les modifications apportées à ces modèles d’éléments personnalisés seront "
+"utilisées dans les éléments basés sur ces modèles."
 
 #: includes/admin/option_tabs/avia_element_templates.php:24
 msgid ""
@@ -31126,10 +31120,8 @@ msgstr ""
 "l’éditeur de mise en page avancé"
 
 #: includes/admin/option_tabs/avia_element_templates.php:46
-#, fuzzy
-#| msgid "Read more in documentation."
 msgid "Read more in documentation"
-msgstr "En savoir plus avec la documentation."
+msgstr "En savoir plus avec la documentation"
 
 #: includes/admin/option_tabs/avia_element_templates.php:55
 msgid "Custom Elements Management"
@@ -31436,7 +31428,7 @@ msgstr "Supporté uniquement si mise en page étirée."
 
 #: includes/admin/option_tabs/avia_footer.php:78
 msgid "Footer Behavior"
-msgstr ""
+msgstr "Comportement du pied de page"
 
 #: includes/admin/option_tabs/avia_footer.php:87
 msgid "Scroll with page (default)"
@@ -31609,10 +31601,8 @@ msgid "Tutorial: How to create an API key"
 msgstr "Tutoriel : Comment créer une clé API"
 
 #: includes/admin/option_tabs/avia_google.php:78
-#, fuzzy
-#| msgid "Enable Google Maps on your site"
 msgid "Enable Google Maps On Your Site"
-msgstr "Activer Google Maps sur votre site"
+msgstr "Activer Google Maps Sur Votre Site"
 
 #: includes/admin/option_tabs/avia_google.php:79
 msgid ""
@@ -31632,14 +31622,11 @@ msgid "Use Google Maps"
 msgstr "Utiliser Google Maps"
 
 #: includes/admin/option_tabs/avia_google.php:93
-#, fuzzy
-#| msgid ""
-#| "Enter a valid Google Maps API Key to use all map related theme functions"
 msgid ""
 "Enter A Valid Google Maps API Key To Use All Map Related Theme Functions"
 msgstr ""
-"Entrez une clé API Google Maps valide pour en utiliser toute fonctionnalité "
-"relative dans les fonctions du thème"
+"Entrez une clé API Google Maps valide pour utiliser toutes les fonctions "
+"relatives aux cartes du thème"
 
 #: includes/admin/option_tabs/avia_google.php:102
 #: includes/admin/option_tabs/avia_newsletter.php:32
@@ -31701,8 +31688,6 @@ msgid "Google ReCAPTCHA"
 msgstr "Google ReCAPTCHA"
 
 #: includes/admin/option_tabs/avia_google.php:162
-#, fuzzy
-#| msgid "Select if you want to use Google reCAPTCHA"
 msgid "Select If You Want To Use Google reCAPTCHA"
 msgstr "Choisir si vous voulez utiliser Google reCAPTCHA"
 
@@ -32579,10 +32564,8 @@ msgid "Advanced Styling"
 msgstr "Styles avancés"
 
 #: includes/admin/option_tabs/avia_newsletter.php:16
-#, fuzzy
-#| msgid "Newsletter via Mailchimp"
 msgid "Newsletter Via Mailchimp"
-msgstr "Newsletter avec Mailchimp"
+msgstr "Newsletter via Mailchimp"
 
 #: includes/admin/option_tabs/avia_newsletter.php:17
 msgid ""
@@ -32600,15 +32583,11 @@ msgid "You can find your API key here"
 msgstr "Vous pouvez trouver votre clé API ici"
 
 #: includes/admin/option_tabs/avia_newsletter.php:25
-#, fuzzy
-#| msgid ""
-#| "Enter a valid Mailchimp API Key to use all newsletter related theme "
-#| "functions"
 msgid ""
 "Enter A Valid Mailchimp API Key To Use All Newsletter Related Theme Functions"
 msgstr ""
-"Entrez une clé API Mailchimp valide pour utiliser toutes les fonctions de "
-"Newsletter liées au thème"
+"Entrez une clé API Mailchimp valide pour utiliser toutes les fonctions "
+"relatives aux Newsletters du thème"
 
 #: includes/admin/option_tabs/avia_newsletter.php:33
 msgid "Check Key again & renew Lists"
@@ -32884,7 +32863,7 @@ msgstr "Retirer les Query String des ressources statiques"
 
 #: includes/admin/option_tabs/avia_performance.php:171
 msgid "Get background information about this"
-msgstr ""
+msgstr "Obtenir des informations générales à ce sujet"
 
 #: includes/admin/option_tabs/avia_performance.php:180
 msgid "Leave query strings"
@@ -32925,7 +32904,7 @@ msgstr "Chargement depuis un serveur CDN"
 
 #: includes/admin/option_tabs/avia_performance.php:205
 msgid "Please read carefully backend documentation before changing."
-msgstr ""
+msgstr "Merci de lire avec attention la documentation avant changement."
 
 #: includes/admin/option_tabs/avia_performance.php:206
 msgid "Controlling Font Performance with font-display"
@@ -32937,7 +32916,7 @@ msgstr "MDN font-display"
 
 #: includes/admin/option_tabs/avia_performance.php:208
 msgid "You can also use filter avf_font_display."
-msgstr ""
+msgstr "Vous pouvez aussi utiliser le filtre avf_font_display."
 
 #: includes/admin/option_tabs/avia_performance.php:212
 msgid "Custom Font Display Behaviour"
@@ -32947,6 +32926,8 @@ msgstr "Comportement d’affichage de police personnalisée"
 msgid ""
 "Select font display behaviour for your uploaded custom fonts and icon fonts"
 msgstr ""
+"Choisir le comportement de l’affichage de police pour vos polices d’écriture "
+"et d’icônes"
 
 #: includes/admin/option_tabs/avia_performance.php:222
 msgid "auto (= default)"
@@ -33192,12 +33173,17 @@ msgid ""
 "Select to enable lazy loading using native HTML. Currently WP only supports "
 "images, but this might be extended for iframes in future."
 msgstr ""
+"Sélectionner pour définir le lazy loading via du HTML natif. Actuellement WP "
+"ne supporte que les images, mais cela pourrait être étendu aux iframes à "
+"l’avenir."
 
 #: includes/admin/option_tabs/avia_performance.php:470
 msgid ""
 "Please keep in mind that lazy loading might break animations when scrolling "
 "to images."
 msgstr ""
+"Merci de noter que le lazy loading peut bloquer les animations lors du "
+"scroll vers les images."
 
 #: includes/admin/option_tabs/avia_performance.php:471
 msgid ""
@@ -33233,10 +33219,12 @@ msgstr ""
 #: includes/admin/option_tabs/avia_performance.php:505
 msgid "Check to enable theme support for responsive images for theme lightbox."
 msgstr ""
+"Cocher pour activer la prise en charge par le thème des images responsives "
+"dans sa lightbox."
 
 #: includes/admin/option_tabs/avia_performance.php:507
 msgid "This feature started with version 4.8.2."
-msgstr ""
+msgstr "Cette fonctionnalité à démarré avec la version 4.8.2."
 
 #: includes/admin/option_tabs/avia_performance.php:508
 msgid ""
@@ -33249,7 +33237,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_performance.php:512
 msgid "Responsive Images For Lightbox"
-msgstr ""
+msgstr "Images responsives pour Lightbox"
 
 #: includes/admin/option_tabs/avia_performance.php:534
 msgid "Image Thumbnails Info"
@@ -33483,26 +33471,19 @@ msgid "You can choose the appearance of the cart icon here"
 msgstr "Vous pouvez choisir l’apparence de l’icône du panier ici"
 
 #: includes/admin/option_tabs/avia_shop.php:22
-#, fuzzy
-#| msgid ""
-#| "Display Floating on the side, but only once product was added to the cart"
 msgid ""
 "Display floating on the side, but only once product was added to the cart"
 msgstr ""
-"Afficher flottant sur le côté, mais seulement une fois qu’un produit a été "
-"ajouté au panier"
+"Afficher flottant sur le côté, mais seulement une fois un produit ajouté au "
+"panier"
 
 #: includes/admin/option_tabs/avia_shop.php:23
-#, fuzzy
-#| msgid "Always Display floating on the side"
 msgid "Always display floating on the side"
-msgstr "Toujours afficher en mode flottant sur le côté"
+msgstr "Toujours afficher flottant sur le côté"
 
 #: includes/admin/option_tabs/avia_shop.php:24
-#, fuzzy
-#| msgid "Always Display attached to the main menu"
 msgid "Always display attached to the main menu"
-msgstr "Toujours afficher en mode attaché au menu principal"
+msgstr "Toujours afficher attaché au menu principal"
 
 #: includes/admin/option_tabs/avia_shop.php:25
 msgid "Do not show at all"
@@ -33555,10 +33536,8 @@ msgid "Always display message box"
 msgstr "Toujours afficher la boite de message"
 
 #: includes/admin/option_tabs/avia_shop.php:61
-#, fuzzy
-#| msgid "Product layout on overview pages"
 msgid "Product Layout On Overview Pages"
-msgstr "Disposition des produits sur les pages de prévisualisation"
+msgstr "Disposition produit sur les pages de prévisualisation"
 
 #: includes/admin/option_tabs/avia_shop.php:62
 msgid "You can choose the appearance of your products here"
@@ -33577,10 +33556,8 @@ msgid "Minimal Overlay with centered text"
 msgstr "Calque superposé minimal avec du texte centré"
 
 #: includes/admin/option_tabs/avia_shop.php:77
-#, fuzzy
-#| msgid "Product gallery"
 msgid "Product Gallery"
-msgstr "Galerie de produits"
+msgstr "Galerie du produit"
 
 #: includes/admin/option_tabs/avia_shop.php:78
 msgid "You can choose the appearance of your product gallery here"
@@ -33689,10 +33666,8 @@ msgid "Select the color of your shop description"
 msgstr "Sélectionner la couleur pour votre description de la boutique"
 
 #: includes/admin/option_tabs/avia_shop.php:200
-#, fuzzy
-#| msgid "Enable Banner for product category pages"
 msgid "Enable Banner For Product Category Pages"
-msgstr "Activer la bannière pour les pages de catégories produit"
+msgstr "Activer la bannière pour les pages de catégorie produit"
 
 #: includes/admin/option_tabs/avia_shop.php:201
 msgid ""
@@ -33789,10 +33764,8 @@ msgid "Show separate Archive Sidebar on Archive Pages"
 msgstr "Afficher une ’Archive Sidebar’ séparée sur les pages d’archives"
 
 #: includes/admin/option_tabs/avia_sidebars.php:96
-#, fuzzy
-#| msgid "Sidebar on Smartphones"
 msgid "Sidebar On Smartphones"
-msgstr "Barre latérale sur les Smartphones"
+msgstr "Barre latérale sur Smartphones"
 
 #: includes/admin/option_tabs/avia_sidebars.php:97
 msgid ""
@@ -33894,10 +33867,8 @@ msgid "General Layout"
 msgstr "Mise en page générale"
 
 #: includes/admin/option_tabs/avia_social.php:18
-#, fuzzy
-#| msgid "Your social profiles"
 msgid "Your Social Profiles"
-msgstr "Vos profils sociaux"
+msgstr "Vos Profils Sociaux"
 
 #: includes/admin/option_tabs/avia_social.php:42
 msgid "Social Icon"
@@ -34284,6 +34255,8 @@ msgid ""
 "Since 7.0 this is restricted to admins only (vulnerability report by "
 "WordFence) !!"
 msgstr ""
+"Depuis la version 7.0 ceci est limité aux admins uniquement (vulnérabilité "
+"rapportée par Wordfence) !!"
 
 #: includes/admin/option_tabs/avia_upload.php:47
 msgid "Select Theme Options To Import"
@@ -34294,10 +34267,14 @@ msgid ""
 "Check if you do not want to import all settings from an exported theme "
 "settings file."
 msgstr ""
+"Cocher si vous ne voulez pas importer tous les réglages depuis un fichier "
+"d’export de paramètres du thème."
 
 #: includes/admin/option_tabs/avia_upload.php:51
 msgid "Read our documentation for more information how to customize import"
 msgstr ""
+"Lire notre documentation pour plus d’information sur comment personnaliser "
+"l’import"
 
 #: includes/admin/option_tabs/avia_upload.php:60
 #: includes/admin/option_tabs/avia_upload.php:135
@@ -34379,13 +34356,15 @@ msgstr "Sélectionner les paramètres du thème à réinitialiser"
 
 #: includes/admin/option_tabs/avia_upload.php:123
 msgid "Check if you do not want to reset all options."
-msgstr ""
+msgstr "Cocher si vous ne voulez pas réinitialiser toutes les options."
 
 #: includes/admin/option_tabs/avia_upload.php:126
 msgid ""
 "Read our documentation for more information how to customize resetting theme "
 "options"
 msgstr ""
+"Lire notre documentation pour plus d’information sur comment restaurer les "
+"options du thème par défaut"
 
 #: includes/admin/option_tabs/avia_upload.php:136
 msgid ""
@@ -34489,22 +34468,16 @@ msgstr ""
 "en page."
 
 #: includes/admin/option_tabs/avia_upload.php:203
-#, fuzzy
-#| msgid ""
-#| "Make sure to delete any iconfonts that you are not using, to keep the "
-#| "loading time for your visitors low."
 msgid ""
 "Make sure to delete any iconfonts that you are not using, to keep the "
 "loading time low for your visitors."
 msgstr ""
-"Assurez-vous de supprimer tous les jeux d’icônes que vous n’utilisez pas, "
-"pour conserver un temps de chargement rapide à vos visiteurs."
+"Assurez-vous de supprimer toutes les polices d’icônes que vous n’utilisez "
+"pas, pour conserver un temps de chargement rapide à vos visiteurs."
 
 #: includes/admin/option_tabs/avia_upload.php:204
-#, fuzzy
-#| msgid "The &quot;Default Font&quot; cannot be deleted."
 msgid "The &quot;Default&quot; icons cannot be deleted."
-msgstr "La &quot;police par défaut&quot; ne peut être supprimée."
+msgstr "Les icônes par &quot;par défaut&quot; ne peuvent être supprimées."
 
 #: includes/admin/option_tabs/avia_upload.php:205
 msgid ""
@@ -34514,6 +34487,12 @@ msgid ""
 "the layout. We recommend to replace the icons with svg icons before doing "
 "this."
 msgstr ""
+"Si vous désactivez la police d’icônes &quot;Entypo Fontello&quot;, toutes "
+"les icônes issues de cette police et les icônes sociales que vous aviez "
+"utilisées seront remplacées par des icônes svg au fur et à mesure du pré "
+"chargement des pages, et la police ne sera plus chargée. Merci de contrôler "
+"la mise en page. Nous recommandons le remplacement des icônes avec leur "
+"équivalent svg avant de le faire."
 
 #: includes/admin/option_tabs/avia_upload.php:210
 msgid "SVG Iconset and Iconfont Manager"
