@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v7.1.2\n"
+"Project-Id-Version: Italian Enfold Language v7.1.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-22 13:40+0300\n"
-"PO-Revision-Date: 2025-08-22 13:42+0300\n"
+"POT-Creation-Date: 2025-10-09 21:17+0200\n"
+"PO-Revision-Date: 2025-10-09 21:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -11,10 +11,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.6\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
-"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Textdomain-Support: yes\n"
 "X-Loco-Version: 2.5.4; wp-5.8.1\n"
@@ -189,19 +189,16 @@ msgstr "Editore classico"
 msgid "Advanced Layout Builder"
 msgstr "Generatore di layout avanzato"
 
-#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:814
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Classic Editor"
 msgstr "Modifica&#8220;%s&#8221; con Editore classico"
 
-#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:824
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Block Editor"
 msgstr "Modifica &#8220;%s&#8221; con Editore blocchi"
 
-#. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:830
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Gutenberg Editor"
@@ -227,7 +224,7 @@ msgstr "Modifica pagina iniziale (Editore classico)"
 # @ avia_framework
 #: config-gutenberg/class-avia-gutenberg.php:994
 #: config-gutenberg/class-avia-gutenberg.php:999
-#: framework/php/function-set-avia-backend.php:1157
+#: framework/php/function-set-avia-backend.php:1161
 msgid "Edit Frontpage"
 msgstr "Modifica pagina iniziale"
 
@@ -410,7 +407,7 @@ msgstr "Titolo del widget:"
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:149
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:589
 #: config-templatebuilder/avia-shortcodes/textblock/textblock.php:72
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:184
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:191
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:120
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:629
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:156
@@ -443,8 +440,8 @@ msgstr "Nome utente:"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:163
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:242
 msgid ""
-"Your Instagram User Name. This must be from a connected account on the &quot;"
-"Configure&quot; tab of the plugin."
+"Your Instagram User Name. This must be from a connected account on the "
+"&quot;Configure&quot; tab of the plugin."
 msgstr ""
 "Il tuo nome utente Instagram. Deve provenire da un account collegato su "
 "&quot;Configura&quot; scheda del plugin."
@@ -735,11 +732,11 @@ msgstr "Seleziona Media:"
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:442
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:443
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:444
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:233
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:234
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:235
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:236
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:237
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:240
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:241
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:242
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:243
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:244
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:367
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:368
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:369
@@ -1495,6 +1492,15 @@ msgstr "Carica altre foto"
 msgid "Follow Me"
 msgstr "Seguimi"
 
+# @ avia_framework
+#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
+msgid "number"
+msgstr "numero"
+
+#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
+msgid "shadow"
+msgstr "ombra"
+
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:87
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-mailchimp.php:100
 msgid "Please provide a valid email address."
@@ -2020,8 +2026,8 @@ msgstr "Loop Video Player"
 msgid ""
 "Check if you want to loop the video and play it from the beginning again"
 msgstr ""
-"Controllare se si vuole far girare il video in loop e riprodurlo dall&rsquo;"
-"inizio"
+"Controllare se si vuole far girare il video in loop e riprodurlo "
+"dall&rsquo;inizio"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcode-legacy/video.php:267
@@ -2490,7 +2496,7 @@ msgstr "Colore personalizzato"
 #: config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.php:365
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:325
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:381
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:270
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:277
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:408
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3401
 msgid "Custom Font Color"
@@ -2520,7 +2526,7 @@ msgstr "Seleziona un colore personalizzato per il tuo lettore qui"
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:571
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:507
 #: config-templatebuilder/avia-shortcodes/section/section.php:513
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:287
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:294
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:502
 #: includes/admin/option_tabs/avia_styling.php:186
 #: includes/admin/register-backend-advanced-styles.php:75
@@ -2565,7 +2571,7 @@ msgstr "Seleziona un colore di sfondo"
 #: config-templatebuilder/avia-shortcodes/section/section.php:519
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:294
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:297
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:293
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:300
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:532
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:420
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3390
@@ -2652,7 +2658,7 @@ msgstr "Colore del bordo personalizzato"
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:458
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:311
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:523
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:318
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:325
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:572
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:909
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:395
@@ -3517,9 +3523,9 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:442
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:443
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:444
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:235
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:236
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:237
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:242
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:243
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:244
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:369
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:370
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:371
@@ -3564,7 +3570,7 @@ msgstr "Nascosto"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:889
 #: config-templatebuilder/avia-shortcodes/team/team.php:416
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:461
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:247
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:254
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:435
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:642
 msgid "Font Sizes"
@@ -3578,7 +3584,7 @@ msgstr "Dimensioni dei caratteri"
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:526
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:466
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:392
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:344
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:351
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-callback.php:298
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1177
 msgid "Padding"
@@ -4248,7 +4254,7 @@ msgstr "Pagina presentazione Tassonomia"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:468
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:473
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3136
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3158
 msgid "Item"
 msgstr "Elemento"
 
@@ -4773,7 +4779,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:473
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:558
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:648
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3391
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3413
 msgid "Tooltip"
 msgstr "Tooltip"
 
@@ -4820,8 +4826,8 @@ msgstr "Dataset Datapoints"
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:739
 msgid ""
-"Allowed color formats are string in hexadecimal, RGB, named colors or HSL (e."
-"g. #fefefe, rgba(214,87,153,0.58), green)."
+"Allowed color formats are string in hexadecimal, RGB, named colors or HSL "
+"(e.g. #fefefe, rgba(214,87,153,0.58), green)."
 msgstr ""
 "I formati di colore consentiti sono stringa in esadecimale, RGB, colori "
 "denominati o HSL (ad esempio, #fefefe, rgba(214,87,153,0.58), verde)."
@@ -4831,8 +4837,9 @@ msgid ""
 "Add a color for each datapoint, separate by ; (e.g. #fefefe;#efefef;green). "
 "Missing colors will loop from the beginning again."
 msgstr ""
-"Aggiungere un colore per ogni punto dati, separato da ; (ad esempio, #fefefe;"
-"#efefef;verde). I colori mancanti verranno rimessi in ciclo dall'inizio."
+"Aggiungere un colore per ogni punto dati, separato da ; (ad esempio, "
+"#fefefe;#efefef;verde). I colori mancanti verranno rimessi in ciclo "
+"dall'inizio."
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:741
 msgid "Depending on the selected chart type not all settings will be used."
@@ -5520,7 +5527,7 @@ msgstr "Altezza"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:645
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:333
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:340
 msgid "Inner Padding"
 msgstr "Padding Interno"
 
@@ -5600,7 +5607,7 @@ msgstr "Seleziona il tipo di sfondo per la colonna."
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1142
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1181
 #: config-templatebuilder/avia-shortcodes/section/section.php:514
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:288
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:295
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:503
 msgid "Background Gradient"
 msgstr "Sfondo Sfumato"
@@ -5609,7 +5616,7 @@ msgstr "Sfondo Sfumato"
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:750
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:273
 #: config-templatebuilder/avia-shortcodes/section/section.php:520
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:294
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:301
 msgid ""
 "Select a custom background color for this cell here. Leave empty for default "
 "color"
@@ -5635,8 +5642,8 @@ msgid ""
 "Leave empty if you don't want to use a background image"
 msgstr ""
 "Caricate una nuova immagine o scegliete un&rsquo;immagine esistente dalla "
-"libreria multimediale. Lasciare vuoto se non si desidera utilizzare un&rsquo;"
-"immagine di sfondo"
+"libreria multimediale. Lasciare vuoto se non si desidera utilizzare "
+"un&rsquo;immagine di sfondo"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:773
@@ -6230,8 +6237,8 @@ msgid ""
 msgstr ""
 "Un punteggio di 1.0 è molto probabilmente una buona interazione, 0.0 è molto "
 "probabilmente un bot. Google raccomanda una soglia di 0.5 per impostazione "
-"predefinita. Nel caso in cui incontriamo un non umano chiediamo all&rsquo;"
-"utente di verificare con la casella di controllo della versione 2."
+"predefinita. Nel caso in cui incontriamo un non umano chiediamo "
+"all&rsquo;utente di verificare con la casella di controllo della versione 2."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:378
@@ -6281,7 +6288,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/table/table.php:244
 #: config-templatebuilder/avia-shortcodes/team/team.php:433
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:477
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:264
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:271
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:452
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:476
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:526
@@ -6550,9 +6557,9 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:643
 msgid ""
-"When selecting &quot;Valid E-Mail address with German Umlaut&quot; or &quot;"
-"Valid E-Mail address, extended characterset&quot; keep in mind, that not all "
-"E-Mail systems support these characters properly."
+"When selecting &quot;Valid E-Mail address with German Umlaut&quot; or "
+"&quot;Valid E-Mail address, extended characterset&quot; keep in mind, that "
+"not all E-Mail systems support these characters properly."
 msgstr ""
 "Quando selezioni &quot;Indirizzo e-mail valido con la dieresi tedesca&quot; "
 "o &quot;Indirizzo e-mail valido, insiemi di caratteri estesi&quot; tieni "
@@ -6978,7 +6985,7 @@ msgstr "Colori Font"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:899
 #: config-templatebuilder/avia-shortcodes/team/team.php:427
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:471
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:258
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:265
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:470
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:520
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:881
@@ -7015,7 +7022,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:906
 #: config-templatebuilder/avia-shortcodes/team/team.php:434
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:478
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:265
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:272
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:453
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:477
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:527
@@ -7061,7 +7068,7 @@ msgstr "Definisci colori personalizzati"
 #: config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.php:923
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:484
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:508
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:271
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:278
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:484
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:496
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:508
@@ -7456,8 +7463,8 @@ msgstr "Colori solo numeri"
 msgid ""
 "Select predefined colors or use custom colors for &quot;Numbers only&quot;"
 msgstr ""
-"Selezionare i colori predefiniti o utilizzare colori personalizzati  &quot;"
-"Solo per i numeri&quot;"
+"Selezionare i colori predefiniti o utilizzare colori personalizzati  "
+"&quot;Solo per i numeri&quot;"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/countdown/countdown.php:496
@@ -9004,8 +9011,8 @@ msgid ""
 "Leave empty if you don't want to use a background image."
 msgstr ""
 "Caricate una nuova immagine o scegliete un&rsquo;immagine esistente dalla "
-"libreria multimediale. Lasciare vuoto se non si desidera utilizzare un&rsquo;"
-"immagine di sfondo."
+"libreria multimediale. Lasciare vuoto se non si desidera utilizzare "
+"un&rsquo;immagine di sfondo."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:301
@@ -9515,8 +9522,8 @@ msgstr "Dimensioni dei caratteri di intestazione"
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:304
 msgid "Select a custom font size for the heading."
 msgstr ""
-"Selezionare una dimensione di carattere personalizzata per l&rsquo;"
-"intestazione."
+"Selezionare una dimensione di carattere personalizzata per "
+"l&rsquo;intestazione."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:327
@@ -12594,8 +12601,8 @@ msgid ""
 "Enter a short descriptive text that appears if the user places his mouse "
 "above the hotspot"
 msgstr ""
-"Immettere un breve testo descrittivo che viene visualizzato se l&rsquo;"
-"utente posiziona il suo mouse sopra l&rsquo;hotspot"
+"Immettere un breve testo descrittivo che viene visualizzato se "
+"l&rsquo;utente posiziona il suo mouse sopra l&rsquo;hotspot"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:494
@@ -13735,8 +13742,8 @@ msgstr "Dimensione dell'immagine del partner/logo"
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:367
 msgid ""
 "Choose the image size. When using svg images you must select an image size. "
-"If &quot;No scaling&quot; is used we make a fallback to WP default &quot;"
-"Medium&quot;."
+"If &quot;No scaling&quot; is used we make a fallback to WP default "
+"&quot;Medium&quot;."
 msgstr ""
 "Scegli la dimensione dell'immagine. Quando usi immagini svg devi selezionare "
 "una dimensione dell'immagine. Se selezionato &quot;No scaling&quot; sarà "
@@ -13762,8 +13769,8 @@ msgstr "L'immagine si estende per riempire lo spazio disponibile"
 msgid ""
 "Do not stretch image. If more space is available image will be centered."
 msgstr ""
-"Non allungare l&rsquo;immagine. Se è disponibile più spazio, l&rsquo;"
-"immagine sarà centrata."
+"Non allungare l&rsquo;immagine. Se è disponibile più spazio, "
+"l&rsquo;immagine sarà centrata."
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:405
@@ -13888,12 +13895,12 @@ msgstr "Impostare una posizione per l'animazione."
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:278
 msgid ""
 "Either upload a new or choose an existing lottie animation from your media "
-"library. Supported filetype extensions are &quot;.lottie&quot; and &quot;."
-"json&quot;."
+"library. Supported filetype extensions are &quot;.lottie&quot; and "
+"&quot;.json&quot;."
 msgstr ""
 "Caricare una nuova animazione lottie o sceglierne una esistente dalla "
-"propria libreria multimediale. Le estensioni di file supportate sono &quot;."
-"lottie&quot; e &quot;.json&quot;."
+"propria libreria multimediale. Le estensioni di file supportate sono "
+"&quot;.lottie&quot; e &quot;.json&quot;."
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:279
 #, php-format
@@ -14882,10 +14889,10 @@ msgid ""
 msgstr ""
 "Perfetto Masonry automatico: Visualizzare una griglia dove la maggior parte "
 "delle immagini hanno la stessa dimensione, solo le immagini molto larghe "
-"hanno il doppio della larghezza e quelle molto alte il doppio dell&rsquo;"
-"altezza. Per qualificarsi per &quot;very wide&quot; o &quot;very high&quot;"
-"very high&quot; l&rsquo;immagine deve avere un rapporto di aspetto di 16:9 o "
-"superiore"
+"hanno il doppio della larghezza e quelle molto alte il doppio "
+"dell&rsquo;altezza. Per qualificarsi per &quot;very wide&quot; o &quot;very "
+"high&quot;very high&quot; l&rsquo;immagine deve avere un rapporto di aspetto "
+"di 16:9 o superiore"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:405
@@ -16361,8 +16368,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_review.php:69
 msgid ""
-"Display and allow reviews for this product. Needs to enable reviews in WC -"
-"&gt; Settings -&gt; Product -&gt; Product -&gt; Enable reviews"
+"Display and allow reviews for this product. Needs to enable reviews in WC "
+"-&gt; Settings -&gt; Product -&gt; Product -&gt; Enable reviews"
 msgstr ""
 "Visualizza e permette le recensioni per questo prodotto. Deve abilitare le "
 "recensioni in WC -&gt; Impostazioni -&gt; Prodotto -&gt; Prodotto -&gt; "
@@ -17063,8 +17070,8 @@ msgstr "Imposta il raggio del bordo del campo di input e del pulsante"
 #: config-templatebuilder/avia-shortcodes/search/search.php:445
 msgid "Select a custom border width for the search input and button"
 msgstr ""
-"Seleziona una larghezza del bordo personalizzata per il pulsante e l&rsquo;"
-"input di ricerca"
+"Seleziona una larghezza del bordo personalizzata per il pulsante e "
+"l&rsquo;input di ricerca"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:458
 msgid "Form Container"
@@ -17491,8 +17498,8 @@ msgid ""
 "defined above"
 msgstr ""
 "Carica una nuova, oppure scegliere un&rsquo;immagine esistente dalla "
-"libreria multimediale. Lasciare vuoto se si desidera utilizzare l&rsquo;"
-"immagine dello schema colore di sfondo definito sopra"
+"libreria multimediale. Lasciare vuoto se si desidera utilizzare "
+"l&rsquo;immagine dello schema colore di sfondo definito sopra"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/section/section.php:572
@@ -18865,9 +18872,9 @@ msgstr "Transizione diapositiva"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:538
 msgid ""
-"Define a transition when switching between the slides. Fade forces &quot;"
-"Same Height&quot; for all slides. We recommend this setting in general. "
-"Slide Up/Down disables animations on elements in slides."
+"Define a transition when switching between the slides. Fade forces "
+"&quot;Same Height&quot; for all slides. We recommend this setting in "
+"general. Slide Up/Down disables animations on elements in slides."
 msgstr ""
 "Definire una transizione quando si passa da una diapositiva all'altra. "
 "Dissolvenza forza &quot;Stessa altezza&quot; per tutte le diapositive. Si "
@@ -20771,45 +20778,74 @@ msgid "Creates a simple text block with collapse support"
 msgstr "Crea un blocco di testo semplice con supporto per la compressione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:185
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:192
 msgid "Enter some content for this textblock"
 msgstr "Immettere qualche contenuto per questo blocco di testo"
 
 # @ avia_framework
 # @ avia_builder
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:188
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:195
 msgid "Click here to add your own text"
 msgstr "Clicca qui per aggiungere il proprio testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:200
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:207
 msgid "Textblock"
 msgstr "Blocco di testo"
 
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:229
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:236
 msgid "Textblock Font Sizes"
 msgstr "Dimensioni dei caratteri del blocco testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:257
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:264
 msgid "Textblock Font Colors"
 msgstr "Colori dei caratteri del blocco testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:280
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:287
 msgid "Textblock Background Color"
 msgstr "Colore di sfondo del blocco testo"
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:281
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:288
 msgid "Select the type of background color for the textblock."
 msgstr "Selezionare il tipo di colore di sfondo per il blocco di testo."
 
 # @ avia_framework
-#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:334
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:341
 msgid ""
 "Set the distance from the text content to the border of the textblock here."
 msgstr "Impostare qui la distanza tra il contenuto della colonna e il bordo."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:360
+msgid "Container Tag"
+msgstr "Etichetta del contenitore"
+
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:361
+msgid ""
+"If you are not using a h1 - h6 headline in this textblock it is recommended "
+"to select div tag for better accessibility support."
+msgstr ""
+"Se non si utilizza un titolo h1 - h6 in questo blocco di testo, si consiglia "
+"di selezionare il tag div per un migliore supporto dell'accessibilità."
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:367
+msgid "Use section tag"
+msgstr "Utilizzare il tag di sezione"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:368
+msgid "Use div tag"
+msgstr "Utilizzare il tag div"
+
+# @ avia_framework
+#: config-templatebuilder/avia-shortcodes/textblock/textblock.php:377
+#: includes/admin/register-admin-options.php:248
+msgid "Accessibility"
+msgstr "Accessibilità"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:68
 msgid "Timeline"
@@ -21414,8 +21450,8 @@ msgstr "Colore personalizzato +/- al passaggio del mouse"
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:566
 msgid ""
-"Select a custom hover color for the toggle icon. Leave empty to use &quot;"
-"Custom Hover Font Color&quot;"
+"Select a custom hover color for the toggle icon. Leave empty to use "
+"&quot;Custom Hover Font Color&quot;"
 msgstr ""
 "Seleziona un colore personalizzato per le icone toggle. Lasciare vuoto per "
 "usare &quot;Nome colore carattere&quot;"
@@ -21500,9 +21536,9 @@ msgid ""
 "Enter any number of comma separated tags here. If sorting is active the user "
 "can filter the visible toggles with the help of these tags"
 msgstr ""
-"Inserisci qualsiasi numero di etichette separate da virgola qui. Se l&rsquo;"
-"ordinamento è attivo l&rsquo;utente può filtrare i toggles  visibili con "
-"l&rsquo;aiuto di questi tag"
+"Inserisci qualsiasi numero di etichette separate da virgola qui. Se "
+"l&rsquo;ordinamento è attivo l&rsquo;utente può filtrare i toggles  visibili "
+"con l&rsquo;aiuto di questi tag"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:810
@@ -22713,9 +22749,9 @@ msgid ""
 "Fontello&quot; in theme option &quot;SVG Iconset and Iconfont Manager&quot; "
 "to speed up page loading."
 msgstr ""
-"Ciò consente di disabilitare il caricamento del font predefinito &quot;"
-"Entypo Fontello&quot; nell'opzione del tema &quot;SVG Iconset and Iconfont "
-"Manager&quot; per velocizzare il caricamento della pagina."
+"Ciò consente di disabilitare il caricamento del font predefinito "
+"&quot;Entypo Fontello&quot; nell'opzione del tema &quot;SVG Iconset and "
+"Iconfont Manager&quot; per velocizzare il caricamento della pagina."
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-object-properties.php:43
 #: framework/php/base-classes/class-object-properties.php:41
@@ -24116,8 +24152,8 @@ msgstr "Visibilità dei prodotti WooCommerce in primo piano"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:310
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:441
 msgid ""
-"Select the visibility of WooCommerce products depending on checkbox &quot;"
-"This is a featured product&quot; in catalog visibility. Can be set "
+"Select the visibility of WooCommerce products depending on checkbox "
+"&quot;This is a featured product&quot; in catalog visibility. Can be set "
 "independently for each product: Edit Product -&gt Publish panel -&gt Catalog "
 "visibility"
 msgstr ""
@@ -24228,8 +24264,8 @@ msgstr "Filtri di WooCommerce Sidebar"
 msgid ""
 "Allow to filter products for this element using the 3 WooCommerce sidebar "
 "filters: Filter Products by Price, Rating, Attribute. These filters are only "
-"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -"
-"&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
+"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings "
+"-&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
 "You may also use a custom widget area for the sidebar."
 msgstr ""
 "Consenti di filtrare i prodotti per questo elemento utilizzando i 3 filtri "
@@ -24459,8 +24495,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:358
 msgid ""
-"Please note that changing the default will overwrite any individual &quot;"
-"landscape&quot; width settings. Each item will have the same width"
+"Please note that changing the default will overwrite any individual "
+"&quot;landscape&quot; width settings. Each item will have the same width"
 msgstr ""
 "Si prega di notare che la modifica del valore predefinito sovrascriverà "
 "qualsiasi impostazione di larghezza individuale &quot;landscape&quot;. Ogni "
@@ -24970,7 +25006,7 @@ msgstr "Tutti i layout personalizzati"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-custom-layout.php:168
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1824
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1846
 #: config-woocommerce/admin-import.php:109
 msgid "Add New"
 msgstr "Aggiungi nuovo"
@@ -25354,7 +25390,7 @@ msgstr "L'elemento personalizzato non può essere creato/aggiornato."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1183
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1519
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1746
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1768
 msgid "Not enough information provided."
 msgstr "Non sono state fornite abbastanza informazioni."
 
@@ -25368,7 +25404,7 @@ msgid "Copy"
 msgstr "Copia"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1266
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1590
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1612
 #, php-format
 msgid "Item for: %s"
 msgstr "Voce per: %s"
@@ -25384,14 +25420,14 @@ msgstr "L'elemento personalizzato e quello memorizzato non corrispondono."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1352
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1359
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3205
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3214
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3227
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3236
 #, php-format
 msgid " - Customize: %s"
 msgstr " - Personalizza: %s"
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1358
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3213
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3235
 #, php-format
 msgid " - Customize Item: %s"
 msgstr " - Personalizza voce: %s"
@@ -25433,36 +25469,36 @@ msgstr ""
 msgid "Shortcode does no longer exist or has been deactivated."
 msgstr "Lo shortcode non esiste più o è stato disattivato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1592
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1614
 #, php-format
 msgid "An item for %s"
 msgstr "Una voce per %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1671
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1693
 msgid "Database error on saving."
 msgstr "Errore del database durante il salvataggio."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1687
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1709
 #, php-format
 msgid "Custom Element &quot;%s&quot; was updated."
 msgstr "L'elemento personalizzato &quot;%s&quot; è stato aggiornato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1736
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1758
 msgid "Unknown element name"
 msgstr "Nome elemento sconosciuto"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1741
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1763
 #, php-format
 msgid "Custom Element &quot;%s&quot; could not be deleted."
 msgstr "L'elemento personalizzato &quot;%s&quot; non può essere eliminato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1756
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1778
 msgid "Custom Element shortcode to delete and stored shortcode do not match."
 msgstr ""
 "Lo shortcode dell'elemento personalizzato da cancellare e lo shortcode "
 "memorizzato non corrispondono."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1763
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1785
 msgid ""
 "Custom subitem elements cannot be deleted when &quot;All subitems use the "
 "same custom element template&quot; is selected in theme options. This is the "
@@ -25472,113 +25508,113 @@ msgstr ""
 "&quot;Tutte le sotto-voci usano lo stesso modello personalizzato&quot; è "
 "selezionato nelle opzioni del tema. Questa è l'impostazione predefinita."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1780
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1802
 msgid "Custom element subitem settings have also been deleted."
 msgstr ""
 "Sono state eliminate anche le impostazioni delle sotto-voci degli elementi "
 "personalizzati."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1789
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1811
 msgid "Internal database error occured deleting the custom element."
 msgstr ""
 "Si è verificato un errore interno al database nell'eliminazione "
 "dell'elemento personalizzato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1794
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1816
 #, php-format
 msgid "Custom Element &quot;%s&quot; was deleted."
 msgstr "L'elemento personalizzato &quot;%s&quot; è stato cancellato."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1821
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1843
 msgid "ALB Custom Elements"
 msgstr "Elementi personalizzati ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1822
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1844
 msgid "ALB Custom Element"
 msgstr "Elemento personalizzato ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1823
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1845
 msgid "All ALB Custom Elements"
 msgstr "Tutti gli elementi personalizzati ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1825
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1847
 msgid "Add New ALB Custom Element"
 msgstr "Aggiungere un nuovo elemento personalizzato ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1826
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1848
 msgid "Edit ALB Custom Element"
 msgstr "Modifica dell'elemento personalizzato ALB"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1827
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1849
 msgid "New ALB Custom Element"
 msgstr "Nuovo elemento personalizzato ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1828
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1850
 msgid "View ALB Custom Element"
 msgstr "Visualizza elemento personalizzato ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1829
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1851
 msgid "Search ALB Custom Elements"
 msgstr "Ricerca elementi personalizzati ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1830
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1852
 msgid "No ALB Custom Element found"
 msgstr "Nessun modello di elemento personalizzato ALB trovato nel cestino"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1831
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1853
 msgid "No ALB Custom Element found in Trash"
 msgstr "Nessun modello di elemento personalizzato ALB trovato nel cestino"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1865
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1887
 msgid "ALB Custom Element Template Categories"
 msgstr "Categorie di modelli di elementi personalizzati ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1866
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:1888
 msgid "ALB Custom Element Template Category"
 msgstr "Categoria di modelli di elementi personalizzati ALB"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2270
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2292
 msgid "Custom Element Shortcode (only used when editing a CET in modal popup):"
 msgstr ""
 "Shortcode dell'elemento personalizzato (usato solo quando si modifica un CET "
 "nel popup modale):"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2350
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2372
 msgid "ALB Elements:"
 msgstr "Elementi ALB:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2351
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2373
 msgid "Custom Elements:"
 msgstr "Elementi personalizzati:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2367
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2389
 msgid "Select default ALB Elements"
 msgstr "Selezionare gli elementi ALB predefiniti"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2370
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2392
 msgid "Select Custom Elements"
 msgstr "Seleziona gli elementi personalizzati"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2421
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2443
 msgid "Item for:"
 msgstr "Voce per:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2422
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2444
 #, php-format
 msgid "Single item for %s:"
 msgstr "Singola voce per %s:"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2470
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2492
 msgid ""
 "Click button, then hover over the elements to show edit action buttons for "
 "each element"
@@ -25586,83 +25622,83 @@ msgstr ""
 "Fare clic sul pulsante, poi passare il mouse sugli elementi per mostrare i "
 "pulsanti di azione di modifica per ogni elemento"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2474
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2496
 msgid "Editing of custom elements is not allowed on fullscreen mode."
 msgstr ""
 "La modifica degli elementi personalizzati non è consentita in modalità a "
 "schermo intero."
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2475
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2497
 msgid "Add New Custom Element"
 msgstr "Aggiungi nuovo elemento personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2476
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2498
 msgid "Edit Custom Elements"
 msgstr "Modifica elementi personalizzati"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2477
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2499
 msgid "End Edit Custom Elements"
 msgstr "Fine Modifica elementi personalizzati"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2479
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2501
 msgid "Filter the custom element shortcode buttons for editing"
 msgstr ""
 "Filtrare i pulsanti shortcode degli elementi personalizzati per la modifica"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2480
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2502
 msgid "Show all elements"
 msgstr "Mostra tutti gli elementi"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2481
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2503
 msgid "Base elements only"
 msgstr "Solo elementi base"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2482
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2504
 msgid "Item elements only"
 msgstr "Solo voci elemnti"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2537
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2559
 msgid "Create A New Custom Element Template"
 msgstr "Crea nuovo elemento modello personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2538
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2560
 msgid "Create Element"
 msgstr "Crea elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2539
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2561
 msgid "Update Custom Element Template Data"
 msgstr "Aggiorna dati elemento del modello personalizzato"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2540
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2562
 msgid "Update Element"
 msgstr "Aggiorna elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2982
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3004
 msgid "Base element template"
 msgstr "Elemento base modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2983
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3005
 msgid "Item element template"
 msgstr "Voce elemento modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2987
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3009
 msgid "Create an editable template"
 msgstr "Creare un modello modificabile"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:2988
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3010
 msgid ""
 "Select what template you want to create. If you create an item template any "
 "settings for base template you make here will be ignored."
@@ -25670,51 +25706,51 @@ msgstr ""
 "Seleziona quale modello vuoi creare. Se crei un modello di elemento, tutte "
 "le impostazioni per il modello di base che fai qui saranno ignorate."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3022
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3044
 msgid "this option"
 msgstr "questa opzione"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3042
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3064
 #, php-format
 msgid "Unlock %s"
 msgstr "Sblocca %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3043
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3065
 #, php-format
 msgid "Lock %s"
 msgstr "Blocca %s"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3052
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3074
 msgid "Do not allow to change this setting when using this template"
 msgstr ""
 "Non permettere di cambiare questa impostazione quando si usa questo modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3138
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3160
 msgid "Item:"
 msgstr "Elemento:"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3316
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3338
 #, php-format
 msgid "Item for %s: "
 msgstr "Voce per %s: "
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3317
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3339
 #, php-format
 msgid "Item for %s:"
 msgstr "Voce per %s:"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3328
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3350
 msgid "Create a new element"
 msgstr "Creare un nuovo elemento"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3329
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3351
 msgid "Select the base element for your new custom element."
 msgstr "Selezionare l'elemento di base per il nuovo elemento personalizzato."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3344
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3366
 msgid ""
 "A custom element is a new element with predefined option values based on an "
 "existing element."
@@ -25722,7 +25758,7 @@ msgstr ""
 "Un elemento personalizzato è un nuovo elemento con valori di opzione "
 "predefiniti basati su un elemento esistente."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3345
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3367
 msgid ""
 "When creating a new custom element you can set default values for each "
 "option. You can also lock an option so it will no longer be possible to "
@@ -25734,7 +25770,7 @@ msgstr ""
 "sia più possibile cambiarla una volta aggiunta una nuova istanza del nuovo "
 "elemento personalizzato al canvas della pagina."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3346
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3368
 msgid ""
 "If you edit a locked value of a custom element, it will automatically change "
 "for all elements on your site."
@@ -25742,27 +25778,27 @@ msgstr ""
 "Se modifichi un valore bloccato di un elemento personalizzato, esso cambierà "
 "automaticamente per tutti gli elementi del tuo sito."
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3347
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3369
 msgid "Learn more about custom elements in the"
 msgstr "Per saperne di più sugli elementi personalizzati nella sezione"
 
 # @ LayerSlider
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3347
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3369
 #: includes/admin/option_tabs/avia_upload.php:199
 msgid "documentation"
 msgstr "documentazione"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3350
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3372
 msgid "What is a custom element?"
 msgstr "Cos'è un elemento personalizzato?"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3379
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3401
 msgid "Name of Element"
 msgstr "Nome elemento"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3380
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3402
 msgid ""
 "Enter a custom name for this element. At least 4 characters and limited to "
 "30 characters. Allowed characters are Whitespace, a-zA-Z0-9-_/"
@@ -25771,11 +25807,11 @@ msgstr ""
 "limitato a 30 caratteri. I caratteri consentiti sono Whitespace, a-zA-Z0-9-_/"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3386
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3408
 msgid "Add your Custom Element Name"
 msgstr "Aggiungi nome elemento personalizzato"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3392
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3414
 msgid ""
 "Enter a description text - will be displayed when you hover above the custom "
 "element icons in ALB or in selectboxes for custom elements"
@@ -25784,36 +25820,36 @@ msgstr ""
 "sopra le icone degli elementi personalizzati in ALB o nelle selectbox per "
 "gli elementi personalizzati"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3419
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3441
 msgid "No Custom Element used - all options available"
 msgstr ""
 "Nessun elemento personalizzato utilizzato - tutte le opzioni disponibili"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3423
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3445
 msgid "All theme options are available and can be changed"
 msgstr "Tutte le opzioni del tema sono disponibili e possono essere cambiate"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3536
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3558
 msgid "pending review"
 msgstr "in attesa di revisione"
 
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3539
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3561
 msgid "draft"
 msgstr "bozza"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3542
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3564
 msgid "trashed"
 msgstr "cestinati"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4267
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4289
 msgid "Create New Custom Element Template"
 msgstr "Creare un nuovo elemento modello"
 
 # @ avia_framework
-#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4296
+#: config-templatebuilder/avia-template-builder/php/class-element-templates.php:4318
 msgid "Edit Custom Element Template:"
 msgstr "Modifica modello elemento personalizzato:"
 
@@ -26058,8 +26094,8 @@ msgstr "Posizione di breakpoint mobile"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:248
 msgid ""
-"Select position of column when switching to fullwidth. Only used when &quot;"
-"Column Behaviour&quot; set to individual."
+"Select position of column when switching to fullwidth. Only used when "
+"&quot;Column Behaviour&quot; set to individual."
 msgstr ""
 "Seleziona la posizione della colonna quando si passa alla larghezza totale. "
 "Utilizzato solo quando &quot;Comportamento della colonna&quot; è impostato "
@@ -26152,11 +26188,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:467
 msgid ""
-"an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. mailto:"
-"test@admin.com)"
+"an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. "
+"mailto:test@admin.com)"
 msgstr ""
-"un messaggio di posta elettronica contenente @, può iniziare con &quot;"
-"mailto:&quot; (ad es. mailto:test@admin.com)"
+"un messaggio di posta elettronica contenente @, può iniziare con "
+"&quot;mailto:&quot; (ad es. mailto:test@admin.com)"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:472
 msgid "link to a post: &quot;{post_type},{postID}&quot; (e.g. post,1058)"
@@ -26786,8 +26822,8 @@ msgstr "Stile controllo Slider"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1721
 msgid ""
 "Select styling for the slider controls. Hiding will also disable all user "
-"interaction with the slider. Make sure to set the proper behaviour in &quot;"
-"Advanced - Animation&quot;."
+"interaction with the slider. Make sure to set the proper behaviour in "
+"&quot;Advanced - Animation&quot;."
 msgstr ""
 "Selezionare lo stile per i controlli del dispositivo di scorrimento. "
 "Nascondere disabiliterà anche tutte le interazioni dell'utente con il "
@@ -26849,8 +26885,8 @@ msgstr "Elementi di navigazione slider"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1777
 msgid ""
-"Select the navigation elements to loop through the slides. Default is &quot;"
-"Navigation Arrows&quot;"
+"Select the navigation elements to loop through the slides. Default is "
+"&quot;Navigation Arrows&quot;"
 msgstr ""
 "Selezionare gli elementi di navigazione da scorrere tra le diapositive. Il "
 "valore predefinito è &quot;Frecce di navigazione&quot;"
@@ -26880,8 +26916,8 @@ msgid ""
 "behaviour in &quot;Advanced - Animation&quot; when hiding controls."
 msgstr ""
 "Selezionare i controlli del dispositivo di scorrimento che si desidera "
-"visualizzare. Assicurati di impostare il comportamento corretto in &quot;"
-"Avanzate - Animazione&quot; quando nascondi i controlli."
+"visualizzare. Assicurati di impostare il comportamento corretto in "
+"&quot;Avanzate - Animazione&quot; quando nascondi i controlli."
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1826
@@ -27673,8 +27709,8 @@ msgstr "Colore di sovrapposizione della piega"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3362
 msgid ""
 "Select a custom color to hide the folded area. We recommend to use "
-"background color of surrounding container. ONLY valid hex values allowed (e."
-"g. #fefefe or #fff). Leave empty to use the default"
+"background color of surrounding container. ONLY valid hex values allowed "
+"(e.g. #fefefe or #fff). Leave empty to use the default"
 msgstr ""
 "Selezionare un colore personalizzato per nascondere l'area piegata. Si "
 "consiglia di utilizzare il colore di sfondo del contenitore circostante. "
@@ -27753,8 +27789,8 @@ msgid ""
 "Manage static templates. For editable templates use &quot;Custom "
 "Elements&quot;"
 msgstr ""
-"Gestire i modelli statici. Per i modelli modificabili, utilizzare &quot;"
-"Elementi personalizzati&quot;"
+"Gestire i modelli statici. Per i modelli modificabili, utilizzare "
+"&quot;Elementi personalizzati&quot;"
 
 # @ avia_framework
 #: config-templatebuilder/avia-template-builder/php/class-save-buildertemplate.php:84
@@ -29280,8 +29316,8 @@ msgid ""
 "shortcode buttons, which allows to skip use of the dashboard. Visible when "
 "using &quot;Edit Custom Elements&quot; button"
 msgstr ""
-"Per default WPML permette di tradurre gli elementi personalizzati da &quot;"
-"WPML-&gt; dashboard Gestione delle traduzioni&quot;. Controlla per "
+"Per default WPML permette di tradurre gli elementi personalizzati da "
+"&quot;WPML-&gt; dashboard Gestione delle traduzioni&quot;. Controlla per "
 "aggiungere un'icona di traduzione ai pulsanti shortcode, che permette di "
 "saltare l'uso della dashboard. Visibile quando si usa il pulsante \"Modifica "
 "elementi personalizzati\""
@@ -30742,14 +30778,12 @@ msgstr "Dimensione w * h in px"
 msgid "viewBox"
 msgstr "viewBox"
 
-#. translators: %s: title of menu item which is invalid
 #: framework/php/class-megamenu.php:447
 #, php-format
 msgid "%s (Invalid)"
 msgstr "%s (Non valido)"
 
 # @ avia_framework
-#. translators: %s: title of menu item in draft status
 #: framework/php/class-megamenu.php:453
 #, php-format
 msgid "%s (Pending)"
@@ -31024,8 +31058,9 @@ msgid ""
 "Internal error: Importer class could not be loaded - no settings could be "
 "imported."
 msgstr ""
-"Errore interno: Non è stato possibile caricare la classe dell&rsquo;"
-"importatore - non è stato possibile importare nessuna impostazione."
+"Errore interno: Non è stato possibile caricare la classe "
+"dell&rsquo;importatore - non è stato possibile importare nessuna "
+"impostazione."
 
 #: framework/php/function-set-avia-ajax.php:1043
 #: framework/php/function-set-avia-ajax.php:1061
@@ -31087,17 +31122,17 @@ msgstr "ID Allegato: %d"
 msgid "Original source: %s"
 msgstr "Sorgente originale: %s"
 
-#: framework/php/function-set-avia-backend.php:1054
+#: framework/php/function-set-avia-backend.php:1058
 #, php-format
 msgid "Unable to create folder %s."
 msgstr "Impossibile creare la cartella %s."
 
-#: framework/php/function-set-avia-backend.php:1061
+#: framework/php/function-set-avia-backend.php:1065
 #, php-format
 msgid "Unable to delete file %s."
 msgstr "Impossibile eliminare il file %s."
 
-#: framework/php/function-set-avia-backend.php:1067
+#: framework/php/function-set-avia-backend.php:1071
 #, php-format
 msgid "Unable to rename/move file %s to %s"
 msgstr "Impossibile rinominare/spostare il file %s in %s"
@@ -31833,8 +31868,8 @@ msgid ""
 "Display a Route by entering a address here. (If address is added Zoom will "
 "be ignored)"
 msgstr ""
-"Visualizzare un percorso inserendo un indirizzo qui. (Se si aggiunge l&rsquo;"
-"indirizzo dello zoom viene ignorato)"
+"Visualizzare un percorso inserendo un indirizzo qui. (Se si aggiunge "
+"l&rsquo;indirizzo dello zoom viene ignorato)"
 
 # @ avia_framework
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:568
@@ -32836,8 +32871,8 @@ msgstr "Disattiva Editor blocchi per tipi di post selezionati:"
 msgid ""
 "Only the classic WP editor will be used for the selected post types. The "
 "links to WP block editor (Gutenberg) will not be available. You can change "
-"this behaviour for certain pages/posts with Enfold&rsquo;s filter &quot;"
-"avf_use_block_editor_for_post&quot;"
+"this behaviour for certain pages/posts with Enfold&rsquo;s filter "
+"&quot;avf_use_block_editor_for_post&quot;"
 msgstr ""
 "Solo il classico WP Editor sarà utilizzato per i tipi di post selezionati. I "
 "collegamenti a WP Block Editor (Gutenberg) non saranno disponibili.  È "
@@ -33194,8 +33229,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:38
 msgid ""
-"Attention when using caching plugins: Whenever you make changes to a &quot;"
-"Custom Layout&quot; please clear your server cache to show the changes."
+"Attention when using caching plugins: Whenever you make changes to a "
+"&quot;Custom Layout&quot; please clear your server cache to show the changes."
 msgstr ""
 "Attenzione quando si utilizzano i plugin di cache: Ogni volta che si "
 "apportano modifiche a un &quot;Layout personalizzato&quot; si prega di "
@@ -33437,8 +33472,8 @@ msgid ""
 "you like, either &quot;#efefef&quot; or &quot;rgba(0,0,0,0.3)&quot;."
 msgstr ""
 "Puoi inserire fino a 22 colori, inserisci ogni colore in una nuova riga "
-"nell'ordine che preferisci, sia &quot;#efefef&quot; o &quot;"
-"rgba(0,0,0,0.3)&quot;."
+"nell'ordine che preferisci, sia &quot;#efefef&quot; o "
+"&quot;rgba(0,0,0,0.3)&quot;."
 
 #: includes/admin/option_tabs/avia_builder.php:298
 msgid "Default color palette is:"
@@ -36850,17 +36885,18 @@ msgid ""
 "(If you are running an image optimization plugin that is not detected just "
 "ignore this message)"
 msgstr ""
-"(Se stai utilizzando un plug-in per l&rsquo;ottimizzazione dell&rsquo;"
-"immagine che non viene rilevato, ignora semplicemente questo messaggio)"
+"(Se stai utilizzando un plug-in per l&rsquo;ottimizzazione "
+"dell&rsquo;immagine che non viene rilevato, ignora semplicemente questo "
+"messaggio)"
 
 #: includes/admin/option_tabs/avia_performance.php:590
 msgid ""
 "We were not able to detect an active image optimization plugin. It is "
 "recommended to use one to speed up your site. Here are a few suggestions:"
 msgstr ""
-"Non siamo stati in grado di rilevare un plug-in di ottimizzazione dell&rsquo;"
-"immagine attivo. Si consiglia di usarne uno per accelerare il tuo sito. Ecco "
-"alcuni suggerimenti:"
+"Non siamo stati in grado di rilevare un plug-in di ottimizzazione "
+"dell&rsquo;immagine attivo. Si consiglia di usarne uno per accelerare il tuo "
+"sito. Ecco alcuni suggerimenti:"
 
 #: includes/admin/option_tabs/avia_performance.php:591
 msgid ""
@@ -36875,8 +36911,8 @@ msgid ""
 "We were able to detect multiple active image optimization plugins. It is "
 "recommended to use only one!"
 msgstr ""
-"Siamo stati in grado di rilevare più plug-in di ottimizzazione dell&rsquo;"
-"immagine attiva. Si consiglia di usarne solo uno!"
+"Siamo stati in grado di rilevare più plug-in di ottimizzazione "
+"dell&rsquo;immagine attiva. Si consiglia di usarne solo uno!"
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_performance.php:706
@@ -37038,8 +37074,8 @@ msgid ""
 msgstr ""
 "Verificare se si vogliono avere opzioni aggiuntive per qualificare "
 "l'attributo rel dei link (nofollow, sponsored, ugc) negli elementi ALB "
-"(dalla 4.8.6.3 questa opzione sostituisce il supporto del tema &quot;"
-"avia_rel_nofollow_for_links&quot;)"
+"(dalla 4.8.6.3 questa opzione sostituisce il supporto del tema "
+"&quot;avia_rel_nofollow_for_links&quot;)"
 
 #: includes/admin/option_tabs/avia_shop.php:15
 msgid "Header Shopping Cart Icon"
@@ -37353,8 +37389,9 @@ msgid ""
 "Choose the default page layout here. You can change the setting of each "
 "individual page when editing that page"
 msgstr ""
-"Scegli il layout di pagina predefinito. È possibile modificare l&rsquo;"
-"impostazione di ogni singola pagina durante la modifica di quella pagina"
+"Scegli il layout di pagina predefinito. È possibile modificare "
+"l&rsquo;impostazione di ogni singola pagina durante la modifica di quella "
+"pagina"
 
 #: includes/admin/option_tabs/avia_sidebars.php:81
 msgid "Separate Sidebars For Blog And Archive Pages"
@@ -37712,11 +37749,11 @@ msgstr "Serve più flessibilità per le unità CSS:"
 
 #: includes/admin/option_tabs/avia_styling.php:612
 msgid ""
-"To functions.php add: add_theme_support( &quot;"
-"avia_options_extended_typography&quot; );"
+"To functions.php add: "
+"add_theme_support( &quot;avia_options_extended_typography&quot; );"
 msgstr ""
-"In functions.php aggiungere: add_theme_support( &quot;"
-"avia_options_extended_typography&quot; );"
+"In functions.php aggiungere: "
+"add_theme_support( &quot;avia_options_extended_typography&quot; );"
 
 #: includes/admin/option_tabs/avia_styling.php:613
 msgid ""
@@ -37945,10 +37982,11 @@ msgstr "Mantenere il contenuto CSS rapido"
 
 #: includes/admin/option_tabs/avia_upload.php:61
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling -"
-"> Quick CSS&quot;. In case you select single tabs to import below your Quick "
-"CSS settings will be kept by default except you select the tab containing "
-"the Quick CSS field. In this case you must check here to keep them."
+"Check if you want to keep your added CSS stylings in &quot;General Styling "
+"-> Quick CSS&quot;. In case you select single tabs to import below your "
+"Quick CSS settings will be kept by default except you select the tab "
+"containing the Quick CSS field. In this case you must check here to keep "
+"them."
 msgstr ""
 "Controlla se vuoi mantenere i tuoi stili CSS aggiunti in &quot;General "
 "Styling -> Quick CSS&quot;. Nel caso in cui selezioniate singole schede da "
@@ -38041,8 +38079,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:136
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling -"
-"> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling "
+"-> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -38193,9 +38231,9 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:224
 msgid ""
-"Variable fonts can be uploaded, but currently only <a href=\"https://fonts."
-"google.com/knowledge/glossary/instance/\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">named instances</a> are supported by default."
+"Variable fonts can be uploaded, but currently only <a href=\"https://"
+"fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">named instances</a> are supported by default."
 msgstr ""
 "È possibile caricare font variabili, ma attualmente solo <a href=\"https://"
 "fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
@@ -38344,42 +38382,15 @@ msgstr "Semplice da usare con poche opzioni"
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:96
 #, php-format
 msgid ""
-"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">General "
-"Settings</a>"
-msgstr ""
-"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Impostazioni "
-"generali</a>"
-
-#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:97
-#, php-format
-msgid ""
-"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Frontend "
-"Toolbar Settings</a>"
-msgstr ""
-"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Impostazioni "
-"barra strumenti frontend</a>"
-
-#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:98
-#, php-format
-msgid ""
-"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Frontend "
-"Customizer</a>"
-msgstr ""
-"<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Personalizza "
-"Frontend</a>"
-
-#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:103
-#, php-format
-msgid ""
 "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Settings</a>"
 msgstr ""
 "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Impostazioni</a>"
 
-#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:108
+#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:101
 msgid "Accessibility Plugin"
 msgstr "Plugin per l'accessibilità"
 
-#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:109
+#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:102
 msgid ""
 "These free plugins provides accessibility support in frontend. You can "
 "download and activate the plugin here."
@@ -38387,12 +38398,12 @@ msgstr ""
 "Questi plugin gratuiti forniscono supporto per l'accessibilità nel frontend. "
 "Puoi scaricare e attivare il plugin qui."
 
-#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:114
+#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:107
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:62
 msgid "We were not able to detect this plugin."
 msgstr "Non siamo stati in grado di rilevare questo plugin."
 
-#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:116
+#: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:109
 msgid ""
 "We were able to detect multiple active accessibility plugins. It is "
 "recommended to use only one!"
@@ -38694,11 +38705,6 @@ msgstr "Estensioni del tema"
 #: includes/admin/register-admin-options.php:240
 msgid "OpenStreetMaps"
 msgstr "OpenStreetMaps"
-
-# @ avia_framework
-#: includes/admin/register-admin-options.php:248
-msgid "Accessibility"
-msgstr "Accessibilità"
 
 # @ avia_framework
 #: includes/admin/register-backend-advanced-styles.php:29
@@ -40678,8 +40684,8 @@ msgstr "Risultato della ricerca:"
 #: includes/loop-search.php:231
 msgid "Sorry, no posts matched your criteria. Please try another search"
 msgstr ""
-"Spiacente, nessun articolo corrisponde ai tuoi criteri. Prova con un&rsquo;"
-"altra ricerca"
+"Spiacente, nessun articolo corrisponde ai tuoi criteri. Prova con "
+"un&rsquo;altra ricerca"
 
 # @ avia_framework
 #: includes/loop-search.php:236
@@ -40708,6 +40714,19 @@ msgstr "Potrebbero interessarti"
 #: index.php:11 single.php:12
 msgid "Blog - Latest News"
 msgstr "Blog - Ultime notizie"
+
+# @ avia_framework
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "set"
+msgstr "imposta"
+
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "select_all"
+msgstr "select_all"
+
+#: js/avia-snippet-cookieconsent.min.js:1
+msgid "reset"
+msgstr "reimposta"
 
 # @ avia_framework
 #: search.php:40
@@ -40770,27 +40789,29 @@ msgstr "Mensile"
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
 
-# @ avia_framework
-#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
-msgid "number"
-msgstr "numero"
+#, php-format
+#~ msgid ""
+#~ "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">General "
+#~ "Settings</a>"
+#~ msgstr ""
+#~ "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Impostazioni "
+#~ "generali</a>"
 
-#: config-leaflet-maps/assets/leafletjs/leaflet.js:5
-msgid "shadow"
-msgstr "ombra"
+#, php-format
+#~ msgid ""
+#~ "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Frontend "
+#~ "Toolbar Settings</a>"
+#~ msgstr ""
+#~ "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Impostazioni "
+#~ "barra strumenti frontend</a>"
 
-# @ avia_framework
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "set"
-msgstr "imposta"
-
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "select_all"
-msgstr "select_all"
-
-#: js/avia-snippet-cookieconsent.min.js:1
-msgid "reset"
-msgstr "reimposta"
+#, php-format
+#~ msgid ""
+#~ "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Frontend "
+#~ "Customizer</a>"
+#~ msgstr ""
+#~ "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Personalizza "
+#~ "Frontend</a>"
 
 #~ msgid "Enfold documentation."
 #~ msgstr "Documentazione Enfold."
