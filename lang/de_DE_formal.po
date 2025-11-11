@@ -1142,35 +1142,35 @@ msgstr ""
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:427
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:557
 msgid "&quot;Load More&quot; Button"
-msgstr "&quot;Mehr anzeigen&quot; Schaltfläche"
+msgstr "&quot;Mehr anzeigen&quot; Button"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:437
 msgid "Show the &quot;Load More&quot; Button:"
-msgstr "Zeige die Schaltfläche &quot;Mehr laden&quot;:"
+msgstr "Zeige den Button &quot;Mehr laden&quot;:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:453
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:512
 msgid "Background color of the button:"
-msgstr "Hintergrundfarbe der Schaltfläche:"
+msgstr "Hintergrundfarbe des Buttons:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:463
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:522
 msgid "Text color of the button:"
-msgstr "Textfarbe der Schaltfläche:"
+msgstr "Textfarbe des Buttons:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:473
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:532
 msgid "Text used for the button:"
-msgstr "Verwendeter Schaltflächentext:"
+msgstr "Verwendeter Buttontext:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:486
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:609
 msgid "&quot;Follow on Instagram&quot; Button"
-msgstr "&quot;Folgen auf Instagram&quot; Schaltfläche"
+msgstr "&quot;Folgen auf Instagram&quot; Button"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:496
 msgid "Show the &quot;Follow on Instagram&quot; Button:"
-msgstr "Zeige die &quot;Folgen auf Instagram&quot; Schaltfläche:"
+msgstr "Zeige die &quot;Folgen auf Instagram&quot; Button:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:545
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:662
@@ -3006,11 +3006,11 @@ msgstr "Nein"
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:88
 #: config-templatebuilder/avia-shortcodes/table/table.php:204
 msgid "Button Row"
-msgstr "Schaltfläche-Zeile"
+msgstr "Button-Zeile"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:95
 msgid "Displays multiple buttons beside each other"
-msgstr "Zeigt mehrere Schaltflächen nebeneinander an"
+msgstr "Zeigt mehrere Buttons nebeneinander an"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:101
 msgid "Button Row Item"
@@ -3022,15 +3022,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:234
 msgid "Add/Edit Buttons"
-msgstr "Schaltflächen hinzufügen/bearbeiten"
+msgstr "Buttons hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:235
 msgid "Here you can add, remove and edit buttons."
-msgstr "Hier können Sie Schaltflächen hinzufügen, entfernen und bearbeiten."
+msgstr "Hier können Sie Buttons hinzufügen, entfernen und bearbeiten."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:238
 msgid "Edit Button"
-msgstr "Schaltfläche bearbeiten"
+msgstr "Button bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:244
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:254
@@ -3047,11 +3047,11 @@ msgstr "Aufruf zum Handeln"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:274
 msgid "Align Buttons"
-msgstr "Schaltfläche ausrichten"
+msgstr "Button ausrichten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:275
 msgid "Choose the alignment of your buttons here"
-msgstr "Wähle hier die Ausrichtung der Schaltflächen"
+msgstr "Wähle hier die Ausrichtung der Buttons"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:281
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:377
@@ -3076,14 +3076,14 @@ msgstr "Rechts ausrichten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:288
 msgid "Space between buttons"
-msgstr "Abstand zwischen den Schaltflächen"
+msgstr "Abstand zwischen den Buttons"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:289
 msgid ""
 "Define the space between the buttons. Leave blank for default space. Make "
 "sure you enter a valid positive number."
 msgstr ""
-"Definieren Sie den Abstand zwischen den Schaltflächen. Lassen Sie das Feld "
+"Definieren Sie den Abstand zwischen den Buttons. Lassen Sie das Feld "
 "für den Standardbereich leer. Stellen Sie sicher, dass Sie eine gültige "
 "positive Zahl eingeben."
 
@@ -3346,7 +3346,7 @@ msgstr ""
 #: includes/admin/option_tabs/avia_cookie.php:444
 #: includes/admin/option_tabs/avia_cookie.php:577
 msgid "Button Label"
-msgstr "Schaltfläche-Beschriftung"
+msgstr "Button-Beschriftung"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:505
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:221
@@ -3354,7 +3354,7 @@ msgstr "Schaltfläche-Beschriftung"
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:229
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:995
 msgid "This is the text that appears on your button."
-msgstr "Gib den Text ein,  der auf dem Schaltflächen erscheinen soll."
+msgstr "Gib den Text ein,  der auf dem Button erscheinen soll."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:515
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:529
@@ -3364,14 +3364,14 @@ msgstr "Gib den Text ein,  der auf dem Schaltflächen erscheinen soll."
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:240
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:254
 msgid "Button Icon"
-msgstr "Symbol auf Schaltfläche"
+msgstr "Symbol auf Button"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:516
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:255
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:241
 msgid "Should an icon be displayed at the left side of the button"
 msgstr ""
-"Soll ein Symbol links oder rechts auf der Schaltfläche angezeigt werden"
+"Soll ein Symbol links oder rechts auf dem Button angezeigt werden"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:522
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:237
@@ -3417,7 +3417,7 @@ msgstr "Markieren, wenn das Symbol nur bei Maus-Hover angezeigt werden soll"
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:267
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:291
 msgid "Button Title Attribute"
-msgstr "Titelattribut der Schaltfläche"
+msgstr "Titelattribut des Buttons"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:553
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:268
@@ -3439,7 +3439,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:355
 #: config-templatebuilder/avia-shortcodes/search/search.php:238
 msgid "Button"
-msgstr "Schaltfläche"
+msgstr "Button"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:576
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:306
@@ -3448,25 +3448,25 @@ msgstr "Schaltfläche"
 #: includes/admin/option_tabs/avia_cookie.php:470
 #: includes/admin/option_tabs/avia_cookie.php:604
 msgid "Button Link"
-msgstr "Wohin soll die Schaltfläche verlinken?"
+msgstr "Wohin soll der Button verlinken?"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:577
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:307
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:316
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:469
 msgid "Where should your button link to?"
-msgstr "Wohin soll die Schaltfläche verlinken?"
+msgstr "Wohin soll der Button verlinken?"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:596
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:355
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:336
 msgid "Button Size"
-msgstr "Schaltfläche Größe"
+msgstr "Button Größe"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:597
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:337
 msgid "Choose the size of your button here"
-msgstr "Wähle hier die Größe der Schaltfläche"
+msgstr "Wähle hier die Größe des Buttons"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:606
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:365
@@ -3546,7 +3546,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:56
 msgid "Creates a colored button"
-msgstr "Erzeugt einen farbigen Schaltfläche"
+msgstr "Erzeugt einen farbigen Button"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:160
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:370
@@ -3611,7 +3611,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:371
 msgid "Choose the alignment of your button here"
-msgstr "Wähle hier die Ausrichtung der Schaltfläche"
+msgstr "Wähle hier die Ausrichtung des Buttons"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:454
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:375
@@ -3671,15 +3671,15 @@ msgstr "Animation"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:56
 msgid "Fullwidth Button"
-msgstr "Schaltfläche volle Breite"
+msgstr "Button volle Breite"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:62
 msgid "Creates a colored button that stretches across the full width"
-msgstr "Erzeugt eine farbige Schaltfläche der über die gesamte Breite geht"
+msgstr "Erzeugt einen farbigen Button der über die gesamte Breite geht"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:217
 msgid "Button Title"
-msgstr "Titel der Schaltfläche"
+msgstr "Titel des Buttons"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:228
 msgid "Additional Description Position"
@@ -5451,7 +5451,7 @@ msgstr "Nachricht"
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:254
 #: framework/php/widgets/widget-classes/class-avia-mailchimp.php:260
 msgid "Submit Button Label"
-msgstr "Senden-Schaltfläche Beschriftung"
+msgstr "Beschriftung des Senden-Buttons"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:255
 msgid "Enter the submit buttons label text here"
@@ -5837,7 +5837,7 @@ msgstr "Ausrichtung der Beschriftungs- / Sendetaste"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:500
 msgid "Select how to align the form labels and the send button"
-msgstr "Wählen Sie, wie die Schaltfläche \"senden\" ausrichten werden soll"
+msgstr "Wählen Sie, wie der \"Senden\"-Button ausgerichtet werden soll"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:507
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:413
@@ -7631,7 +7631,7 @@ msgstr "Aufklappmenü"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:250
 msgid "Horizontal buttons"
-msgstr "Horizontale Schaltflächen"
+msgstr "Horizontale Buttons"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:251
 msgid "Responsive (choosen by Google API)"
@@ -7782,7 +7782,7 @@ msgstr "Öffnen Sie Google Maps nur in einem neuen Fenster"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:378
 msgid "Button text confirm to load Google Maps"
-msgstr "Schaltflächentext bestätigen um Google Maps zu laden"
+msgstr "Button-Text zum Bestätigen des Ladens von Google Maps"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:379
 msgid "Enter the text to display that user has to accept to load the map."
@@ -7839,7 +7839,7 @@ msgid ""
 "Enter the Address, then hit the 'Fetch Coordinates' Button. If the address "
 "was found the coordinates will be displayed"
 msgstr ""
-"Geben Sie die Adresse ein und klicken Sie auf die Schaltfläche \"Koordinaten "
+"Geben Sie die Adresse ein und klicken Sie auf die Button \"Koordinaten "
 "abrufen\". Wenn die Adresse gefunden wurde, werden die Koordinaten angezeigt"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:497
@@ -10739,7 +10739,7 @@ msgstr ""
 #: includes/admin/option_tabs/avia_cookie.php:393
 #: includes/admin/register-backend-advanced-styles.php:535
 msgid "Buttons"
-msgstr "Schaltflächen"
+msgstr "Buttons"
 
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:332
 msgid "Drag Line Direction"
@@ -11385,31 +11385,31 @@ msgstr "Kopfzeilenfarbe"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:514
 msgid "Show the &quot;Load More&quot; Button"
-msgstr "Zeige die \"Mehr laden\" Schaltfläche"
+msgstr "Zeige des \"Mehr laden\"-Button"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:527
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:579
 msgid "Background color of the button"
-msgstr "Hintergrundfarbe der Schaltfläche"
+msgstr "Hintergrundfarbe des Buttons"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:536
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:588
 msgid "Text color of the button"
-msgstr "Textfarbe der Schaltfläche"
+msgstr "Textfarbe des Buttons"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:545
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:597
 msgid "Button text"
-msgstr "Schaltflächentext"
+msgstr "Button-Text"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:546
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:598
 msgid "Enter text used for the button."
-msgstr "Geben Sie den für die Schaltfläche verwendeten Text ein."
+msgstr "Geben Sie den für den Button verwendeten Text ein."
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:566
 msgid "Show the &quot;Follow on Instagram&quot; Button"
-msgstr "Zeigen Sie die Schaltfläche &quot;Auf Instagram folgen&quot;"
+msgstr "Zeigen Sie den Button &quot;Auf Instagram folgen&quot;"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:619
 msgid "Background color when hovering over a photo"
@@ -12971,7 +12971,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:553
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:424
 msgid "Display \"Load More\" Button"
-msgstr "Zeige \"Mehr laden\" Schaltfläche"
+msgstr "Zeige \"Mehr laden\"-Button"
 
 #: config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.php:554
 #: config-templatebuilder/avia-shortcodes/masonry_gallery/masonry_gallery.php:425
@@ -13164,12 +13164,12 @@ msgstr ""
 msgid ""
 "Display a button to open menu (works best for menus with a lot of menu items)"
 msgstr ""
-"Zeigen Sie eine Schaltfläche zum Öffnen des Menüs an (funktioniert am besten "
+"Zeigen Sie einen Button zum Öffnen des Menüs an (funktioniert am besten "
 "für Menüs mit vielen Menüpunkten)"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:316
 msgid "Screenwidth for burger menu button"
-msgstr "Bildschirmbreite für die Burger-Menüschaltfläche"
+msgstr "Bildschirmbreite für den Burger-Menü-Button"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:317
 msgid ""
@@ -13177,7 +13177,7 @@ msgid ""
 "menu. Above that the full menu is displayed"
 msgstr ""
 "Wählen Sie die maximale Bildschirmbreite aus, um eine Burger-"
-"Menüschaltfläche anstelle des vollständigen Menüs zu verwenden. Darüber wird "
+"MenüButton anstelle des vollständigen Menüs zu verwenden. Darüber wird "
 "das vollständige Menü angezeigt"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:323
@@ -13233,12 +13233,12 @@ msgstr "Styling des Menüpunktes auswählen"
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:466
 #: includes/config-enfold/functions-enfold.php:1889
 msgid "Button Style (Colored)"
-msgstr "Schaltflächenstil (Farbig)"
+msgstr "Button-Stil (Farbig)"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:467
 #: includes/config-enfold/functions-enfold.php:1890
 msgid "Button Style (Bordered)"
-msgstr "Schaltflächenstil (Eingerahmt)"
+msgstr "Button-Stil (Eingerahmt)"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:484
 #, fuzzy
@@ -13300,34 +13300,33 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:224
 msgid "Close Button"
-msgstr "Schließen-Schaltfläche"
+msgstr "Schließen-Button"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:225
 msgid "Display a button that closes the notification when clicked."
 msgstr ""
-"Zeigen Sie eine Schaltfläche an, die die Benachrichtigung schließt, wenn Sie "
-"darauf klicken."
+"Zeigen Sie einen Button an, der die Benachrichtigung schließt, wenn man "
+"darauf klickt."
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:231
 #, fuzzy
 #| msgid "No Close Button "
 msgid "No close button "
-msgstr "Kein Schließen-Schaltfläche"
+msgstr "Keinen Schließen-Button"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:232
 #, fuzzy
 #| msgid "Yes, display a Close Button - Set Cookie for the current Session"
 msgid "Yes, display a close button - set cookie for the current Session"
 msgstr ""
-"Ja, zeigen Sie eine Schließen-Schaltfläche an - Setzen Sie Cookie für die "
-"aktuelle Sitzung"
+"Ja, Schließen-Button anzeigen - Setzt einen Cookie für die aktuelle Sitzung"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:233
 #, fuzzy
 #| msgid "Yes, display a Close Button - Set Cookie with a custom Lifetime"
 msgid "Yes, display a close button - set cookie with a custom Lifetime"
 msgstr ""
-"Ja, zeigen Sie eine Schließen-Schaltfläche an - Setzen Sie Cookie mit einer "
+"Ja, Schließen-Button anzeigen - Setzt einen Cookie mit einer "
 "benutzerdefinierten Lebensdauer"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:238
@@ -14238,12 +14237,12 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_button.php:27
 msgid "Product Purchase Button"
-msgstr "Schaltfläche Produkt Einkauf GZD"
+msgstr "\"Produkt kaufen\"-Button"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_button.php:33
 msgid "Display the \"Add to cart\" button for the current product"
 msgstr ""
-"Zeigen Sie die Schaltfläche \"In den Warenkorb\" für das aktuelle Produkt an"
+"Zeigen Sie den Button \"In den Warenkorb\" für das aktuelle Produkt an"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_button.php:36
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_info.php:36
@@ -14260,7 +14259,7 @@ msgid ""
 "Display the &quot;Add to cart&quot; button including prices and variations "
 "but no product description."
 msgstr ""
-"Zeige die &quot;In den Warenkorb&quot; Schaltfläche mit Preisen und "
+"Zeige den &quot;In den Warenkorb&quot;-Button mit Preisen und "
 "Variationen, aber keine Produktbeschreibung."
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_info.php:27
@@ -14652,7 +14651,7 @@ msgstr "Promo-Box"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:31
 msgid "Creates a notification box with call to action button"
-msgstr "Erzeugt eine Informations-Box mit einem Call-to-Action Schaltfläche"
+msgstr "Erzeugt eine Informations-Box mit einem Call-to-Action-Button"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:131
 msgid "Button Opacity On Hover"
@@ -14677,13 +14676,13 @@ msgstr "Text"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:215
 msgid "Promo Box Button"
-msgstr "Promo-Box Schaltfläche"
+msgstr "Promo-Box Button"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:216
 msgid ""
 "Do you want to display a Call to Action Button on the right side of the box?"
 msgstr ""
-"Soll innerhalb der Box rechts ein Call-to-Action Schaltfläche platziert "
+"Soll innerhalb der Box rechts ein Call-to-Action-Button platziert "
 "werden?"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:255
@@ -14692,25 +14691,25 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:267
 msgid "Button Label display"
-msgstr "Schaltflächen Beschriftung"
+msgstr "Button-Beschriftung"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:304
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1345
 msgid "Button Color"
-msgstr "Schaltfläche Farbe"
+msgstr "Button-Farbe"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:305
 msgid "Choose a color for your button bar here"
-msgstr "Wählen Sie hier eine Farbe für Ihre Schaltflächenleiste"
+msgstr "Wählen Sie hier eine Farbe für Ihre Button-Leiste"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:316
 msgid "Select a custom background color for your Button here"
 msgstr ""
-"Wähle hier eine benutzerdefinierte Hintergrundfarbe für die Schaltfläche"
+"Wähle hier eine benutzerdefinierte Hintergrundfarbe für den Button"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:326
 msgid "Select a custom font color for your Button here"
-msgstr "Wähle hier eine benutzerdefinierte Schriftfarbe für Ihre Schaltfläche"
+msgstr "Wähle hier eine benutzerdefinierte Schriftfarbe für den Button"
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:404
 msgid "Select a custom border color here"
@@ -14745,7 +14744,7 @@ msgstr "Labeltext"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:222
 msgid "Enter a label text for the button"
-msgstr "Geben Sie einen Beschriftungstext für die Schaltfläche ein"
+msgstr "Geben Sie einen Beschriftungstext für den Button ein"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:225
 msgid "Find"
@@ -14905,20 +14904,20 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:403
 msgid "Button Font Size"
-msgstr "Schaltflächen Schriftgröße"
+msgstr "Buttons Schriftgröße"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:404
 msgid ""
 "Select a custom font size for the button. Leave empty to use the default"
 msgstr ""
-"Wählen Sie eine benutzerdefinierte Schriftgröße für die Schaltfläche aus. "
+"Wählen Sie eine benutzerdefinierte Schriftgröße für den Button aus. "
 "Lassen Sie leer, um den Standardwert zu verwenden"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:428
 msgid "Select a custom height for the search input and button"
 msgstr ""
 "Wählen Sie eine benutzerdefinierte Höhe für die Sucheingabe und die "
-"Schaltfläche aus"
+"Button aus"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:432
 msgid "Default Height"
@@ -14935,8 +14934,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/search/search.php:445
 msgid "Select a custom border width for the search input and button"
 msgstr ""
-"Wählen Sie eine benutzerdefinierte Rahmenbreite für die Sucheingabe und die "
-"Schaltfläche aus"
+"Wählen Sie eine benutzerdefinierte Rahmenbreite für die Sucheingabe und den "
+"Button aus"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:458
 msgid "Form Container"
@@ -14975,7 +14974,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/search/search.php:498
 msgid "Select a border color for the input and button"
 msgstr ""
-"Wählen Sie eine Rahmenfarbe für das Eingabefeld und die Schaltfläche aus"
+"Wählen Sie eine Rahmenfarbe für das Eingabefeld und den Button aus"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:519
 msgid "Input Font Color"
@@ -15003,16 +15002,16 @@ msgstr "Hintergrundfarbe für benutzerdefiniertes Eingabefeld"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:563
 msgid "Button Font/Icon Color"
-msgstr "Schaltfläche Schriftfarbe/Symbolfarbe"
+msgstr "Button-Schriftfarbe/-Symbolfarbe"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:564
 msgid "Select a font or icon color for the button"
 msgstr ""
-"Wählen Sie eine Schriftart oder eine Symbolfarbe für die Schaltfläche aus"
+"Wählen Sie eine Schriftart oder eine Symbolfarbe für den Button aus"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:575
 msgid "Custom Button Font/Icon Color"
-msgstr "Benutzerdefinierte Schaltflächen-Schriftart/-Symbolfarbe"
+msgstr "Benutzerdefinierte Button-Schriftart/-Symbolfarbe"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:585
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1161
@@ -15023,16 +15022,16 @@ msgstr "Benutzerdefinierte Schaltflächen-Schriftart/-Symbolfarbe"
 #: includes/admin/register-backend-advanced-styles.php:886
 #: includes/admin/register-backend-advanced-styles.php:904
 msgid "Button Background Color"
-msgstr "Schaltfläche Hintergrundfarbe"
+msgstr "Button-Hintergrundfarbe"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:586
 msgid "Select a background color for the button"
-msgstr "Wählen Sie eine Hintergrundfarbe für die Schaltfläche aus"
+msgstr "Wählen Sie eine Hintergrundfarbe für den Button aus"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:597
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1162
 msgid "Custom Button Background Color"
-msgstr "Benutzerdefinierte Schaltflächen-Hintergrundfarbe"
+msgstr "Benutzerdefinierte Button-Hintergrundfarbe"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:611
 msgid "Form Colors"
@@ -15484,7 +15483,7 @@ msgid ""
 "Check if you want to show a button at the bottom of the section that takes "
 "the user to the next section by scrolling down"
 msgstr ""
-"Überprüfen Sie, ob Sie eine Schaltfläche am unteren Rand des Abschnitts "
+"Überprüfen Sie, ob Sie einen Button am unteren Rand des Abschnitts "
 "anzeigen möchten, die den Benutzer zum nächsten Abschnitt führt, indem Sie "
 "nach unten scrollen"
 
@@ -15986,7 +15985,7 @@ msgid ""
 "Check if you want to show a button at the bottom of the slider that takes "
 "the user to the next section by scrolling down"
 msgstr ""
-"Überprüfen Sie, ob Sie eine Schaltfläche am unteren Rand des Slider anzeigen "
+"Überprüfen Sie, ob Sie einen Button am unteren Rand des Slider anzeigen "
 "möchten, die den Benutzer zum nächsten Sektion führt, indem Sie nach unten "
 "scrollen"
 
@@ -16649,7 +16648,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:23
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:195
 msgid "Social Buttons"
-msgstr "Soziale Schaltflächen"
+msgstr "Soziale Buttons"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:29
 msgid ""
@@ -16664,7 +16663,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:174
 msgid "Which Social Buttons do you want to display? Defaults are set in "
 msgstr ""
-"Welche Sozial Schaltflächen wollen Sie anzeigen? Standard werden folgende "
+"Welche Soziale Buttons wollen Sie anzeigen? Standard werden folgende "
 "angezeigt "
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:175
@@ -16705,7 +16704,7 @@ msgstr "Kleiner Titel"
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:186
 msgid "A small title above the buttons."
-msgstr "Ein kleiner Titel über den Schaltflächen."
+msgstr "Ein kleiner Titel über den Buttons."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:189
 #: includes/classes/class-social-media-icons.php:528
@@ -16852,7 +16851,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:496
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:506
 msgid "Enter the share link to Yelp for this button."
-msgstr "Geben Sie den Link zu Yelp für diese Schaltfläche ein."
+msgstr "Geben Sie den Link zu Yelp für diesen Button ein."
 
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:505
 msgid "Yelp Share Link"
@@ -17219,7 +17218,7 @@ msgstr "Position der Reiter"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:282
 msgid "Define the position of the tab buttons"
-msgstr "Definieren Sie die Position der Reiter-Schaltflächen"
+msgstr "Definieren Sie die Position der Reiter-Buttons"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:287
 msgid "Display Tabs above content"
@@ -19087,7 +19086,7 @@ msgid ""
 "If you place your mouse above the insert button a short info tooltip will "
 "appear"
 msgstr ""
-"Platziere die Maus über die Schaltfläche-Elemente und Dir werden weitere "
+"Platziere die Maus über den Button-Elementen und Dir werden weitere "
 "Informationen in einem Info-Tooltip angezeigt."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:123
@@ -19126,7 +19125,7 @@ msgstr ""
 msgid "Press ESC on your keyboard or the Close Button to close popup window."
 msgstr ""
 "Drücke die Esc-Taste auf Ihrer Tastatur oder klicke auf den Schließen-"
-"Schaltfläche, um das Popup-Fensters  zu schließen."
+"Button, um das Popup-Fensters  zu schließen."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:131
 msgid ""
@@ -19134,7 +19133,7 @@ msgid ""
 "popup window"
 msgstr ""
 "Drücke die Enter-Taste auf Ihrer Tastatur oder klicke auf den Speichern-"
-"Schaltfläche, um den aktuellen Status eines Popup-Fensters  zu speichern."
+"Button, um den aktuellen Status eines Popup-Fensters  zu speichern."
 
 #: config-templatebuilder/avia-template-builder/config/meta.php:137
 msgid "Overwrite Portfolio Link setting"
@@ -22912,7 +22911,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:967
 msgid "Apply A Link Or Buttons To The Slide"
-msgstr "Link oder Schaltfläche zum Slide hinzufügen"
+msgstr "Link oder Button zum Slide hinzufügen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:968
 msgid ""
@@ -22920,8 +22919,8 @@ msgid ""
 "Action Buttons' that get appended to the caption"
 msgstr ""
 "Sie können wählen, ob Sie den Link auf das gesamte Bild anwenden möchten, "
-"oder fügen Sie 'Call to Action Schaltfläche' hinzu, die an die Beschriftung "
-"angehängt werden"
+"oder fügen Sie einen 'Call to Action Button' hinzu, der an die Beschriftung "
+"angehängt wird"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:974
 msgid "No Link for this slide"
@@ -22933,11 +22932,11 @@ msgstr "Link zu Bild hinzufügen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:976
 msgid "Attach one button"
-msgstr "Eine Schaltfläche einfügen"
+msgstr "Einen Button einfügen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:977
 msgid "Attach two buttons"
-msgstr "Zwei Schaltflächen einfügen"
+msgstr "Zwei Buttons einfügen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:985
 msgid "Where should the image link to"
@@ -22945,63 +22944,63 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:994
 msgid "Button 1 Label"
-msgstr "Schaltfläche 1 Beschriftung"
+msgstr "Button 1 Beschriftung"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1007
 msgid "Button 1 Color"
-msgstr "Schaltfläche 1 Farbe"
+msgstr "Button 1 Farbe"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1008
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1346
 msgid "Choose a color for your button here"
-msgstr "Wähle hier die Farbe für die Schaltfläche"
+msgstr "Wähle hier die Farbe für den Button"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1017
 #, fuzzy
 #| msgid "Button 1 Link?"
 msgid "Button 1 Link"
-msgstr "Schaltfläche 1 Link?"
+msgstr "Button 1 Link?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1018
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1070
 #, fuzzy
 #| msgid "Where should the Button link to?"
 msgid "Where should the button link to"
-msgstr "Wohin soll die Schaltfläche verlinkt werden?"
+msgstr "Wohin soll der Button verlinkt werden?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1034
 #, fuzzy
 #| msgid "Button 1 Link Target?"
 msgid "Button 1 Link Target"
-msgstr "Schaltfläche 1 Linkziel?"
+msgstr "Button 1 Linkziel"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1046
 msgid "Button 2 Label"
-msgstr "Schaltfläche 2 Beschriftung"
+msgstr "Button 2 Beschriftung"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1047
 msgid "This is the text that appears on your second button."
-msgstr "Dies ist der Text, der auf der zweiten Schaltfläche angezeigt wird."
+msgstr "Dies ist der Text, der auf dem zweiten Button angezeigt wird."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1059
 msgid "Button 2 Color"
-msgstr "Schaltfläche 2 Farbe"
+msgstr "Button 2 Farbe"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1060
 msgid "Choose a color for your second button here"
-msgstr "Wähle hier die Farbe für den zweiten Schaltfläche aus"
+msgstr "Wähle hier die Farbe für den zweiten Button aus"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1069
 #, fuzzy
 #| msgid "Button 2 Link?"
 msgid "Button 2 Link"
-msgstr "Schaltfläche 2 Link?"
+msgstr "Button 2 Link?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1087
 #, fuzzy
 #| msgid "Button 2 Link Target?"
 msgid "Button 2 Link Target"
-msgstr "Schaltfläche 2 Linkziel?"
+msgstr "Button 2 Linkziel?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1165
 msgid "Button Background Color On Hover"
@@ -23019,7 +23018,7 @@ msgstr ""
 #: includes/admin/register-backend-advanced-styles.php:887
 #: includes/admin/register-backend-advanced-styles.php:905
 msgid "Button Font Color"
-msgstr "Schaltfläche Schriftfarbe"
+msgstr "Button Schriftfarbe"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1170
 msgid "Custom Button Font Color"
@@ -23121,11 +23120,11 @@ msgstr "Schwarz"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1421
 msgid "Translucent Buttons"
-msgstr "Transparente Schaltflächen"
+msgstr "Transparente Buttons"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1422
 msgid "Colored Buttons"
-msgstr "Farbige Schaltfläche"
+msgstr "Farbige Buttons"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1453
 msgid "Opacity On Hover"
@@ -24633,20 +24632,20 @@ msgstr "Nach Verwendung"
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3049
 msgid "Sort shortcode buttons by theme default sorting"
 msgstr ""
-"Sortieren Sie die Shortcode-Schaltflächen nach der Standardsortierung des "
+"Sortieren Sie die Shortcode-Buttons nach der Standardsortierung des "
 "Theme"
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3052
 msgid "Sort shortcode buttons by name ascending"
-msgstr "Sortieren Sie die Shortcode-Schaltflächen nach aufsteigendem Namen"
+msgstr "Sortieren Sie die Shortcode-Buttons nach aufsteigendem Namen"
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3055
 msgid "Sort shortcode buttons by name descending"
-msgstr "Sortieren Sie die Shortcode-Schaltflächen nach absteigendem Namen"
+msgstr "Sortieren Sie die Shortcode-Buttons nach absteigendem Namen"
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3058
 msgid "Sort shortcode buttons by usage"
-msgstr "Sortieren Sie die Shortcode-Schaltflächen nach Verwendung"
+msgstr "Sortieren Sie die Shortcode-Buttons nach Verwendung"
 
 #: config-templatebuilder/avia-template-builder/php/class-template-builder.php:3067
 msgid "Information"
@@ -27654,7 +27653,7 @@ msgstr "Höhe in px oder &percnt;"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:593
 msgid "Button text confirm to load Google Maps:"
-msgstr "Schaltflächentext bestätigen, um Google Maps zu laden:"
+msgstr "Button-Text zum Bestätigen des Ladens von Google Maps:"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:598
 msgid "Direct link to Google Maps page:"
@@ -28956,7 +28955,7 @@ msgid ""
 "Select if you want to display toggles in modal windows for advanced layout "
 "builder elements or you prefer to see all options at once (old style)"
 msgstr ""
-"Wählen Sie diese Option, wenn Sie in modalen Fenstern Schaltflächen für "
+"Wählen Sie diese Option, wenn Sie in modalen Fenstern Buttons für "
 "erweiterte Layout Architekt-Elemente anzeigen möchten oder alle Optionen "
 "gleichzeitig anzeigen werden (alter Stil)."
 
@@ -29306,22 +29305,22 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_cookie.php:241
 msgid " adds an accept cookies button"
-msgstr "Fügt eine Schaltfläche zum Akzeptieren von Cookies hinzu"
+msgstr "Fügt eine Button zum Akzeptieren von Cookies hinzu"
 
 #: includes/admin/option_tabs/avia_cookie.php:242
 msgid " adds an accept all cookies and services button"
-msgstr "Fügt eine Schaltfläche zum Akzeptieren aller Cookies und Dienste hinzu"
+msgstr "Fügt einen Button zum Akzeptieren aller Cookies und Dienste hinzu"
 
 #: includes/admin/option_tabs/avia_cookie.php:243
 msgid " adds a do not accept cookies button"
-msgstr "fügt eine Schaltfläche \"Cookies nicht akzeptieren\" hinzu"
+msgstr " fügt einen \"Cookies nicht akzeptieren\"-Button hinzu"
 
 #: includes/admin/option_tabs/avia_cookie.php:244
 msgid ""
 " adds a button that opens the privacy modal popup window - you have to "
 "enable cookie consent message bar"
 msgstr ""
-"Fügt eine Schaltfläche hinzu, die das Popup-Fenster für den Datenschutz "
+"Fügt einen Button hinzu, der das Popup-Fenster für den Datenschutz "
 "öffnet. Sie müssen die Meldungsleiste für die Cookie-Zustimmung aktivieren"
 
 #: includes/admin/option_tabs/avia_cookie.php:270
@@ -29448,11 +29447,11 @@ msgid ""
 "opt out for services and cookies. If you make changes to message text or "
 "button label the message bar will be show again."
 msgstr ""
-"Definieren Sie Inhalte und Schaltflächen für Ihre Nachrichtenleiste, um "
+"Definieren Sie Inhalte und Buttons für Ihre Nachrichtenleiste, um "
 "Benutzer über die Verwendung von Cookies und Diensten zu informieren. "
 "Abhängig von den Gesetzen Ihres Landes können Sie Dienste und Cookies "
 "aktivieren oder deaktivieren. Wenn Sie Änderungen am Nachrichtentext oder an "
-"der Schaltflächenbeschriftung vornehmen, wird die Nachrichtenleiste erneut "
+"der Button-Beschriftungen vornehmen, wird die Nachrichtenleiste erneut "
 "angezeigt."
 
 #: includes/admin/option_tabs/avia_cookie.php:358
@@ -29496,7 +29495,7 @@ msgstr "Rechte untere Ecke"
 #: includes/admin/option_tabs/avia_cookie.php:394
 msgid "You can create any number of buttons/links for your message bar here:"
 msgstr ""
-"Sie können hier beliebig viele Schaltfläche / Links für Ihre "
+"Sie können hier beliebig viele Buttons / Links für Ihre "
 "Nachrichtenleiste anlegen:"
 
 #: includes/admin/option_tabs/avia_cookie.php:426
@@ -29539,7 +29538,7 @@ msgstr ""
 #: includes/admin/option_tabs/avia_cookie.php:453
 #: includes/admin/option_tabs/avia_cookie.php:587
 msgid "Button Action"
-msgstr "Schaltfläche Funktion"
+msgstr "Button-Funktion"
 
 #: includes/admin/option_tabs/avia_cookie.php:460
 #: includes/admin/option_tabs/avia_cookie.php:595
@@ -29571,7 +29570,7 @@ msgstr "Link zu einer anderen Seite"
 #: includes/admin/option_tabs/avia_cookie.php:480
 #: includes/admin/option_tabs/avia_cookie.php:615
 msgid "Button Tooltip"
-msgstr "Schaltfläche Tooltip"
+msgstr "Button-Tooltip"
 
 #: includes/admin/option_tabs/avia_cookie.php:481
 #: includes/admin/option_tabs/avia_cookie.php:616
@@ -29580,7 +29579,7 @@ msgid ""
 "button"
 msgstr ""
 "Geben Sie einen zusätzlichen Tooltip ein, um genauere Informationen zur "
-"Verwendung der Schaltfläche zu erhalten"
+"Verwendung des Buttons zu erhalten"
 
 #: includes/admin/option_tabs/avia_cookie.php:515
 msgid ""
@@ -29624,7 +29623,7 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_cookie.php:538
 msgid "Open with a button only"
-msgstr "Nur mit einer Schaltfläche öffnen"
+msgstr "Nur mit einem Button öffnen"
 
 #: includes/admin/option_tabs/avia_cookie.php:539
 msgid "Open immediately on pageload"
@@ -29662,7 +29661,7 @@ msgid ""
 msgstr ""
 "Definieren Sie den Inhalt Ihres modalen Popup-Fensters, um Besucher über "
 "Ihre Datenschutzrichtlinie zu informieren. Verwenden Sie Shortcodes, um "
-"Schaltflächen hinzuzufügen, damit Besucher Dienste und Cookies aktivieren "
+"Buttons hinzuzufügen, damit Besucher Dienste und Cookies aktivieren "
 "oder deaktivieren können."
 
 #: includes/admin/option_tabs/avia_cookie.php:652
@@ -29724,7 +29723,7 @@ msgstr ""
 "Wählen Sie aus, ob Sie die Cookie-Logik verwenden oder Ihrem Besucher nur "
 "einmalige Nachrichten anzeigen möchten, die Cookie-Logik jedoch nicht "
 "benötigen. Die Nachrichtenleiste wird erneut angezeigt, wenn Sie den "
-"angezeigten Text oder die Schaltflächenbeschriftung ändern."
+"angezeigten Text oder die Button-Beschriftung ändern."
 
 #: includes/admin/option_tabs/avia_cookie.php:768
 msgid ""
@@ -29779,7 +29778,7 @@ msgid ""
 "use external services a page reload is usually not necessary."
 msgstr ""
 "Wählen Sie diese Option, um ein erneutes Laden der Seite zu erzwingen, wenn "
-"der Benutzer auf die Schaltfläche &quot;Einstellungen akzeptieren ...&quot; "
+"der Benutzer auf den Button &quot;Einstellungen akzeptieren ...&quot; "
 "oder &quot;Nicht akzeptieren ...&quot; klickt. Wenn Sie keine externen "
 "Dienste verwenden, ist ein erneutes Laden der Seite normalerweise nicht "
 "erforderlich."
@@ -29803,7 +29802,7 @@ msgstr "Automatisches Neuladen nur bei &quot;Nicht akzeptieren ...&quot;"
 
 #: includes/admin/option_tabs/avia_cookie.php:844
 msgid "Auto reload on both buttons"
-msgstr "Automatisches Neuladen auf beiden Schaltfläche"
+msgstr "Automatisches Neuladen auf beiden Buttons"
 
 #: includes/admin/option_tabs/avia_cookie.php:850
 msgid "Refuse Cookie Warning"
@@ -29817,7 +29816,7 @@ msgid ""
 "Leave empty if you do not want to show the browser alert."
 msgstr ""
 "Geben Sie eine kurze Nachricht für eine Browser-Warnung ein, wenn der "
-"Benutzer auf die Schaltfläche &quot;Benachrichtigung nicht akzeptieren und "
+"Benutzer auf den Button &quot;Benachrichtigung nicht akzeptieren und "
 "ausblenden&quot; klickt. Informieren Sie ihn darüber, dass die Ablehnung von "
 "Cookies jedes Mal angezeigt wird, wenn er ein neues Fenster oder einen neuen "
 "Tab öffnet. Lassen Sie das Feld leer, wenn Sie die Browser-Warnung nicht "
@@ -30663,7 +30662,7 @@ msgid ""
 "the submit button. This is mandatory if you want to use V3."
 msgstr ""
 "Wählen Sie aus, ob Sie das Standard-Google-Abzeichen (Badge) oder nur eine "
-"Nachricht unter der Schaltfläche \"Senden\" anzeigen möchten. Dies ist "
+"Nachricht unter dem \"Senden\"-Button anzeigen möchten. Dies ist "
 "obligatorisch, wenn Sie V3 verwenden möchten."
 
 #: includes/admin/option_tabs/avia_google.php:257
@@ -32446,11 +32445,11 @@ msgstr "Hier können Sie das Aussehen Ihrer Produkte auswählen"
 
 #: includes/admin/option_tabs/avia_shop.php:69
 msgid "Default without buttons"
-msgstr "Standard ohne Schaltflächen"
+msgstr "Standard ohne Buttons"
 
 #: includes/admin/option_tabs/avia_shop.php:70
 msgid "Minimal (no borders or buttons)"
-msgstr "Minimal (keine Rahmen oder Schaltflächen)"
+msgstr "Minimal (keine Rahmen oder Buttons)"
 
 #: includes/admin/option_tabs/avia_shop.php:71
 msgid "Minimal Overlay with centered text"
@@ -32836,7 +32835,7 @@ msgstr "Highlight-Farbe"
 
 #: includes/admin/option_tabs/avia_styling.php:223
 msgid "Secondary color for link and button hover, etc"
-msgstr "Sekundäre Farbe für Link und Schaltflächen Hover, etc"
+msgstr "Sekundäre Farbe für Link und Buttons Hover, etc"
 
 #: includes/admin/option_tabs/avia_styling.php:246
 #, fuzzy
@@ -33156,7 +33155,7 @@ msgid ""
 "theme settings. You can use the config file to import the theme settings on "
 "another sever."
 msgstr ""
-"Klicken Sie auf die Schaltfläche, um eine Konfigurationsdatei zu erstellen "
+"Klicken Sie auf den Button, um eine Konfigurationsdatei zu erstellen "
 "und herunterzuladen, die Themeneinstellungen enthält. Sie können die "
 "Konfigurationsdatei verwenden, um die Themeneinstellungen auf einem anderen "
 "Sever zu importieren."
@@ -33307,7 +33306,7 @@ msgid ""
 "Note that this will overwrite your current configuration and you cannot "
 "restore the current configuration afterwards."
 msgstr ""
-"Klicken Sie auf die Schaltfläche, um ausgewählte Optionen auf die "
+"Klicken Sie auf den Button, um ausgewählte Optionen auf die "
 "werkseitigen Standardwerte zurückzusetzen. Beachten Sie, dass dadurch Ihre "
 "aktuelle Konfiguration überschrieben wird und Sie die aktuelle Konfiguration "
 "anschließend nicht wiederherstellen können."
@@ -34048,11 +34047,11 @@ msgstr "Ändern Sie das Styling für Ihren aktuellen Menüpunkt / Hover-Indikato
 
 #: includes/admin/register-backend-advanced-styles.php:335
 msgid "Menu Item Button"
-msgstr "Menüelement-Schaltfläche"
+msgstr "Menüelement-Button"
 
 #: includes/admin/register-backend-advanced-styles.php:337
 msgid "Change the styling for a button menu item"
-msgstr "Ändern Sie das Design für einen Schaltflächenmenüpunkt"
+msgstr "Ändern Sie das Design für einen Button-Menüpunkt"
 
 #: includes/admin/register-backend-advanced-styles.php:358
 #: includes/admin/register-backend-advanced-styles.php:383
@@ -34066,11 +34065,11 @@ msgstr "Innenabstand: oben und unten"
 
 #: includes/admin/register-backend-advanced-styles.php:365
 msgid "Menu Item Button with Border"
-msgstr "Menüelement-Schaltfläche mit Rahmen"
+msgstr "Menüelement-Button mit Rahmen"
 
 #: includes/admin/register-backend-advanced-styles.php:367
 msgid "Change the styling for a button menu item with border"
-msgstr "Ändern Sie das Styling für einen Schaltflächenmenüpunkt mit Rahmen"
+msgstr "Ändern Sie das Styling für einen Button-Menüpunkt mit Rahmen"
 
 #: includes/admin/register-backend-advanced-styles.php:391
 msgid "Small bar above Main Menu"
@@ -34143,7 +34142,7 @@ msgstr "Symbol Hintergrund"
 
 #: includes/admin/register-backend-advanced-styles.php:537
 msgid "Change the styling of your buttons"
-msgstr "Ändern Sie das Styling Ihrer Schaltflächen"
+msgstr "Ändern Sie das Styling Ihrer Buttons"
 
 #: includes/admin/register-backend-advanced-styles.php:566
 msgid "Border width"
@@ -34233,7 +34232,7 @@ msgstr "Containerbreite"
 
 #: includes/admin/register-backend-advanced-styles.php:770
 msgid "Slideshow button"
-msgstr "Slideshow Schaltfläche"
+msgstr "Slideshow Button"
 
 #: includes/admin/register-backend-advanced-styles.php:772
 msgid ""
@@ -34244,47 +34243,47 @@ msgstr ""
 
 #: includes/admin/register-backend-advanced-styles.php:790
 msgid "Change the styling for your cookie consent message bar"
-msgstr "Ändern Sie das Design für die Hinweisleiste für die Cookie-Zustimmung"
+msgstr "Ändern Sie das Design für die Hinweisleiste für die Cookie-Vereinbarung"
 
 #: includes/admin/register-backend-advanced-styles.php:807
 msgid "Cookie Consent Accept Settings Button"
-msgstr "Cookie-Vereinbarung: Einstellungen akzeptieren Schaltfläche "
+msgstr "Cookie-Vereinbarung: \"Einstellungen akzeptieren\"-Button "
 
 #: includes/admin/register-backend-advanced-styles.php:809
 msgid ""
 "Change the styling for your cookie consent accept settings and dismiss "
 "notification button"
 msgstr ""
-"Ändern Sie das Styling für Ihre Cookie-Vereinbarung, akzeptieren Sie die "
-"Einstellungen und schließen Sie die Benachrichtigungsschaltfläche"
+"Ändern Sie das Styling Ihrer Buttons für \"Einstellungen akzeptieren\" und "
+"\"Benachrichtigung schließen\" für die Cookie-Vereinbarung."
 
 #: includes/admin/register-backend-advanced-styles.php:825
 msgid "Cookie Consent Accept All Cookies Button"
-msgstr "Cookie-Vereinbarung: Akzeptiere alle Cookies-Schaltfläche"
+msgstr "Cookie-Vereinbarung: \"Akzeptiere alle Cookies\"-Button"
 
 #: includes/admin/register-backend-advanced-styles.php:827
 msgid ""
 "Change the styling for your cookie consent accept all cookies and settings "
 "and dismiss notification button"
 msgstr ""
-"Ändern Sie das Styling für Ihre Cookie-Vereinbarung, akzeptieren Sie alle "
-"Cookies und Einstellungen und schließen Sie die Benachrichtigungsschaltfläche"
+"Ändern Sie das Styling Ihrer Buttons für \"Alle akzeptieren\" und "
+"\"Benachrichtigung schließen\" für die Cookie-Vereinbarung."
 
 #: includes/admin/register-backend-advanced-styles.php:843
 msgid "Cookie Consent Do Not Accept Cookies Button"
-msgstr "Cookie-Vereinbarung: Nicht zustimmen Cookie-Schaltfläche"
+msgstr "Cookie-Vereinbarung: \"Nicht zustimmen\"-Button"
 
 #: includes/admin/register-backend-advanced-styles.php:845
 msgid ""
 "Change the styling for your cookie consent do not accept and hide "
 "notification button"
 msgstr ""
-"Ändern Sie das Styling für folgende Cookie-Vereinbarung: Ich akzeptieren "
-"nicht und ausblenden"
+"Ändern Sie das Styling Ihrer Buttons für \"Nicht zustimmen\" und "
+"\"Benachrichtigung schließen\" für die Cookie-Vereinbarung."
 
 #: includes/admin/register-backend-advanced-styles.php:861
 msgid "Cookie Consent Open Modal Window Button"
-msgstr "Cookie-Vereinbarung: Öffnen Sie die modale Fenstertaste"
+msgstr "Cookie-Vereinbarung: \"Modalfenster öffnen\"-Button"
 
 #: includes/admin/register-backend-advanced-styles.php:863
 msgid ""
@@ -34292,11 +34291,11 @@ msgid ""
 "cookies button"
 msgstr ""
 "Ändern Sie das Styling für Ihre Cookie-Vereinbarung. Öffnen Sie das Info-"
-"Modal für die Schaltfläche Datenschutz und Cookies"
+"Modal für den Button Datenschutz und Cookies"
 
 #: includes/admin/register-backend-advanced-styles.php:879
 msgid "Cookie Consent Link Button"
-msgstr "Link-Schaltfläche für die Cookie-Vereinbarung"
+msgstr "Link-Button für die Cookie-Vereinbarung"
 
 #: includes/admin/register-backend-advanced-styles.php:881
 msgid "Change the styling for your cookie consent Link to another page button"
@@ -34306,7 +34305,7 @@ msgstr ""
 
 #: includes/admin/register-backend-advanced-styles.php:897
 msgid "Cookie Consent Extra Button"
-msgstr "Extra-Schaltfläche für die Cookie-Vereinbarung"
+msgstr "Extra-Button für die Cookie-Vereinbarung"
 
 #: includes/admin/register-backend-advanced-styles.php:899
 #, fuzzy
@@ -34317,8 +34316,8 @@ msgid ""
 "Change the styling for all your cookie consent extra buttons (not accept "
 "buttons )"
 msgstr ""
-"Ändern Sie das Styling für alle zusätzlichen Schaltflächen Ihrer Cookie-"
-"Vereinbarung (Schaltflächen nicht akzeptieren)."
+"Ändern Sie das Styling für alle zusätzlichen Buttons Ihrer Cookie-"
+"Vereinbarung (Buttons nicht akzeptieren)."
 
 #: includes/admin/register-demo-import.php:117
 msgid "What you get:"
