@@ -1498,7 +1498,7 @@ msgstr ""
 "Wir waren nicht in der Lage, eine Newsletter-Liste auf Ihrem Mailchimp zu "
 "finden, die Ihren Besuchern abonnieren können. Bitte erstellen Sie "
 "mindestens eine in Ihrer Mailchimpanwendung und aktualisieren Sie die "
-"Listendaten hier, um Mailchimp mit diesem Thema zu verwenden."
+"Listendaten hier, um Mailchimp mit diesem Theme zu verwenden."
 
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:562
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-mailchimp.php:495
@@ -23128,11 +23128,11 @@ msgstr "Theme Farbe"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1368
 msgid "Theme Color Highlight"
-msgstr "Thema Farbe Hervorhebung"
+msgstr "Theme Farbe: Hervorhebung"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1369
 msgid "Theme Color Subtle"
-msgstr "Theme Subtil-Farbe"
+msgstr "Theme Farbe: Subtil"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1370
 msgid "White"
@@ -32184,7 +32184,7 @@ msgid ""
 msgstr ""
 "Enfold prüft, ob es ein Bildoptimierungs-Plugin erkennen kann und wenn es "
 "kein bekanntes findet, empfiehlt es einige, die bekanntermaßen gut mit dem "
-"Thema funktionieren"
+"Theme funktionieren"
 
 #: includes/admin/option_tabs/avia_performance.php:585
 msgid ""
@@ -32230,7 +32230,7 @@ msgid ""
 msgstr ""
 "Enfold überprüft, ob es ein Plugin für das Caching von Webseiten erkennen "
 "kann und wenn es kein bekanntes findet, empfiehlt es einige, von denen "
-"bekannt ist, dass sie gut mit dem Thema funktionieren"
+"bekannt ist, dass sie gut mit dem Theme funktionieren"
 
 #: includes/admin/option_tabs/avia_performance.php:708
 msgid ""
@@ -32751,7 +32751,7 @@ msgstr "Neue Sidebar-Widget-Bereiche erstellen"
 msgid ""
 "The theme supports the creation of custom widget areas. Simply open your"
 msgstr ""
-"Das Thema unterstützt die Erstellung von benutzerdefinierten Widget-"
+"Das Theme unterstützt die Erstellung von benutzerdefinierten Widget-"
 "Bereichen. Öffne einfach deine"
 
 #: includes/admin/option_tabs/avia_sidebars.php:155
