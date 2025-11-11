@@ -1175,15 +1175,15 @@ msgstr "Zeige die &quot;Folgen auf Instagram&quot; Schaltfläche:"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:545
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:662
 msgid "Photos Hover Style"
-msgstr "Fotos Hover Stil"
+msgstr "Foto-Stil bei Mauszeigerkontakt"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:555
 msgid "Background color when hovering over a photo:"
-msgstr "Hintergrundfarbe beim Bewegen des Mauszeigers über ein Foto:"
+msgstr "Hintergrundfarbe bei Mauszeigerkontakt mit einem Foto:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:565
 msgid "Text/icon color when hovering over a photo:"
-msgstr "Text- / Symbolfarbe beim Hovern über ein Foto:"
+msgstr "Text-/Icon-Farbe bei Mauszeigerkontakt mit einem Foto:"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:589
 msgid "Number of rows of posts in the carousel:"
@@ -3411,7 +3411,7 @@ msgstr "Symbol Sichtbarkeit"
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:258
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:282
 msgid "Check to only display icon on hover"
-msgstr "Markieren, wenn das Symbol nur bei Maus-Hover angezeigt werden soll"
+msgstr "Anwählen, wenn das Symbol nur bei Mauszeigerkontakt angezeigt werden soll"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:552
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:267
@@ -3495,7 +3495,7 @@ msgstr "Immer anzeigen"
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:393
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:276
 msgid "Display on hover"
-msgstr "Bei Mouse Over zeigen"
+msgstr "Bei Mauszeigerkontakt zeigen"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:640
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:415
@@ -5176,12 +5176,12 @@ msgstr "Wählen Sie, wohin diese Spalte verlinkt werden soll"
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:350
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:560
 msgid "Hover Effect"
-msgstr "Hover-Effekt"
+msgstr "Effekt bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:912
 #: config-templatebuilder/avia-shortcodes/grid_row/cell.php:351
 msgid "Choose if you want to have a hover effect on the column"
-msgstr "Wählen Sie, ob Sie einen Hover-Effekt für die Spalte haben möchten"
+msgstr "Wählen Sie, ob Sie einen Effekt bei Mauszeigerkontakt für die Spalte haben möchten"
 
 #: config-templatebuilder/avia-shortcodes/columns/columns.php:925
 msgid "Title Attribut"
@@ -8888,7 +8888,7 @@ msgstr "Leer lassen für Standardthema Farbe"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:30
 msgid "Display an icon with optional hover effect"
-msgstr "Erzeugt ein Symbol mit optionalem Hover-Effekt"
+msgstr "Zeigt ein Symbol mit optionalem Effekt bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:191
 msgid "Font Icon"
@@ -10368,7 +10368,8 @@ msgstr "Ja, immer die Copyright-Informationen anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:243
 msgid "Yes, display icon and reveal copyright info on hover"
-msgstr "Ja, Symbol anzeigen und Copyright-Informationen beim Hover anzeigen"
+msgstr ""
+"Ja, Icon und Copyright-Informationen bei Mauszeigerkontakt anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:248
 #: config-templatebuilder/avia-shortcodes/image/image.php:343
@@ -10617,7 +10618,7 @@ msgstr "Beschriftung immer zeigen"
 #: config-templatebuilder/avia-shortcodes/image/image.php:535
 #: config-templatebuilder/avia-shortcodes/image_diff/image_diff.php:290
 msgid "Only display on hover"
-msgstr "Nur bei Mouse Over zeigen"
+msgstr "Nur bei Mauszeigerkontakt zeigen"
 
 #: config-templatebuilder/avia-shortcodes/image/image.php:555
 msgid "Image Link?"
@@ -11053,7 +11054,7 @@ msgstr "Wähle wann die Tooltips angezeigt wird"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:325
 msgid "On Mouse Hover"
-msgstr "Bei Mouse Hover"
+msgstr "Bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:326
 msgid "Always"
@@ -11061,7 +11062,7 @@ msgstr "Immer"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:327
 msgid "Show On Mouse Hover - Hide On Click"
-msgstr "Bei Mouse Hover anzeigen - Beim draufklicken verstecken"
+msgstr "Bei Mauszeigerkontakt zeigen - Beim Klicken verbergen"
 
 #: config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.php:346
 msgid "Hotspot on mobile devices"
@@ -12156,7 +12157,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:656
 msgid "Display a image caption on hover"
-msgstr "Zeige eine Bildunterschrift bei Hover"
+msgstr "Zeige eine Bildunterschrift bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:676
 msgid "Partner/Logo Link?"
@@ -17859,7 +17860,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:600
 msgid "Hover Text"
-msgstr "Hover-Text"
+msgstr "Text bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:601
 msgid "Text that appears if you place your mouse above the Icon"
@@ -18615,23 +18616,23 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:541
 msgid "Custom Hover Font Color"
-msgstr "Benutzerdefinierte Hover-Schriftfarbe"
+msgstr "Benutzerdefinierte Schriftfarbe bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:542
 msgid "Select a custom hover font color. Leave empty to use the default"
 msgstr ""
-"Wählen Sie eine benutzerdefinierte Hover-Schriftfarbe. Leer lassen, um die "
-"Standardeinstellung zu verwenden"
+"Wählen Sie eine benutzerdefinierte Schriftfarbe bei Mauszeigerkontakt."
+ "Leer lassen, um die Standardeinstellung zu verwenden"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:553
 msgid "Custom Hover Background Color"
-msgstr "Benutzerdefinierte Hover-Hintergrundfarbe"
+msgstr "Benutzerdefinierte Hintergrundfarbe bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:554
 msgid "Select a custom hover background color. Leave empty to use the default"
 msgstr ""
-"Wählen Sie eine benutzerdefinierte Hover-Hintergrundfarbe. Leer lassen, um "
-"die Standardeinstellung zu verwenden"
+"Wählen Sie eine benutzerdefinierte Hintergrundfarbe bei Mauszeigerkontakt."
+"Leer lassen, um die Standardeinstellung zu verwenden"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:565
 msgid "Custom Hover +/- Icon Color"
@@ -23005,11 +23006,11 @@ msgstr "Schaltfläche 2 Linkziel?"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1165
 msgid "Button Background Color On Hover"
-msgstr ""
+msgstr "Button-Hintergrundfarbe bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1166
 msgid "Custom Button Background Color On Hover"
-msgstr ""
+msgstr "Benutzerdefinierte Button-Hintergrundfarbe bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1169
 #: includes/admin/register-backend-advanced-styles.php:815
@@ -23027,11 +23028,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1173
 msgid "Button Font Color On Hover"
-msgstr ""
+msgstr "Button-Schriftfarbe bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1174
 msgid "Custom Button Font Color On Hover"
-msgstr ""
+msgstr "Benutzerdefinierte Button-Schriftfarbe bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1186
 msgid "Select background color for your button here"
@@ -23414,7 +23415,7 @@ msgstr "Element Titel- und Auszugsanzeigeeinstellungen"
 msgid ""
 "You can choose whether to always display Title and Excerpt or only on hover"
 msgstr ""
-"Wähle, ob Titel und/oder Textauszug immer, oder nur bei Hover angezeigt "
+"Wähle, ob Titel und/oder Textauszug immer, oder nur bei Mauszeigerkontakt angezeigt "
 "werden sollen."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1986
@@ -23423,11 +23424,11 @@ msgstr "Immer zeigen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1987
 msgid "Display on mouse hover"
-msgstr "Bei Mouse Over zeigen"
+msgstr "Bei Mauszeigerkontakt zeigen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1988
 msgid "Hide on mouse hover"
-msgstr "Bei Mouse Hover verstecken"
+msgstr "Bei Mauszeigerkontakt verstecken"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:2014
 msgid "Background Image Position"
@@ -23770,7 +23771,7 @@ msgstr "Entsättigungseffekt"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3065
 msgid "Blur on hover effect"
-msgstr "Unschärfe bei hover"
+msgstr "Unschärfe-Effekt bei Mauszeigerkontakt"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3084
 msgid "This element will stretch across the whole screen by default."
@@ -31375,7 +31376,7 @@ msgstr "Anzeige von Untermenüpunkten bei Klick"
 
 #: includes/admin/option_tabs/avia_menu.php:257
 msgid "Display submenu items on hover"
-msgstr "Anzeige von Untermenüpunkten bei Hover"
+msgstr "Anzeige von Untermenüpunkten bei Mauszeigerkontakt"
 
 #: includes/admin/option_tabs/avia_menu.php:264
 #, fuzzy
@@ -34102,11 +34103,11 @@ msgstr "Menühintergrund"
 
 #: includes/admin/register-backend-advanced-styles.php:494
 msgid "Menu Hover BG"
-msgstr "Menühintergrund bei Maus-darüber"
+msgstr "Menü-Hintergrund bei Mauszeigerkontakt"
 
 #: includes/admin/register-backend-advanced-styles.php:495
 msgid "Font Hover Color"
-msgstr ""
+msgstr "Schriftfarbe bei Mauszeigerkontakt"
 
 #: includes/admin/register-backend-advanced-styles.php:510
 msgid "Linked Image Overlay"
