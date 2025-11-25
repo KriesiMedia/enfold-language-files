@@ -1,3 +1,7 @@
+2025_11_25
+- German language file de_DE_formal (provided by Paul Vogel - kriesi.at@paulvogel.me)
+- German language file de_DE (provided by Paul Vogel - kriesi.at@paulvogel.me)
+
 1025_10_25
 - Italian language files it_IT (version 7.1.3, provided by BigBatT - info@luigicircello.it)
 
@@ -404,6 +408,7 @@ fixed: translation error in Dutch language file which was causing critical error
 
 2020-06-01 Enfold v4.7.5 
 - Initial Upload
+
 
 
 
