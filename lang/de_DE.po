@@ -3,18 +3,18 @@ msgstr ""
 "Project-Id-Version: Enfold v4.7.6.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-22 13:40+0300\n"
-"PO-Revision-Date: 2025-08-22 13:41+0300\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2025-11-12 16:17+0100\n"
+"Last-Translator: Paul Vogel <hello@paulvogel.me>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.6\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
-"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
@@ -413,8 +413,8 @@ msgstr "Benutzername:"
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:163
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:242
 msgid ""
-"Your Instagram User Name. This must be from a connected account on the &quot;"
-"Configure&quot; tab of the plugin."
+"Your Instagram User Name. This must be from a connected account on the "
+"&quot;Configure&quot; tab of the plugin."
 msgstr ""
 "Dein Instagram-Benutzername. Dies muss von einem verbundenen Konto auf dem "
 "&quot;Konfigurieren&quot;-Tab des Plugins stammen."
@@ -428,8 +428,8 @@ msgstr "Hashtag(s):"
 msgid ""
 "Any hashtag. Separate multiple hashtags by commas (e.g. #awesome,#mytag)"
 msgstr ""
-"Jeder Hashtag. Trennen mehrerer Hashtags durch Kommas (z.&nbsp;B. #awesome,"
-"#mytag)"
+"Jeder Hashtag. Trennen mehrerer Hashtags durch Kommas (z.&nbsp;B. "
+"#awesome,#mytag)"
 
 #: config-instagram-feed/class-avia-instagram-feed-widget.php:182
 msgid "Select Media:"
@@ -2218,14 +2218,14 @@ msgid ""
 "icon can be set in the media gallery for each element as the featured image. "
 "WP will use a default icon on upload, if none is set."
 msgstr ""
-"Hier kannst du das Medien-Symbol in der Wiedergabeliste anzeigen oder "
-"ausblenden. Dieses Symbol kann in der Mediengalerie für jedes Element als "
-"das Vorschaubild eingestellt werden. WP wird ein Standard-Icon beim Upload "
+"Hier kannst du das Medien-Icon in der Wiedergabeliste anzeigen oder "
+"ausblenden. Dieses Icon kann in der Mediengalerie für jedes Element als das "
+"Vorschaubild eingestellt werden. WP wird ein Standard-Icon beim Upload "
 "verwenden, wenn keines gesetzt ist."
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:434
 msgid "Show media icon/album cover"
-msgstr "Zeige Medien-Symbol/Album-Cover"
+msgstr "Zeige Medien-Icon/Album-Cover"
 
 #: config-templatebuilder/avia-shortcodes/audio-player/audio-player.php:435
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:524
@@ -2714,7 +2714,7 @@ msgstr "Listen-Layout - Einfach (nur Titel und Meta-Informationen)"
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:268
 #: includes/admin/option_tabs/avia_blog.php:147
 msgid "List Layout - Compact (Title and icon only)"
-msgstr "Listen-Layout - Kompakt (Nur Titel und Symbol)"
+msgstr "Listen-Layout - Kompakt (Nur Titel und Icon)"
 
 #: config-templatebuilder/avia-shortcodes/blog/blog.php:269
 #: includes/admin/option_tabs/avia_blog.php:148
@@ -3007,7 +3007,7 @@ msgstr "Button-Zeile"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:95
 msgid "Displays multiple buttons beside each other"
-msgstr "Zeigt mehrere Schaltflächen nebeneinander an"
+msgstr "Zeigt mehrere Buttons nebeneinander an"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:101
 #, fuzzy
@@ -3024,11 +3024,11 @@ msgstr "Buttons hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:235
 msgid "Here you can add, remove and edit buttons."
-msgstr "Hier kannst du Schaltflächen hinzufügen, entfernen und bearbeiten."
+msgstr "Hier kannst du Buttons hinzufügen, entfernen und bearbeiten."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:238
 msgid "Edit Button"
-msgstr "Schaltfläche bearbeiten"
+msgstr "Button bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:244
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:254
@@ -3074,7 +3074,7 @@ msgstr "Rechts ausrichten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:288
 msgid "Space between buttons"
-msgstr "Abstand zwischen den Schaltflächen"
+msgstr "Abstand zwischen den Buttons"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:289
 msgid ""
@@ -3359,13 +3359,13 @@ msgstr "Gib den Text ein, der auf dem Button erscheinen soll."
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:240
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:254
 msgid "Button Icon"
-msgstr "Button-Symbol"
+msgstr "Button-Icon"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:516
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:255
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:241
 msgid "Should an icon be displayed at the left side of the button"
-msgstr "Soll ein Symbol links im Button angezeigt werden"
+msgstr "Soll ein Icon links auf dem Button angezeigt werden"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:522
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:237
@@ -3379,33 +3379,33 @@ msgstr "Soll ein Symbol links im Button angezeigt werden"
 #: config-templatebuilder/avia-shortcodes/search/search.php:236
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:409
 msgid "No Icon"
-msgstr "Kein Symbol"
+msgstr "Kein Icon"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:523
 msgid "Yes, display Icon to the left"
-msgstr "Ja, Symbol links anzeigen"
+msgstr "Ja, Icon links anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:524
 msgid "Yes, display Icon to the right"
-msgstr "Ja, Symbol rechts anzeigen"
+msgstr "Ja, Icon rechts anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:530
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:245
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:269
 msgid "Select an icon for your Button below"
-msgstr "Wähle ein Symbol unterhalb für dein Button"
+msgstr "Wähle ein Icon unterhalb für dein Button"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:542
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:257
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:281
 msgid "Icon Visibility"
-msgstr "Symbol Sichtbarkeit"
+msgstr "Icon Sichtbarkeit"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:543
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:258
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:282
 msgid "Check to only display icon on hover"
-msgstr "Anwählen, wenn das Symbol nur bei Maus-Hover angezeigt werden soll"
+msgstr "Anwählen, wenn das Icon nur bei Maus-Hover angezeigt werden soll"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:552
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:267
@@ -3553,7 +3553,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:230
 msgid "Show Button Icon"
-msgstr ""
+msgstr "Zeige Button Icon"
 
 #: config-templatebuilder/avia-shortcodes/buttons/buttons.php:231
 msgid "Should an icon be displayed at the left or right side of the button"
@@ -3708,7 +3708,9 @@ msgstr "Gib eine zusätzliche Beschreibung ein"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:262
 msgid "Yes, display Icon to the left of the title"
-msgstr "Ja, zeige Symbol links neben dem Titel"
+msgstr ""
+"Ja, zeige Icon\n"
+" links neben dem Titel"
 
 #: config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.php:263
 msgid "Yes, display Icon to the right of the title"
@@ -3723,12 +3725,10 @@ msgid "Creates a pricing list"
 msgstr "Erstellt eine Preisliste"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:70
-#, fuzzy
 msgid "Catalogue Item"
 msgstr "Katalog"
 
 #: config-templatebuilder/avia-shortcodes/catalogue/catalogue.php:71
-#, fuzzy
 msgid "A Catalogue Element Item"
 msgstr "Element duplizieren"
 
@@ -4362,8 +4362,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:739
 msgid ""
-"Allowed color formats are string in hexadecimal, RGB, named colors or HSL (e."
-"g. #fefefe, rgba(214,87,153,0.58), green)."
+"Allowed color formats are string in hexadecimal, RGB, named colors or HSL "
+"(e.g. #fefefe, rgba(214,87,153,0.58), green)."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/chart/chart.php:740
@@ -5828,7 +5828,7 @@ msgstr "Ausrichtung Beschriftung Senden-Button"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:500
 msgid "Select how to align the form labels and the send button"
-msgstr "Wähle, wie die Schaltfläche \"Senden\" ausgerichtet werden soll"
+msgstr "Wähle, wie der \"Senden\"-Button ausgerichtet werden soll"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:507
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:413
@@ -5897,9 +5897,9 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:643
 msgid ""
-"When selecting &quot;Valid E-Mail address with German Umlaut&quot; or &quot;"
-"Valid E-Mail address, extended characterset&quot; keep in mind, that not all "
-"E-Mail systems support these characters properly."
+"When selecting &quot;Valid E-Mail address with German Umlaut&quot; or "
+"&quot;Valid E-Mail address, extended characterset&quot; keep in mind, that "
+"not all E-Mail systems support these characters properly."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:648
@@ -8342,7 +8342,7 @@ msgstr "Gib hier Text für den Untertitel ein"
 #: config-templatebuilder/avia-shortcodes/social_share/social_share.php:1283
 #: includes/admin/option_tabs/avia_blog.php:467
 msgid "Icon"
-msgstr "Symbol"
+msgstr "Icon"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:245
 msgid "Select to show an additional icon above headline"
@@ -8350,7 +8350,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:253
 msgid "Display Icon"
-msgstr ""
+msgstr "Zeige Icon"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:259
 msgid "Select an icon to display above the headline"
@@ -8383,7 +8383,6 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:377
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:378
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:379
-#, fuzzy
 msgid "Use default"
 msgstr "Standard verwenden"
 
@@ -8468,7 +8467,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:289
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:333
 msgid "Custom Icon Color"
-msgstr "Benutzerdefinierte Symbol-Farbe"
+msgstr "Benutzerdefinierte Icon-Farbe"
 
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:439
 msgid "Select a custom icon color for your Heading here"
@@ -8778,7 +8777,7 @@ msgstr "Benutzerdefiniert"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:169
 msgid "Should an icon be displayed at the center?"
-msgstr "Soll ein Symbol in der Mitte angezeigt werden?"
+msgstr "Soll ein Icon in der Mitte angezeigt werden?"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:177
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:206
@@ -8786,12 +8785,12 @@ msgstr "Soll ein Symbol in der Mitte angezeigt werden?"
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:249
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:410
 msgid "Yes, display Icon"
-msgstr "Ja, Symbol anzeigen"
+msgstr "Ja, Icon anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:183
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:192
 msgid "Select an icon below"
-msgstr "Wähle unten ein Symbol aus"
+msgstr "Wähle unten ein Icon aus"
 
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:195
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:1147
@@ -8868,23 +8867,21 @@ msgstr "Leer lassen für Theme-Standard-Farbe"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:30
 msgid "Display an icon with optional hover effect"
-msgstr "Zeigt ein Symbol mit optionalem Hover-Effekt"
+msgstr "Zeigt ein Icon mit optionalem Hover-Effekt"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:191
 msgid "Font Icon"
-msgstr "Symbol-Schrift"
+msgstr "Icon-Schrift"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:208
 msgid "Optional Tooltip"
 msgstr "Optionaler Tool-Tipp"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:209
-#, fuzzy
-#| msgid "Add a tooltip for this Icon. The tooltip will appear on mouse over"
 msgid "Add a tooltip for this icon. The tooltip will appear on mouse over"
 msgstr ""
-"Füge einen Tool-Tipp für das Symbol hinzu. Dieser erscheint beim "
-"Darüberfahren mit der Maus"
+"Füge einen Tool-Tipp für das Icon hinzu. Dieser erscheint beim Darüberfahren "
+"mit der Maus"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:211
 msgid "Please note: Images within the tooltip are currently not supported"
@@ -8894,7 +8891,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:230
 msgid "Icon Style"
-msgstr "Symbol-Stil"
+msgstr "Icon-Stil"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:231
 msgid ""
@@ -8908,19 +8905,19 @@ msgstr "Symbol als Inline-Element"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:238
 msgid "Standalone Icon with border and optional caption"
-msgstr "Symbol alleinstehend mit optionaler Bildunterschrift"
+msgstr "Alleinstehendes Icon mit optionaler Bildunterschrift"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:243
 msgid "Icon Caption"
-msgstr "Symbol-Unterschrift"
+msgstr "Icon-Unterschrift"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:244
 msgid "A small caption below the icon"
-msgstr "Eine kleine Beschriftung unterhalb des Symbols"
+msgstr "Eine kleine Beschriftung unterhalb des Icons"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:253
 msgid "Icon Size"
-msgstr "Symbol-Größe"
+msgstr "Icon-Größe"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:254
 msgid "Enter the font size in px, em or &percnt;"
@@ -8929,30 +8926,29 @@ msgstr "Gib die Schriftgröße in px, em oder &percnt; ein"
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:262
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:292
 msgid "Icon Position"
-msgstr "Symbol-Position"
+msgstr "Icon-Position"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:263
 msgid "Choose the alignment of your icon here"
-msgstr "Lege die Aussrichtung des Symbols fest"
+msgstr "Lege die Aussrichtung des Icons fest"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:290
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:639
 #: includes/admin/register-backend-advanced-styles.php:526
 msgid "Icon Color"
-msgstr "Symbol-Farbe"
+msgstr "Icon-Farbe"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:291
-#, fuzzy
 msgid ""
 "Here you can set the color of the icon. Enter no value if you want to use "
 "the standard font color."
 msgstr ""
-"Hier kannst Du einen Farbwert für das Symbol festlegen. Lasse das Feld leer "
-"um den Standardwert zu verwenden."
+"Hier kannst Du einen Farbwert für das Icon festlegen. Lasse das Feld leer um "
+"den Standardwert zu verwenden."
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:319
 msgid "Should the icons appear in an animated way?"
-msgstr "Sollen die Symbole animiert erscheinen?"
+msgstr "Sollen die Icons animiert erscheinen?"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:325
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:537
@@ -8970,11 +8966,11 @@ msgstr "Animation deaktiviert"
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:720
 #: config-templatebuilder/avia-shortcodes/team/team.php:610
 msgid "Icon Link"
-msgstr "Symbol-Link"
+msgstr "Icon-Link"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:338
 msgid "Where should your icon link to?"
-msgstr ""
+msgstr "Wohin soll dein Icon verlinken?"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:55
 msgid "Icon Circles"
@@ -8996,7 +8992,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:214
 msgid "Add/Edit Icon items"
-msgstr ""
+msgstr "Icon Elemente hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:215
 msgid ""
@@ -9034,7 +9030,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:245
 msgid "First Active Icon"
-msgstr ""
+msgstr "Erstes aktives Icon"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:246
 msgid ""
@@ -9084,15 +9080,17 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:336
 msgid "Icons Color"
-msgstr ""
+msgstr "Icons Farbe"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:337
 msgid "Select a custom color for your icons here. Leave blank to use default."
 msgstr ""
+"Wähle hier eine benutzerdefinierte Farbe für deine Icons aus. Lasse das Feld "
+"leer, um die Standardeinstellung zu verwenden."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:346
 msgid "Icons Background Color"
-msgstr ""
+msgstr "Icon Hintergrundfarbe"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:347
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:367
@@ -9100,6 +9098,8 @@ msgid ""
 "Select a custom background color for your icons here. Leave blank to use "
 "default."
 msgstr ""
+"Wähle hier eine benutzerdefinierte Hintergrundfarbe für deine Icons aus. "
+"Lasse das Feld leer, um die Standardeinstellung zu verwenden."
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:356
 msgid "Icons Color On Hover"
@@ -9218,7 +9218,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:649
 msgid "Icon Background Color"
-msgstr ""
+msgstr "Icon Hintergrundfarbe"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:650
 msgid ""
@@ -9228,7 +9228,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:659
 msgid "Icon Border Color"
-msgstr ""
+msgstr "Icon Rahmenfarbe"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:660
 msgid ""
@@ -9237,7 +9237,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:669
 msgid "Icon Color On Hover"
-msgstr ""
+msgstr "Icon-Farbe bei Mauskontakt"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:670
 msgid ""
@@ -9246,7 +9246,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:679
 msgid "Icon Background Color On Hover"
-msgstr ""
+msgstr "Icon-Hintergrundfarbe bei Mauskontakt"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:680
 msgid ""
@@ -9256,7 +9256,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:689
 msgid "Icon Border Color On Hover"
-msgstr ""
+msgstr "Icon-Rahmenfarbe bei Mauskontakt"
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:690
 msgid ""
@@ -9266,35 +9266,35 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.php:721
 msgid "Where should the icon link to?"
-msgstr ""
+msgstr "Wohin soll das Icon verlinken?"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:25
 msgid "Icon Box"
-msgstr "Symbol-Box"
+msgstr "Icon-Box"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:31
 msgid "Creates a content block with icon to the left or above"
-msgstr "Erzeugt einen Inhalts-Block mit Ions linksbündig oder darüber"
+msgstr "Erzeugt einen Inhalts-Block mit Icon linksbündig oder darüber"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:178
 msgid "IconBox Icon"
-msgstr "Symbol der Symbol-Box"
+msgstr "Icon der Icon-Box"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:179
 msgid "Select an IconBox Icon below"
-msgstr "Wähle eines der unten abgebildeten Symbole aus"
+msgstr "Wähle eines der unten abgebildeten Icons aus"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:191
 msgid "Add an IconBox title here"
-msgstr "Gib einen Titel für die Symbol-Box ein"
+msgstr "Gib einen Titel für die Icon-Box ein"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:194
 msgid "IconBox Title"
-msgstr "Titel Symbol-Box"
+msgstr "Icon-Box Titel"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:201
 msgid "Add some content for this IconBox"
-msgstr "Inhalt für die Symbol-Box eingeben"
+msgstr "Inhalt für die Icon-Box eingeben"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:204
 msgid "Click to add your own text here"
@@ -9302,15 +9302,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:219
 msgid "IconBox Styling"
-msgstr "Stil Symbol-Box"
+msgstr "Stil Icon-Box"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:220
 msgid "Defines the styling of the iconbox and the position of the icon"
-msgstr "Definiert den Stil der Symbol-Box und die Position des Symbols"
+msgstr "Definiert den Stil der Icon-Box und die Position des Icons"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:226
 msgid "Display small icon at the left side of the title"
-msgstr "Zeige kleines Symbol links des Titels an"
+msgstr "Zeige kleines Icons links des Titels an"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:227
 msgid "Display icon at the left side of the whole content block"
@@ -9326,11 +9326,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:234
 msgid "Icon display"
-msgstr "Anzeige des Symbols"
+msgstr "Anzeige des Icons"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:235
 msgid "Select how to display the icon beside your content"
-msgstr "Wähle, wie das Symbol neben deinem Inhalt angezeigt werden soll"
+msgstr "Wähle, wie das Icon neben deinem Inhalt angezeigt werden soll"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:242
 msgid "Small with border"
@@ -9346,7 +9346,7 @@ msgstr "Inhaltsblock"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:249
 msgid "Select if the iconbox should receive a border around the content"
-msgstr "Wähle, ob die Symbol-Box einen Rahmen um den Inhalt erhalten soll"
+msgstr "Wähle, ob die Icon-Box einen Rahmen um den Inhalt erhalten soll"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:256
 msgid "Boxed content block with borders"
@@ -9382,7 +9382,7 @@ msgstr "Benutzerdefinierte Schriftfarbe des Inhalts"
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:456
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:519
 msgid "Icon Colors"
-msgstr "Symbolfarbe"
+msgstr "Iconfarbe"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:323
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:638
@@ -9470,23 +9470,19 @@ msgid "Select where to apply the link"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:477
-#, fuzzy
-#| msgid "No, apply link to the title"
 msgid "Apply link to the title"
-msgstr "Nein, füge Link dem Titel hinzu"
+msgstr "Link zum Titel hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:478
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:701
-#, fuzzy
-#| msgid "Yes, apply link to icon and title"
 msgid "Apply link to icon and title"
-msgstr "Ja, füge Link dem Symbol und Titel hinzu"
+msgstr "Link auf Icon und Titel anwenden"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:479
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:702
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:948
 msgid "Apply link to icon only"
-msgstr "Link nur zum Symbol hinzufügen"
+msgstr "Link nur auf Icon anwenden"
 
 #: config-templatebuilder/avia-shortcodes/iconbox/iconbox.php:767
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:2266
@@ -9506,9 +9502,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:109
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:93
-#, fuzzy
 msgid "Icon Grid Item"
-msgstr "Symbolraster"
+msgstr "Icon Rasterelement"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:110
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:94
@@ -9755,7 +9750,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1058
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:544
 msgid "Custom Icon Font Color"
-msgstr "Benutzerdefinierte Symbol-Farbe"
+msgstr "Benutzerdefinierte Icon-Farbe"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:572
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1173
@@ -10026,24 +10021,24 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1068
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:993
 msgid "Grid Item Icon"
-msgstr "Symbol Rasterelement"
+msgstr "Icon Rasterelement"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1056
 msgid "Select if you want to display an icon"
-msgstr ""
+msgstr "Auswählen, ob Du ein Icon anzeigen möchtest."
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1062
 msgid "Show icon above title"
-msgstr ""
+msgstr "Zeige Icon über Titel"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1063
 msgid "Do not show an icon"
-msgstr ""
+msgstr "Zeige kein Icon"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1069
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:994
 msgid "Select an icon for your grid item below"
-msgstr "Wähle ein Symbol für dein Rasterelement unten aus"
+msgstr "Wähle ein Icon für dein Rasterelement unten aus"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:1085
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:1007
@@ -10137,12 +10132,12 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:80
 msgid "Icon Grid"
-msgstr "Symbolraster"
+msgstr "Icon-Raster"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:87
 msgid "Creates an icon grid with toolips or flip content"
 msgstr ""
-"Erstellt ein Symbol-Raster mit Tooltips oder Inhalt mit Umblättern-Effekt"
+"Erstellt ein Icon-Raster mit Tooltips oder Inhalt mit Umblättern-Effekt"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:266
 msgid "Change the appearance of your icon grid"
@@ -10159,7 +10154,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:286
 msgid "Also close when user clicks outside icongrid"
-msgstr ""
+msgstr "Auch schließen, wenn der Benutzer außerhalb des Icon-Rasters klickt"
 
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:449
 msgid ""
@@ -10195,20 +10190,19 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:80
 msgid "Icon List"
-msgstr "Symbolliste"
+msgstr "Iconliste"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:87
 msgid "Creates a list with nice icons beside"
-msgstr "Erzeugt eine Liste mit Symbolen"
+msgstr "Erzeugt eine Liste mit Icons daneben"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:93
-#, fuzzy
 msgid "Icon List Item"
-msgstr "Symbolliste"
+msgstr "Icon-Listenelement"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:94
 msgid "An Icon List Element Item"
-msgstr ""
+msgstr "Ein Icon-Listenelement"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:252
 msgid "List Title 1"
@@ -10228,7 +10222,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:293
 msgid "Set the position of the icons"
-msgstr "Lege die Position der Symbole fest"
+msgstr "Lege die Position der Icons fest"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:305
 #, fuzzy
@@ -10237,7 +10231,7 @@ msgstr "Raster-Styling"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:306
 msgid "Change the styling of your iconlist"
-msgstr "Ändere den Stil deiner Symbolliste"
+msgstr "Ändere den Stil deiner Iconliste"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:312
 msgid "Default (Big List)"
@@ -10290,11 +10284,11 @@ msgstr "Gib hier den Titel ein (Möglichst kurz halten)"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:651
 msgid "List Item Icon"
-msgstr "Symbol für Listeneintrag"
+msgstr "Listenelement-Icon"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:652
 msgid "Select an icon for your list item below"
-msgstr "Wähle ein Symbol für deinen Listeneintrag aus"
+msgstr "Wähle ein Icon für dein Listenelement aus"
 
 #: config-templatebuilder/avia-shortcodes/iconlist/iconlist.php:663
 msgid "List Item Content"
@@ -11405,11 +11399,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:649
 msgid "Instagram Icon/Link"
-msgstr ""
+msgstr "Instagram Icon/Link"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:652
 msgid "Like/Comment Icons"
-msgstr ""
+msgstr "Like/Kommentar Icons"
 
 #: config-templatebuilder/avia-shortcodes/instagram_feed/instagram_feed.php:671
 msgid "Show the photo caption"
@@ -11878,11 +11872,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:680
 msgid "Default icon"
-msgstr ""
+msgstr "Standard Icon"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:681
 msgid "Upload custom icon"
-msgstr ""
+msgstr "Benutzerdefiniertes Icon hochladen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:682
 msgid "Use a custom link"
@@ -11890,23 +11884,23 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:687
 msgid "Choose Icon Image"
-msgstr ""
+msgstr "Iconbild auswählen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:691
 msgid "Insert Icon Image"
-msgstr ""
+msgstr "Iconbild einfügen"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:698
 msgid "Custom URL To Marker Icon"
-msgstr ""
+msgstr "Benutzerdefinierte URL zum Marker-Icon"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:699
 msgid "Enter a custom URL to the marker icon"
-msgstr ""
+msgstr "Gib eine benutzerdefinierte URL für das Marker-Icon ein"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:707
 msgid "Icon Width"
-msgstr ""
+msgstr "Icon Breite"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:708
 msgid "Select the width of the icon in pixel"
@@ -12025,8 +12019,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:367
 msgid ""
 "Choose the image size. When using svg images you must select an image size. "
-"If &quot;No scaling&quot; is used we make a fallback to WP default &quot;"
-"Medium&quot;."
+"If &quot;No scaling&quot; is used we make a fallback to WP default "
+"&quot;Medium&quot;."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/logoslider/logoslider.php:376
@@ -12154,8 +12148,8 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:278
 msgid ""
 "Either upload a new or choose an existing lottie animation from your media "
-"library. Supported filetype extensions are &quot;.lottie&quot; and &quot;."
-"json&quot;."
+"library. Supported filetype extensions are &quot;.lottie&quot; and "
+"&quot;.json&quot;."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.php:279
@@ -13088,7 +13082,7 @@ msgid ""
 "This option is ignored when burger menu icon is shown."
 msgstr ""
 "Wenn angewählt, wird das Menü am oberen Rand der Seite angeheftet, sobald es "
-"diese berührt. Diese Option wird ignoriert, wenn das Burger-Menüsymbol "
+"diese berührt. Diese Option wird ignoriert, wenn das Burger-Menüicon "
 "angezeigt wird."
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:278
@@ -13248,14 +13242,17 @@ msgstr "Dies ist eine Beispiel-Benachrichtigung."
 msgid ""
 "Should an icon be displayed at the left side of the notification message"
 msgstr ""
+"Soll ein Icon auf der linken Seite der Benachrichtigung angezeigt werden"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:211
 msgid "Notice Icon"
-msgstr ""
+msgstr "Hinweis-Icon"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:212
 msgid "Select an icon below to be shown left of the notification text"
 msgstr ""
+"Wähle unten ein Icon aus, das links neben dem Benachrichtigungstext "
+"angezeigt werden soll"
 
 #: config-templatebuilder/avia-shortcodes/notification/notification.php:224
 msgid "Close Button"
@@ -13438,21 +13435,19 @@ msgstr "Fügen deinen eigenen Text hinzu"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:221
 msgid "Add an icon to the element?"
-msgstr "Ein Symbol zu dem Element hinzufügen?"
+msgstr "Ein Icon zu dem Element hinzufügen?"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:228
 msgid "Yes, display an icon in front of number"
-msgstr "Ja, ein Symbol vor der Nummer anzeigen"
+msgstr "Ja, ein Icon vor der Nummer anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:229
 msgid "Yes, display an icon after the number"
-msgstr "Ja, ein Symbol nach der Nummer anzeigen"
+msgstr "Ja, ein Icon nach der Nummer anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:235
-#, fuzzy
-#| msgid "Select an icon for the element here"
 msgid "Select an icon for the number here"
-msgstr "Wähle hier ein Symbol für das Element"
+msgstr "Wähle hier ein Icon für das Element"
 
 #: config-templatebuilder/avia-shortcodes/numbers/numbers.php:256
 msgid "Format Number"
@@ -14330,8 +14325,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_review.php:69
 msgid ""
-"Display and allow reviews for this product. Needs to enable reviews in WC -"
-"&gt; Settings -&gt; Product -&gt; Product -&gt; Enable reviews"
+"Display and allow reviews for this product. Needs to enable reviews in WC "
+"-&gt; Settings -&gt; Product -&gt; Product -&gt; Enable reviews"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_tabs.php:27
@@ -14573,16 +14568,15 @@ msgstr "Nummer zwischen 0 und 100 wählen"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:470
 msgid "Should an icon be displayed at the left side of the progress bar"
-msgstr ""
-"Soll ein Symbol links innerhalb des Fortschrittsbalken angezeigt werden"
+msgstr "Soll ein Icon links innerhalb des Fortschrittsbalken angezeigt werden"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:482
 msgid "Progress Bar Icon"
-msgstr ""
+msgstr "Fortschrittsbalken-Icon"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:483
 msgid "Select an icon for the progress bar below"
-msgstr ""
+msgstr "Wähle ein Icon für den Fortschrittsbalken unten aus."
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:506
 msgid "Progress Bar Color"
@@ -14682,7 +14676,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:255
 msgid "Select an icon for your button below"
-msgstr ""
+msgstr "Wähle unten ein Icon für den Button aus."
 
 #: config-templatebuilder/avia-shortcodes/promobox/promobox.php:267
 msgid "Button Label display"
@@ -14746,11 +14740,11 @@ msgstr "Finde"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:230
 msgid "Icon Display"
-msgstr "Symbolanzeige"
+msgstr "Iconanzeige"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:231
 msgid "Where should the icon be displayed?"
-msgstr "Wo sollte das Symbol angezeigt werden?"
+msgstr "Wo sollte das Icon angezeigt werden?"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:237
 msgid "Input Field"
@@ -14758,11 +14752,11 @@ msgstr "Eingabefeld"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:243
 msgid "Search Icon"
-msgstr "Suchsymbol"
+msgstr "Suchicon"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:244
 msgid "Select an Icon below"
-msgstr "Wähle unten ein Symbol aus"
+msgstr "Wähle unten ein Icon aus"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:259
 msgid "Search Form"
@@ -14872,16 +14866,13 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:374
 msgid "Hide preview image or icon"
-msgstr "Vorschaubild oder Symbol ausblenden"
+msgstr "Vorschaubild oder Icon ausblenden"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:375
-#, fuzzy
-#| msgid ""
-#| "Check if you want to hide the preview image or icon in search results"
 msgid ""
 "Check if you want to hide the preview image or icon in ajax search results"
 msgstr ""
-"Anwählen, um das Vorschaubild oder das Symbol in den Suchergebnissen "
+"Anwählen, um das Vorschaubild oder das Icon in den Suchergebnissen "
 "auszublenden"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:393
@@ -14992,15 +14983,15 @@ msgstr "Benutzerdefinierte Hintergrundfarbe für Eingabefeld"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:563
 msgid "Button Font/Icon Color"
-msgstr "Button Schriftfarbe/Symbolfarbe"
+msgstr "Button Schriftfarbe/Iconfarbe"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:564
 msgid "Select a font or icon color for the button"
-msgstr "Wähle eine Schrift-/Symbolfarbe für den Button aus"
+msgstr "Wähle eine Schrift-/Iconfarbe für den Button aus"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:575
 msgid "Custom Button Font/Icon Color"
-msgstr "Benutzerdefinierte Schrift-/Symbolfarbe für Button"
+msgstr "Benutzerdefinierte Schrift-/Iconfarbe für Button"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:585
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1161
@@ -15058,16 +15049,14 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:653
 msgid "Search Results Icon Color"
-msgstr ""
+msgstr "Suchergebnis Icon-Farbe"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:654
-#, fuzzy
-#| msgid "Select a custom results color. Leave empty to use the default"
 msgid ""
 "Select a custom results color for the icon. Leave empty to use the default"
 msgstr ""
-"Wähle eine benutzerdefinierte Ergebnisfarbe aus. Leer lassen, um den "
-"Standardwert zu verwenden"
+"Wähle eine benutzerdefinierte Ergebnisfarbe für das Icon aus. Lasse das Feld "
+"leer, um die Standardeinstellung zu verwenden."
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:663
 msgid "Search Results Background Color"
@@ -15472,7 +15461,7 @@ msgid ""
 "Check if you want to show a button at the bottom of the section that takes "
 "the user to the next section by scrolling down"
 msgstr ""
-"Überprüfen Sie, ob Sie eine Schaltfläche am unteren Rand des Abschnitts "
+"Überprüfen Sie, ob Sie einen Button am unteren Rand des Abschnitts "
 "anzeigen möchten, die den Benutzer zum nächsten Abschnitt führt, indem Sie "
 "nach unten scrollen"
 
@@ -16443,9 +16432,9 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:538
 msgid ""
-"Define a transition when switching between the slides. Fade forces &quot;"
-"Same Height&quot; for all slides. We recommend this setting in general. "
-"Slide Up/Down disables animations on elements in slides."
+"Define a transition when switching between the slides. Fade forces "
+"&quot;Same Height&quot; for all slides. We recommend this setting in "
+"general. Slide Up/Down disables animations on elements in slides."
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_section.php:543
@@ -16529,12 +16518,12 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:178
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:179
 msgid "No icon or image"
-msgstr "Kein Symbol oder Bild"
+msgstr "Kein Icon oder Bild"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:179
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:180
 msgid "Display icon"
-msgstr "Symbol anzeigen"
+msgstr "Icon anzeigen"
 
 #: config-templatebuilder/avia-shortcodes/slideshow_section/slideshow_sub_section.php:180
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:181
@@ -17284,16 +17273,12 @@ msgid "Tab Padding"
 msgstr "Oberer Innenabstand"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:360
-#, fuzzy
-#| msgid ""
-#| "Define the tab titles top and bottom padding (only works if no icon is "
-#| "displayed at the top off the tab title)"
 msgid ""
 "Define the tab titles top and bottom padding (only works if no icon is "
 "displayed at the top of the tab title)"
 msgstr ""
 "Definiere den oberen und unteren Innenabstand der Reitertitel (funktioniert "
-"nur, wenn oben auf dem Reitertitel kein Symbol angezeigt wird)"
+"nur, wenn oben auf dem Reitertitel kein Icon angezeigt wird)"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:364
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_section.php:378
@@ -17433,18 +17418,18 @@ msgstr "Symbol des Reiters"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:174
 msgid "Should an icon or image be displayed at the top of the tab title?"
-msgstr "Soll ein Symbol oder Bild oben im Reiter-Titel angezeigt werden?"
+msgstr "Soll ein Icon oder Bild oben im Reiter-Titel angezeigt werden?"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:186
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:402
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:415
 msgid "Tab Icon"
-msgstr "Reiter-Symbol"
+msgstr "Reiter-Icon"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:187
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:416
 msgid "Select an icon for your tab title below"
-msgstr "Wähle ein Symbol für den Reiter-Titel aus"
+msgstr "Wähle ein Icon für den Reiter-Titel aus"
 
 #: config-templatebuilder/avia-shortcodes/tab_section/tab_sub_section.php:197
 msgid "Tab Image"
@@ -17695,7 +17680,7 @@ msgstr "Gib hier Deinen Titel ein (Möglichst kurz halten)"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:403
 msgid "Should an icon be displayed at the left side of the tab title?"
-msgstr "Soll ein Symbol linksbündig im Reiter-Titel angezeigt werden?"
+msgstr "Soll ein Icon linksbündig im Reiter-Titel angezeigt werden?"
 
 #: config-templatebuilder/avia-shortcodes/tabs/tabs.php:428
 #: includes/admin/option_tabs/avia_cookie.php:703
@@ -17756,24 +17741,19 @@ msgstr "Gib hier den gewünschten Text ein, um die Person vorzustellen"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:260
 msgid "Add/Edit Social Service or Icon Links"
-msgstr "Hinzufügen/bearbeiten von Social-Services oder Symbol-Links"
+msgstr "Hinzufügen/bearbeiten von Social-Services oder Icon-Links"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:261
-#, fuzzy
-#| msgid ""
-#| "Below each Team Member you can add Icons that link to destinations like "
-#| "Facebook page, Twitter account etc."
 msgid ""
 "Below each Team Member you can add Icons that link to destinations like "
 "Facebook page, X account etc."
 msgstr ""
-"Zu jedem Team-Mitglied kannst Du Symbole und Verlinkungen zu sozialen "
+"Zu jedem Team-Mitglied kannst Du Icons und Verlinkungen zu sozialen "
 "Netzwerken wie z.B. Facebook, Twitter etc. hinzufügen."
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:264
-#, fuzzy
 msgid "Edit Social Service or Icon"
-msgstr "Hinzufügen/bearbeiten von Social-Services oder Symbol-Links"
+msgstr "Hinzufügen/bearbeiten von Social-Services oder Icon-Links"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:300
 msgid ""
@@ -17869,12 +17849,11 @@ msgstr "Hover-Text"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:601
 msgid "Text that appears if you place your mouse above the Icon"
-msgstr "Text der erscheint, wenn Du den Mauszeiger über das Symbol bewegst"
+msgstr "Text der erscheint, wenn Du den Mauszeiger über das Icon bewegst"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:604
-#, fuzzy
 msgid "Social Icon Hover Text"
-msgstr "Soziales Symbol"
+msgstr "Soziale Icons - Text bei Mauskontakt"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:611
 #, fuzzy
@@ -17899,14 +17878,12 @@ msgid "Open in new window"
 msgstr "In neuem Fenster öffnen"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:634
-#, fuzzy
 msgid "Select Icon"
-msgstr "Beitrag auswählen"
+msgstr "Icon auswählen"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:635
-#, fuzzy
 msgid "Select an icon for your social service, job, etc. below"
-msgstr "Wähle unten ein Symbol für deinen Meilenstein"
+msgstr "Wähle unten ein Icon für sozialen Dienst, Beruf usw. aus."
 
 #: config-templatebuilder/avia-shortcodes/testimonials/testimonials.php:98
 msgid "Testimonials"
@@ -18342,7 +18319,7 @@ msgstr "Wähle den Typ des Inhalts deiner Meilenstein-Kugel"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:787
 msgid "Add Icon"
-msgstr "Symbol hinzufügen"
+msgstr "Icon hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:788
 msgid "Add Image"
@@ -18370,11 +18347,11 @@ msgstr "Pfeilförmig"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:808
 msgid "Milestone Icon"
-msgstr "Meilenstein-Symbol"
+msgstr "Meilenstein-Icon"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:809
 msgid "Select an icon for your milestone below"
-msgstr "Wähle unten ein Symbol für deinen Meilenstein"
+msgstr "Wähle unten ein Icon für deinen Meilenstein"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:838
 msgid "Milestone Bullet"
@@ -18398,13 +18375,13 @@ msgstr "Meilensteinfarben"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:893
 msgid "Custom Milestone Icon Background Color"
-msgstr "Benutzerdefinierte Hintergrundfarbe Meilenstein-Symbol"
+msgstr "Benutzerdefinierte Hintergrundfarbe Meilenstein-Icon"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:894
 msgid ""
 "Select a custom background color for the icon. Leave empty to use the default"
 msgstr ""
-"Wähle eine benutzerdefinierte Hintergrundfarbe für das Symbol aus. Leer "
+"Wähle eine benutzerdefinierte Hintergrundfarbe für das Icon aus. Leer "
 "lassen, um den Standardwert zu verwenden"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:925
@@ -18421,20 +18398,16 @@ msgid "Where do you want to apply the link?"
 msgstr "Wo möchtest du den Link hinzufügen?"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:944
-#, fuzzy
-#| msgid "Apply link to the date, icon and headline"
 msgid "Apply link to date, icon and headline"
-msgstr "Link zum Datum, Symbol und Überschrift hinzufügen"
+msgstr "Link zum Datum, Icon und Überschrift hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:945
-#, fuzzy
-#| msgid "Apply link to the icon and date"
 msgid "Apply link to icon and date"
-msgstr "Link zum Symbol und Datum hinzufügen"
+msgstr "Link zum Icon und Datum hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:946
 msgid "Apply link to icon and headline"
-msgstr "Link zum Symbol und zur Überschrift hinzufügen"
+msgstr "Link zum Icon und zur Überschrift hinzufügen"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:947
 msgid "Apply link to date and headline"
@@ -18569,7 +18542,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:444
 msgid "Custom +/- Icon Color"
-msgstr ""
+msgstr "Benutzerdefinierte +/- Icon-Farbe"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:445
 msgid "Select a custom color for the toggle icon. Leave empty to use default"
@@ -18659,8 +18632,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:566
 msgid ""
-"Select a custom hover color for the toggle icon. Leave empty to use &quot;"
-"Custom Hover Font Color&quot;"
+"Select a custom hover color for the toggle icon. Leave empty to use "
+"&quot;Custom Hover Font Color&quot;"
 msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:591
@@ -19609,15 +19582,15 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:843
 msgid "Enter string to filter icons"
-msgstr ""
+msgstr "Zeichenfolge zum Filtern von Icons eingeben"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:846
 msgid "Filter Icons By Font Family And/Or Name/Charactercode:"
-msgstr ""
+msgstr "Filter Icons nach Schriftfamilie und/oder Name/Zeichencode:"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:848
 msgid "All icons"
-msgstr ""
+msgstr "Alle Icons"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:859
 msgid "(Default)"
@@ -19629,11 +19602,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:888
 msgid "SVG Iconsets"
-msgstr ""
+msgstr "SVG Iconsets"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:900
 msgid "Iconfonts"
-msgstr ""
+msgstr "Icon-Schriften"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:1147
 #: framework/php/class-form-generator.php:768
@@ -20956,8 +20929,8 @@ msgstr "WooCommerce Sichtbarkeit Ausgewählte Produkte"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:310
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-plugins.php:441
 msgid ""
-"Select the visibility of WooCommerce products depending on checkbox &quot;"
-"This is a featured product&quot; in catalog visibility. Can be set "
+"Select the visibility of WooCommerce products depending on checkbox "
+"&quot;This is a featured product&quot; in catalog visibility. Can be set "
 "independently for each product: Edit Product -&gt Publish panel -&gt Catalog "
 "visibility"
 msgstr ""
@@ -21059,8 +21032,8 @@ msgstr "WooCommerce Seitenleisten-Filter"
 msgid ""
 "Allow to filter products for this element using the 3 WooCommerce sidebar "
 "filters: Filter Products by Price, Rating, Attribute. These filters are only "
-"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings -"
-"&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
+"shown on the selected WooCommerce Shop page (WooCommerce -&gt; Settings "
+"-&gt; Products -&gt; General -&gt; Shop Page) or on product category pages. "
 "You may also use a custom widget area for the sidebar."
 msgstr ""
 "Erlaubt die Produkte für dieses Element mittels den 3 WooCommerce-"
@@ -21256,12 +21229,12 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:358
 msgid ""
-"Please note that changing the default will overwrite any individual &quot;"
-"landscape&quot; width settings. Each item will have the same width"
+"Please note that changing the default will overwrite any individual "
+"&quot;landscape&quot; width settings. Each item will have the same width"
 msgstr ""
-"Bitte beachte, dass die Änderung des Standardwertes, individuelle &quot;"
-"Querformat&quot;-Breiteneinstellungen überschreiben wird. Jedes Element wird "
-"die gleiche Breite haben"
+"Bitte beachte, dass die Änderung des Standardwertes, individuelle "
+"&quot;Querformat&quot;-Breiteneinstellungen überschreiben wird. Jedes "
+"Element wird die gleiche Breite haben"
 
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-popup-templates-responsive.php:361
 msgid "Element Columns"
@@ -22510,11 +22483,11 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1918
 msgid "SVG Icon"
-msgstr ""
+msgstr "SVG Icon"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1918
 msgid "missing svg file for this icon"
-msgstr ""
+msgstr "Fehlende SVG-Datei für dieses Icon"
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1938
 msgid "Charcode"
@@ -22522,7 +22495,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-font-manager.php:1938
 msgid "unknown iconname"
-msgstr ""
+msgstr "unbekannter Iconname"
 
 #: config-templatebuilder/avia-template-builder/php/class-front-templates.php:34
 msgid "Previous"
@@ -22658,8 +22631,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:248
 msgid ""
-"Select position of column when switching to fullwidth. Only used when &quot;"
-"Column Behaviour&quot; set to individual."
+"Select position of column when switching to fullwidth. Only used when "
+"&quot;Column Behaviour&quot; set to individual."
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:255
@@ -22739,8 +22712,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:467
 msgid ""
-"an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. mailto:"
-"test@admin.com)"
+"an E-Mail containing @, may start with &quot;mailto:&quot; (e.g. "
+"mailto:test@admin.com)"
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:472
@@ -23184,7 +23157,7 @@ msgstr "Schwarz"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1421
 msgid "Translucent Buttons"
-msgstr "Transparente Schaltflächen"
+msgstr "Transparente Buttons"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1422
 msgid "Colored Buttons"
@@ -23283,8 +23256,8 @@ msgstr "Stil der Slideshow-Steuerelemente?"
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1721
 msgid ""
 "Select styling for the slider controls. Hiding will also disable all user "
-"interaction with the slider. Make sure to set the proper behaviour in &quot;"
-"Advanced - Animation&quot;."
+"interaction with the slider. Make sure to set the proper behaviour in "
+"&quot;Advanced - Animation&quot;."
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1736
@@ -23336,8 +23309,8 @@ msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1777
 msgid ""
-"Select the navigation elements to loop through the slides. Default is &quot;"
-"Navigation Arrows&quot;"
+"Select the navigation elements to loop through the slides. Default is "
+"&quot;Navigation Arrows&quot;"
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1787
@@ -24020,8 +23993,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3362
 msgid ""
 "Select a custom color to hide the folded area. We recommend to use "
-"background color of surrounding container. ONLY valid hex values allowed (e."
-"g. #fefefe or #fff). Leave empty to use the default"
+"background color of surrounding container. ONLY valid hex values allowed "
+"(e.g. #fefefe or #fff). Leave empty to use the default"
 msgstr ""
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3371
@@ -27661,17 +27634,15 @@ msgstr ""
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:477
 msgid "Custom Marker Icon"
-msgstr "Benutzerdefiniertes Markierungssymbol"
+msgstr "Benutzerdefiniertes Marker-Icon"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:478
 msgid "Upload a custom marker icon or enter the URL"
-msgstr ""
-"Laden Sie ein benutzerdefiniertes Markierungssymbol hoch oder geben Sie die "
-"URL ein"
+msgstr "Lade ein benutzerdefiniertes Marker-Icon hoch oder gib die URL ein"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:483
 msgid "Use image as custom marker icon"
-msgstr "Verwenden Sie das Bild als benutzerdefiniertes Markierungssymbol"
+msgstr "Bild als benutzerdefiniertes Marker-Icon verwenden"
 
 #: framework/php/widgets/widget-classes/class-avia-google-maps.php:487
 msgid "Fallback image to replace Google Maps"
@@ -28479,7 +28450,7 @@ msgstr "Verwende das Bild als Favicon"
 
 #: includes/admin/option_tabs/avia_avia.php:155
 msgid "What is a favicon"
-msgstr ""
+msgstr "Was ist ein Favicon"
 
 #: includes/admin/option_tabs/avia_avia.php:171
 msgid "Page Preloading"
@@ -28641,8 +28612,8 @@ msgstr "Block-Editor für bestimmte Post-Typen deaktivieren:"
 msgid ""
 "Only the classic WP editor will be used for the selected post types. The "
 "links to WP block editor (Gutenberg) will not be available. You can change "
-"this behaviour for certain pages/posts with Enfold&rsquo;s filter &quot;"
-"avf_use_block_editor_for_post&quot;"
+"this behaviour for certain pages/posts with Enfold&rsquo;s filter "
+"&quot;avf_use_block_editor_for_post&quot;"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_avia.php:382
@@ -28675,7 +28646,7 @@ msgstr ""
 #: includes/admin/option_tabs/avia_blog.php:66
 #: includes/admin/option_tabs/avia_blog.php:101
 msgid "Special: Email Icon (add your own URL to link to a contact form)"
-msgstr "Spezial: E-Mail-Symbol (füge diene URL zu einem Kontaktformular hinzu)"
+msgstr "Spezial: E-Mail-Icon (füge diene URL zu einem Kontaktformular hinzu)"
 
 #: includes/admin/option_tabs/avia_blog.php:118
 msgid "Blog Styling"
@@ -28941,8 +28912,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:38
 msgid ""
-"Attention when using caching plugins: Whenever you make changes to a &quot;"
-"Custom Layout&quot; please clear your server cache to show the changes."
+"Attention when using caching plugins: Whenever you make changes to a "
+"&quot;Custom Layout&quot; please clear your server cache to show the changes."
 msgstr ""
 
 #: includes/admin/option_tabs/avia_builder.php:42
@@ -29855,8 +29826,8 @@ msgstr ""
 #: includes/admin/option_tabs/avia_cookie.php:843
 msgid "Auto reload on &quot;Do not accept ...&quot; only"
 msgstr ""
-"Automatisches Neu Laden nur bei &quot;Einstellungen nicht akzeptieren ..."
-"&quot;"
+"Automatisches Neu Laden nur bei &quot;Einstellungen nicht "
+"akzeptieren ...&quot;"
 
 #: includes/admin/option_tabs/avia_cookie.php:844
 msgid "Auto reload on both buttons"
@@ -30036,7 +30007,7 @@ msgstr "Hauptmenü"
 #: includes/admin/option_tabs/avia_customizer.php:29
 #: includes/admin/register-backend-advanced-styles.php:453
 msgid "Main Menu (Icon)"
-msgstr "Hauptmenü (Symbol)"
+msgstr "Hauptmenü (Icon)"
 
 #: includes/admin/option_tabs/avia_customizer.php:30
 #: includes/admin/register-backend-advanced-styles.php:789
@@ -30484,7 +30455,7 @@ msgstr "Soziale Netzwerke"
 
 #: includes/admin/option_tabs/avia_footer.php:177
 msgid "Check to display the social icons defined in"
-msgstr "Anklicken, um Social Symbole anzuzeigen, die definiert wurden bei"
+msgstr "Anklicken, um Social Icons anzuzeigen, die definiert wurden bei"
 
 #: includes/admin/option_tabs/avia_footer.php:181
 msgid "in your socket"
@@ -30936,7 +30907,7 @@ msgid ""
 "menu and extra information will no longer stick to the top"
 msgstr ""
 "Wenn diese Option aktiviert ist, ist die kleine obere Leiste über dem Header "
-"mit dem Symbolen zu sozialen Netzwerken, dem zweiten Menü und zusätzlichen "
+"mit den Icons zu sozialen Netzwerken, dem zweiten Menü und zusätzlichen "
 "Informationen nicht länger oben fixiert"
 
 #: includes/admin/option_tabs/avia_header.php:410
@@ -30956,18 +30927,18 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_header.php:440
 msgid "Header Social Icons"
-msgstr "Kopfzeilen Social Symbole"
+msgstr "Kopfzeilen Social Media Icons"
 
 #: includes/admin/option_tabs/avia_header.php:441
 msgid ""
 "Choose if and where to display social icons. You can define the icons at"
 msgstr ""
-"Wähle, ob und wo Symbole zu sozialen Netzwerken angezeigt werden sollen. Du "
+"Wähle, ob und wo Icons zu sozialen Netzwerken angezeigt werden sollen. Du "
 "kannst die Symbole definieren unter"
 
 #: includes/admin/option_tabs/avia_header.php:453
 msgid "No social Icons"
-msgstr "Keine Symbole zu sozialen Netzwerken"
+msgstr "Keine Icons zu sozialen Netzwerken"
 
 #: includes/admin/option_tabs/avia_header.php:454
 #: includes/admin/option_tabs/avia_header.php:491
@@ -31262,19 +31233,14 @@ msgid "Menu Items For Desktop"
 msgstr "Menüelemente für den Desktop"
 
 #: includes/admin/option_tabs/avia_menu.php:135
-#, fuzzy
-#| msgid ""
-#| "Choose how you want to display the menu items on desktop computers. If "
-#| "you choose to display the 'burger' icon on desktop computers it will also "
-#| "be used on tablets and mobile devices "
 msgid ""
 "Choose how you want to display the menu items on desktop computers. If you "
 "choose to display the &quot;burger&quot; icon on desktop computers it will "
 "also be used on tablets and mobile devices "
 msgstr ""
 "Wähle, wie die Menüelemente auf Desktopcomputern angezeigt werden sollen. "
-"Wenn du wählst, das 'Burger'-Symbol auf Desktop-Computern anzuzeigen, wird "
-"es auch auf Tablets und mobilen Geräten verwendet "
+"Wenn du wählst, das 'Burger'-Icon auf Desktop-Computern anzuzeigen, wird es "
+"auch auf Tablets und mobilen Geräten verwendet "
 
 #: includes/admin/option_tabs/avia_menu.php:144
 msgid "Display as text"
@@ -31282,7 +31248,7 @@ msgstr "Als Text anzeigen"
 
 #: includes/admin/option_tabs/avia_menu.php:145
 msgid "Display as icon"
-msgstr "Als Symbol anzeigen"
+msgstr "Als Icon anzeigen"
 
 #: includes/admin/option_tabs/avia_menu.php:151
 #, fuzzy
@@ -31362,10 +31328,8 @@ msgid "Large separator"
 msgstr "Großes Trennzeichen"
 
 #: includes/admin/option_tabs/avia_menu.php:216
-#, fuzzy
-#| msgid "Append search icon to main menu"
 msgid "Append Search Icon To Main Menu"
-msgstr "Fügt Suchsymbol zum Menü hinzu"
+msgstr "Fügt Suchicon zum Menü hinzu"
 
 #: includes/admin/option_tabs/avia_menu.php:217
 msgid ""
@@ -31379,16 +31343,13 @@ msgid "Burger/Mobile Menu"
 msgstr "Burger/Mobile Menü"
 
 #: includes/admin/option_tabs/avia_menu.php:246
-#, fuzzy
-#| msgid "Menu Icon Submenu items"
 msgid "Menu Icon Submenu Items"
-msgstr "Menü Symbol Untermenüpunkte"
+msgstr "Menü Icon Untermenüpunkte"
 
 #: includes/admin/option_tabs/avia_menu.php:247
 msgid "Choose how to display the submenu items of the icon menu"
 msgstr ""
-"Wählen Sie aus, wie die Untermenüpunkte des Symbolmenüs angezeigt werden "
-"sollen"
+"Wähle aus, wie die Untermenüpunkte des Iconmenüs angezeigt werden sollen"
 
 #: includes/admin/option_tabs/avia_menu.php:255
 msgid "Always display submenu items"
@@ -31432,7 +31393,7 @@ msgstr "Dupliziere den Titelmenüeintrag"
 
 #: includes/admin/option_tabs/avia_menu.php:281
 msgid "Menu Icon Style"
-msgstr "Menü Symbolstil"
+msgstr "Menü Icon-Stil"
 
 #: includes/admin/option_tabs/avia_menu.php:282
 msgid "Set the style of the &quot;Burger&quot; Icon"
@@ -31470,19 +31431,15 @@ msgstr "Stil Burger/Mobile Menü"
 
 #: includes/admin/option_tabs/avia_menu.php:336
 msgid "Menu Icon Color"
-msgstr "Menü Symbolfarbe"
+msgstr "Menü Icon-Farbe"
 
 #: includes/admin/option_tabs/avia_menu.php:337
-#, fuzzy
-#| msgid ""
-#| "Set a custom color of the 'Burger' Icon. Leave empty to use the default "
-#| "menu color"
 msgid ""
 "Set a custom color of the &quot;Burger&quot; Icon. Leave empty to use the "
 "default menu color"
 msgstr ""
-"Legen Sie eine benutzerdefinierte Farbe des „Burger“-Symbols fest. Lassen "
-"Sie leer, um die Standardmenüfarbe zu verwenden"
+"Legen Sie eine benutzerdefinierte Farbe des „Burger“-Icons fest. Lassen Sie "
+"leer, um die Standardmenüfarbe zu verwenden"
 
 #: includes/admin/option_tabs/avia_menu.php:347
 #, fuzzy
@@ -31499,8 +31456,8 @@ msgid ""
 "Set a custom width for the flyout. Pixel and % values are allowed. Eg: 350px "
 "or 70%"
 msgstr ""
-"Legen Sie eine benutzerdefinierte Breite für das Flyout fest. Pixel- und% -"
-"Werte sind erlaubt. ZB: 350px oder 70%"
+"Legen Sie eine benutzerdefinierte Breite für das Flyout fest. Pixel- und% "
+"-Werte sind erlaubt. ZB: 350px oder 70%"
 
 #: includes/admin/option_tabs/avia_menu.php:357
 #, fuzzy
@@ -32369,11 +32326,11 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_shop.php:15
 msgid "Header Shopping Cart Icon"
-msgstr "Header-Warenkorb-Symbol"
+msgstr "Header-Warenkorb-Icon"
 
 #: includes/admin/option_tabs/avia_shop.php:16
 msgid "You can choose the appearance of the cart icon here"
-msgstr "Hier kannst du das Aussehen des Warenkorb-Symbols auswählen"
+msgstr "Hier kannst du das Aussehen des Warenkorb-Icons auswählen"
 
 #: includes/admin/option_tabs/avia_shop.php:22
 #, fuzzy
@@ -32790,11 +32747,11 @@ msgstr "Social Media Profile"
 
 #: includes/admin/option_tabs/avia_social.php:42
 msgid "Social Icon"
-msgstr "Soziales Symbol"
+msgstr "Soziales Icon"
 
 #: includes/admin/option_tabs/avia_social.php:53
 msgid "Social Icon URL:"
-msgstr "URL für das soziale Symbol:"
+msgstr "URL für das soziale Icon:"
 
 #: includes/admin/option_tabs/avia_styling.php:15
 #, fuzzy
@@ -32842,7 +32799,7 @@ msgstr "Highlight-Farbe"
 
 #: includes/admin/option_tabs/avia_styling.php:223
 msgid "Secondary color for link and button hover, etc"
-msgstr "Sekundäre Farbe für Link und Schaltflächen Hover, etc"
+msgstr "Sekundäre Farbe für Link und Button Hover, etc"
 
 #: includes/admin/option_tabs/avia_styling.php:246
 #, fuzzy
@@ -32984,8 +32941,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_styling.php:612
 msgid ""
-"To functions.php add: add_theme_support( &quot;"
-"avia_options_extended_typography&quot; );"
+"To functions.php add: "
+"add_theme_support( &quot;avia_options_extended_typography&quot; );"
 msgstr ""
 
 #: includes/admin/option_tabs/avia_styling.php:613
@@ -33194,10 +33151,11 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:61
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling -"
-"> Quick CSS&quot;. In case you select single tabs to import below your Quick "
-"CSS settings will be kept by default except you select the tab containing "
-"the Quick CSS field. In this case you must check here to keep them."
+"Check if you want to keep your added CSS stylings in &quot;General Styling "
+"-> Quick CSS&quot;. In case you select single tabs to import below your "
+"Quick CSS settings will be kept by default except you select the tab "
+"containing the Quick CSS field. In this case you must check here to keep "
+"them."
 msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:70
@@ -33268,8 +33226,8 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:136
 msgid ""
-"Check if you want to keep your added CSS stylings in &quot;General Styling -"
-"> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
+"Check if you want to keep your added CSS stylings in &quot;General Styling "
+"-> Quick CSS&quot;. In case you select single tabs to reset below your Quick "
 "CSS settings will be kept by default except you select the tab containing "
 "the Quick CSS field. In this case you must check here to keep them."
 msgstr ""
@@ -33329,14 +33287,12 @@ msgid ""
 msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:200
-#, fuzzy
-#| msgid "You can upload additional Iconfont Packages generated with"
 msgid "You can also upload additional Iconfont packages generated with"
-msgstr "Du kannst zusätzliche Symbol-Schriftpakete hochladen, die mit"
+msgstr "Du kannst zusätzliche Icon-Schriftpakete hochladen, die mit"
 
 #: includes/admin/option_tabs/avia_upload.php:201
 msgid "or use monocolored icon sets from"
-msgstr "erstellt wurden oder einfarbige Symbol-Sets verwenden von"
+msgstr "erstellt wurden oder einfarbige Icon-Sets verwenden von"
 
 #: includes/admin/option_tabs/avia_upload.php:202
 msgid ""
@@ -33394,9 +33350,9 @@ msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:224
 msgid ""
-"Variable fonts can be uploaded, but currently only <a href=\"https://fonts."
-"google.com/knowledge/glossary/instance/\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">named instances</a> are supported by default."
+"Variable fonts can be uploaded, but currently only <a href=\"https://"
+"fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">named instances</a> are supported by default."
 msgstr ""
 
 #: includes/admin/option_tabs/avia_upload.php:225
@@ -34059,7 +34015,7 @@ msgid ""
 "social icons, a second menu and a phone number "
 msgstr ""
 "Ändere das Styling für die kleine Leiste über dem Hauptmenü die soziale "
-"Symbole, ein zweites Menü und eine Telefonnummer "
+"Icons, ein zweites Menü und eine Telefonnummer "
 
 #: includes/admin/register-backend-advanced-styles.php:452
 msgid "Menu Links in overlay/slide out"
@@ -34104,11 +34060,11 @@ msgstr "Überlagerungstil"
 
 #: includes/admin/register-backend-advanced-styles.php:525
 msgid "Minimal Overlay (No Icon)"
-msgstr "Minimale Überlagerung (kein Symbol)"
+msgstr "Minimale Überlagerung (kein Icon)"
 
 #: includes/admin/register-backend-advanced-styles.php:525
 msgid "Icon only"
-msgstr "Nur Symbol"
+msgstr "Nur Icon"
 
 #: includes/admin/register-backend-advanced-styles.php:525
 msgid "Disable Overlay"
@@ -34116,7 +34072,7 @@ msgstr "Überlagerung deaktivieren"
 
 #: includes/admin/register-backend-advanced-styles.php:527
 msgid "Icon background"
-msgstr "Symbol Hintergrund"
+msgstr "Icon Hintergrund"
 
 #: includes/admin/register-backend-advanced-styles.php:537
 msgid "Change the styling of your buttons"
@@ -35748,9 +35704,9 @@ msgstr ""
 #~ "If you want to use this plugin again later, select &quot;Activate&quot;, "
 #~ "save the options and reinstall the theme"
 #~ msgstr ""
-#~ "Wenn du dieses Plugin später wieder verwenden willst, wähle &quot;"
-#~ "Aktivieren&quot;, speichere die Einstellungen und installiere das Theme "
-#~ "neu"
+#~ "Wenn du dieses Plugin später wieder verwenden willst, wähle "
+#~ "&quot;Aktivieren&quot;, speichere die Einstellungen und installiere das "
+#~ "Theme neu"
 
 #~ msgid "Integrated (Bundled) LayerSlider Plugin"
 #~ msgstr "Integriertes (gebündeltes) LayerSlider Plugin"
