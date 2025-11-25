@@ -3007,7 +3007,7 @@ msgstr "Button-Zeile"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:95
 msgid "Displays multiple buttons beside each other"
-msgstr "Zeigt mehrere Buttons nebeneinander an"
+msgstr "Zeigt mehrere Schaltflächen nebeneinander an"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:101
 #, fuzzy
@@ -3024,11 +3024,11 @@ msgstr "Buttons hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:235
 msgid "Here you can add, remove and edit buttons."
-msgstr "Hier kannst du Buttons hinzufügen, entfernen und bearbeiten."
+msgstr "Hier kannst du Schaltflächen hinzufügen, entfernen und bearbeiten."
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:238
 msgid "Edit Button"
-msgstr "Button bearbeiten"
+msgstr "Schaltfläche bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:244
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:254
@@ -3074,7 +3074,7 @@ msgstr "Rechts ausrichten"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:288
 msgid "Space between buttons"
-msgstr "Abstand zwischen den Buttons"
+msgstr "Abstand zwischen den Schaltflächen"
 
 #: config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.php:289
 msgid ""
@@ -5828,7 +5828,7 @@ msgstr "Ausrichtung Beschriftung Senden-Button"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:500
 msgid "Select how to align the form labels and the send button"
-msgstr "Wähle, wie der \"Senden\"-Button ausgerichtet werden soll"
+msgstr "Wähle, wie die Schaltfläche \"Senden\" ausgerichtet werden soll"
 
 #: config-templatebuilder/avia-shortcodes/contact/contact.php:507
 #: config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.php:413
@@ -15461,7 +15461,7 @@ msgid ""
 "Check if you want to show a button at the bottom of the section that takes "
 "the user to the next section by scrolling down"
 msgstr ""
-"Überprüfen Sie, ob Sie einen Button am unteren Rand des Abschnitts "
+"Überprüfen Sie, ob Sie eine Schaltfläche am unteren Rand des Abschnitts "
 "anzeigen möchten, die den Benutzer zum nächsten Abschnitt führt, indem Sie "
 "nach unten scrollen"
 
@@ -23157,7 +23157,7 @@ msgstr "Schwarz"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1421
 msgid "Translucent Buttons"
-msgstr "Transparente Buttons"
+msgstr "Transparente Schaltflächen"
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:1422
 msgid "Colored Buttons"
@@ -32799,7 +32799,7 @@ msgstr "Highlight-Farbe"
 
 #: includes/admin/option_tabs/avia_styling.php:223
 msgid "Secondary color for link and button hover, etc"
-msgstr "Sekundäre Farbe für Link und Button Hover, etc"
+msgstr "Sekundäre Farbe für Link und Schaltflächen Hover, etc"
 
 #: includes/admin/option_tabs/avia_styling.php:246
 #, fuzzy
