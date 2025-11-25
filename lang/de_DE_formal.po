@@ -170,19 +170,19 @@ msgstr "Erweiterter Layout Architekt"
 #: config-gutenberg/class-avia-gutenberg.php:814
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Classic Editor"
-msgstr "Bearbeiten &#8220;%s&#8221; im klassischen WP Editor"
+msgstr "&#8220;%s&#8221; im klassischen WP Editor bearbeiten"
 
 #. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:824
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Block Editor"
-msgstr "Bearbeiten &#8220;%s&#8221; im Block Editor"
+msgstr "&#8220;%s&#8221; im Block Editor bearbeiten"
 
 #. translators: %s: post title
 #: config-gutenberg/class-avia-gutenberg.php:830
 #, php-format
 msgid "Edit &#8220;%s&#8221; in the Gutenberg Editor"
-msgstr "Bearbeiten &#8220;%s&#8221; im Gutenberg Editor"
+msgstr "&#8220;%s&#8221; im Gutenberg Editor bearbeiten"
 
 #: config-gutenberg/class-avia-gutenberg.php:981
 msgid "Edit Frontpage (Block Editor)"
@@ -210,29 +210,29 @@ msgstr "Frontseite bearbeiten"
 #: config-gutenberg/class-avia-gutenberg.php:1012
 #, php-format
 msgid "Edit %s (Block Editor)"
-msgstr "Bearbeiten %s (Block Editor)"
+msgstr "%s bearbeiten (Block Editor)"
 
 #: config-gutenberg/class-avia-gutenberg.php:1012
 #, php-format
 msgid "Edit %s (Gutenberg)"
-msgstr "Bearbeiten %s (Gutenberg)"
+msgstr "%s bearbeiten (Gutenberg)"
 
 #: config-gutenberg/class-avia-gutenberg.php:1016
 #: config-gutenberg/class-avia-gutenberg.php:1027
 #, php-format
 msgid "Edit %s (Advanced Layout Builder)"
-msgstr "Bearbeiten %s (Erweiterter Layout Architekt)"
+msgstr "%s bearbeiten (Layout Architekt)"
 
 #: config-gutenberg/class-avia-gutenberg.php:1020
 #, php-format
 msgid "Edit %s (Classic Editor)"
-msgstr "Bearbeiten %s (klassischer Editor)"
+msgstr "%s bearbeiten (klassischer WP Editor)"
 
 #: config-gutenberg/class-avia-gutenberg.php:1031
 #: config-gutenberg/class-avia-gutenberg.php:1037
 #, php-format
 msgid "Edit %s"
-msgstr "Bearbeiten %s"
+msgstr "%s bearbeiten"
 
 #: config-gutenberg/class-avia-gutenberg.php:1118
 msgid "Classic Editor/Advanced Layout Builder"
@@ -9322,7 +9322,7 @@ msgstr ""
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:260
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:237
 msgid "Add/Edit Grid items"
-msgstr "hinzufügen / bearbeiten Raster Elemente"
+msgstr "Raster Elemente hinzufügen/bearbeiten "
 
 #: config-templatebuilder/avia-shortcodes/icongrid/icongrid.php:261
 #: config-templatebuilder/avia-shortcodes/icongrid/v50/icongrid.php:238
@@ -12790,7 +12790,7 @@ msgstr "Bitte beachten Sie, dass Mega-Menüs für dieses Element nicht unterstü
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:234
 msgid "Add/Edit submenu item text"
-msgstr "Hinzufügen / Bearbeiten von Untermenüs"
+msgstr "Untermenüs hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:235
 msgid "Here you can add, remove and edit the submenu item text"
@@ -14121,7 +14121,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:221
 msgid "Add/Edit Progress Bars"
-msgstr "Prozessbalken hinzufügen/ bearbeiten"
+msgstr "Prozessbalken hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/progressbar/progressbar.php:222
 msgid "Here you can add, remove and edit the various progress bars."
@@ -17303,7 +17303,7 @@ msgstr "Gib hier den gewünschten Text ein, um die Person vorzustellen"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:260
 msgid "Add/Edit Social Service or Icon Links"
-msgstr "Hinzufügen/bearbeiten von Social-Services oder Symbol-Links"
+msgstr "Social-Services oder Icon-Links hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/team/team.php:261
 #, fuzzy
@@ -17675,7 +17675,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:226
 msgid "Add/Edit Milestones"
-msgstr "Hinzufügen/bearbeiten von Meilenstein"
+msgstr "Meilenstein hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/timeline/timeline.php:227
 msgid "Here you can add, remove and edit the milestones of your timeline."
@@ -17986,7 +17986,7 @@ msgstr ""
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:268
 msgid "Add/Edit Toggles"
-msgstr "Klappen hinzufügen/ bearbeiten"
+msgstr "Schalter hinzufügen/bearbeiten"
 
 #: config-templatebuilder/avia-shortcodes/toggles/toggles.php:269
 msgid "Here you can add, remove and edit the toggles you want to display."
@@ -24483,7 +24483,7 @@ msgstr "Passwort ändern"
 
 #: config-woocommerce/config-356.php:468 config-woocommerce/config.php:832
 msgid "Edit Address"
-msgstr "Adresse Bearbeiten"
+msgstr "Adresse bearbeiten"
 
 #: config-woocommerce/config-356.php:472 config-woocommerce/config.php:836
 msgid "Log Out"
@@ -33582,7 +33582,7 @@ msgstr "Neuen Portfolio Eintrag Hinzufügen"
 
 #: includes/admin/register-portfolio.php:17
 msgid "Edit Portfolio Entry"
-msgstr "Portfolio Eintrag Bearbeiten"
+msgstr "Portfolio Eintrag bearbeiten"
 
 #: includes/admin/register-portfolio.php:18
 msgid "New Portfolio Entry"
@@ -33590,11 +33590,11 @@ msgstr "Neuer Portfolio Eintrag"
 
 #: includes/admin/register-portfolio.php:19
 msgid "View Portfolio Entry"
-msgstr "Portfolio Eintrag Ansehen"
+msgstr "Portfolio Eintrag ansehen"
 
 #: includes/admin/register-portfolio.php:20
 msgid "Search Portfolio Entries"
-msgstr "Portfolio Einträge Durchsuchen"
+msgstr "Portfolio Einträge durchsuchen"
 
 #: includes/admin/register-portfolio.php:21
 msgid "No Portfolio Entries found"
