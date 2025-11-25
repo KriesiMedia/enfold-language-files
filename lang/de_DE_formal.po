@@ -8884,7 +8884,7 @@ msgstr "Unterer Außenabstand in px"
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:279
 #: config-templatebuilder/avia-shortcodes/hr/hr.php:290
 msgid "Leave empty for default theme color"
-msgstr "Leer lassen für Standardthema Farbe"
+msgstr "Leer lassen für Standardfarbe des Themes"
 
 #: config-templatebuilder/avia-shortcodes/icon/icon.php:30
 msgid "Display an icon with optional hover effect"
