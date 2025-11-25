@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-22 13:40+0300\n"
-"PO-Revision-Date: 2025-08-22 13:41+0300\n"
+"PO-Revision-Date: 2025-11-25 18:46+0200\n"
 "Last-Translator: \n"
 "Language-Team: German (Switzerland)\n"
 "Language: de_CH\n"
@@ -14142,8 +14142,8 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:973
 msgid "Category:"
 msgid_plural "Categories:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Kategorie:"
+msgstr[1] "Kategorien:"
 
 #: config-templatebuilder/avia-shortcodes/product_snippets/product_snippet_meta.php:136
 #: config-templatebuilder/avia-template-builder/php/class-dynamic-content.php:973
