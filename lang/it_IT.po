@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Italian Enfold Language v7.1.3\n"
+"Project-Id-Version: Italian Enfold Language v7.1.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 21:17+0200\n"
-"PO-Revision-Date: 2025-10-09 21:18+0200\n"
+"POT-Creation-Date: 2026-02-22 20:57+0100\n"
+"PO-Revision-Date: 2026-02-22 20:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: BigBatT (info@luigicircello.it)\n"
 "Language: it_IT\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: "
 "__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -4684,7 +4684,7 @@ msgstr "Il più vicino"
 #: config-templatebuilder/avia-template-builder/config/meta.php:219
 #: includes/admin/option_tabs/avia_avia.php:311
 #: includes/admin/option_tabs/avia_builder.php:61
-#: includes/admin/option_tabs/avia_element_templates.php:63
+#: includes/admin/option_tabs/avia_element_templates.php:62
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:46
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:41
 msgid "Disabled"
@@ -9355,7 +9355,7 @@ msgstr "Selezionare lo stile del titolo"
 # @ default
 #: config-templatebuilder/avia-shortcodes/heading/heading.php:205
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:465
-#: includes/config-enfold/functions-enfold.php:1888
+#: includes/config-enfold/functions-enfold.php:1899
 msgid "Default Style"
 msgstr "Stile predefinito"
 
@@ -13471,7 +13471,6 @@ msgstr "Colore e visualizzazione"
 
 # @ avia_framework
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:446
-#, no-php-format
 msgid "Select the width of the map in % of the container containing the map."
 msgstr ""
 "Selezionare la larghezza della mappa in % del contenitore che la contiene."
@@ -15105,13 +15104,13 @@ msgstr "Selezionare lo stile della vostra voce di menu"
 
 # @ default
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:466
-#: includes/config-enfold/functions-enfold.php:1889
+#: includes/config-enfold/functions-enfold.php:1900
 msgid "Button Style (Colored)"
 msgstr "Stile pulsante (Colorati)"
 
 # @ default
 #: config-templatebuilder/avia-shortcodes/menu/menu.php:467
-#: includes/config-enfold/functions-enfold.php:1890
+#: includes/config-enfold/functions-enfold.php:1901
 msgid "Button Style (Bordered)"
 msgstr "Stile pulsante (sui bordi)"
 
@@ -17266,7 +17265,7 @@ msgid "Result Colors"
 msgstr "Risultato Colori"
 
 #: config-templatebuilder/avia-shortcodes/search/search.php:1096
-#: includes/config-enfold/functions-enfold.php:448
+#: includes/config-enfold/functions-enfold.php:459
 msgid "View results on search page"
 msgstr "Visualizza i risultati nella pagina di ricerca"
 
@@ -22537,15 +22536,11 @@ msgstr "avia-action-button-%d"
 #: config-templatebuilder/avia-template-builder/php/base-classes/class-modal-elements.php:547
 #, php-format
 msgid ""
-"Warning: Characters %s might break ALB backend or frontend. <a "
-"href=\"https://kriesi.at/documentation/enfold/intro-to-layout-builder/#using-"
-"special-characters\" target=\"_blank\" rel=\"noopener noreferrer\">Read "
-"more</a> if you want to use them. You can use valid HTML markup."
+"Warning: Characters %1$s might break ALB backend or frontend. %2$s if you "
+"want to use them. You can use valid HTML markup."
 msgstr ""
-"Attenzione: I caratteri %s potrebbero interrompere il backend o il frontend "
-"di ALB. <a href=\"https://kriesi.at/documentation/enfold/intro-to-layout-"
-"builder/#using-special-characters\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">Leggi di più</a> se vuoi usarli. Puoi usare un markup HTML "
+"Attenzione: i caratteri %1$s potrebbero danneggiare il backend o il frontend "
+"ALB. %2$s se desideri utilizzarli. È possibile utilizzare un markup HTML "
 "valido."
 
 # @ avia_framework
@@ -25785,6 +25780,7 @@ msgstr "Per saperne di più sugli elementi personalizzati nella sezione"
 # @ LayerSlider
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3369
 #: includes/admin/option_tabs/avia_upload.php:199
+#: includes/admin/option_tabs/avia_upload.php:225
 msgid "documentation"
 msgstr "documentazione"
 
@@ -29448,7 +29444,7 @@ msgstr "Modifica"
 # @ avia_framework
 #: footer.php:215 includes/admin/option_tabs/avia_footer.php:164
 #: includes/admin/option_tabs/avia_footer.php:165
-#: includes/config-enfold/functions-enfold.php:2006
+#: includes/config-enfold/functions-enfold.php:2017
 msgid "Copyright"
 msgstr "Copyright"
 
@@ -29613,7 +29609,7 @@ msgid "Your PHP version: %s"
 msgstr "La tua versione di PHP: %s"
 
 #: framework/php/auto-updates/class-avia-auto-updates.php:465
-#: framework/php/auto-updates/class-avia-auto-updates.php:519
+#: framework/php/auto-updates/class-avia-auto-updates.php:520
 msgid "Theme Updates"
 msgstr "Aggiornamenti tema"
 
@@ -29641,54 +29637,55 @@ msgstr "Aggiornamento disponibile!"
 #: framework/php/auto-updates/class-avia-auto-updates.php:490
 #, php-format
 msgid ""
-"A new Version (%s) of your %s is available! You are using Version %s. <br/"
-">See what's new in <a href='https://kriesi.at/documentation/enfold/enfold-"
-"changelog/' target='_blank' rel='noopener noreferrer'>change log</a>. Do you "
-"want to update?<br/><br/>"
+"A new Version (%1$s) of your %2$s is available! You are using Version %3$s. "
+"<br/>See what's new in %4$s. Do you want to update?<br/><br/>"
 msgstr ""
-"È disponibile una nuova versione (%s) della tua %s! Stai usando la versione "
-"%s. <br/>Vedi cosa c'è di nuovo nel <a href='https://kriesi.at/documentation/"
-"enfold/enfold-changelog/' target='_blank' rel='noopener noreferrer'>registro "
-"delle modifiche</a>. Vuoi aggiornare?<br/><br/><br/>"
+"È disponibile una nuova versione (%1$s) del tuo %2$s! Stai utilizzando la "
+"versione %3$s. <br/>Scopri le novità di %4$s. Vuoi aggiornare?<br/><br/>"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:493
+# @ avia_framework
+#: framework/php/auto-updates/class-avia-auto-updates.php:490
+msgid "change log"
+msgstr "registro delle modifiche"
+
+#: framework/php/auto-updates/class-avia-auto-updates.php:494
 msgid "Update Now!"
 msgstr "Aggiorna ora!"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:520
+#: framework/php/auto-updates/class-avia-auto-updates.php:521
 #, php-format
 msgid "No Updates available. You are running the latest version! (%s)"
 msgstr "Nessun aggiornamento disponibile. Si esegue l'ultima versione! (%s)"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:521
+#: framework/php/auto-updates/class-avia-auto-updates.php:522
 msgid "Check Manually"
 msgstr "Controllare manualmente"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:555
+#: framework/php/auto-updates/class-avia-auto-updates.php:556
 msgid "There has been no check within the last month."
 msgstr "Non c&rsquo;è stato alcun controllo entro l&rsquo;ultimo mese."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:559
+#: framework/php/auto-updates/class-avia-auto-updates.php:560
 #, php-format
 msgid "Last successful check was on %s."
 msgstr "L&rsquo;ultimo controllo riuscito è stato su %s."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:589
+#: framework/php/auto-updates/class-avia-auto-updates.php:590
 #, php-format
 msgid "Errors occurred checking on %s:"
 msgstr "Errori verificatisi controllando le %s:"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:601
+#: framework/php/auto-updates/class-avia-auto-updates.php:602
 #, php-format
 msgid "Info - %s:"
 msgstr "Info- %s:"
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:607
+#: framework/php/auto-updates/class-avia-auto-updates.php:608
 #, php-format
 msgid "Successful check on %s."
 msgstr "Controllo riuscito su %s."
 
-#: framework/php/auto-updates/class-avia-auto-updates.php:619
+#: framework/php/auto-updates/class-avia-auto-updates.php:620
 msgid "Following Envato package errors occurred:"
 msgstr "A seguito di errori del pacchetto Envato si sono verificati:"
 
@@ -30232,14 +30229,23 @@ msgstr ""
 "verifica di nuovo la chiave qui, per assicurarti che funziona correttamente"
 
 #: framework/php/class-grecaptcha.php:192
-msgid ""
-"This site is protected by reCAPTCHA and the Google <a href=\"https://"
-"policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://"
-"policies.google.com/terms\">Terms of Service</a> apply."
+#, php-format
+msgid "This site is protected by reCAPTCHA and the Google %1$s and %2$s apply."
 msgstr ""
-"Questo sito è protetto da reCAPTCHA e si applicano i termini di servizio di "
-"Google <a href=\"https://policies.google.com/privacy\">Privacy Policy</a> e "
-"<a href=\"https://policies.google.com/terms\">Termini di servizio</a>."
+"Questo sito è protetto da reCAPTCHA e si applicano le condizioni di Google "
+"%1$s e %2$s."
+
+#: framework/php/class-grecaptcha.php:192
+#: includes/admin/option_tabs/avia_cookie.php:44
+#: includes/admin/option_tabs/avia_cookie.php:54
+#: includes/classes/class-privacy-class.php:2211
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+# @ avia_framework
+#: framework/php/class-grecaptcha.php:192
+msgid "Terms of Service"
+msgstr "Condizioni di servizio"
 
 #: framework/php/class-grecaptcha.php:258
 msgid ""
@@ -33372,7 +33378,7 @@ msgstr ""
 # @ avia_framework
 #: includes/admin/option_tabs/avia_builder.php:228
 #: includes/admin/option_tabs/avia_cookie.php:751
-#: includes/admin/option_tabs/avia_element_templates.php:125
+#: includes/admin/option_tabs/avia_element_templates.php:124
 #: includes/admin/option_tabs/avia_performance.php:94
 msgid "Show Advanced Options"
 msgstr "Mostra opzioni avanzate"
@@ -33519,12 +33525,6 @@ msgstr "Attivare i tipi di post personalizzati per ALB"
 #: includes/admin/option_tabs/avia_cookie.php:18
 msgid "Privacy And Cookies"
 msgstr "Privacy e Cookie"
-
-#: includes/admin/option_tabs/avia_cookie.php:44
-#: includes/admin/option_tabs/avia_cookie.php:54
-#: includes/classes/class-privacy-class.php:2211
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
 
 #: includes/admin/option_tabs/avia_cookie.php:48
 msgid ""
@@ -33773,16 +33773,19 @@ msgid "Cookie Handling"
 msgstr "Manipolazione dei cookie"
 
 #: includes/admin/option_tabs/avia_cookie.php:275
+#, php-format
 msgid ""
-"Make sure you comply with the <a target='_blank' href='http://ec.europa.eu/"
-"ipg/basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU cookie "
-"law</a> by informing users that your site uses cookies. This can be done "
-"with a small notification bar or modal popup window"
+"Make sure you comply with the %s by informing users that your site uses "
+"cookies. This can be done with a small notification bar or modal popup "
+"window."
 msgstr ""
-"Assicurati di rispettare la <a target='_blank' href='http://ec.europa.eu/ipg/"
-"basics/legal/cookies/index_en.htm' rel='noopener noreferrer'>EU cookie law</"
-"a> informando gli utenti che il tuo sito utilizza i cookie. Questo può "
-"essere fatto con una piccola barra di notifica o una finestra popup modale"
+"Assicurati di rispettare la %s informando gli utenti che il tuo sito "
+"utilizza i cookie. Ciò può essere fatto con una piccola barra di notifica o "
+"una finestra popup modale."
+
+#: includes/admin/option_tabs/avia_cookie.php:275
+msgid "EU cookie law"
+msgstr "Legge UE sui cookie"
 
 #: includes/admin/option_tabs/avia_cookie.php:277
 msgid ""
@@ -34300,18 +34303,22 @@ msgstr ""
 "rimuoverli utilizzando JavaScript o PHP."
 
 #: includes/admin/option_tabs/avia_cookie.php:868
+#, php-format
 msgid ""
 "Cookies must be in the same domain and you need to specify the name and the "
 "path (case sensitive) that is shown in the developer tools of your browser. "
-"Please see <a href=\"https://kriesi.at/documentation/enfold/privacy-cookies/"
-"#additional-custom-cookies\">Additional Custom Cookies</a> on our "
-"documentation."
+"Please see %s on our documentation."
 msgstr ""
-"I cookies devono essere nello stesso dominio e devi specificare il nome e il "
-"percorso (case sensitive) che viene mostrato negli strumenti di sviluppo del "
-"tuo browser. Si prega di vedere <a href=\"https://kriesi.at/documentation/"
-"enfold/privacy-cookies/#additional-custom-cookies\">Cookies personalizzati "
-"aggiuntivi</a> sulla nostra documentazione."
+"I cookie devono trovarsi nello stesso dominio ed è necessario specificare il "
+"nome e il percorso (distinguendo tra maiuscole e minuscole) visualizzati "
+"negli strumenti di sviluppo del browser. Si prega di consultare %s nella "
+"nostra documentazione."
+
+# @ avia_framework
+#: includes/admin/option_tabs/avia_cookie.php:868
+#: includes/admin/option_tabs/avia_cookie.php:878
+msgid "Additional Custom Cookies"
+msgstr "Cookie personalizzati aggiuntivi"
 
 #: includes/admin/option_tabs/avia_cookie.php:870
 msgid "To add a toggle for that cookie use the following shortcodes:"
@@ -34330,11 +34337,6 @@ msgid ""
 msgstr ""
 "[av_privacy_custom_cookie cookie_name=\"\"\"]Il tuo testo qui[/"
 "av_privacy_custom_cookie] "
-
-# @ avia_framework
-#: includes/admin/option_tabs/avia_cookie.php:878
-msgid "Additional Custom Cookies"
-msgstr "Cookie personalizzati aggiuntivi"
 
 #: includes/admin/option_tabs/avia_cookie.php:906
 msgid "Cookie Name"
@@ -34550,16 +34552,16 @@ msgstr ""
 "server per visualizzare le modifiche."
 
 #: includes/admin/option_tabs/avia_element_templates.php:27
-msgid ""
-"Advanced Users can have <a href=\"https://kriesi.at/documentation/enfold/"
-"custom-element-templates/#custom-elements-advanced-options\" "
-"target=\"_blank\" rel=\"noopener noreferrer\"> more options.</a>"
-msgstr ""
-"Gli utenti esperti possono avere <a href=\"https://kriesi.at/documentation/"
-"enfold/custom-element-templates/#custom-elements-advanced-options\" "
-"target=\"_blank\" rel=\"noopener noreferrer\"> più opzioni.</a>"
+#, php-format
+msgid "Advanced users can have %s."
+msgstr "Gli utenti esperti possono avere %s."
 
-#: includes/admin/option_tabs/avia_element_templates.php:41
+# @ avia_framework
+#: includes/admin/option_tabs/avia_element_templates.php:27
+msgid "more options"
+msgstr "più opzioni"
+
+#: includes/admin/option_tabs/avia_element_templates.php:40
 msgid ""
 "Custom Elements (Custom Element Templates - CET) For Advanced Layout Builder"
 msgstr ""
@@ -34567,16 +34569,16 @@ msgstr ""
 "costruttore di layout avanzato"
 
 # @ LayerSlider
-#: includes/admin/option_tabs/avia_element_templates.php:46
+#: includes/admin/option_tabs/avia_element_templates.php:45
 msgid "Read more in documentation"
 msgstr "Per saperne di più, consultare la documentazione."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_element_templates.php:55
+#: includes/admin/option_tabs/avia_element_templates.php:54
 msgid "Custom Elements Management"
 msgstr "Gestione modelli di elementi personalizzati"
 
-#: includes/admin/option_tabs/avia_element_templates.php:56
+#: includes/admin/option_tabs/avia_element_templates.php:55
 msgid ""
 "Activate and select who is allowed to create and edit custom elements. See "
 "documentation if you need a more specific handling."
@@ -34585,42 +34587,42 @@ msgstr ""
 "elementi personalizzati. Vedi la documentazione se hai bisogno di una "
 "gestione più specifica."
 
-#: includes/admin/option_tabs/avia_element_templates.php:64
+#: includes/admin/option_tabs/avia_element_templates.php:63
 msgid "Editors and Admins"
 msgstr "Editori e Amministratori"
 
 # @ LayerSlider
-#: includes/admin/option_tabs/avia_element_templates.php:65
+#: includes/admin/option_tabs/avia_element_templates.php:64
 msgid "Admins only"
 msgstr "Solo amministratori"
 
-#: includes/admin/option_tabs/avia_element_templates.php:80
+#: includes/admin/option_tabs/avia_element_templates.php:79
 msgid "Hide locked options for all users"
 msgstr "Nascondi le opzioni bloccate per tutti gli utenti"
 
-#: includes/admin/option_tabs/avia_element_templates.php:81
+#: includes/admin/option_tabs/avia_element_templates.php:80
 msgid "Hide locked options for non admins"
 msgstr "Nascondi le opzioni bloccate per i non amministratori"
 
-#: includes/admin/option_tabs/avia_element_templates.php:82
+#: includes/admin/option_tabs/avia_element_templates.php:81
 msgid "Show locked options to all users"
 msgstr "Mostra le opzioni bloccate a tutti gli utenti"
 
-#: includes/admin/option_tabs/avia_element_templates.php:88
+#: includes/admin/option_tabs/avia_element_templates.php:87
 msgid "Hide locked options"
 msgstr "Nascondi le opzioni bloccate"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_element_templates.php:89
+#: includes/admin/option_tabs/avia_element_templates.php:88
 msgid "Show locked options"
 msgstr "Mostra le opzioni bloccate"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_element_templates.php:95
+#: includes/admin/option_tabs/avia_element_templates.php:94
 msgid "Custom Elements Locked Options"
 msgstr "Elementi personalizzati Opzioni bloccate"
 
-#: includes/admin/option_tabs/avia_element_templates.php:96
+#: includes/admin/option_tabs/avia_element_templates.php:95
 msgid ""
 "To reduce size of modal popup window locked options and their values are "
 "hidden when using element templates. Select if you want to add a checkbox to "
@@ -34631,11 +34633,11 @@ msgstr ""
 "vuoi sempre aggiungere una casella di controllo alla scheda di "
 "personalizzazione per mostrarle quando si modifica un elemento."
 
-#: includes/admin/option_tabs/avia_element_templates.php:107
+#: includes/admin/option_tabs/avia_element_templates.php:106
 msgid "Checkbox To Show Locked Options"
 msgstr "Casella di controllo per mostrare le opzioni bloccate"
 
-#: includes/admin/option_tabs/avia_element_templates.php:108
+#: includes/admin/option_tabs/avia_element_templates.php:107
 msgid ""
 "Select if you want to show the locked options by default when opening the "
 "modal popup to edit an element."
@@ -34643,19 +34645,19 @@ msgstr ""
 "Seleziona se vuoi mostrare le opzioni bloccate per default quando apri il "
 "popup modale per modificare un elemento."
 
-#: includes/admin/option_tabs/avia_element_templates.php:117
+#: includes/admin/option_tabs/avia_element_templates.php:116
 msgid "Unchecked for all users"
 msgstr "Deselezionato per tutti gli utenti"
 
-#: includes/admin/option_tabs/avia_element_templates.php:118
+#: includes/admin/option_tabs/avia_element_templates.php:117
 msgid "Unchecked for non admins only"
 msgstr "Deselezionato solo per i non amministratori"
 
-#: includes/admin/option_tabs/avia_element_templates.php:119
+#: includes/admin/option_tabs/avia_element_templates.php:118
 msgid "Checked for all users"
 msgstr "Selezionato per tutti gli utenti"
 
-#: includes/admin/option_tabs/avia_element_templates.php:126
+#: includes/admin/option_tabs/avia_element_templates.php:125
 msgid ""
 "Contains options to extend the functionality - recommended for advanced "
 "users."
@@ -34664,11 +34666,11 @@ msgstr ""
 "avanzati."
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_element_templates.php:145
+#: includes/admin/option_tabs/avia_element_templates.php:144
 msgid "Custom Element Shortcode Buttons"
 msgstr "Pulsanti Shortcode di elementi personalizzati"
 
-#: includes/admin/option_tabs/avia_element_templates.php:146
+#: includes/admin/option_tabs/avia_element_templates.php:145
 msgid ""
 "Select if you want to show all your custom element shortcode buttons in a "
 "single tab or grouped like the ALB shortcode buttons, if more than one tab "
@@ -34678,20 +34680,20 @@ msgstr ""
 "personalizzati in una singola scheda o raggruppati come i pulsanti shortcode "
 "ALB, se più di una scheda contiene elementi."
 
-#: includes/admin/option_tabs/avia_element_templates.php:154
+#: includes/admin/option_tabs/avia_element_templates.php:153
 msgid "All buttons in a single tab"
 msgstr "Tutti i pulsanti in una sola scheda"
 
-#: includes/admin/option_tabs/avia_element_templates.php:155
+#: includes/admin/option_tabs/avia_element_templates.php:154
 msgid "Group buttons similar to ALB"
 msgstr "Pulsanti di gruppo simili a ALB"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_element_templates.php:161
+#: includes/admin/option_tabs/avia_element_templates.php:160
 msgid "Hierarchical Custom Elements"
 msgstr "Elementi personalizzati gerarchici"
 
-#: includes/admin/option_tabs/avia_element_templates.php:162
+#: includes/admin/option_tabs/avia_element_templates.php:161
 msgid ""
 "This allows you to use your custom elements as a base for another custom "
 "element."
@@ -34699,20 +34701,20 @@ msgstr ""
 "Questo ti permette di usare i tuoi elementi personalizzati come base per un "
 "altro elemento personalizzato."
 
-#: includes/admin/option_tabs/avia_element_templates.php:170
+#: includes/admin/option_tabs/avia_element_templates.php:169
 msgid "Do not allow hierarchical custom elements"
 msgstr "Non permettere elementi personalizzati gerarchici"
 
-#: includes/admin/option_tabs/avia_element_templates.php:171
+#: includes/admin/option_tabs/avia_element_templates.php:170
 msgid "Allow use of hierarchical custom elements"
 msgstr "Permettere l'uso di elementi personalizzati gerarchici"
 
 # @ avia_framework
-#: includes/admin/option_tabs/avia_element_templates.php:177
+#: includes/admin/option_tabs/avia_element_templates.php:176
 msgid "Custom Elements For Subitems"
 msgstr "Elementi personalizzati per sotto-voci"
 
-#: includes/admin/option_tabs/avia_element_templates.php:178
+#: includes/admin/option_tabs/avia_element_templates.php:177
 msgid ""
 "Select if you want all subitems of an element to use the same subitem "
 "element template or allow to select it individually for each subitem. The "
@@ -34726,21 +34728,21 @@ msgstr ""
 "Cambiare questa opzione non avrà alcun effetto sugli elementi esistenti in "
 "una pagina. Devi modificare questi elementi e salvare la pagina."
 
-#: includes/admin/option_tabs/avia_element_templates.php:186
+#: includes/admin/option_tabs/avia_element_templates.php:185
 msgid "All subitems use the same custom element template"
 msgstr "Tutte le sotto-voci usano lo stesso modello di elemento personalizzato"
 
-#: includes/admin/option_tabs/avia_element_templates.php:187
+#: includes/admin/option_tabs/avia_element_templates.php:186
 msgid "Individually select subitem custom element templates"
 msgstr ""
 "Seleziona individualmente i modelli di elementi personalizzati di sotto-voci"
 
-#: includes/admin/option_tabs/avia_element_templates.php:188
+#: includes/admin/option_tabs/avia_element_templates.php:187
 msgid "Do not allow to use subitem custom element templates"
 msgstr ""
 "Non permettere l'uso di sotto-voci dei modelli di elementi personalizzati"
 
-#: includes/admin/option_tabs/avia_element_templates.php:194
+#: includes/admin/option_tabs/avia_element_templates.php:193
 msgid ""
 "Select if you want to have access to the custom elements via the default WP "
 "CPT Screens. Links are added below theme options page link in dashboard and "
@@ -34753,7 +34755,7 @@ msgstr ""
 "amministrazione &quot;Nuovo&quot;. La visibilità dipende dalla capacità di "
 "gestire gli elementi personalizzati."
 
-#: includes/admin/option_tabs/avia_element_templates.php:196
+#: includes/admin/option_tabs/avia_element_templates.php:195
 msgid ""
 "It is not recommended to create/edit a CET from the CPT screen because of "
 "limited support for some option settings, e.g. the option &quot;All subitems "
@@ -34764,7 +34766,7 @@ msgstr ""
 "&quot;Tutte le sotto-voci usano lo stesso modello di elemento "
 "personalizzato&quot; non è supportata."
 
-#: includes/admin/option_tabs/avia_element_templates.php:198
+#: includes/admin/option_tabs/avia_element_templates.php:197
 msgid ""
 "After activating this feature you must reload backend to load the necessary "
 "menus to work with the CPT screens."
@@ -34772,15 +34774,15 @@ msgstr ""
 "Dopo aver attivato questa funzione è necessario ricaricare il backend per "
 "caricare i menu necessari per lavorare con le schermate CPT."
 
-#: includes/admin/option_tabs/avia_element_templates.php:203
+#: includes/admin/option_tabs/avia_element_templates.php:202
 msgid "Custom Post Type Screen (Developers Only)"
 msgstr "Schermata del tipo di post personalizzato (solo per sviluppatori)"
 
-#: includes/admin/option_tabs/avia_element_templates.php:212
+#: includes/admin/option_tabs/avia_element_templates.php:211
 msgid "Do not allow access to the screens"
 msgstr "Non permettere l'accesso agli schermi"
 
-#: includes/admin/option_tabs/avia_element_templates.php:213
+#: includes/admin/option_tabs/avia_element_templates.php:212
 msgid "Add links to open the CPT screens"
 msgstr "Aggiungere link per aprire le schermate CPT"
 
@@ -34904,47 +34906,38 @@ msgstr ""
 "pagina quando l'altezza del piè di pagina supera il limite selezionato."
 
 #: includes/admin/option_tabs/avia_footer.php:110
-#, no-php-format
 msgid "10% of viewport height"
 msgstr "10% dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:111
-#, no-php-format
 msgid "20% of viewport height"
 msgstr "20%  dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:112
-#, no-php-format
 msgid "30% of viewport height"
 msgstr "30%  dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:113
-#, no-php-format
 msgid "40% of viewport height"
 msgstr "40%  dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:114
-#, no-php-format
 msgid "50% of viewport height"
 msgstr "50%  dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:115
-#, no-php-format
 msgid "60% of viewport height"
 msgstr "60%  dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:116
-#, no-php-format
 msgid "70% of viewport height"
 msgstr "70%  dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:117
-#, no-php-format
 msgid "80% of viewport height (default)"
 msgstr "80% dell'altezza della finestra"
 
 #: includes/admin/option_tabs/avia_footer.php:118
-#, no-php-format
 msgid "90% of viewport height"
 msgstr "90% dell'altezza della finestra"
 
@@ -36966,14 +36959,14 @@ msgstr "Elimina vecchi file CSS e JS?"
 
 #: includes/admin/option_tabs/avia_performance.php:835
 msgid ""
-"Check if you want to delete expired CSS and JS files generated by the theme. "
-"Only recommended if you are NOT using a caching plugin (since a cached page "
-"might still use those files)"
+"Check if you want to delete expired merged and compressed CSS and JS files "
+"generated by the theme. Only recommended if you are NOT using a caching "
+"plugin (since a cached page might still use those files)"
 msgstr ""
-"Spuntare se vuoi eliminare i file CSS e JS scaduti generati dal tema. "
-"Consigliato solo se NON si utilizza un plug-in di memorizzazione nella cache "
+"Verifica se desideri eliminare i file CSS e JS compressi e uniti scaduti "
+"generati dal tema. Consigliato solo se NON utilizzi un plugin di cache "
 "(poiché una pagina memorizzata nella cache potrebbe ancora utilizzare tali "
-"file)"
+"file)."
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_seo.php:15
@@ -37690,6 +37683,7 @@ msgstr "dispositivi"
 
 # @ avia_framework
 #: includes/admin/option_tabs/avia_styling.php:549
+#: includes/admin/option_tabs/avia_upload.php:223
 msgid "Google Webkit Fonts"
 msgstr "Caratteri Google WebKit"
 
@@ -38220,37 +38214,33 @@ msgid "Insert Zip File"
 msgstr "Inserire zip file"
 
 #: includes/admin/option_tabs/avia_upload.php:223
-msgid ""
-"You can upload your custom type font zip files. Intended for <a "
-"href=\"https://fonts.google.com/\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">Google Webkit Fonts</a>."
+#, php-format
+msgid "You can upload your custom type font zip files. Intended for %s."
 msgstr ""
-"È possibile caricare i file Font zip personalizzati. Destinato a <a "
-"href='https://fonts.google.com/' target='_blank' rel='noopener "
-"noreferrer'>Google Webkit Fonts</a>."
+"È possibile caricare i propri file zip con font personalizzati. Destinato a "
+"%s."
 
 #: includes/admin/option_tabs/avia_upload.php:224
+#, php-format
 msgid ""
-"Variable fonts can be uploaded, but currently only <a href=\"https://"
-"fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">named instances</a> are supported by default."
+"Variable fonts can be uploaded, but currently only %s are supported by "
+"default."
 msgstr ""
-"È possibile caricare font variabili, ma attualmente solo <a href=\"https://"
-"fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">istanze con nome</a> sono supportate per "
-"impostazione predefinita."
+"È possibile caricare font variabili, ma attualmente solo %s sono supportati "
+"di default."
+
+#: includes/admin/option_tabs/avia_upload.php:224
+msgid "named instances"
+msgstr "istanze denominate"
 
 #: includes/admin/option_tabs/avia_upload.php:225
+#, php-format
 msgid ""
-"Please read our <a href=\"https://kriesi.at/documentation/enfold/typography/"
-"#using-variable-fonts\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">documentation</a> how to create the zip files and a fallback "
+"Please read our %s to learn how to create the zip files and a fallback "
 "scenario."
 msgstr ""
-"Leggete la nostra <a href=\"https://kriesi.at/documentation/enfold/"
-"typography/#using-variable-fonts\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">documentazione</a> su come creare i file zip e uno scenario di "
-"ripiego."
+"Leggi il nostro %s per imparare come creare i file zip e uno scenario di "
+"fallback."
 
 #: includes/admin/option_tabs/avia_upload.php:226
 msgid ""
@@ -38442,14 +38432,13 @@ msgstr ""
 "tuo server."
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:15
-msgid ""
-"Check <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> for more "
-"information about this library."
-msgstr ""
-"Controlla <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" "
-"rel=\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> per "
-"maggiori informazioni su questa libreria."
+#, php-format
+msgid "Check %s for more information about this library."
+msgstr "Controlla %s per ulteriori informazioni su questa libreria."
+
+#: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:15
+msgid "Leaflet Javascript Library Homepage"
+msgstr "Homepage della libreria Javascript Leaflet"
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:16
 msgid ""
@@ -38459,20 +38448,21 @@ msgstr ""
 "esterni."
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:17
-msgid ""
-"Here you find information about <a href=\"https://wiki.osmfoundation.org/"
-"wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">OpenStreetMap Privacy Policy</a>."
-msgstr ""
-"Qui trovi informazioni su <a href=\"https://wiki.osmfoundation.org/wiki/"
-"Privacy_Policy\" target=\"_blank\" rel=\"noopener noreferrer\">OpenStreetMap "
-"Privacy Policy</a>."
+#, php-format
+msgid "Here you find information about the %s."
+msgstr "Qui trovi informazioni su %s."
+
+#: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:17
+msgid "OpenStreetMap Privacy Policy"
+msgstr "Informativa sulla privacy di OpenStreetMap"
 
 #: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:18
-msgid ""
-"It is even possible to <a href=\"https://openmaptiles.org/\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">host your own OpenStreetMap "
-"Tiles</a>."
+#, php-format
+msgid "It is even possible to %s."
+msgstr "È anche possibile %s."
+
+#: includes/admin/option_tabs/extensions/avia_ext_leaflet_maps.php:18
+msgid "host your own OpenStreetMap Tiles"
 msgstr ""
 "È anche possibile <a href=\"https://openmaptiles.org/\" target=\"_blank\" "
 "rel=\"noopener noreferrer\">ospitare le proprie OpenStreetMap Tiles</a>."
@@ -40369,7 +40359,7 @@ msgid "Visit us on Yelp"
 msgstr "Venite a trovarci su Yelp"
 
 #: includes/classes/class-social-media-icons.php:869
-#: includes/config-enfold/functions-enfold.php:860
+#: includes/config-enfold/functions-enfold.php:871
 msgid "Link to"
 msgstr "Collegamento a"
 
@@ -40441,33 +40431,33 @@ msgid "Click to open the search input field"
 msgstr "Fare clic per aprire il campo di ricerca"
 
 # @ avia_framework
-#: includes/config-enfold/functions-enfold.php:307 includes/loop-author.php:281
+#: includes/config-enfold/functions-enfold.php:318 includes/loop-author.php:281
 #: includes/loop-index.php:701
 msgid "Sorry, no posts matched your criteria"
 msgstr "Spiacente, nessun articolo corrisponde  ai tuoi criteri"
 
 # @ avia_framework
-#: includes/config-enfold/functions-enfold.php:308
+#: includes/config-enfold/functions-enfold.php:319
 msgid "Please try another search term"
 msgstr "Prova con un altro termine di ricerca"
 
 # @ avia_framework
-#: includes/config-enfold/functions-enfold.php:312
+#: includes/config-enfold/functions-enfold.php:323
 msgid "View all results"
 msgstr "Mostrare tutti i risultati"
 
 # @ avia_framework
-#: includes/config-enfold/functions-enfold.php:572
+#: includes/config-enfold/functions-enfold.php:583
 #: includes/helpers/helper-post-format.php:83 template-archives.php:78
 msgid "Permanent Link:"
 msgstr "Link Permanente:"
 
-#: includes/config-enfold/functions-enfold.php:706
+#: includes/config-enfold/functions-enfold.php:717
 msgid "Return values handling has changed"
 msgstr "La gestione dei valori restituiti è cambiata"
 
 # @ avia_framework
-#: includes/config-enfold/functions-enfold.php:1886
+#: includes/config-enfold/functions-enfold.php:1897
 msgid "Menu Style"
 msgstr "Stile Menu"
 
@@ -40788,6 +40778,95 @@ msgstr "Mensile"
 #: template-archives.php:209
 msgid "Archives by Month:"
 msgstr "Archivio per mese:"
+
+#, php-format
+#~ msgid ""
+#~ "Warning: Characters %s might break ALB backend or frontend. <a "
+#~ "href=\"https://kriesi.at/documentation/enfold/intro-to-layout-builder/"
+#~ "#using-special-characters\" target=\"_blank\" rel=\"noopener "
+#~ "noreferrer\">Read more</a> if you want to use them. You can use valid "
+#~ "HTML markup."
+#~ msgstr ""
+#~ "Attenzione: I caratteri %s potrebbero interrompere il backend o il "
+#~ "frontend di ALB. <a href=\"https://kriesi.at/documentation/enfold/intro-"
+#~ "to-layout-builder/#using-special-characters\" target=\"_blank\" "
+#~ "rel=\"noopener noreferrer\">Leggi di più</a> se vuoi usarli. Puoi usare "
+#~ "un markup HTML valido."
+
+#~ msgid ""
+#~ "This site is protected by reCAPTCHA and the Google <a href=\"https://"
+#~ "policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://"
+#~ "policies.google.com/terms\">Terms of Service</a> apply."
+#~ msgstr ""
+#~ "Questo sito è protetto da reCAPTCHA e si applicano i termini di servizio "
+#~ "di Google <a href=\"https://policies.google.com/privacy\">Privacy Policy</"
+#~ "a> e <a href=\"https://policies.google.com/terms\">Termini di servizio</"
+#~ "a>."
+
+#~ msgid ""
+#~ "Advanced Users can have <a href=\"https://kriesi.at/documentation/enfold/"
+#~ "custom-element-templates/#custom-elements-advanced-options\" "
+#~ "target=\"_blank\" rel=\"noopener noreferrer\"> more options.</a>"
+#~ msgstr ""
+#~ "Gli utenti esperti possono avere <a href=\"https://kriesi.at/"
+#~ "documentation/enfold/custom-element-templates/#custom-elements-advanced-"
+#~ "options\" target=\"_blank\" rel=\"noopener noreferrer\"> più opzioni.</a>"
+
+#~ msgid ""
+#~ "You can upload your custom type font zip files. Intended for <a "
+#~ "href=\"https://fonts.google.com/\" target=\"_blank\" rel=\"noopener "
+#~ "noreferrer\">Google Webkit Fonts</a>."
+#~ msgstr ""
+#~ "È possibile caricare i file Font zip personalizzati. Destinato a <a "
+#~ "href='https://fonts.google.com/' target='_blank' rel='noopener "
+#~ "noreferrer'>Google Webkit Fonts</a>."
+
+#~ msgid ""
+#~ "Variable fonts can be uploaded, but currently only <a href=\"https://"
+#~ "fonts.google.com/knowledge/glossary/instance/\" target=\"_blank\" "
+#~ "rel=\"noopener noreferrer\">named instances</a> are supported by default."
+#~ msgstr ""
+#~ "È possibile caricare font variabili, ma attualmente solo <a "
+#~ "href=\"https://fonts.google.com/knowledge/glossary/instance/\" "
+#~ "target=\"_blank\" rel=\"noopener noreferrer\">istanze con nome</a> sono "
+#~ "supportate per impostazione predefinita."
+
+#~ msgid ""
+#~ "Please read our <a href=\"https://kriesi.at/documentation/enfold/"
+#~ "typography/#using-variable-fonts\" target=\"_blank\" rel=\"noopener "
+#~ "noreferrer\">documentation</a> how to create the zip files and a fallback "
+#~ "scenario."
+#~ msgstr ""
+#~ "Leggete la nostra <a href=\"https://kriesi.at/documentation/enfold/"
+#~ "typography/#using-variable-fonts\" target=\"_blank\" rel=\"noopener "
+#~ "noreferrer\">documentazione</a> su come creare i file zip e uno scenario "
+#~ "di ripiego."
+
+#~ msgid ""
+#~ "Check <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" "
+#~ "rel=\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> for "
+#~ "more information about this library."
+#~ msgstr ""
+#~ "Controlla <a href=\"https://leafletjs.com/index.html\" target=\"_blank\" "
+#~ "rel=\"noopener noreferrer\">Leaflet Javascript Library Homepage</a> per "
+#~ "maggiori informazioni su questa libreria."
+
+#~ msgid ""
+#~ "Here you find information about <a href=\"https://wiki.osmfoundation.org/"
+#~ "wiki/Privacy_Policy\" target=\"_blank\" rel=\"noopener "
+#~ "noreferrer\">OpenStreetMap Privacy Policy</a>."
+#~ msgstr ""
+#~ "Qui trovi informazioni su <a href=\"https://wiki.osmfoundation.org/wiki/"
+#~ "Privacy_Policy\" target=\"_blank\" rel=\"noopener "
+#~ "noreferrer\">OpenStreetMap Privacy Policy</a>."
+
+#~ msgid ""
+#~ "It is even possible to <a href=\"https://openmaptiles.org/\" "
+#~ "target=\"_blank\" rel=\"noopener noreferrer\">host your own OpenStreetMap "
+#~ "Tiles</a>."
+#~ msgstr ""
+#~ "È anche possibile <a href=\"https://openmaptiles.org/\" target=\"_blank\" "
+#~ "rel=\"noopener noreferrer\">ospitare le proprie OpenStreetMap Tiles</a>."
 
 #, php-format
 #~ msgid ""

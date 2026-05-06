@@ -1,3 +1,8 @@
+
+2026_05_06
+- Croatian language files hr (version 7.1.4, provided by NUIT d.o.o. - info@nuit.hr )
+- Italian language files it_IT (version 7.1.4, provided by BigBatT - info@luigicircello.it)
+
 2025_11_25
 - German language file de_DE_formal (provided by Paul Vogel - kriesi.at@paulvogel.me)
 - German language file de_DE (provided by Paul Vogel - kriesi.at@paulvogel.me)
