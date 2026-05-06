@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-22 13:40+0300\n"
-"PO-Revision-Date: 2025-11-27 10:40+0000\n"
+"PO-Revision-Date: 2026-05-06 12:52+0000\n"
 "Last-Translator: \n"
 "Language-Team: German (Formal)\n"
 "Language: de_DE_formal\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,1513,-1,-1\n"
 "X-Textdomain-Support: yes\n"
-"X-Loco-Version: 2.6.7; wp-6.5.3\n"
+"X-Loco-Version: 2.8.4; wp-6.9.4; php-8.5.5\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: config-templatebuilder/avia-template-builder/php/class-generic-helper.php:667
@@ -926,7 +926,7 @@ msgid ""
 "[av_privacy_custom_cookie cookie_name=\"\"]Your text "
 "here[/av_privacy_custom_cookie] "
 msgstr ""
-"[av_privacy_custom_cookie cookie_name = \"\"] Dein Text hier [/ "
+"[av_privacy_custom_cookie cookie_name = \"\"] Ihr Text hier [/ "
 "av_privacy_custom_cookie]"
 
 #: includes/admin/option_tabs/extensions/avia_ext_accessibility.php:47
@@ -1013,7 +1013,7 @@ msgstr ""
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:697
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:718
 msgid "A list of all supported Video Services can be found on"
-msgstr "Eine Liste aller unterstützten Video-Dienste findest Du auf"
+msgstr "Eine Liste aller unterstützten Video-Dienste finden Sie auf"
 
 #: framework/php/class-grecaptcha.php:333
 msgid ""
@@ -7020,7 +7020,7 @@ msgstr "Code-Block"
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:153
 msgid "Code Block Content. Add your own HTML/CSS/Javascript here"
 msgstr ""
-"Code Block Inhalt. Füge dein eigenes HTML / CSS / Javascript hier hinzu"
+"Code Block Inhalt. Fügen Sie Ihr eigenes HTML / CSS / Javascript hier ein"
 
 #: config-templatebuilder/avia-shortcodes/codeblock/codeblock.php:162
 msgid "Code Wrapper Element"
@@ -16595,8 +16595,8 @@ msgid ""
 "If you place your mouse above the insert button a short info tooltip will "
 "appear"
 msgstr ""
-"Platziere die Maus über den Button-Elementen und Dir werden weitere "
-"Informationen in einem Info-Tooltip angezeigt."
+"Wenn Sie mit der Maus über die Einfügen-Schaltfläche fahren, erscheint ein "
+"kurzer Info-Tooltip."
 
 #: config-templatebuilder/avia-template-builder/php/class-popup-templates.php:3085
 msgid ""
@@ -18974,8 +18974,8 @@ msgid ""
 "Look up problems concerning the shortcode structure of this page/post that "
 "might break your frontend layout."
 msgstr ""
-"Suche nach Problemen bezüglich der Shortcode-Struktur dieser Seite / Post, "
-"die dein Frontend-Layout beschädigen könnte."
+"Suchen Sie nach Problemen bezüglich der Shortcode-Struktur dieser Seite / "
+"dieses Beitrags, die Ihr Frontend-Layout beschädigen könnten."
 
 #: config-events-calendar/config.php:257
 msgid ""
@@ -32406,8 +32406,8 @@ msgid ""
 "Use a custom Image as marker. (make sure that you use a square image, "
 "otherwise it will be cropped)"
 msgstr ""
-"Verwende ein eigenes Bild als Kartenmarker. (Versichere dich, dass das Bild "
-"ein Quadrat ist, ansonsten wird das Bild beschnitten)"
+"Verwende ein eigenes Bild als Kartenmarker. (Stellen Sie sicher, dass das "
+"Bild ein Quadrat ist, ansonsten wird das Bild beschnitten)"
 
 #: config-templatebuilder/avia-shortcodes/leaflet_maps/leaflet_maps.php:682
 msgid "Use a custom link"
@@ -33960,9 +33960,9 @@ msgid ""
 "single entry, open a preview (aka AJAX Portfolio) or show a bigger version "
 "of the image in a lightbox overlay"
 msgstr ""
-"Dir stehen mehrere Optionen zur Auswahl: Ein Link zum einzelnen Eintrag, das "
-"Öffnen einer Vorschau (auch bekannt als AJAX Portfolio) oder die Darstellung "
-"einer größeren Bildversion innerhalb einer Lightbox."
+"Ihnen stehen mehrere Optionen zur Auswahl: Ein Link zum einzelnen Eintrag, "
+"das Öffnen einer Vorschau (auch bekannt als AJAX Portfolio) oder die "
+"Darstellung einer größeren Bildversion innerhalb einer Lightbox."
 
 #: config-templatebuilder/avia-template-builder/php/class-element-templates.php:3367
 msgid ""
@@ -34932,7 +34932,7 @@ msgid ""
 "You can either choose a predefined layout or build your own blog layout with "
 "the advanced layout editor"
 msgstr ""
-"Sie können entweder ein vordefiniertes Layout auswählen oder dein eigenes "
+"Sie können entweder ein vordefiniertes Layout auswählen oder Ihr eigenes "
 "Blog-Layout mit dem Layout-Architekt erstellen"
 
 #: config-templatebuilder/avia-shortcodes/google_maps/google_maps.php:324
@@ -35135,7 +35135,7 @@ msgstr ""
 
 #: includes/related-posts.php:89
 msgid "You might also like"
-msgstr "Das könnte Dich auch interessieren"
+msgstr "Das könnte Sie auch interessieren"
 
 #: config-templatebuilder/avia-shortcode-legacy/av-helper-mailchimp.php:423
 #: config-templatebuilder/avia-shortcode-helpers/class-avia-mailchimp-api.php:490
